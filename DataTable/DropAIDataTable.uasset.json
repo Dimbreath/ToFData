@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DropAIDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct DropAIConfigData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Test": {
+        "DropAIWeights": [
+          {
+            "DropAIEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Resources/CoreBlueprints/Character/animal/ani_rabit/ani_rabit_001.ani_rabit_001_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "LevelOverride": 0
+              },
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Monster/MonsterCharacterBP_Base.MonsterCharacterBP_Base_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "LevelOverride": 0
+              }
+            ],
+            "Weight": 1.0
+          },
+          {
+            "DropAIEntries": [],
+            "Weight": 999.0
+          }
+        ]
+      },
+      "shrub": {
+        "DropAIWeights": [
+          {
+            "DropAIEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Resources/CoreBlueprints/Character/animal/ani_rabit/ani_rabit_001.ani_rabit_001_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "LevelOverride": 0
+              }
+            ],
+            "Weight": 1.0
+          },
+          {
+            "DropAIEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "/Game/Resources/CoreBlueprints/Character/animal/ani_scorpion/ani_scorpion.ani_scorpion_C",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "LevelOverride": 0
+              }
+            ],
+            "Weight": 1.0
+          },
+          {
+            "DropAIEntries": [
+              {
+                "AITemplate": {
+                  "AssetPathName": "None",
+                  "SubPathString": ""
+                },
+                "Count": 1,
+                "LevelOverride": 0
+              }
+            ],
+            "Weight": 998.0
+          }
+        ]
+      }
+    }
+  }
+]

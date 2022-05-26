@@ -1,0 +1,77 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PlayerSkillMontageDataTable_24",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PlayerSkillMontageData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "GA_FPlayerDartsMelee": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsMeleeNew_Xi.FPlayerDartsMeleeNew_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsEvade": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsEvade_Xi.FPlayerDartsEvade_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsSkill": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsSkill_Xi.FPlayerDartsSkill_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsEvade_Attack": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsEvadeAttack_Xi.FPlayerDartsEvadeAttack_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsSneak": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsSneak_Xi.FPlayerDartsSneak_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsChangeSkill_New": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsChangeSkill_New_Xi.FPlayerDartsChangeSkill_New_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsSkill_Level1": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsSkill_Xi.FPlayerDartsSkill_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsSkill_Level6": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Darts/X/FPlayerDartsSkill_Xi.FPlayerDartsSkill_Xi",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerDartsChangeSkill_Start": {
+        "MontageToPlay": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      }
+    }
+  }
+]

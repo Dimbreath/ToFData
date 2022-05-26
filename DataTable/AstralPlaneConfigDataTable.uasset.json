@@ -1,0 +1,2366 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "AstralPlaneConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct AstralPlaneConfig",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "AstralPlane_L1_1_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_1_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_1",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_2_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_2_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_2",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_3_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_3_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_3",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_4_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_4_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_4",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_5_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_5_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_5",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_6_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_6_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_6",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_7_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_7_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_7",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_8_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_8_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_8",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_9_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_9_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_9",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_10_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_10_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_10",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_11_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_11_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_11",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_12_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_12_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_12",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_13_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_13_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_13",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_14_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_14_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_14",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_15_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_15_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_15",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L1_16_LD": {
+        "LevelDifficulty": 1,
+        "LevelName": "AstralPlane_L1_16_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_1_16",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail1"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_1_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_1_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_1",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_2_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_2_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_2",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_3_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_3_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_3",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_4_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_4_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_4",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_5_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_5_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_5",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_6_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_6_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_6",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_7_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_7_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_7",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_8_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_8_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_8",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_9_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_9_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_9",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_10_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_10_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_10",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_11_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_11_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_11",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_12_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_12_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_12",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_13_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_13_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_13",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_14_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_14_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_14",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_15_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_15_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_15",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L2_16_LD": {
+        "LevelDifficulty": 2,
+        "LevelName": "AstralPlane_L2_16_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_2_16",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail2"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_1_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_1_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_1",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_2_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_2_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_2",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_3_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_3_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_3",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_4_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_4_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_4",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_5_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_5_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_5",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_6_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_6_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_6",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_7_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_7_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_7",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_8_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_8_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_8",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_9_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_9_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_9",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_10_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_10_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_10",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_11_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_11_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_11",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_12_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_12_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_12",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_13_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_13_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_13",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_14_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_14_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_14",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_15_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_15_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_15",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane_L3_16_LD": {
+        "LevelDifficulty": 3,
+        "LevelName": "AstralPlane_L3_16_LD",
+        "WaveNumber": 3,
+        "LeftTime": {
+          "Ticks": 0
+        },
+        "RandomChance": 0.013333333,
+        "RandomLevelWorlds": [
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden1_LD.AstralPlane_Hidden1_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden2_LD.AstralPlane_Hidden2_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden3_LD.AstralPlane_Hidden3_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          },
+          {
+            "LevelWorld": {
+              "AssetPathName": "/Game/Resources/FB/AstralPlane/APHiddenLevel/AstralPlane_Hidden4_LD.AstralPlane_Hidden4_LD",
+              "SubPathString": ""
+            },
+            "RandomRewards": "Drop_xingjie_yc"
+          }
+        ],
+        "WavesRewards": [],
+        "FinalRewards": "xingjie_3_16",
+        "TipDetail": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_MinigameNPC.ST_MinigameNPC",
+          "Key": "AstralPlane_TipsDetail3"
+        },
+        "BackgroundImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

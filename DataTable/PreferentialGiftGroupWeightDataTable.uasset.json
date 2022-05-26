@@ -1,0 +1,30 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PreferentialGiftGroupWeightDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PreferentialGiftGroupWeightRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GroupID": "1",
+        "Weight": 2400
+      },
+      "2": {
+        "GroupID": "2",
+        "Weight": 1900
+      },
+      "3": {
+        "GroupID": "3",
+        "Weight": 900
+      },
+      "4": {
+        "GroupID": "4",
+        "Weight": 130
+      }
+    }
+  }
+]

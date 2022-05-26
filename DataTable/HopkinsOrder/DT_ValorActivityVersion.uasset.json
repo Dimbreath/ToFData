@@ -1,0 +1,74 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ValorActivityVersion",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct ValorActivityVersionCfg",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "2001": {
+        "GeneralBossClass": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Monster/Boss_hum_014/Boss_hum_014_world.Boss_hum_014_world_C",
+          "SubPathString": ""
+        },
+        "ActivityBossClass": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Monster/Boss_hum_014/Boss_hum_014_world_activity.Boss_hum_014_world_activity_C",
+          "SubPathString": ""
+        },
+        "BoosDesc": {
+          "Namespace": "",
+          "Key": "9CCA528E497A1895F4550596A722B67B",
+          "SourceString": "The world boss <blue>Apophis</> in Banges has been \"<red>activated</>\" and its HP is greatly increased. The safety of the shelters nearby is in jeopardy. All able-bodied Wanderers, please find and eliminate this colossal threat. While \"<red>activated</>,\" <blue>Apophis</> will not regain HP outside of battle, and its boss chest will contain a large amount of <orange>Activation Core I</>."
+        },
+        "BossLocation": {
+          "X": -46420.85,
+          "Y": 461.89868,
+          "Z": -2844.8523
+        },
+        "BossBtnImg": {
+          "AssetPathName": "/Game/Resources/UI/Activity/ThemeActivity/gulanhuodong/huodong3.huodong3",
+          "SubPathString": ""
+        },
+        "ShopName": "AwardShop_Bravemen_Stage1",
+        "ActivityDesc2": {
+          "Namespace": "",
+          "Key": "0589547A4955D85BBE1DBAA305E12C48",
+          "SourceString": "Heirs of Aida enemies will drop <orange>Activation Core I</>, which can be exchanged in the Event Store for bountiful rewards."
+        }
+      },
+      "3001": {
+        "GeneralBossClass": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Monster/Boss_hum_017/Boss_hum_017_world.Boss_hum_017_world_C",
+          "SubPathString": ""
+        },
+        "ActivityBossClass": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Monster/Boss_hum_017/Boss_hum_017_world_activity.Boss_hum_017_world_activity_C",
+          "SubPathString": ""
+        },
+        "BoosDesc": {
+          "Namespace": "",
+          "Key": "208BB25A494ED0A77E1579A6E6F5A9C3",
+          "SourceString": "The world boss <blue>Frost Bot</> in Navia has been \"<red>activated</>\" and its HP is greatly increased. The safety of the shelters nearby is in jeopardy. All able-bodied Wanderers, please find and eliminate this colossal threat. While \"<red>activated</>,\" <blue>Frost Bot</> will not regain HP outside of battle, and its boss chest will contain a large amount of <orange>Activation Core II</>."
+        },
+        "BossLocation": {
+          "X": -59598.89,
+          "Y": -55158.85,
+          "Z": -15132.061
+        },
+        "BossBtnImg": {
+          "AssetPathName": "/Game/Resources/UI/Activity/ThemeActivity/gulanhuodong/huodong6.huodong6",
+          "SubPathString": ""
+        },
+        "ShopName": "AwardShop_Bravemen_Stage2",
+        "ActivityDesc2": {
+          "Namespace": "",
+          "Key": "8E33DC814630473B620E638382529A80",
+          "SourceString": "Ravager enemies will drop <orange>Activation Core II</>, which can be exchanged in the Event Store for bountiful rewards."
+        }
+      }
+    }
+  }
+]

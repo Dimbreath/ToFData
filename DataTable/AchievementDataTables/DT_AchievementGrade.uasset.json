@@ -1,0 +1,484 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_AchievementGrade",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct QRSLAchievementGradeInfo",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Grade": 1,
+        "Score": 250,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "731BAF0044706844EF424BA1F06876B3",
+          "SourceString": "Wanderer"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_1.chengjiuming_1",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon1.chengjiu_icon1",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon1.chengjiu_icon1",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Grade": 2,
+        "Score": 500,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "CA4978FD4F1ECC968D958298CDDC9631",
+          "SourceString": "Homesteader"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_2.chengjiuming_2",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon2.chengjiu_icon2",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon2.chengjiu_icon2",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Grade": 3,
+        "Score": 750,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "0F1B4A8449B74CF35386F1A37DFC8728",
+          "SourceString": "Logger"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_3.chengjiuming_3",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon3.chengjiu_icon3",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon3.chengjiu_icon3",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Grade": 4,
+        "Score": 1000,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "1A217C344BA0CDB64A4572B7F993CF6E",
+          "SourceString": "Patroller"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_4.chengjiuming_4",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon4.chengjiu_icon4",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon4.chengjiu_icon4",
+          "SubPathString": ""
+        }
+      },
+      "5": {
+        "Grade": 5,
+        "Score": 1250,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "7934F8F741286749F8BDC9855726AAF8",
+          "SourceString": "Guard Captain"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_5.chengjiuming_5",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon5.chengjiu_icon5",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon5.chengjiu_icon5",
+          "SubPathString": ""
+        }
+      },
+      "6": {
+        "Grade": 6,
+        "Score": 1500,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "F82790C840584093310E13B1B6C09E61",
+          "SourceString": "Exploration Elite"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_6.chengjiuming_6",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon6.chengjiu_icon6",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon6.chengjiu_icon6",
+          "SubPathString": ""
+        }
+      },
+      "7": {
+        "Grade": 7,
+        "Score": 1750,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "D99737E1464010EDE91EBFA4B990B3D3",
+          "SourceString": "Survival Master"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_7.chengjiuming_7",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon7.chengjiu_icon7",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon7.chengjiu_icon7",
+          "SubPathString": ""
+        }
+      },
+      "8": {
+        "Grade": 8,
+        "Score": 2000,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "F5CA51F24BC464D2DB16B5AF76274222",
+          "SourceString": "Curator"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_8.chengjiuming_8",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon8.chengjiu_icon8",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon8.chengjiu_icon8",
+          "SubPathString": ""
+        }
+      },
+      "9": {
+        "Grade": 9,
+        "Score": 2250,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "579D01164FE3AAAECA3055A24CA9DAC1",
+          "SourceString": "Savant"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_9.chengjiuming_9",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon9.chengjiu_icon9",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon9.chengjiu_icon9",
+          "SubPathString": ""
+        }
+      },
+      "10": {
+        "Grade": 10,
+        "Score": 2600,
+        "AwardInfo": [
+          {
+            "ItemID": "item_gem_003",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_ticket_01",
+            "Amount": 5,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_PermanentEnergy_2",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "GradeName": {
+          "Namespace": "",
+          "Key": "18F473B343CC901B2980479BDBF28201",
+          "SourceString": "All-Knowing"
+        },
+        "GradeTitlePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiuming_10.chengjiuming_10",
+          "SubPathString": ""
+        },
+        "GradePicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon10.chengjiu_icon10",
+          "SubPathString": ""
+        },
+        "GradeUnlockPicture": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon10.chengjiu_icon10",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,4644 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "ArtifactAdvanceAttributeDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct ArtifactAdvanceAttributeDataTable",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1002": {
+        "AttributeID": "artifact_adv_030",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_001/SC3/GA_Artifact_SSR_001SC3.GA_Artifact_SSR_001SC3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_001_Level2_des"
+        }
+      },
+      "1004": {
+        "AttributeID": "artifact_adv_030",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_001/SC4/GA_Artifact_SSR_001SC4.GA_Artifact_SSR_001SC4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_001_Level4_des"
+        }
+      },
+      "1005": {
+        "AttributeID": "artifact_adv_030",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_001/SC5/GA_Artifact_SSR_001SC5.GA_Artifact_SSR_001SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_001_Level5_des"
+        }
+      },
+      "1006": {
+        "AttributeID": "artifact_adv_030",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_001/SC5/GA_Artifact_SSR_001SC5.GA_Artifact_SSR_001SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BePhyDown20.Artifact_BePhyDown20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BePhyDown15"
+        }
+      },
+      "1007": {
+        "AttributeID": "artifact_adv_030",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_001/SC7/GA_Artifact_SSR_001SC7.GA_Artifact_SSR_001SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_001_Level7_des"
+        }
+      },
+      "1008": {
+        "AttributeID": "artifact_adv_029",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_002/SC2/GA_Artifact_SSR_002SC2.GA_Artifact_SSR_002SC2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_002_Level1_des"
+        }
+      },
+      "1011": {
+        "AttributeID": "artifact_adv_029",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_002/SC4/GA_Artifact_SSR_002SC4.GA_Artifact_SSR_002SC4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_002_Level4_des"
+        }
+      },
+      "1012": {
+        "AttributeID": "artifact_adv_029",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_002/SC5/GA_Artifact_SSR_002SC5.GA_Artifact_SSR_002SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_002_Level5_des"
+        }
+      },
+      "1013": {
+        "AttributeID": "artifact_adv_029",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_002/SC5/GA_Artifact_SSR_002SC5.GA_Artifact_SSR_002SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeIceDown20.Artifact_BeIceDown20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BeiceDown15"
+        }
+      },
+      "1014": {
+        "AttributeID": "artifact_adv_029",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_002/SC7/GA_Artifact_SSR_002SC7.GA_Artifact_SSR_002SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_002_Level7_des"
+        }
+      },
+      "1015": {
+        "AttributeID": "artifact_adv_028",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_1.Artifact_SSR_003_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1016": {
+        "AttributeID": "artifact_adv_028",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_2.Artifact_SSR_003_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1017": {
+        "AttributeID": "artifact_adv_028",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_003New/SC1/GA_FPlayer_Artifact_SSR_003SC1New.GA_FPlayer_Artifact_SSR_003SC1New_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1018": {
+        "AttributeID": "artifact_adv_028",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_4.Artifact_SSR_003_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1019": {
+        "AttributeID": "artifact_adv_028",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_5.Artifact_SSR_003_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1020": {
+        "AttributeID": "artifact_adv_028",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_6.Artifact_SSR_003_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1021": {
+        "AttributeID": "artifact_adv_028",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_003New/SC2/GA_FPlayer_Artifact_SSR_003SC2New.GA_FPlayer_Artifact_SSR_003SC2New_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1022": {
+        "AttributeID": "artifact_adv_027",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_004/SC2/GA_Artifact_SSR_004SC2.GA_Artifact_SSR_004SC2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_004_Level1_des"
+        }
+      },
+      "1023": {
+        "AttributeID": "artifact_adv_027",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_004/SC3/GA_Artifact_SSR_004SC3.GA_Artifact_SSR_004SC3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_004_Level2_des"
+        }
+      },
+      "1026": {
+        "AttributeID": "artifact_adv_027",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_004/SC5/GA_Artifact_SSR_004SC5.GA_Artifact_SSR_004SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_004_Level5_des"
+        }
+      },
+      "1027": {
+        "AttributeID": "artifact_adv_027",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_004/SC5/GA_Artifact_SSR_004SC5.GA_Artifact_SSR_004SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp20.Artifact_FireUp20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_FireUp30"
+        }
+      },
+      "1028": {
+        "AttributeID": "artifact_adv_027",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_004/SC7/GA_Artifact_SSR_004SC7.GA_Artifact_SSR_004SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_004_Level7_des"
+        }
+      },
+      "1029": {
+        "AttributeID": "artifact_adv_026",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_005/SC2/GA_Artifact_SSR_005SC2.GA_Artifact_SSR_005SC2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_005_Level1_des"
+        }
+      },
+      "1030": {
+        "AttributeID": "artifact_adv_026",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_005/SC3/GA_Artifact_SSR_005SC3.GA_Artifact_SSR_005SC3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_005_Level2_des"
+        }
+      },
+      "1032": {
+        "AttributeID": "artifact_adv_026",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_005/SC4/GA_Artifact_SSR_005SC4.GA_Artifact_SSR_005SC4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_005_Level4_des"
+        }
+      },
+      "1034": {
+        "AttributeID": "artifact_adv_026",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_005/SC5/GA_Artifact_SSR_005SC5.GA_Artifact_SSR_005SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeFireDown20.Artifact_BeFireDown20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BefireDown15"
+        }
+      },
+      "1035": {
+        "AttributeID": "artifact_adv_026",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_005/SC7/GA_Artifact_SSR_005SC7.GA_Artifact_SSR_005SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_005_Level7_des"
+        }
+      },
+      "1036": {
+        "AttributeID": "artifact_adv_025",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_006/Level2/GA_Artifact_SSR_006_Level2.GA_Artifact_SSR_006_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_006_Level1_des"
+        }
+      },
+      "1037": {
+        "AttributeID": "artifact_adv_025",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_006/Level3/GA_Artifact_SSR_006_Level3.GA_Artifact_SSR_006_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_006_Level2_des"
+        }
+      },
+      "1039": {
+        "AttributeID": "artifact_adv_025",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_006/Level4/GA_Artifact_SSR_006_Level4.GA_Artifact_SSR_006_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_006_Level4_des"
+        }
+      },
+      "1041": {
+        "AttributeID": "artifact_adv_025",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_006/Level5/GA_Artifact_SSR_006_Level5.GA_Artifact_SSR_006_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_PhyUp20.Artifact_PhyUp20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_PhyUp30"
+        }
+      },
+      "1042": {
+        "AttributeID": "artifact_adv_025",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_006/Level7/GA_Artifact_SSR_006_Level7.GA_Artifact_SSR_006_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_006_Level7_des"
+        }
+      },
+      "1043": {
+        "AttributeID": "artifact_adv_024",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_1.Artifact_SSR_007_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1044": {
+        "AttributeID": "artifact_adv_024",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_2.Artifact_SSR_007_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1045": {
+        "AttributeID": "artifact_adv_024",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_3.Artifact_SSR_007_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1046": {
+        "AttributeID": "artifact_adv_024",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_4.Artifact_SSR_007_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1047": {
+        "AttributeID": "artifact_adv_024",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_5.Artifact_SSR_007_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1048": {
+        "AttributeID": "artifact_adv_024",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_6.Artifact_SSR_007_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1049": {
+        "AttributeID": "artifact_adv_024",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_7.Artifact_SSR_007_7_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1050": {
+        "AttributeID": "artifact_adv_023",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_008/Level2/GA_Artifact_SSR_008_Level2.GA_Artifact_SSR_008_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_008_Level1_des"
+        }
+      },
+      "1053": {
+        "AttributeID": "artifact_adv_023",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_008/Level4/GA_Artifact_SSR_008_Level4.GA_Artifact_SSR_008_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_008_Level4_des"
+        }
+      },
+      "1054": {
+        "AttributeID": "artifact_adv_023",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_008/Level5/GA_Artifact_SSR_008_Level5.GA_Artifact_SSR_008_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_008_Level5_des"
+        }
+      },
+      "1055": {
+        "AttributeID": "artifact_adv_023",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_008/Level5/GA_Artifact_SSR_008_Level5.GA_Artifact_SSR_008_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeThunderDown20.Artifact_BeThunderDown20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BeThunderDown15"
+        }
+      },
+      "1056": {
+        "AttributeID": "artifact_adv_023",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_008/Level7/GA_Artifact_SSR_008_Level7.GA_Artifact_SSR_008_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_008_Level7_des"
+        }
+      },
+      "1057": {
+        "AttributeID": "artifact_adv_022",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_1.Artifact_SSR_009_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1058": {
+        "AttributeID": "artifact_adv_022",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 2
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_2.Artifact_SSR_009_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1059": {
+        "AttributeID": "artifact_adv_022",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1060": {
+        "AttributeID": "artifact_adv_022",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 4
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_4.Artifact_SSR_009_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1061": {
+        "AttributeID": "artifact_adv_022",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_5.Artifact_SSR_009_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1062": {
+        "AttributeID": "artifact_adv_022",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_6.Artifact_SSR_009_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1063": {
+        "AttributeID": "artifact_adv_022",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1064": {
+        "AttributeID": "artifact_adv_021",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_010/Level2/GA_Artifact_SSR_010_Level2.GA_Artifact_SSR_010_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_010_Level1_des"
+        }
+      },
+      "1067": {
+        "AttributeID": "artifact_adv_021",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_010/Level4/GA_Artifact_SSR_010_Level4.GA_Artifact_SSR_010_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_010_Level4_des"
+        }
+      },
+      "1068": {
+        "AttributeID": "artifact_adv_021",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_010/Level5/GA_Artifact_SSR_010_Level5.GA_Artifact_SSR_010_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_010_Level5_des"
+        }
+      },
+      "1069": {
+        "AttributeID": "artifact_adv_021",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_010/Level5/GA_Artifact_SSR_010_Level5.GA_Artifact_SSR_010_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp20.Artifact_ThunderUp20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_ThunderUp30"
+        }
+      },
+      "1070": {
+        "AttributeID": "artifact_adv_021",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_010/Level7/GA_Artifact_SSR_010_Level7.GA_Artifact_SSR_010_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR_010_Level7_des"
+        }
+      },
+      "1071": {
+        "AttributeID": "artifact_adv_020",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_1.Artifact_SSR_011_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1072": {
+        "AttributeID": "artifact_adv_020",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_2.Artifact_SSR_011_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1073": {
+        "AttributeID": "artifact_adv_020",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_3.Artifact_SSR_011_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1074": {
+        "AttributeID": "artifact_adv_020",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_4.Artifact_SSR_011_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1075": {
+        "AttributeID": "artifact_adv_020",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_5.Artifact_SSR_011_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1076": {
+        "AttributeID": "artifact_adv_020",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_6.Artifact_SSR_011_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1077": {
+        "AttributeID": "artifact_adv_020",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_7.Artifact_SSR_011_7_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1078": {
+        "AttributeID": "artifact_adv_019",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1079": {
+        "AttributeID": "artifact_adv_019",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_2.Artifact_SSR_012_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1080": {
+        "AttributeID": "artifact_adv_019",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_3.Artifact_SSR_012_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1081": {
+        "AttributeID": "artifact_adv_019",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_4.Artifact_SSR_012_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1082": {
+        "AttributeID": "artifact_adv_019",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_5.Artifact_SSR_012_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1083": {
+        "AttributeID": "artifact_adv_019",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_6.Artifact_SSR_012_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1084": {
+        "AttributeID": "artifact_adv_019",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_7.Artifact_SSR_012_7_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1085": {
+        "AttributeID": "artifact_adv_018",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_001/SC2/GA_Artifact_SR_001SC2.GA_Artifact_SR_001SC2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_001_Level1_des"
+        }
+      },
+      "1088": {
+        "AttributeID": "artifact_adv_018",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_001/SC4/GA_Artifact_SR_001SC4.GA_Artifact_SR_001SC4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_001_Level4_des"
+        }
+      },
+      "1089": {
+        "AttributeID": "artifact_adv_018",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_001/SC5/GA_Artifact_SR_001SC5.GA_Artifact_SR_001SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_001_Level5_des"
+        }
+      },
+      "1090": {
+        "AttributeID": "artifact_adv_018",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_001/SC5/GA_Artifact_SR_001SC5.GA_Artifact_SR_001SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_IceUp15.Artifact_IceUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_IceUp20"
+        }
+      },
+      "1091": {
+        "AttributeID": "artifact_adv_018",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_001/SC7/GA_Artifact_SR_001SC7.GA_Artifact_SR_001SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_001_Level7_des"
+        }
+      },
+      "1092": {
+        "AttributeID": "artifact_adv_017",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_1.Artifact_SR_002_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1093": {
+        "AttributeID": "artifact_adv_017",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_2.Artifact_SR_002_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1094": {
+        "AttributeID": "artifact_adv_017",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_3.Artifact_SR_002_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1095": {
+        "AttributeID": "artifact_adv_017",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_4.Artifact_SR_002_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1096": {
+        "AttributeID": "artifact_adv_017",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_5.Artifact_SR_002_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1097": {
+        "AttributeID": "artifact_adv_017",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_6.Artifact_SR_002_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1098": {
+        "AttributeID": "artifact_adv_017",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_7.Artifact_SR_002_7_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1099": {
+        "AttributeID": "artifact_adv_016",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_1.Artifact_SR_003_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1100": {
+        "AttributeID": "artifact_adv_016",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_2.Artifact_SR_003_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1101": {
+        "AttributeID": "artifact_adv_016",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_3.Artifact_SR_003_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1102": {
+        "AttributeID": "artifact_adv_016",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_4.Artifact_SR_003_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1103": {
+        "AttributeID": "artifact_adv_016",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_5.Artifact_SR_003_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1104": {
+        "AttributeID": "artifact_adv_016",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_6.Artifact_SR_003_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1105": {
+        "AttributeID": "artifact_adv_016",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_7.Artifact_SR_003_7_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1107": {
+        "AttributeID": "artifact_adv_015",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_004/SC3/GA_Artifact_SR_004SC3.GA_Artifact_SR_004SC3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_004_Level2_des"
+        }
+      },
+      "1109": {
+        "AttributeID": "artifact_adv_015",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_004/SC4/GA_Artifact_SR_004SC4.GA_Artifact_SR_004SC4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_004_Level4_des"
+        }
+      },
+      "1110": {
+        "AttributeID": "artifact_adv_015",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_004/SC5/GA_Artifact_SR_004SC5.GA_Artifact_SR_004SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_004_Level5_des"
+        }
+      },
+      "1111": {
+        "AttributeID": "artifact_adv_015",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_004/SC5/GA_Artifact_SR_004SC5.GA_Artifact_SR_004SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BePhyDown15.Artifact_BePhyDown15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BePhyDown10"
+        }
+      },
+      "1112": {
+        "AttributeID": "artifact_adv_015",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_004/SC7/GA_Artifact_SR_004SC7.GA_Artifact_SR_004SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_004_Level7_des"
+        }
+      },
+      "1114": {
+        "AttributeID": "artifact_adv_014",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/Level3/GA_Artifact_SR_005_ChangeWeapon_Level3.GA_Artifact_SR_005_ChangeWeapon_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level2_des"
+        }
+      },
+      "1116": {
+        "AttributeID": "artifact_adv_014",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/Level4/GA_Artifact_SR_005_ChangeWeapon_Level4.GA_Artifact_SR_005_ChangeWeapon_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level4_des"
+        }
+      },
+      "1117": {
+        "AttributeID": "artifact_adv_014",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5.GA_Artifact_SR_005_ChangeWeapon_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level5_des"
+        }
+      },
+      "1118": {
+        "AttributeID": "artifact_adv_014",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5.GA_Artifact_SR_005_ChangeWeapon_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp15.Artifact_FireUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_FireUp20"
+        }
+      },
+      "1119": {
+        "AttributeID": "artifact_adv_014",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/Level7/GA_Artifact_SR_005_ChangeWeapon_Level7.GA_Artifact_SR_005_ChangeWeapon_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level7_des"
+        }
+      },
+      "1121": {
+        "AttributeID": "artifact_adv_013",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_006/SC3/GA_Artifact_SR_006SC3.GA_Artifact_SR_006SC3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_006/SC3/buff_artifact_sr006_skateControl.buff_artifact_sr006_skateControl_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_006_Level2_des"
+        }
+      },
+      "1123": {
+        "AttributeID": "artifact_adv_013",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_006/SC4/GA_Artifact_SR_006SC4.GA_Artifact_SR_006SC4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_006_Level4_des"
+        }
+      },
+      "1124": {
+        "AttributeID": "artifact_adv_013",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_006/SC5/GA_Artifact_SR_006SC5.GA_Artifact_SR_006SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_006_Level5_des"
+        }
+      },
+      "1125": {
+        "AttributeID": "artifact_adv_013",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_006/SC5/GA_Artifact_SR_006SC5.GA_Artifact_SR_006SC5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeIceDown15.Artifact_BeIceDown15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BeIceDown10"
+        }
+      },
+      "1126": {
+        "AttributeID": "artifact_adv_013",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_006/SC7/GA_Artifact_SR_006SC7.GA_Artifact_SR_006SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_006_Level7_des"
+        }
+      },
+      "1127": {
+        "AttributeID": "artifact_adv_012",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level2/GA_Artifact_SR_007_Level2.GA_Artifact_SR_007_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level1_des"
+        }
+      },
+      "1128": {
+        "AttributeID": "artifact_adv_012",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level3/GA_Artifact_SR_007_Level3.GA_Artifact_SR_007_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level2_des"
+        }
+      },
+      "1131": {
+        "AttributeID": "artifact_adv_012",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level5_des"
+        }
+      },
+      "1132": {
+        "AttributeID": "artifact_adv_012",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_ThunderUp20"
+        }
+      },
+      "1133": {
+        "AttributeID": "artifact_adv_012",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level7/GA_Artifact_SR_007Level7.GA_Artifact_SR_007Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level7_des"
+        }
+      },
+      "1134": {
+        "AttributeID": "artifact_adv_011",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_1.Artifact_SR_008_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1135": {
+        "AttributeID": "artifact_adv_011",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_2.Artifact_SR_008_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1136": {
+        "AttributeID": "artifact_adv_011",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1137": {
+        "AttributeID": "artifact_adv_011",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_4.Artifact_SR_008_4_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1138": {
+        "AttributeID": "artifact_adv_011",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_5.Artifact_SR_008_5_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1139": {
+        "AttributeID": "artifact_adv_011",
+        "CardStar": 5,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_6.Artifact_SR_008_6_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1140": {
+        "AttributeID": "artifact_adv_011",
+        "CardStar": 6,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1141": {
+        "AttributeID": "artifact_adv_010",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_009/Level2/GA_Artifact_SR_009_Level2.GA_Artifact_SR_009_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_009_Level5_des"
+        }
+      },
+      "1142": {
+        "AttributeID": "artifact_adv_010",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_009/Level3/GA_Artifact_SR_009_Level3.GA_Artifact_SR_009_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_009_Level2_des"
+        }
+      },
+      "1144": {
+        "AttributeID": "artifact_adv_010",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_009/Level4/GA_Artifact_SR_009Level4.GA_Artifact_SR_009Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_009_Level4_des"
+        }
+      },
+      "1146": {
+        "AttributeID": "artifact_adv_010",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_009/Level5/GA_Artifact_SR_009Level5.GA_Artifact_SR_009Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_ThunderUp20"
+        }
+      },
+      "1147": {
+        "AttributeID": "artifact_adv_010",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_009/Level7/GA_Artifact_SR_009_Level7.GA_Artifact_SR_009_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_009_Level7_des"
+        }
+      },
+      "1148": {
+        "AttributeID": "artifact_adv_009",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_010/Level2/GA_FPlayer_Artifact_SR010_Level2.GA_FPlayer_Artifact_SR010_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_010_Level1_des"
+        }
+      },
+      "1151": {
+        "AttributeID": "artifact_adv_009",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_010/Level4/GA_FPlayer_Artifact_SR010_Level4.GA_FPlayer_Artifact_SR010_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_010_Level4_des"
+        }
+      },
+      "1152": {
+        "AttributeID": "artifact_adv_009",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_010/Level5/GA_FPlayer_Artifact_SR010_Level5.GA_FPlayer_Artifact_SR010_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_010_Level5_des"
+        }
+      },
+      "1153": {
+        "AttributeID": "artifact_adv_009",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_010/Level5/GA_FPlayer_Artifact_SR010_Level5.GA_FPlayer_Artifact_SR010_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_PhyUp15.Artifact_PhyUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_PhyUp20"
+        }
+      },
+      "1154": {
+        "AttributeID": "artifact_adv_009",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_010/Level7/GA_FPlayer_Artifact_SR010_Level7.GA_FPlayer_Artifact_SR010_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_010_Level7_des"
+        }
+      },
+      "1155": {
+        "AttributeID": "artifact_adv_008",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_011/Level3/GA_Artifact_SR_011_Level3.GA_Artifact_SR_011_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_011_Level2_des"
+        }
+      },
+      "1156": {
+        "AttributeID": "artifact_adv_008",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_011/Level4/GA_Artifact_SR_011_Level4.GA_Artifact_SR_011_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_011_Level4_des"
+        }
+      },
+      "1159": {
+        "AttributeID": "artifact_adv_008",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_011/Level5/GA_Artifact_SR_011_Level5.GA_Artifact_SR_011_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_011_Level5_des"
+        }
+      },
+      "1160": {
+        "AttributeID": "artifact_adv_008",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_011/Level5/GA_Artifact_SR_011_Level5.GA_Artifact_SR_011_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_IceUp15.Artifact_IceUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_IceUp20"
+        }
+      },
+      "1161": {
+        "AttributeID": "artifact_adv_008",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_011/Level7/GA_Artifact_SR_011_Level7.GA_Artifact_SR_011_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_011_Level7_des"
+        }
+      },
+      "1162": {
+        "AttributeID": "artifact_adv_007",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_002/Level2/GA_Artifact_R_002_Level2.GA_Artifact_R_002_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "GA_Artifact_R_002_Level2_des"
+        }
+      },
+      "1165": {
+        "AttributeID": "artifact_adv_007",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_002/Level4/GA_Artifact_R_002_Level4.GA_Artifact_R_002_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "GA_Artifact_R_002_Level4_des"
+        }
+      },
+      "1166": {
+        "AttributeID": "artifact_adv_007",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_002/Level5/GA_Artifact_R_002_Level5.GA_Artifact_R_002_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "GA_Artifact_R_002_Level5_des"
+        }
+      },
+      "1167": {
+        "AttributeID": "artifact_adv_007",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_002/Level5/GA_Artifact_R_002_Level5.GA_Artifact_R_002_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeThunderDown15.Artifact_BeThunderDown15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BeThunderDown10"
+        }
+      },
+      "1168": {
+        "AttributeID": "artifact_adv_007",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_002/Level7/GA_Artifact_R_002_Level7.GA_Artifact_R_002_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "GA_Artifact_R_002_Level7_des"
+        }
+      },
+      "1169": {
+        "AttributeID": "artifact_adv_006",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_001_1.Artifact_R_001_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1170": {
+        "AttributeID": "artifact_adv_006",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_001_2.Artifact_R_001_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1171": {
+        "AttributeID": "artifact_adv_006",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_001_3.Artifact_R_001_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1172": {
+        "AttributeID": "artifact_adv_005",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_002_1.Artifact_R_002_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1173": {
+        "AttributeID": "artifact_adv_005",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_002_2.Artifact_R_002_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1174": {
+        "AttributeID": "artifact_adv_005",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_002_3.Artifact_R_002_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1175": {
+        "AttributeID": "artifact_adv_004",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_003_1.Artifact_R_003_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1176": {
+        "AttributeID": "artifact_adv_004",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_003_2.Artifact_R_003_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1177": {
+        "AttributeID": "artifact_adv_004",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_003_3.Artifact_R_003_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1178": {
+        "AttributeID": "artifact_adv_003",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_004_1.Artifact_R_004_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1179": {
+        "AttributeID": "artifact_adv_003",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_004_2.Artifact_R_004_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1180": {
+        "AttributeID": "artifact_adv_003",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_004_3.Artifact_R_004_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1181": {
+        "AttributeID": "artifact_adv_002",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_005_1.Artifact_R_005_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1182": {
+        "AttributeID": "artifact_adv_002",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_005_2.Artifact_R_005_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1183": {
+        "AttributeID": "artifact_adv_002",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_005_3.Artifact_R_005_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1184": {
+        "AttributeID": "artifact_adv_001",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_006_1.Artifact_R_006_1_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1185": {
+        "AttributeID": "artifact_adv_001",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_006_2.Artifact_R_006_2_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1186": {
+        "AttributeID": "artifact_adv_001",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_006_3.Artifact_R_006_3_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1188": {
+        "AttributeID": "artifact_adv_031",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/level2/GA_Spawn_Artifact_SR_012_2star.GA_Spawn_Artifact_SR_012_2star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_2star_des"
+        }
+      },
+      "1190": {
+        "AttributeID": "artifact_adv_031",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/level4/GA_Spawn_Artifact_SR_012_4star.GA_Spawn_Artifact_SR_012_4star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_4star_des"
+        }
+      },
+      "1191": {
+        "AttributeID": "artifact_adv_031",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/level7/GA_Spawn_Artifact_SR_012_7star.GA_Spawn_Artifact_SR_012_7star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_7star_des"
+        }
+      },
+      "1192": {
+        "AttributeID": "artifact_adv_031",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/level7/GA_Spawn_Artifact_SR_012_7star.GA_Spawn_Artifact_SR_012_7star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeFireDown15.Artifact_BeFireDown15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BeFireDown10"
+        }
+      },
+      "1193": {
+        "AttributeID": "artifact_adv_031",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/level5/GA_Spawn_Artifact_SR_012_5star.GA_Spawn_Artifact_SR_012_5star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_5star_des"
+        }
+      },
+      "1195": {
+        "AttributeID": "artifact_adv_032",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_011/level1/GA_Spawn_Artifact_SSR_011_1star.GA_Spawn_Artifact_SSR_011_1star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SSR_011_1star_des"
+        }
+      },
+      "1196": {
+        "AttributeID": "artifact_adv_032",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_011/level2/GA_Spawn_Artifact_SSR_011_2star.GA_Spawn_Artifact_SSR_011_2star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SSR_011_2star_des"
+        }
+      },
+      "1199": {
+        "AttributeID": "artifact_adv_032",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_011/level5/GA_Spawn_Artifact_SSR_011_5star.GA_Spawn_Artifact_SSR_011_5star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SSR_011_5star_des"
+        }
+      },
+      "1200": {
+        "AttributeID": "artifact_adv_032",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_011/level5/GA_Spawn_Artifact_SSR_011_5star.GA_Spawn_Artifact_SSR_011_5star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_IceUp20.Artifact_IceUp20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_IceUP30"
+        }
+      },
+      "1201": {
+        "AttributeID": "artifact_adv_032",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_011/level7/GA_Spawn_Artifact_SSR_011_7star.GA_Spawn_Artifact_SSR_011_7star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SSR_011_7star_des"
+        }
+      },
+      "1202": {
+        "AttributeID": "artifact_adv_033",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_08/level1/GA_Artifact_R_008_level1.GA_Artifact_R_008_level1_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_R_008_level1"
+        }
+      },
+      "1205": {
+        "AttributeID": "artifact_adv_033",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_08/level4/GA_Artifact_R_008_level4.GA_Artifact_R_008_level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_R_008_level4"
+        }
+      },
+      "1206": {
+        "AttributeID": "artifact_adv_033",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_08/level5/GA_Artifact_R_008_level5.GA_Artifact_R_008_level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_R_008_level5"
+        }
+      },
+      "1207": {
+        "AttributeID": "artifact_adv_033",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_08/level5/GA_Artifact_R_008_level5.GA_Artifact_R_008_level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_ThunderUp20"
+        }
+      },
+      "1208": {
+        "AttributeID": "artifact_adv_033",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_08/level7/GA_Artifact_R_008_level7.GA_Artifact_R_008_level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_R_008_level7"
+        }
+      },
+      "1209": {
+        "AttributeID": "artifact_adv_035",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_07/Level1/GA_Artifact_SR_014_Level1.GA_Artifact_SR_014_Level1_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_014_Level1_des"
+        }
+      },
+      "1212": {
+        "AttributeID": "artifact_adv_035",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_07/Level4/GA_Artifact_SR_014_Level4.GA_Artifact_SR_014_Level4_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_014_Level4_des"
+        }
+      },
+      "1213": {
+        "AttributeID": "artifact_adv_035",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_07/Level5/GA_Artifact_SR_014_Level5.GA_Artifact_SR_014_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_014_Level5_des"
+        }
+      },
+      "1214": {
+        "AttributeID": "artifact_adv_035",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_07/Level5/GA_Artifact_SR_014_Level5.GA_Artifact_SR_014_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp15.Artifact_FireUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_FireUp20"
+        }
+      },
+      "1215": {
+        "AttributeID": "artifact_adv_035",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_07/Level7/GA_Artifact_SR_014_Level7.GA_Artifact_SR_014_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_014_Level7_des"
+        }
+      },
+      "1216": {
+        "AttributeID": "breakfate_artifact_ssr_001_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_001/SC7/GA_Artifact_SSR_001SC7.GA_Artifact_SSR_001SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1217": {
+        "AttributeID": "breakfate_artifact_ssr_002_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_002/SC7/GA_Artifact_SSR_002SC7.GA_Artifact_SSR_002SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1218": {
+        "AttributeID": "breakfate_artifact_ssr_004_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_004/SC7/GA_Artifact_SSR_004SC7.GA_Artifact_SSR_004SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1219": {
+        "AttributeID": "breakfate_artifact_ssr_005_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_005/SC7/GA_Artifact_SSR_005SC7.GA_Artifact_SSR_005SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1220": {
+        "AttributeID": "breakfate_artifact_ssr_006_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_006/Level7/GA_Artifact_SSR_006_Level7.GA_Artifact_SSR_006_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1221": {
+        "AttributeID": "breakfate_artifact_ssr_008_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_008/Level7/GA_Artifact_SSR_008_Level7.GA_Artifact_SSR_008_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1222": {
+        "AttributeID": "breakfate_artifact_ssr_010_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_010/Level7/GA_Artifact_SSR_010_Level7.GA_Artifact_SSR_010_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1223": {
+        "AttributeID": "breakfate_artifact_ssr_011_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_011/level7/GA_Spawn_Artifact_SSR_011_7star.GA_Spawn_Artifact_SSR_011_7star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1224": {
+        "AttributeID": "breakfate_artifact_sr_001_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_001/SC7/GA_Artifact_SR_001SC7.GA_Artifact_SR_001SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1225": {
+        "AttributeID": "breakfate_artifact_sr_004_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_004/SC7/GA_Artifact_SR_004SC7.GA_Artifact_SR_004SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1226": {
+        "AttributeID": "breakfate_artifact_sr_005_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/Level7/GA_Artifact_SR_005_ChangeWeapon_Level7.GA_Artifact_SR_005_ChangeWeapon_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1227": {
+        "AttributeID": "breakfate_artifact_sr_006_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_006/SC7/GA_Artifact_SR_006SC7.GA_Artifact_SR_006SC7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1228": {
+        "AttributeID": "breakfate_artifact_sr_007_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level7/GA_Artifact_SR_007Level7.GA_Artifact_SR_007Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1229": {
+        "AttributeID": "breakfate_artifact_sr_009_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_009/Level7/GA_Artifact_SR_009_Level7.GA_Artifact_SR_009_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1230": {
+        "AttributeID": "breakfate_artifact_sr_010_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_010/Level7/GA_FPlayer_Artifact_SR010_Level7.GA_FPlayer_Artifact_SR010_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1231": {
+        "AttributeID": "breakfate_artifact_sr_011_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_011/Level7/GA_Artifact_SR_011_Level7.GA_Artifact_SR_011_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1232": {
+        "AttributeID": "breakfate_artifact_sr_012_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/level7/GA_Spawn_Artifact_SR_012_7star.GA_Spawn_Artifact_SR_012_7star_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1233": {
+        "AttributeID": "breakfate_artifact_sr_013_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_08/level7/GA_Artifact_R_008_level7.GA_Artifact_R_008_level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1234": {
+        "AttributeID": "breakfate_artifact_sr_014_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_07/Level7/GA_Artifact_SR_014_Level7.GA_Artifact_SR_014_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1235": {
+        "AttributeID": "breakfate_artifact_sr_015_star",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_R_002/Level7/GA_Artifact_R_002_Level7.GA_Artifact_R_002_Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "CultureInvariantString": null
+        }
+      },
+      "1236": {
+        "AttributeID": "artifact_adv_036",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_012/Level1/GA_Artifact_SSR012_Level1.GA_Artifact_SSR012_Level1_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR012_Level1_des"
+        }
+      },
+      "1237": {
+        "AttributeID": "artifact_adv_036",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_012/Level2/GA_Artifact_SSR012_Level2.GA_Artifact_SSR012_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR012_Level2_des"
+        }
+      },
+      "1238": {
+        "AttributeID": "artifact_adv_036",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_012/Level3/GA_Artifact_SSR012_Level3.GA_Artifact_SSR012_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR012_Level3_des"
+        }
+      },
+      "1239": {
+        "AttributeID": "artifact_adv_036",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_012/Level3/GA_Artifact_SSR012_Level3.GA_Artifact_SSR012_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp20.Artifact_FireUp20_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_FireUp30"
+        }
+      },
+      "1240": {
+        "AttributeID": "artifact_adv_036",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SSR_012/Level5/GA_Artifact_SSR012_Level5.GA_Artifact_SSR012_Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SSR012_Level5_des"
+        }
+      },
+      "1241": {
+        "AttributeID": "artifact_adv_031_OS",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level2/GA_Spawn_Artifact_SR_012_2star_OS.GA_Spawn_Artifact_SR_012_2star_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_2star_des"
+        }
+      },
+      "1242": {
+        "AttributeID": "artifact_adv_031_OS",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level4/GA_Spawn_Artifact_SR_012_4star_OS.GA_Spawn_Artifact_SR_012_4star_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_4star_OS_des"
+        }
+      },
+      "1243": {
+        "AttributeID": "artifact_adv_031_OS",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level7/GA_Spawn_Artifact_SR_012_7star_OS.GA_Spawn_Artifact_SR_012_7star_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_7star_des"
+        }
+      },
+      "1244": {
+        "AttributeID": "artifact_adv_031_OS",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level7/GA_Spawn_Artifact_SR_012_7star_OS.GA_Spawn_Artifact_SR_012_7star_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeFireDown15.Artifact_BeFireDown15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_BeFireDown10"
+        }
+      },
+      "1245": {
+        "AttributeID": "artifact_adv_031_OS",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level5/GA_Spawn_Artifact_SR_012_5star_OS.GA_Spawn_Artifact_SR_012_5star_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Spawn_Artifact_SR_012_5star_des"
+        }
+      },
+      "1246": {
+        "AttributeID": "artifact_adv_012_OS",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level2/GA_Artifact_SR_007_Level2.GA_Artifact_SR_007_Level2_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level1_des"
+        }
+      },
+      "1247": {
+        "AttributeID": "artifact_adv_012_OS",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level3/GA_Artifact_SR_007_Level3.GA_Artifact_SR_007_Level3_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level2_des"
+        }
+      },
+      "1248": {
+        "AttributeID": "artifact_adv_012_OS",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level5_des"
+        }
+      },
+      "1249": {
+        "AttributeID": "artifact_adv_012_OS",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_ThunderUp20"
+        }
+      },
+      "1250": {
+        "AttributeID": "artifact_adv_012_OS",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_007/Level7/GA_Artifact_SR_007Level7.GA_Artifact_SR_007Level7_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_007_Level7_des"
+        }
+      },
+      "1251": {
+        "AttributeID": "artifact_adv_014_OS",
+        "CardStar": 0,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level3/GA_Artifact_SR_005_ChangeWeapon_Level3_OS.GA_Artifact_SR_005_ChangeWeapon_Level3_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level2_des"
+        }
+      },
+      "1252": {
+        "AttributeID": "artifact_adv_014_OS",
+        "CardStar": 1,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level4/GA_Artifact_SR_005_ChangeWeapon_Level4_OS.GA_Artifact_SR_005_ChangeWeapon_Level4_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level4_des"
+        }
+      },
+      "1253": {
+        "AttributeID": "artifact_adv_014_OS",
+        "CardStar": 2,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5_OS.GA_Artifact_SR_005_ChangeWeapon_Level5_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level5_des"
+        }
+      },
+      "1254": {
+        "AttributeID": "artifact_adv_014_OS",
+        "CardStar": 3,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5_OS.GA_Artifact_SR_005_ChangeWeapon_Level5_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [
+          {
+            "SkillTemplate": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp15.Artifact_FireUp15_C",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+          "Key": "Artifact_FireUp20"
+        }
+      },
+      "1255": {
+        "AttributeID": "artifact_adv_014_OS",
+        "CardStar": 4,
+        "InsteadSkill": {
+          "SkillTemplate": {
+            "AssetPathName": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level7/GA_Artifact_SR_005_ChangeWeapon_Level7_OS.GA_Artifact_SR_005_ChangeWeapon_Level7_OS_C",
+            "SubPathString": ""
+          },
+          "SkillLevel": 1
+        },
+        "IncreasePassiveSkills": [],
+        "ModifyAttributes": "None",
+        "InvisibleModifyAttributes": "None",
+        "UnlockLevel": 0,
+        "Desc": {
+          "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes",
+          "Key": "GA_Artifact_SR_005_Level7_des"
+        }
+      }
+    }
+  }
+]

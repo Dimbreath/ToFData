@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "GuildDonateDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct GuildDonateData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Normal": {
+        "DonateType": "EGuildDonate::Normal",
+        "DonateImage": {
+          "AssetPathName": "/Game/Resources/UI/guild/guild_jx_btn.guild_jx_btn",
+          "SubPathString": ""
+        },
+        "DonateCountEveryDay": 1,
+        "DonateGainDropID": "None",
+        "DonateIncreaseContribution": 100,
+        "DonateIncreaseGuildCapital": 100,
+        "DonateIncreaseGuildGlory": 100,
+        "DonateIncreaseGuildMeritorious": 100
+      }
+    }
+  }
+]

@@ -1,0 +1,2185 @@
+﻿[
+  {
+    "Type": "DlgDialogue",
+    "Name": "NPC_Food001",
+    "Properties": {
+      "Name": "NPC_Food001",
+      "GUID": "52842B6E-41331687-75C97085-AB58F414",
+      "ParticipantsData": {
+        "Food_001": {
+          "Conditions": [
+            "IsQuestObjectInProgress:q102013,11",
+            "IsQuestObjectInProgress:q1020130,1"
+          ],
+          "CustomConditions": [],
+          "Events": [
+            "OpenShop:Food_bangis",
+            "LeaveTalkGroup",
+            "EnterGroup",
+            "TalkCompletedWaitUIClose:q1020130,1",
+            "TalkCompleted:q102013,11",
+            "TalkCompletedWaitUIClose:q102013,11"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        },
+        "npc_shu_203_character_Night": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "EnterGroup"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        },
+        "GuideNPCCharacter_BP": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      },
+      "StartNode": {
+        "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.4"
+      },
+      "Nodes": [
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_24",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.21"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_14",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.10"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_23",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.20"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_1",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.5"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_25",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.22"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_15",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.11"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_41",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.39"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_2",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.16"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_3",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.27"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_13",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.9"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_16",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.12"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_32",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.30"
+        },
+        {
+          "ObjectName": "DlgNode_End NPC_Food001:DlgNode_End_0",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.1"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_26",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.23"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_17",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.13"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_42",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.40"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_30",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.28"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_18",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.14"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_39",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.36"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_27",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.24"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_19",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.15"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_43",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.41"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_28",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.25"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_20",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.17"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_38",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.35"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_34",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.31"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_21",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.18"
+        },
+        {
+          "ObjectName": "DlgNode_End NPC_Food001:DlgNode_End_2",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.3"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_29",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.26"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_22",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.19"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_36",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.33"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_35",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.32"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_31",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.29"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_37",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.34"
+        },
+        {
+          "ObjectName": "DlgNode_End NPC_Food001:DlgNode_End_1",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.2"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_4",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.37"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_5",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.42"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_6",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.43"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_7",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.44"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_8",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.45"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_9",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.46"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_10",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.6"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_11",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.7"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_12",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.8"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food001:DlgNode_Speech_40",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_02/NPC_Food001.38"
+        }
+      ],
+      "NodesGUIDToIndexMap": null
+    }
+  },
+  {
+    "Type": "DlgNode_End",
+    "Name": "DlgNode_End_0",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "OwnerName": "Food_001",
+      "NodeGUID": "54DCE001-4DDDBF59-DB314CA0-BABA8311"
+    }
+  },
+  {
+    "Type": "DlgNode_End",
+    "Name": "DlgNode_End_1",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "OwnerName": "Food_001",
+      "BlackFade": true,
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "EnterGroup",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        },
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "TalkCompletedWaitUIClose:q102013,11",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "4E9557A7-48E7B98B-C46101AA-D0B9C71B"
+    }
+  },
+  {
+    "Type": "DlgNode_End",
+    "Name": "DlgNode_End_2",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "OwnerName": "Food_001",
+      "NodeGUID": "1C854484-4D0600FD-EA6BE9BC-CD4E66FF"
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_0",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "NodeGUID": "0EF6734D-403EF9CF-A2CC9CA9-998B6168",
+      "Children": [
+        {
+          "TargetIndex": 0,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        },
+        {
+          "TargetIndex": 1,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        },
+        {
+          "TargetIndex": 2,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": null
+          },
+          "TextArguments": []
+        },
+        {
+          "TargetIndex": 3,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_1",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "food001_talk1"
+      },
+      "OwnerName": "Food_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "NodeGUID": "90325648-4F3AD9C8-00FAFEB1-8C4272D2",
+      "Children": [
+        {
+          "TargetIndex": 7,
+          "EdgeIndex": 2,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+            "Key": "playerequip01-1"
+          },
+          "TextArguments": []
+        },
+        {
+          "TargetIndex": 8,
+          "EdgeIndex": 1,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+            "Key": "playerequip01-2"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_10",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "0FC9F6034C4B8B82DCC9179177B82CA4",
+        "SourceString": "I need to move some <blue>goods</>, over there, on the <blue>pier</>."
+      },
+      "OwnerName": "Food_001",
+      "ShowButtonWaitTime": 3.0,
+      "CameraConfig": {
+        "Camera1": {
+          "bCameraActor": true,
+          "CameraName": "Area2ShowGoods"
+        },
+        "Camera2": {
+          "bCameraActor": true,
+          "CameraName": "Area2ShowGoods2"
+        },
+        "BlendTime": 3.0
+      },
+      "EnterEvents": [
+        {
+          "ParticipantName": "npc_shu_203_character_Night",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "EnterGroup",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "6E03CC7D-4B6B83B4-ADB4A488-9267E1AE",
+      "Children": [
+        {
+          "TargetIndex": 42,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_11",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "6972F3A0475808ECB4EEDDBEBDE6BF02",
+        "SourceString": "Go get a crate and put it next to my store."
+      },
+      "OwnerName": "Food_001",
+      "ShowButtonWaitTime": 2.0,
+      "CameraConfig": {
+        "Camera1": {
+          "bCameraActor": true,
+          "CameraName": "Area2ShowGoods2"
+        }
+      },
+      "NodeGUID": "F7005503-46C8DF2C-A54FAB96-404BEEFD",
+      "Children": [
+        {
+          "TargetIndex": 43,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_12",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "A5A4988842B8AD4E6A8F328ECBB0CC7E",
+        "SourceString": "Thanks a bunch!"
+      },
+      "OwnerName": "Food_001",
+      "CameraConfig": {
+        "Camera1": {
+          "bPlayer": true,
+          "CameraName": "FollowCamera"
+        }
+      },
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "TalkCompleted:q102013,11",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "0C2FC4BC-4957D960-7B2CADBF-5E0E3C39"
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_13",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-203-1031"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_325/animation/npc_pe_talk4_Montage1.npc_pe_talk4_Montage1",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "9",
+        "LookAtTarget": "Food_001"
+      },
+      "NodeGUID": "74414306-4A0574B2-05CF8F89-81B0853D",
+      "Children": [
+        {
+          "TargetIndex": 13,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_14",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "1F32E1304D57AD1F6AF6A09D180B6E1B",
+        "SourceString": "The Graceday celebration's about to start and I've still got a huge pile of crates to move. Kill me already!"
+      },
+      "OwnerName": "Food_001",
+      "EnterConditions": [
+        {
+          "Strength": "EDlgConditionStrength::Strong",
+          "ConditionType": "EDlgConditionType::EventCall",
+          "ParticipantName": "Food_001",
+          "CallbackName": "IsQuestObjectInProgress:q102013,11",
+          "Operation": "EDlgOperation::Equal",
+          "CompareType": "EDlgCompare::ToConst",
+          "OtherParticipantName": "None",
+          "OtherVariableName": "None",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bBoolValue": true,
+          "bLongTermMemory": true,
+          "GUID": "00000000-00000000-00000000-00000000",
+          "CustomCondition": null
+        }
+      ],
+      "NodeGUID": "BFD9212C-47818168-9A674B95-E2D362FD",
+      "Children": [
+        {
+          "TargetIndex": 5,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_15",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "097939D84A56417BC1D2D9BECFD1216C",
+        "SourceString": "Hey wait, isn't this the cry baby? What have you got for the celebration? Spectacular show of Waaaaaaah?"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "FirstListeningNPC": "npc_shu_203_character_Night",
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_217/animation/npc_pe_talk1_Montage.npc_pe_talk1_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "Camera_03",
+        "LookAtTarget": "Food_001"
+      },
+      "NodeGUID": "919EFA7C-46D5A3E8-27F0BAB4-26FEFB8F",
+      "Children": [
+        {
+          "TargetIndex": 10,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_16",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "2C687D404986F91B53A01EAA0DE27CEE",
+        "SourceString": "You... Hilda! Seriously! I'm overwhelmed here. Could you help me move some crates at the piers?"
+      },
+      "OwnerName": "Food_001",
+      "NodeGUID": "88BA0A40-424F1E1B-612A53B2-9D93534D",
+      "Children": [
+        {
+          "TargetIndex": 14,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_17",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "BE58280D48A8422CC6D1B0A92B9B2A57",
+        "SourceString": "Kelly sent me to check on you. Your sister knows you best. Rest assured. I will not help you."
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "NodeGUID": "707BB061-447DBF27-3B2092AD-297E0D43",
+      "Children": [
+        {
+          "TargetIndex": 17,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_18",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "B0D33016406E697FEAE8CA85FCBAB274",
+        "SourceString": "Is this your friend? Hey, could you do me a favor?<purple>(One huge smile)</>Forget about Hilda. I'll pay you properly."
+      },
+      "OwnerName": "Food_001",
+      "NodeGUID": "6DBFB167-4F9AD2BC-8ECE2B91-19014481",
+      "Children": [
+        {
+          "TargetIndex": 20,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_19",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "BC4D1832410E638E13EE2CB5FF289746",
+        "SourceString": "Pay me?<purple>(You convince yourself)</>Yeah. Sure. Because I'm awfully nice.<purple>(You smile back)</>"
+      },
+      "bIsSelfTalk": true,
+      "OwnerName": "Food_001",
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "EnterGroup",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "B89A0445-4D63EC16-3BC87485-638E6099",
+      "Children": [
+        {
+          "TargetIndex": 23,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_2",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "food001_talk2"
+      },
+      "OwnerName": "Food_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "OpenShop:Food_bangis",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "6E205B68-4AEAF229-D4D6F295-87802C06",
+      "Children": [
+        {
+          "TargetIndex": 12,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_20",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "0FC9F6034C4B8B82DCC9179177B82CA4",
+        "SourceString": "I need to move some <blue>goods</>, over there, on the <blue>pier</>."
+      },
+      "OwnerName": "Food_001",
+      "ShowButtonWaitTime": 3.0,
+      "CameraConfig": {
+        "Camera1": {
+          "bCameraActor": true,
+          "CameraName": "Area2ShowGoodsss"
+        }
+      },
+      "NodeGUID": "80D06B74-44EDE485-133D9D82-76C875A8",
+      "Children": [
+        {
+          "TargetIndex": 26,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_21",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "6972F3A0475808ECB4EEDDBEBDE6BF02",
+        "SourceString": "Go get a crate and put it next to my store."
+      },
+      "OwnerName": "Food_001",
+      "ShowButtonWaitTime": 2.0,
+      "CameraConfig": {
+        "Camera1": {
+          "bCameraActor": true,
+          "CameraName": "Area2ShowGoods2"
+        }
+      },
+      "NodeGUID": "FC0E4404-4C2AA82C-95732BBF-67BFA082",
+      "Children": [
+        {
+          "TargetIndex": 29,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_22",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "A5A4988842B8AD4E6A8F328ECBB0CC7E",
+        "SourceString": "Thanks a bunch!"
+      },
+      "OwnerName": "Food_001",
+      "CameraConfig": {
+        "Camera1": {
+          "bPlayer": true,
+          "CameraName": "FollowCamera"
+        }
+      },
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "TalkCompleted:q102013,11",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "6E4789B7-487E7307-A6FB3595-F9047887"
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_23",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Food001-1009"
+      },
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+          "SubPathString": ""
+        },
+        "FirstListeningNPC": "GuideNPCCharacter_BP",
+        "FirstListeningNPCTemplate": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "Food_001": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0006_Montage.Vo_Talk_NpcFood001_0006_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "5",
+        "bUseTransformOrigin": true,
+        "TransformOrigin": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.96592575,
+            "W": 0.25881916,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.9999999
+          },
+          "Translation": {
+            "X": -28122.959,
+            "Y": 28996.174,
+            "Z": -14351.0
+          }
+        },
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove1.cameramove1_C",
+          "SubPathString": ""
+        }
+      },
+      "EnterConditions": [
+        {
+          "Strength": "EDlgConditionStrength::Strong",
+          "ConditionType": "EDlgConditionType::EventCall",
+          "ParticipantName": "Food_001",
+          "CallbackName": "IsQuestObjectInProgress:q1020130,1",
+          "Operation": "EDlgOperation::Equal",
+          "CompareType": "EDlgCompare::ToConst",
+          "OtherParticipantName": "None",
+          "OtherVariableName": "None",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bBoolValue": true,
+          "bLongTermMemory": true,
+          "GUID": "00000000-00000000-00000000-00000000",
+          "CustomCondition": null
+        }
+      ],
+      "NodeGUID": "FD942053-43D4499D-D00596BF-F7D51043",
+      "Children": [
+        {
+          "TargetIndex": 6,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_next",
+            "SourceString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_24",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Food001-1001"
+      },
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "ListenerTemplateMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_203/npc_shu_203_character_Night.npc_shu_203_character_Night_C",
+            "SubPathString": ""
+          },
+          "/Game/Resources/Characters/NPC/npc_shu_019/montage/npc019_talk3-1_32": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/npc019_talk3-1",
+            "SubPathString": "\u0000\u0000\u0000\u0000ž\u0000\u0000\u0000\u0000\u0000\u0000\u0000;\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ä\u0000\u0000\u0000\u0000\u0000\u0000\u0000¢\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\r\u0000\u0000\u0000ListeningNPC\u0000ª\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u000e\u0000\u0000\u0000ListeningNPC1\u0000”\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000ž\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0000\u0000\u0000\u0000¢\u0000\u0000\u0000\u0000\u0000\u0000\u0000¼\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000‘\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003"
+          }
+        },
+        "ListenerMap": {
+          "ListeningNPC": "npc_shu_203_character_Night",
+          "ListeningNPC1": "GuideNPCCharacter_BP"
+        },
+        "MontageNpcMap": {
+          "Food_001": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0001_Montage.Vo_Talk_NpcFood001_0001_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "1",
+        "LookAtTarget": "npc_shu_203_character_Night"
+      },
+      "BlackFade": true,
+      "EnterConditions": [
+        {
+          "Strength": "EDlgConditionStrength::Strong",
+          "ConditionType": "EDlgConditionType::EventCall",
+          "ParticipantName": "Food_001",
+          "CallbackName": "IsQuestObjectInProgress:q102013,11",
+          "Operation": "EDlgOperation::Equal",
+          "CompareType": "EDlgCompare::ToConst",
+          "OtherParticipantName": "None",
+          "OtherVariableName": "None",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bBoolValue": true,
+          "bLongTermMemory": true,
+          "GUID": "00000000-00000000-00000000-00000000",
+          "CustomCondition": null
+        }
+      ],
+      "NodeGUID": "733A248F-4A66D3AF-26EB5EAC-80FD5B08",
+      "Children": [
+        {
+          "TargetIndex": 4,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_25",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-203-1030"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0052_Montage_q102013-1.Vo_Talk_Npc203_0052_Montage_q102013-1",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "2",
+        "LookAtTarget": "Food_001"
+      },
+      "NodeGUID": "BEBB3696-427C9244-7F30FBA1-6AD2C9D0",
+      "Children": [
+        {
+          "TargetIndex": 9,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_26",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Food001-1002"
+      },
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "Food_001": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0002_Montage.Vo_Talk_NpcFood001_0002_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "10",
+        "LookAtTarget": "npc_shu_203_character_Night",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+          "SubPathString": ""
+        }
+      },
+      "CameraConfig": {
+        "Camera1": {
+          "CameraName": "10"
+        },
+        "Camera2": {
+          "CameraName": "10a"
+        },
+        "BlendTime": 12.0
+      },
+      "NodeGUID": "03DAF4CD-45B54F99-3CB457BA-082BFC75",
+      "Children": [
+        {
+          "TargetIndex": 16,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_27",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-203-1032"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_325/animation/npc_pe_talk4_Montage.npc_pe_talk4_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "2",
+        "LookAtTarget": "Food_001"
+      },
+      "NodeGUID": "829EC389-48B94B00-E840699E-3F1A81C3",
+      "Children": [
+        {
+          "TargetIndex": 22,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_28",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Food001-1003"
+      },
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "Food_001": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0004_Montage.Vo_Talk_NpcFood001_0004_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "1",
+        "LookAtTarget": "npc_shu_203_character_Night"
+      },
+      "NodeGUID": "9323345A-4CF1A3FF-F2A48EBC-7EC2797C",
+      "Children": [
+        {
+          "TargetIndex": 25,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_29",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-player-2015"
+      },
+      "bIsSelfTalk": true,
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "CameraName": "10",
+        "LookAtTarget": "npc_shu_203_character_Night",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+          "SubPathString": ""
+        }
+      },
+      "CameraConfig": {
+        "Camera2": {
+          "CameraName": "10a"
+        },
+        "BlendTime": 12.0
+      },
+      "NodeGUID": "8D7C3168-4054CF50-00A800AF-6677F406",
+      "Children": [
+        {
+          "TargetIndex": 30,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_3",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "food001_talk3"
+      },
+      "OwnerName": "Food_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "NodeGUID": "241BD462-49680ED3-2E1A2FB8-8F50F6EB",
+      "Children": [
+        {
+          "TargetIndex": 12,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_30",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Food001-1005"
+      },
+      "OwnerName": "Food_001",
+      "ShowButtonWaitTime": 3.0,
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "Food_001": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0003_Montage.Vo_Talk_NpcFood001_0003_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "9",
+        "LookAtTarget": "npc_shu_203_character_Night",
+        "MidCameraArray": [
+          {
+            "Camera": {
+              "bCameraActor": false,
+              "bPlayer": false,
+              "CameraOwnerName": "None",
+              "CameraName": "scene1"
+            },
+            "BlendTime": 0.0,
+            "BlendFunc": "VTBlend_Linear",
+            "BlendExp": 2.0,
+            "WaittingTime": 4.0
+          },
+          {
+            "Camera": {
+              "bCameraActor": false,
+              "bPlayer": false,
+              "CameraOwnerName": "None",
+              "CameraName": "scene1a"
+            },
+            "BlendTime": 12.0,
+            "BlendFunc": "VTBlend_Linear",
+            "BlendExp": 2.0,
+            "WaittingTime": 4.0
+          }
+        ]
+      },
+      "CameraConfig": {
+        "Camera1": {
+          "bCameraActor": true
+        }
+      },
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "LeaveTalkGroup",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "A3C9CA20-4A8C5BBA-E194139E-D41BF337",
+      "Children": [
+        {
+          "TargetIndex": 19,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_31",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Food001-1004"
+      },
+      "OwnerName": "Food_001",
+      "ShowButtonWaitTime": 2.0,
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "Food_001": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0005_Montage.Vo_Talk_NpcFood001_0005_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "5",
+        "LookAtTarget": "npc_shu_203_character_Night"
+      },
+      "NodeGUID": "69563F5F-429BC451-8F3A90A6-536DBB1B",
+      "Children": [
+        {
+          "TargetIndex": 33,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_32",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Mi-a-1024"
+      },
+      "OwnerName": "GuideNPCCharacter_BP",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+          "SubPathString": ""
+        },
+        "FirstListeningNPC": "GuideNPCCharacter_BP",
+        "FirstListeningNPCTemplate": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "GuideNPCCharacter_BP": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_906mia/montage/Vo_Talk_Pet_Mia_0024_Montage.Vo_Talk_Pet_Mia_0024_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "8",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+          "SubPathString": ""
+        }
+      },
+      "NodeGUID": "C7519073-400574BC-BB47C8B2-5D13F581",
+      "Children": [
+        {
+          "TargetIndex": 15,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": true,
+          "Text": {
+            "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+            "Key": "TK-option-270"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_34",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-203-1033"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0033_Montage.Vo_Talk_Npc203_0033_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "12",
+        "LookAtTarget": "Food_001",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove1.cameramove1_C",
+          "SubPathString": ""
+        }
+      },
+      "NodeGUID": "06DE8FE0-4C6570AD-B04D83A0-7EC9B865",
+      "Children": [
+        {
+          "TargetIndex": 28,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_35",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-203-1035"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0052_Montage_q102013.Vo_Talk_Npc203_0052_Montage_q102013",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "9",
+        "LookAtTarget": "Food_001"
+      },
+      "NodeGUID": "A7010591-4E947D56-8BDEE1BA-19CBC52E",
+      "Children": [
+        {
+          "TargetIndex": 32,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_36",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-203-1034"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0102_Montage.Vo_Talk_Npc203_0102_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "4",
+        "MidCameraArray": [
+          {
+            "Camera": {
+              "bCameraActor": false,
+              "bPlayer": false,
+              "CameraOwnerName": "None",
+              "CameraName": "14"
+            },
+            "BlendTime": 0.0,
+            "BlendFunc": "VTBlend_Linear",
+            "BlendExp": 2.0,
+            "WaittingTime": 5.0
+          },
+          {
+            "Camera": {
+              "bCameraActor": false,
+              "bPlayer": false,
+              "CameraOwnerName": "None",
+              "CameraName": "14a"
+            },
+            "BlendTime": 12.0,
+            "BlendFunc": "VTBlend_Linear",
+            "BlendExp": 2.0,
+            "WaittingTime": 5.0
+          }
+        ]
+      },
+      "CameraConfig": {
+        "Camera1": {
+          "bCameraActor": true,
+          "CameraName": "Area2ShowGoods2"
+        }
+      },
+      "NodeGUID": "115CCA4B-4A51B745-0D27A39D-23D72400",
+      "Children": [
+        {
+          "TargetIndex": 31,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_37",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-player-2016"
+      },
+      "bIsSelfTalk": true,
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+          "SubPathString": ""
+        },
+        "CameraName": "16",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+          "SubPathString": ""
+        }
+      },
+      "CameraConfig": {
+        "Camera2": {
+          "CameraName": "16a"
+        },
+        "BlendTime": 12.0
+      },
+      "NodeGUID": "5C87E49E-43B7045A-98FF32A2-A1DB0DB3",
+      "Children": [
+        {
+          "TargetIndex": 34,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_38",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "OwnerName": "Food_001",
+      "bEventNode": true,
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "TalkCompletedWaitUIClose:q1020130,1",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "1786BC8F-4C3C1B6D-AD2A40AE-71903FF5",
+      "Children": [
+        {
+          "TargetIndex": 27,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_finish",
+            "SourceString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_39",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-player-2137"
+      },
+      "bIsSelfTalk": true,
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+          "SubPathString": ""
+        },
+        "FirstListeningNPC": "GuideNPCCharacter_BP",
+        "FirstListeningNPCTemplate": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+          "SubPathString": ""
+        },
+        "CameraName": "6",
+        "LookAtTarget": "Food_001",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+          "SubPathString": ""
+        }
+      },
+      "CameraConfig": {
+        "Camera2": {
+          "CameraName": "6a"
+        },
+        "BlendTime": 12.0
+      },
+      "NodeGUID": "AC6E6194-4ECBE52E-D525F79A-43ACEAD2",
+      "Children": [
+        {
+          "TargetIndex": 21,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_next",
+            "SourceString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_4",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "1F32E1304D57AD1F6AF6A09D180B6E1B",
+        "SourceString": "The Graceday celebration's about to start and I've still got a huge pile of crates to move. Kill me already!"
+      },
+      "OwnerName": "Food_001",
+      "EnterConditions": [
+        {
+          "Strength": "EDlgConditionStrength::Strong",
+          "ConditionType": "EDlgConditionType::EventCall",
+          "ParticipantName": "Food_001",
+          "CallbackName": "IsQuestObjectInProgress:q102013,11",
+          "Operation": "EDlgOperation::Equal",
+          "CompareType": "EDlgCompare::ToConst",
+          "OtherParticipantName": "None",
+          "OtherVariableName": "None",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bBoolValue": true,
+          "bLongTermMemory": true,
+          "GUID": "00000000-00000000-00000000-00000000",
+          "CustomCondition": null
+        }
+      ],
+      "NodeGUID": "BC9649CC-437A852E-4EA5EA85-1532FA7B",
+      "Children": [
+        {
+          "TargetIndex": 36,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_40",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "18ECE3734F82FC64914AA4B2236EDB0A",
+        "SourceString": "Please adjust your camera"
+      },
+      "OwnerName": "Food_001",
+      "NodeGUID": "DC359800-4A875A57-A1201281-0C248620"
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_41",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-player-2135"
+      },
+      "bIsSelfTalk": true,
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+          "SubPathString": ""
+        },
+        "FirstListeningNPC": "GuideNPCCharacter_BP",
+        "FirstListeningNPCTemplate": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+          "SubPathString": ""
+        },
+        "CameraName": "4",
+        "LookAtTarget": "Food_001",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+          "SubPathString": ""
+        }
+      },
+      "CameraConfig": {
+        "Camera1": {
+          "CameraName": "4"
+        },
+        "Camera2": {
+          "CameraName": "4a"
+        },
+        "BlendTime": 12.0
+      },
+      "NodeGUID": "3EEB3575-4B6965CE-A86242BC-5265E796",
+      "Children": [
+        {
+          "TargetIndex": 11,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_next",
+            "SourceString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_42",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Mi-a-1025"
+      },
+      "OwnerName": "GuideNPCCharacter_BP",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+          "SubPathString": ""
+        },
+        "FirstListeningNPC": "GuideNPCCharacter_BP",
+        "FirstListeningNPCTemplate": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "GuideNPCCharacter_BP": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_906mia/montage/Vo_Talk_Pet_Mia_0025_Montage.Vo_Talk_Pet_Mia_0025_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "9"
+      },
+      "NodeGUID": "D8E37D8D-4D1E9601-49982BB8-762B149D",
+      "Children": [
+        {
+          "TargetIndex": 18,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_next",
+            "SourceString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_43",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest.ST_Quest",
+        "Key": "TK-Food001-1008"
+      },
+      "OwnerName": "Food_001",
+      "SequenceConfig": {
+        "SoftSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+          "SubPathString": ""
+        },
+        "FirstListeningNPC": "GuideNPCCharacter_BP",
+        "FirstListeningNPCTemplate": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+          "SubPathString": ""
+        },
+        "MontageNpcMap": {
+          "Food_001": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_019/montage/npc019_talk3-1.npc019_talk3-1",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "7",
+        "ShakeClass": {
+          "AssetPathName": "/Game/Resources/Sequencer/Dialogue/cameramove1.cameramove1_C",
+          "SubPathString": ""
+        }
+      },
+      "NodeGUID": "4995968B-4FF3B4E0-D64EA2B6-0DE66808",
+      "Children": [
+        {
+          "TargetIndex": 24,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_next",
+            "SourceString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_5",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "097939D84A56417BC1D2D9BECFD1216C",
+        "SourceString": "Hey wait, isn't this the cry baby? What have you got for the celebration? Spectacular show of Waaaaaaah?"
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "SequenceConfig": {
+        "FirstListeningNPC": "npc_shu_203_character_Night",
+        "MontageNpcMap": {
+          "npc_shu_203_character_Night": {
+            "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_217/animation/npc_pe_talk1_Montage.npc_pe_talk1_Montage",
+            "SubPathString": ""
+          }
+        },
+        "CameraName": "Camera_03",
+        "LookAtTarget": "Food_001"
+      },
+      "NodeGUID": "2820FC05-46617CC6-EC871AAB-D949B3A1",
+      "Children": [
+        {
+          "TargetIndex": 37,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_6",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "2C687D404986F91B53A01EAA0DE27CEE",
+        "SourceString": "You... Hilda! Seriously! I'm overwhelmed here. Could you help me move some crates at the piers?"
+      },
+      "OwnerName": "Food_001",
+      "NodeGUID": "214E47FB-47E2349A-ED769CBD-B5F05190",
+      "Children": [
+        {
+          "TargetIndex": 38,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_7",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "BE58280D48A8422CC6D1B0A92B9B2A57",
+        "SourceString": "Kelly sent me to check on you. Your sister knows you best. Rest assured. I will not help you."
+      },
+      "OwnerName": "npc_shu_203_character_Night",
+      "NodeGUID": "734F38C0-4073763D-3B7CB093-58026D76",
+      "Children": [
+        {
+          "TargetIndex": 39,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_8",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "B0D33016406E697FEAE8CA85FCBAB274",
+        "SourceString": "Is this your friend? Hey, could you do me a favor?<purple>(One huge smile)</>Forget about Hilda. I'll pay you properly."
+      },
+      "OwnerName": "Food_001",
+      "NodeGUID": "FAADD936-41CBA15D-BD1200B3-05A437ED",
+      "Children": [
+        {
+          "TargetIndex": 40,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_9",
+    "Outer": "NPC_Food001",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "BC4D1832410E638E13EE2CB5FF289746",
+        "SourceString": "Pay me?<purple>(You convince yourself)</>Yeah. Sure. Because I'm awfully nice.<purple>(You smile back)</>"
+      },
+      "bIsSelfTalk": true,
+      "OwnerName": "Food_001",
+      "NodeGUID": "5C7209BB-4BB12368-1AC0C3AD-5E426867",
+      "Children": [
+        {
+          "TargetIndex": 41,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  }
+]

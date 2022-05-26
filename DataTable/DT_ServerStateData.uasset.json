@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ServerStateData",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct ServerStateData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "NewRow": {
+        "PercentRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": -1.0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": -1.0
+          }
+        },
+        "ServerStatus": "EServerStateType::SERVER_STATE_WAIT",
+        "StateIcon": {
+          "AssetPathName": "/Game/Resources/UI/login/login_serverstate_gray.login_serverstate_gray",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_0": {
+        "PercentRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 0.5
+          }
+        },
+        "ServerStatus": "EServerStateType::SERVER_STATE_IDLE",
+        "StateIcon": {
+          "AssetPathName": "/Game/Resources/UI/login/login_serverstate_green.login_serverstate_green",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_1": {
+        "PercentRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0.5
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 1.0
+          }
+        },
+        "ServerStatus": "EServerStateType::SERVER_STATE_BUSY",
+        "StateIcon": {
+          "AssetPathName": "/Game/Resources/UI/login/login_serverstate_yellow.login_serverstate_yellow",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_2": {
+        "PercentRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1.0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 99999.0
+          }
+        },
+        "ServerStatus": "EServerStateType::SERVER_STATE_FULL",
+        "StateIcon": {
+          "AssetPathName": "/Game/Resources/UI/login/login_serverstate_red.login_serverstate_red",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

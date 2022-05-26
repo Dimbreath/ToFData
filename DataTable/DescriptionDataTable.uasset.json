@@ -1,0 +1,483 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DescriptionDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct DescriptionData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "GuildMember": {
+        "Description": {
+          "Namespace": "",
+          "Key": "916EA1F34E2970005458008DC402C1BB",
+          "SourceString": "<biaoti>Positions</>\r\n1. 1 Commander, 2 Deputies, 15 Officers (+1 Position each level up).\r\n2. Crewmates: no permissions.\r\n3. Officers: can <orange>invite</> friends to join the Crew.\r\n4. Deputies: can <orange>approve</> membership applications, <orange>set declaration</>, <orange>upgrade hall</>, and <orange>appoint Crewmates to position.</>\r\n5. Commander: has <orange>all permissions.</>\r\n<biaoti>Disband</>\r\n1. Only the <orange>Commander</> can disband the Crew.\r\n2. When disbanding, there will be a <orange>3-day</> period, during which time <orange>disbanding can be canceled at any time.</>\r\n3. After the crew is officially disbanded, all Crewmates will no longer have a Crew tag."
+        }
+      },
+      "GuildBuilding": {
+        "Description": {
+          "Namespace": "",
+          "Key": "72D6D3DF47B68B74A74E88A952C610A8",
+          "SourceString": "<biaoti>Fund</>\r\n1. Crew funds can be used for <orange>daily maintenance</> and <orange>building upgrades</> for the Crew.\r\n2. Crewmates can participate in Crew <orange>activities</> and <orange>donations</> to obtain Crew funds."
+        }
+      },
+      "GuildSalary": {
+        "Description": {
+          "Namespace": "",
+          "Key": "4440A8D9444B44204D2C3C8FCA61B6D8",
+          "SourceString": "<biaoti>Rewards</>\r\nThe amount of basic rewards is affected by the <orange>level of the Crew vault</> and the individual <orange>position</> of the Crewmates.\r\n\r\n<biaoti>Extra Rewards</>\r\nWhen claiming basic rewards, Crewmates will also obtain <orange>extra</> <orange>random rewards</> and have a chance to obtain <orange>dark crystals</>."
+        }
+      },
+      "TradeLine": {
+        "Description": {
+          "Namespace": "",
+          "Key": "55E6962748D782AD4CF1F7B79269ED10",
+          "SourceString": "<biaoti>Trade Station</>\\\r1. A nonrefundable administrative fee will be charged for selling.\r\n2. If an item is not sold within <orange>24 hours</>, it will be automatically removed by the system and mailed back to the seller.\\\r3. Items with a display period are only available for sale when the period is over.\r\n4. Increase the transaction flows of your store to upgrade it.\\\r5. You can put up to <orange>10</> items for sale at the same time.\r\n6. For an item that has more than 1 in quantity for sale, buyers can buy part of the total quantity with the transaction done in real time.\\\r7. The higher the level of your store, the lower the transaction fee and the higher the quantity of the items you can put up for sale at the same time.\r\n8. Daily Downtime of the Trade Station: <orange>01:00:00–08:00:00</>"
+        }
+      },
+      "TowerExplore": {
+        "Description": {
+          "Namespace": "",
+          "Key": "D8D289814B57E03A9CBE4E8803BD6118",
+          "SourceString": "<yellow>Exploration</>\r\nExplore the world to unlock the <yellow>supply pod</> in the current area and solve puzzles to obtain <yellow>black nuclei</> to increase the <yellow>Exploration Points</> of the area.\r\nView the distribution of the supply pods to reveal those within a certain area around you on the world map.\r\nExchange for exploration rewards with specific amounts of Exploration Points."
+        }
+      },
+      "TowerExplore2": {
+        "Description": {
+          "Namespace": "",
+          "Key": "737A727C44374C16D16494B53345B6E5",
+          "SourceString": "Obtain 100 Crux Astrum to reactivate the Crux Omnium Tower on Astra."
+        }
+      },
+      "Mount": {
+        "Description": {
+          "Namespace": "",
+          "Key": "E3474728476606E6570A4A8F2D9F82C0",
+          "SourceString": "<biaoti>Vehicles</>\r\n1. Wanderers can ride vehicles to speed up their exploration of the world.\r\n2. Each vehicle has its own Maintenance Missions.\r\n3. Upon completing a set of missions, there will be new missions.\r\n4. The Maintenance Missions refresh automatically on daily basis, so don't worry if you get stuck on obtaining a certain material.\r\n5. The Maintenance Missions will not be refreshed once the vehicle Maintenance level surpasses the Wanderer level.\r\n6. The higher the vehicle Maintenance level, the higher its popularity. Reach certain vehicle Maintenance levels to unlock Paints.\r\n7. Use the modification feature to change the color of the vehicle. upgrade the vehicle Maintenance level to unlock more color choices.\r\n\r\n<blue>Vehicle Maintenance</>\r\n1. Vehicle maintenance requires maintenance materials.\r\n2. Maintenance materials can be obtained via <orange>purchases at the sundry merchant</>, <orange>purchases at the Commissary</>, <orange>enemy drops</>, and <orange>password chests</>.\r\n"
+        }
+      },
+      "ActivityEntrance": {
+        "Description": {
+          "Namespace": "",
+          "Key": "9596A5FD42ACC29973A571A45AD14199",
+          "SourceString": "<biaoti>Activity Points</>\r\n1. Participate in <orange>adventures</> to obtain activity points.\r\n2. Reach activity point milestones to obtain their corresponding rewards.\r\n3. Weekly activity is the accumulated daily activity for one week and resets every Monday at <orange>05:00</>.\r\n4. Don't forget to claim your activity point rewards! Once activity points reset on Monday, you can no longer claim your prizes for the previous week.\r\n<biaoti>Vitality</>\r\n1. Vitality replenishes by 1 point every 8 minutes.\r\n2. Vitality cannot be restored exceeding its maximum amount.\r\n3. Vitality must be expended to earn rewards for certain challenges."
+        }
+      },
+      "Ranklist": {
+        "Description": {
+          "Namespace": "",
+          "Key": "9B5848774774E70DFA553DA71D280900",
+          "SourceString": "<biaoti>Leaderboard</>\r\n1. The Leaderboard displays the Wanderer rankings in different areas."
+        }
+      },
+      "TravelPhotos": {
+        "Description": {
+          "Namespace": "",
+          "Key": "C5ABBD3243D64048FCE61D8D60427F42",
+          "SourceString": "<biaoti>Chronicles</>\r\n1. <orange>Travel Log</> documents plenty of beautiful scenery. Follow the descriptions and pictures to reach the locations to light up the landmarks and obtain the corresponding rewards.\r\n2. <orange>Memories</> contain the hidden secrets of the main missions. Wanderers can watch the secrets they unlocked via the corresponding memory."
+        }
+      },
+      "Genelock": {
+        "Description": {
+          "Namespace": "",
+          "Key": "0259579D4C734D5E8BF053A50DF5B7E2",
+          "SourceString": "<biaoti>【神格】</>\r\n1.神格分为3大类，分别为<orange>攻击</>、<orange>防御</>和<orange>辅助</>。\r\n2.每种类型都有自己的特殊技能与效果，可根据需求自由搭配。\r\n3.如有需要，可重置神格分配。\r\n4.预设功能可以让你更快捷的切换神格，以应对不同场面。"
+        }
+      },
+      "beibao": {
+        "Description": {
+          "Namespace": "",
+          "Key": "380804F44C84CE3524BDBAB200C342BC",
+          "SourceString": "<biaoti>Backpack</>\\\rItems are categorized and displayed on different pages.\r\nBackpack slots can be unlocked by accumulating gameplay hours (offline time will also be counted)."
+        }
+      },
+      "jineng": {
+        "Description": {
+          "Namespace": "",
+          "Key": "25A2B0954D4404EF067C2C9B8B47E92A",
+          "SourceString": "<biaoti>Skills</>\\\r1. When upgrading a skill, the corresponding skill of all weapons you own will be upgraded simultaneously.\r\n2. Switching to a different weapon will not reduce the skill level."
+        }
+      },
+      "zhiye": {
+        "Description": {
+          "Namespace": "",
+          "Key": "201413A344E0CA81A4D514943A491632",
+          "SourceString": "<biaoti>Classes</>\\\r1. Unlock to activate a class. You can only activate one class at a time.\r\n2. There are three types of classes, <orange>Attack</>, <orange>Defense</>, and <orange>Support</>. Under each category, there are three subtypes, <orange>Frost</>, <orange>Flame</>, and <orange>Volt</>.\\\r3. Class stats will only become effective after the corresponding class is activated."
+        }
+      },
+      "shenqing": {
+        "Description": {
+          "Namespace": "",
+          "Key": "966F3BB84358D48910FF9E81CCD079F9",
+          "SourceString": "<biaoti>Crew</>\r\n1. Use the Apply for All feature to send applications to the first ten Crews that you are qualified for.\r\n2. Search for Crews by inserting keywords in the search bar."
+        }
+      },
+      "TreasureMap_Main": {
+        "Description": {
+          "Namespace": "",
+          "Key": "4C94B02A4A71A10339153F87EF8D2B2F",
+          "SourceString": "<blue>How to Play</>\r\n1. Claim Omnium Collectors in the Omnium Beacon event on the Adventure page at the cost of 30 vitality each time.\r\n2. Place the Omnium Collectors anywhere you want in the world.\r\n3. The Omnium Collectors are available in three qualities, <orange>Blue</>, <orange>Purple</>, and <orange>Orange</>. The higher the quality, the greater the rewards.\r\n4. If an Omnium Collector is not retrieved by other Wanderers within a certain amount of time, the Wanderer who placed it will be rewarded. For Collectors of all qualities, the required time is 24 hours.\r\n5. In case where it is retrieved by other Wanderers within the given time, the Wanderer who placed it will only obtain part of the reward, while the Wanderer who took it back will the complete reward. If the two Wanderers are friends or from the same Crew, then the Wanderer who placed it will still obtain the complete reward.\r\n6. After being placed, an Omnium Collector has a chance to catch signals from other collectors. Find and retrieve the collectors placed by other Wanderers according to the signals for rewards."
+        }
+      },
+      "zhaohuan01": {
+        "Description": {
+          "Namespace": "",
+          "Key": "2D6D57074CCB1081B03B82AC44F986B5",
+          "SourceString": "<biaoti>Special Orders</>\\\rA 1× Special Order costs 1 black nucleus II. A 10× Special Order costs 10 black nuclei II.\\\r\\\r<biaoti>Availability</>\\\r\\\nLong Term\\\r\\\r<biaoti>Probability</>\\\r<orange>SSR</> Probability: 2.2%\\\r<orange>Radical Edge - Meryl (Simulacrum), </><orange>Thunderous Halberd - Echo (Simulacrum), </>\\\r<orange>The Ringlet - Ene (Simulacrum), </><orange>Omnium Cube - Amon (Simulacrum), </>\\\r<orange>Moonshadow, </><orange>Staff of Ether, </><orange>Cataclysm, </><orange>Crystal Blades, </><orange>Calamity, </>\\\r<orange>Inferno Gun, </><orange>Ionic Blade, </><orange>Scythe of the Void</>\\\r<purple>SR</> Probability: 12.5%\\\r<purple>Singularity, </><purple>Omnium Ice Cannon, </><purple>Frosted Hammer, </><purple>Claymore of Sin, </><purple>Duelist, </>\\\r<purple>Dragon's Breath, </><purple>Corona Bow</>\\\r<blue>R</> Probability: 38.3%\\\r<blue>Lava Claymore, </><blue>Spear of Warrior, </><blue>Swift Blades, </><blue>Composite Bow, </><blue>Blade of Thorns</>\\\r<purple>SR Materials</> Probability: 6%\\\r<purple>Advanced Infuser</>\\\r<blue>R Materials</> Probability: 15%\\\r<blue>Standard Infuser</>\\\r<purple>Heart of Element</> Probability: 6%\\\r<purple>Heart of Lava, </><purple>Heart of Winter, </><purple>Heart of Lightning, </><purple>Heart of Summit</>\\\r\\\n<blue>Elementcore</> Probability: 20%\\\r<blue>Firecore, </><blue>Icecore, </><blue>Magcore, </><blue>Rockcore</>\\\r\\\r<biaoti>Other Rules</>\\\rYou will obtain a <purple>black gold</> every Special Order.\\\rYou are guaranteed to obtain an <purple>SR</> or an <orange>SSR</> weapon every 10 Special Orders."
+        }
+      },
+      "zhaohuan02": {
+        "Description": {
+          "Namespace": "",
+          "Key": "FF7EC0DC4E57DEC1743EB78B3D343D2F",
+          "SourceString": "<biaoti>Special Orders</>\r\nA 1× Special Order costs 1 black nucleus I. A 10× Special Order costs 10 black nuclei I.\r\n\r\n<biaoti>Availability</>\r\nLong Term\r\n\r\n<biaoti>Probability</>\r\n<orange>SSR</> Probability: 0.3%\r\n<orange>Radical Edge - Meryl (Simulacrum), </><orange>Thunderous Halberd - Echo (Simulacrum), </>\r\n<orange>The Ringlet - Ene (Simulacrum), </><orange>Omnium Cube - Amon (Simulacrum), </>\r\n<orange>Moonshadow, </><orange>Staff of Ether, </><orange>Cataclysm, </><orange>Crystal Blades, </><orange>Calamity, </>\r\n<orange>Inferno Gun, </><orange>Ionic Blade, </><orange>Scythe of the Void</>\r\n<purple>SR</> Probability: 3.5%\r\n<purple>Singularity, </><purple>Omnium Ice Cannon, </><purple>Frosted Hammer, </><purple>Claymore of Sin, </><purple>Duelist, </>\r\n<purple>Dragon's Breath, </><purple>Corona Bow</>\r\n<blue>R</> Probability: 20%\r\n<blue>Lava Claymore, </><blue>Spear of Warrior, </><blue>Swift Blades, </><blue>Composite Bow, </><blue>Blade of Thorns</>\r\n<blue>R Materials</> Probability: 16.2%\r\n<blue>Standard Infuser</>\r\n<green>N Materials</> Probability: 60%\r\n<green>Mini Infuser</>"
+        }
+      },
+      "solo": {
+        "Description": {
+          "Namespace": "",
+          "Key": "229E07014530E055DDBAE68EF56AE093",
+          "SourceString": "<biaoti>Rules</>\r\nThe arena is available <orange>12:00–24:00</> daily.\r\n\r\nThe Apex League is a <orange>balanced arena</> that allows Wanderers to compete at a similar level of <orange>base stats</>, <orange>weapon stats</>, <orange>Relic stats</>, and related advancement and enhancement stats to ensure fair play. <orange>Weapon resonance effects</>, <orange>Simulacrum traits</>, and <orange>effects of Matrices</> are disabled in the Apex League. All <orange>healing effects</> will be reduced by <orange>50%</>. <orange>Jetboards are prohibited during battle</>.\r\n\r\nBattles adopt a point system where the Wanderer obtains 1 point by killing the opponent. The first to 2 points wins.\r\n1. The Wanderer earns a point whenever the opponent dies, whether they are killed directly, by falling, by DoT, or by any other means.\r\n2. When the opponent dies, they respawn at a random respawn point with full HP, all debuffs removed, and <orange>damage increased by 25%</>.\r\n3. The Wanderer's location, HP, and statuses won't be reset when the opponent dies.\r\n\r\nEach battle has a <orange>5-minute</> countdown.\r\n1. Whoever obtains <orange>2 points</> first within the 5 minutes wins.\r\n2. If no one obtains 2 points before the time runs out, then whoever has more points and remaining HP wins.\r\n3. During battle, the battlefield will shrink every <orange>75 seconds</>. Remaining outside the battlefield for too long will trigger an HP reduction debuff.\r\n\r\n<biaoti>Ranks</>\r\nThere are 7 ranks in total, each with multiple levels. Victories grant stars, and defeats reduce stars. The caps for stars vary with the ranks and levels. The ranks are listed in descending order as follows:\r\n1. <purple>Grand Marshal</>: The highest rank, no levels, no cap for stars. Wanderers obtain stars for all battles they win.\r\n2. <purple>Battle Lord</>: The rank has 5 levels, and each has a cap of 5 stars. Win a battle after accumulating 5 stars to move on to the next level.\r\n3. <purple>Star General</>: The rank has 5 levels, and each has a cap of 5 stars. Win a battle after accumulating 5 stars to move on to the next level.\r\n4. <purple>Commander</>: The rank has 4 levels, and each has a cap of 4 stars. Win a battle after accumulating 4 stars to move on to the next level.\r\n5. <purple>Sergeant</>: The rank has 4 levels, and each has a cap of 4 stars. Win a battle after accumulating 4 stars to move on to the next level.\r\n6. <purple>Elite</>: The rank has 3 levels, and each has a cap of 3 stars. Win a battle after accumulating 3 stars to move on to the next level.\r\n7. <purple>Private</>: The starting rank. Wanderers start with 1 star by default, but they could lose it and have 0 stars. The rank has 3 levels, and each has a cap of 3 stars. Win a battle after accumulating 3 stars to move on to the next level.\r\n\r\nWanderers start with <orange>1 star</> by default whenever they enter the next level. They could lose it and have 0 stars. In this case, if they lose again, they will go back to the previous level with 1 star reduced.\r\nIf Wanderers have collected all the stars of the current rank, and they win again, they can advance into Lv. 1 of the next rank and start there with 2 default stars.\r\n\r\n<biaoti>Rewards</>\r\n1. By the end of each season, rewards will be granted according to Wanderers' ranks:\r\n1)<purple>Grand Marshal</> rank receives the title for that rank, the limited-edition vehicle, <orange>Dust Wheeler</>, and 500 dark crystals.\r\n2) <purple>Battle Lord</> rank receives the title for that rank, limited-edition accessories, and 450 dark crystals.\r\n3) <purple>Star General</> rank receives the title for that rank, limited-edition accessories, and 400 dark crystals.\r\n4) <purple>Commander</> rank receives the title for that rank and 350 dark crystals.\r\n5) <purple>Sergeant</> rank receives the title for that rank and 300 dark crystals.\r\n6) <purple>Elite</> rank receives the title for that rank and 200 dark crystals.\r\n7) <purple>Private</> rank receives the title for that rank and 100 dark crystals.\r\n\r\n<biaoti>End of Season</>\r\n1. On the 1st day of the month, rewards will be allocated and issued according to current ranks. However, if the server has been open for less than 20 days, the season will continue until the 1st day of the following month.\r\n2. Then, ranks will be reset as follows:\r\n1) <purple>Grand Marshal</> ranks with over 100 stars start the next season as a Rank 3 Star 1 <purple>Battle Lord</>.\r\n2) <purple>Grand Marshal</> ranks with 51–100 stars start the next season as a Rank 4 Star 1 <purple>Battle Lord</>.\r\n3) <purple>Grand Marshal</> ranks with 21–50 stars start the next season as a Rank 5 Star 1 <purple>Battle Lord</>.\r\n4) <purple>Grand Marshal</> ranks with 11–20 stars start the next season as a Rank 1 Star 1 <purple>Star General</>.\r\n5) <purple>Grand Marshal</> ranks with 0–10 stars start the next season as a Rank 2 Star 1 <purple>Star General</>.\r\n6) Rank 1–2 <purple>Battle Lord</> ranks start the next season as a Rank 3 Star 1 <purple>Star General</>.\r\n7) Rank 3–4 <purple>Battle Lord</> ranks start the next season as a Rank 4 Star 1 <purple>Star General</>.\r\n8) Ranks from Rank 1 <purple>Star General</> to Rank 5 <purple>Battle Lord</> start the next season as a Rank 5 Star 1 <purple>Star General</>.\r\n9) Rank 2–3 <purple>Star General</> ranks start the next season as a Rank 1 Star 1 <purple>Commander</>.\r\n10) Rank 3–4 <purple>Star General</> ranks start the next season as a Rank 2 Star 1 <purple>Commander</>.\r\n11) Ranks from Rank 1 <purple>Commander</> to Rank 5 <purple>Star General</> start the next season as a Rank 3 Star 1 <purple>Commander</>.\r\n12) Rank 2–3 <purple>Commander</> ranks start the next season as a Rank 4 Star 1 <purple>Commander</>.\r\n13) Rank 4 <purple>Commander</> ranks start the next season as a Rank 1 Star 1 <purple>Sergeant</>.\r\n14) Rank 1 <purple>Sergeant</> ranks start the next season as a Rank 2 Star 1 <purple>Sergeant</>.\r\n15) Rank 2 <purple>Sergeant</> ranks start the next season as a Rank 3 Star 1 <purple>Sergeant</>.\r\n16) Rank 3 <purple>Sergeant</> ranks start the next season as a Rank 4 Star 1 <purple>Sergeant</>.\r\n17) Rank 4 and below <purple>Sergeant</> ranks with 1 or more stars retain their current rank with 1 star. Those with no star move down a rank and start with 1 star.\r\n3. On the 1st of every month, the top 10 players on the server get extra title rewards:\r\n1) The top-ranked player gets the limited edition title <purple>Crown of Stars</>.\r\n2) The player in second place gets the limited edition title <purple>Heroic Starchaser</>.\r\n3) The player in third place gets the limited edition title <purple>Brave Starchaser</>.\r\n4) 4th and 5th place get the limited edition title <purple>Rival</>.\r\n5) 6th to 10th place get the limited edition title <purple>Challenger</>.\r\n6) These are time-limited titles and are reallocated on the 1st of the month.\r\n7) Server rankings are reset every time ranks are calculated, with participating Wanderers re-ranked. Cross-server rankings reset every 2 months, on the 1st of the month."
+        }
+      },
+      "RewardQuest": {
+        "Description": {
+          "Namespace": "",
+          "Key": "03953EF540018915ABBE03B5537D55FF",
+          "SourceString": "<biaoti>Rules</>\r\n1. Wanderers can complete up to <orange>4</> daily Bounty Missions.\r\n2. Missions and refresh attempts will be reset by the system at <orange>05:00</> every morning. Missions that have already been claimed will be automatically abandoned.\r\n\r\n<biaoti>Weekly Activity Rewards</>\r\n1. Complete missions to obtain activity. There are five activity boxes for Wanderers to claim every week.\r\n2. Weekly activity rewards reset at <orange>05:00 every Monday morning</>. Please don't forget to claim them.\r\n\r\n<biaoti>Bounty Level</>\r\n1. Complete Bounty Missions to increase your Bounty level.\r\n2. Bounty Missions of different difficulties grant different Bounty EXP.\r\n3. Upgrade Bounty level to increase the probability of refreshing high-difficulty missions.\r\n\r\nTips: Completing the Bounty Missions is a good way for new Wanderers to get familiar with the world of Tower of Fantasy."
+        }
+      },
+      "xiaowanfa": {
+        "Description": {
+          "Namespace": "",
+          "Key": "7C4280254E32DABCAEEB3DB970409647",
+          "SourceString": "<biaoti>Proficiency</>\r\n1. Complete various minigames to obtain proficiency.\r\n2. Accumulate a certain amount of proficiency to obtain proficiency rewards.\r\n3. Proficiency obtained from different minigames will be counted separately.\r\n4. Claiming proficiency rewards will not reduce your current proficiency."
+        }
+      },
+      "Wormhole": {
+        "Description": {
+          "Namespace": "",
+          "Key": "6E92C7DC4AE927A9BBC846A1036681FE",
+          "SourceString": "<biaoti>Wormhole Rewards</>\r\n1. You'll obtain <orange>1</> Wormhole point each time you clear a level for the first time. Points obtained from different difficulties of a level will be counted separately. You are suggested to challenge all difficulties to accumulate points.\r\n2. The rewards are settled at the interval of <orange>120 hours</>. By the end of each interval, the rewards will be sent via system mail.\r\n3. Rewards are issued according to the level that yields the greatest amount of rewards this interval.\r\nCurrent Best Record: <purple>{0}</>\r\nCurrent Rewards: <purple>{1}</>\r\nCurrent Wormhole Points: <purple>{2}</>"
+        }
+      },
+      "GSRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "5427CA7B419E581CE80FE7AB85192252",
+          "SourceString": "<biaoti>Wanderer CS Leaderboard</>\r\n1. Wanderers are ranked by their CS points on the leaderboard.\r\n2. When there is a tie, the Wanderer who created their account earlier will be ranked higher.\r\n3. The leaderboard only displays the <orange>top 100</> Wanderers.\r\n4. You can view the information of other Wanderers on the leaderboard."
+        }
+      },
+      "GuildRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "61F9AFD342518A84BF3C279901F93512",
+          "SourceString": "<biaoti>Crew Level Leaderboard</>\r\n1. Crews are ranked by their levels on the leaderboard.\r\n2. When there is a tie, the Crew established earlier will be ranked higher.\r\n3. The leaderboard only displays the <orange>top 100</> Crews."
+        }
+      },
+      "LevelRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "8375C6514DCDCA149A6BB49774BD6FE8",
+          "SourceString": "<biaoti>Wanderer Level Leaderboard</>\r\n1. Wanderers are ranked by their levels on the leaderboard.\r\n2. When there is a tie, the Wanderer who created the account earlier will be ranked higher.\r\n3. The leaderboard only displays the <orange>top 100</> Wanderers.\r\n4. You can view the information of other Wanderers on the leaderboard."
+        }
+      },
+      "GuildScoreRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "7FB6A10941CDE2CA5AC2CF81BA81333E",
+          "SourceString": "<biaoti>Crew CS Leaderboard</>\r\n1. Crews are ranked by their total CS points on the leaderboard.\r\n2. When there is a tie, the Crew established earlier will be ranked higher.\r\n3. The leaderboard only displays the <orange>top 100</> Crews."
+        }
+      },
+      "GuildActivityRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "74A138694D75600856F51AAC1A66EE9E",
+          "SourceString": "<biaoti>Crew Honor Leaderboard</>\r\n1. Crews are ranked by their total activity on the leaderboard.\r\n2. When there is a tie, the Crew established earlier will be ranked higher.\r\n3. The leaderboard only displays the <orange>top 100</> Crews."
+        }
+      },
+      "AchievementRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "2123D7EA44FC1C62AE6C29BE4913C9B3",
+          "SourceString": "<biaoti>Wanderer Achievement Leaderboard</>\\\r1. Wanderers are ranked by their achievement points on the leaderboard.\\\r2. When there is a tie, the Wanderer who created the account earlier will be ranked higher.\\\r3. The leaderboard only displays the <orange>top 100</> Wanderers.\\\r4. You can view the information of other Wanderers on the leaderboard."
+        }
+      },
+      "artifact": {
+        "Description": {
+          "Namespace": "",
+          "Key": "6642CBBF43B732AFEF34CC8E759A3110",
+          "SourceString": "<biaoti>Relics</>\r\n1. You can take up to <orange>2</> Relics with you. Set Relic combinations to quickly switch between them.\r\n2. Relics come with <orange>active skills</> and <orange>passive skills</>.\r\n3. Only the Relics equipped will be effective for the Wanderer.\r\n4. After a Relic is advanced, its active skills will be enhanced, and its number of passive skills will be increased."
+        }
+      },
+      "paimai": {
+        "Description": {
+          "Namespace": "",
+          "Key": "B70B3E9B4D07CFDB6FB604B9DA9D6810",
+          "SourceString": "<biaoti>Auction Process</>\r\n<orange>Crew Announcement</> - <orange>Priority Bidding</> - <orange>Crew Auction</> - <orange>World Announcement</> - <orange>World Auction</>\r\n\r\n<biaoti>Auction Rules</>\r\n1. The Crew auction starts after the Frontier Clash event. The more participants of the auction, the more lots it has. Only Crewmates are allowed to participate in the Crew auction.\r\n2. There are random default items among the lots. In the Crew announcement phase, the Crew Commander can select Crewmates to participate in the priority bidding. There is a weekly limit on the number of attempts.\r\n3. When the Crew auction is over, unsold lots will enter the world auction, where all Wanderers on the server can bid.\r\n4. A bidding fee will be temporarily deducted whenever you make a bid. If you fail to win the bid, you can claim your refunded fee from \"My Auction.\"\r\n5. The profit gained from the Crew auction will be shared among all Crewmates who took part in it. The profit of the world auction won't be shared in any way.\r\n6. There is a minimum number of people required for profit sharing. When the actual number of people is below this bar, the system will still divide the profit by this number."
+        }
+      },
+      "WorldBoss": {
+        "Description": {
+          "Namespace": "",
+          "Key": "F6702117417458AACA798DB0B9A7CB74",
+          "SourceString": "<biaoti>Frontier Clash Rules</>\r\nAvailability: <orange>All Day</>\r\nAttempts Allowed: Add <orange>1</> attempt on every <orange>Tuesday, Thursday, and Saturday</>, up to <orange>3</> attempts.\r\nLocation: Banges' east coast. View the location on the map after the event begins.\r\n\r\n<biaoti>Introduction</>\r\n1. Once you enter Frontier Clash, open the portal within 2 minutes, or you will be kicked out.\r\n2. After the battle starts, defeat the enemies coming at you within 8 minutes.\r\n3. There are 15 consecutive waves of enemies. You will be rewarded each time you defeat a wave of them.\r\n4. There will be a boss fight every 3 waves. Defeat the boss to win a boss chest that you can open after battle result tally.\r\n5. For each additional crewmate other than yourself participates in the event, you will obtain a 15% damage enhancement buff in battle, up to a maximum of 45%."
+        }
+      },
+      "baoshidu": {
+        "Description": {
+          "Namespace": "",
+          "Key": "52D8B8A2468189A365878EB4DA78E533",
+          "SourceString": "<biaoti>Satiety</>\r\n1. After Wanderers exit battle for 5 seconds, satiety starts to drop automatically to restore HP.\r\n2. For every 10% HP restored, 1 satiety point will be reduced, and 1 satiety point will be deducted every 5 minutes.\r\n3. The higher the satiety, the faster the HP regeneration speed.\r\n(1–30 satiety: 2% HP restored every 2 seconds; 31–60 satiety: 3.5% HP restored every 2 seconds; 61–100 satiety: 5% HP restored every 2 seconds. 0 satiety: Unable to restore HP automatically.)"
+        }
+      },
+      "HookClone": {
+        "Description": {
+          "Namespace": "",
+          "Key": "B482D0644D0B3A59C14A0CA9CAAACAE5",
+          "SourceString": "<biaoti>Description</>\r\nAvailability: <orange>All Day</>\r\nDaily Reset Time: <orange>05:00</>\r\n\r\n1. Each day there will be a random Dimensional Trials challenge that requires <orange>4 people</> to match or team up to clear to win the rewards.\r\n2. Exiting the challenge or exceeding the time limit will result in a failure, and Wanderers won't obtain any rewards.\r\n3. You can draw 3 random buffs each day to use in the challenges."
+        }
+      },
+      "WormholeRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "3FE1182C48C68CB4650A1CB753DFFF30",
+          "SourceString": "<biaoti>Wormhole Points Leaderboard</>\\\r1. Wanderers are ranked by their Wormhole points on the leaderboard.\\\r2. When there is a tie, the Wanderer who created their account earlier will be ranked higher.\\\r3. The leaderboard only displays the <orange>top 100</> Wanderers.\r\n4. You can view the information of other Wanderers on the leaderboard."
+        }
+      },
+      "BigSecretRank": {
+        "Description": {
+          "Namespace": "",
+          "Key": "5CF0FEFD43B157CB609920BABE34D2A8",
+          "SourceString": "<biaoti>Bygone Phantasm Leaderboard</>\r\n1. Wanderers are ranked by the highest level they've cleared in Bygone Phantasm on the leaderboard.\r\n2. When there is a tie, the Wanderer who cleared the level earlier will be ranked higher.\r\n3. The leaderboard only displays the <orange>top 100</> Wanderers.\r\n4. You can view the information of other Wanderers on the leaderboard.\r\n5. At <orange>05:00</> on the 1st of every month, the top 10 Wanderers will receive a title reward for the month. See title page for details."
+        }
+      },
+      "AstralPlane": {
+        "Description": {
+          "Namespace": "",
+          "Key": "F023DE134C56A4C384E1A299CDFB10F3",
+          "SourceString": "<biaoti>Description</>\r\nAvailability: <orange>All Day</>\r\nDaily Reset Time: <orange>05:00</>\r\n\r\n1. Each day <orange>6</> Star Gates will appear in the world. Walk into a Star Gate to start the challenge in the Star Realm. A Wanderer can only enter the same Star Gate <orange>once</>.\r\n2. Defeat waves of enemies in the Star Realm to win rewards.\r\n3. <orange>Starseeds</> may show up after the final wave of enemies. Deconstruct them to summon the <orange>hidden boss</> in the Star Realm. Defeat the boss to earn a bonus reward. The higher the difficulty of the Star Realm, the greater the chance for Starseeds to appear."
+        }
+      },
+      "Feed": {
+        "Description": {
+          "Namespace": "",
+          "Key": "89EFA5164AAA963FF66744A420C12012",
+          "SourceString": "<biaoti>Square Meals</>\r\n\r\n1. Wanderers can eat here <orange>3</> times daily, respectively at <orange>05:00</>, <orange>12:00</>, and <orange>18:00</>.\r\n2. Mi-a will cook various dishes for Wanderers to enjoy. Gifts will be granted afterward. Powerful buffs included!"
+        }
+      },
+      "homecontrolcenter": {
+        "Description": {
+          "Namespace": "",
+          "Key": "60771A8449A83AC395878199139919B4",
+          "SourceString": "<biaoti>Control Center</>\\\r1. The amount of load for a single run of an Inducer should not go beyond the Control Center's maximum capacity.\r\n2. Upgrade the Control Center to raise its capacity.\\\r3. Adjust the difficulty of the Control Center to change the <orange>creature difficulty</>, <orange>drops</>, and <orange>creature density</> in the camp.\r\n4. Inducers can be obtained from <orange>Inducer Vending Machines</>."
+        }
+      },
+      "homedevelopment": {
+        "Description": {
+          "Namespace": "",
+          "Key": "C4A8F05A46E86719DE0BC79029C8F5AE",
+          "SourceString": "<biaoti>Development Center</>\r\n1. The level of the Development Center is equal to that of the Artificial Island.\r\n2. The level of the Development Center affects construction cap of Workstations."
+        }
+      },
+      "homeprimaryenergy": {
+        "Description": {
+          "Namespace": "",
+          "Key": "CFB678C54AE6D95F698A4EB33C4B6E8D",
+          "SourceString": "<biaoti>Energy Collector</>\r\n1. Energy Collectors are mainly used to collect <orange>activated energy</> and <orange>composite energy</>.\r\n2. <orange>Activated energy</> is primarily used to exchange for <orange>Creature Inducers</>. \r\n3. <orange>Composite energy</> is typically used to construct buildings.\r\n4. Energy Collectors will automatically collect activated and composite energy. Wanderers need to <orange>claim them manually</>.\r\n5. The temporary accumulated activated and composite energy in an Energy Collector will not go beyond its storage capacity.\r\n6. Upgrade an Energy Collector to increase its <orange>efficiency</> and <orange>storage capacity</>."
+        }
+      },
+      "WeaponGrid": {
+        "Description": {
+          "Namespace": "",
+          "Key": "82581B284E018BCD3B4134AC0FFE0F9E",
+          "SourceString": "<biaoti>Weapon Resonance</>\r\n·Resonance occurs when you place a weapon into different slots. It grants various amplification effects.\r\n\r\n<weapon_chongneng_3>Damage</>: Using a weapon in this slot increases its final damage by <ComLblGreen>10%</>.\r\n<weapon_chongneng_1>Shatter</>: Using a weapon in this slot increases shatter capability by <ComLblGreen>200%</>.\r\n<weapon_chongneng_2>Buff</>: Using a weapon in this slot to deal damage to a target will charge it. The weapon will gain a stack of buff effect when charged to a certain amount. (Effective for weapons in all 3 slots: increase<ComLblGreen>10%</> final damage, increase <ComLblGreen>10%</> healing, increase<ComLblGreen>10%</> shatter, for <ComLblGreen>25</> seconds, up to <ComLblGreen>3</> stacks.)"
+        }
+      },
+      "WorldBoss_guildbuff": {
+        "Description": {
+          "Namespace": "",
+          "Key": "030848C4428E307BCC0D29BBE0C3C09B",
+          "SourceString": "<biaoti>【协力作战】</>\r\n1.拓荒者参与【边境战区】玩法并开启机关后，会将信息同步至【协战系统】。\r\n2.<orange>队伍内</>同公会拓荒者的协战人数每多一个人，则会获得一层<orange>协战BUFF</>，该效果随公会成员人数数量叠加（不包含自己）。\r\n3.未加入公会或者队伍内没有其他公会成员时，不会获得该增益。"
+        }
+      },
+      "zhaohuan03": {
+        "Description": {
+          "Namespace": "",
+          "Key": "BDC9DB9B4E07C7275795C4839FD0A233",
+          "SourceString": "<biaoti>Special Orders</>\r\nA 1× Special Order costs 1 rare order coupon. A 10× Special Order costs 10 rare order coupons.\r\n\r\n<biaoti>Availability</>\r\nLong Term\r\n\r\n<biaoti>Probability</>\r\n<orange>SSR</> Probability: 1.6%\r\n<orange>Colossus Arm, </><orange>Type-V Droid, </><orange>Spacetime Rift, </><orange>Support Drone, </><orange>Hologram Projector</>\r\n<purple>SR</> Probability: 14%\r\n<purple>Jetpack, </><purple>Jetboard, </><purple>Missile Barrage, </><purple>Quantum Cloak, </>\r\n<purple>Cybernetic Arm, </><purple>Magnetic Storm Device, </><purple>Hovering Cannon</>\r\n<blue>R</> Probability: 20%\r\n<blue>Canned Spinach, </><blue>Magnetic Pulse, </><blue>Rocket Boots,</><blue>Omnium Shot, </>\r\n<blue>Magnetic Shield, </><blue>Missiles, </><blue>Omnium Handcannon, </><blue>Strange Cube</>\r\n<purple>SR Materials</> Probability: 5%\r\n<purple>Type-II Omnium</>\r\n<blue>R Materials</> Probability: 20%\r\n<blue>Type-I Omnium</>\r\n<green>N</> Materials Probability: 39.4%\r\n<green>Omnium Particle</>\r\n\r\n<biaoti>Other Rules</>\r\nYou are guaranteed to obtain an <purple>SR</> or an <orange>SSR</> Relic every 10 Special Orders.\r\nYou are guaranteed to obtain a <purple>random SR box</> or a <orange>random SSR box</> (rotates between the two) every 25 Special Orders."
+        }
+      },
+      "zhaohuan04": {
+        "Description": {
+          "Namespace": "",
+          "Key": "AB9B62CD4D056717D9A8CFBE0F79B277",
+          "SourceString": "<biaoti>Summoning</>\r\nA 1× Summon costs 1 summoning coupon. A 10× Summon costs 10 summoning coupons.\r\n\r\n<biaoti>Availability</>\r\nLong Term\r\n\r\n<biaoti>Probability</>\r\n<orange>SSR</> Probability: 0.1%\r\n<orange>Colossus Arm, </><orange>Missile Barrage, </><orange>Spacetime Rift</>\r\n<purple>SR</> Probability: 0.5%\r\n<purple>Hovering Cannon, </><purple>Omnium Handcannon, </><purple>Quantum Cloak, </><purple>Cybernetic Arm, </><purple>Strange Cube</>\r\n<blue>R</> Probability: 5%\r\n<blue>Omnium Shot, </><blue>Magnetic Pulse</>\r\n<green>N</> Probability: 73.4%\r\n<green>Canned Spinach, </><green>Rocket Boots, </><green>Magnetic Shield</>\r\n<purple>SR Materials</> Probability: 1%\r\n<purple>SR Intermediate Eternal Gold</>\r\n<blue>R Materials</> Probability: 20%\r\n<blue>Basic Eternal Gold</>"
+        }
+      },
+      "recover": {
+        "Description": {
+          "Namespace": "",
+          "Key": "4BA9D5E94D71022E076180807863F6B7",
+          "SourceString": "<biaoti>Reward Recovery</>\r\n1. Applicable for: Bounty Mission, Vitality, Mia's Kitchen.\r\n2. Reward recovery attempts are stackable. Extra attempts beyond the limit will not be counted.\r\n3. Extra daily vitality will be converted into rewards at a certain rate. Wanderers can claim the rewards directly on the reward recovery page."
+        }
+      },
+      "pethouse": {
+        "Description": {
+          "Namespace": "",
+          "Key": "A5F86D47497F9A83A0435988D2EA419E",
+          "SourceString": "<biaoti>Smart Servant Hub</>\r\n1. Workstation upgrades cost <orange>construction materials</> which can be obtained mainly from <orange>Smart Servant Gathering</>.\r\n2. Upgrade a Workstation to increase the number of smart servants you can summon.\r\n3. The productivity of a Workstation is a function of the productivity of all the smart servants in it.\r\n4. Smart servant productions have to be <orange>claimed manually</>. Extra productions beyond the temporary storage limit will not be stored.\r\n4. Some Workstations will have their own <orange>Smart Servant Stores</> available after upgrade."
+        }
+      },
+      "RechargeRebate": {
+        "Description": {
+          "Namespace": "",
+          "Key": "4AADADDA4761B138A79CA08898544921",
+          "SourceString": "Test Instructions\r\nWanderers' purchases in the Suppressor - Final Test will all be refunded according to the \"Suppressor - Final Test Purchase Refund Policy\" after the official launch.\r\n\r\nSuppressor - Final Test Purchase Refund Policy\r\n1. The total amount of your purchases will be refunded to you in the form of Tanium at progressive rates after the official launch. 1 RMB = 10 Tanium.\r\n2. Standard: \r\nView the related page for the detailed progressive rates.\r\n3. Tanium refunded in different brackets will be added together to be the total amount you'll receive.\r\n4. For Monthly Passes, Passes, Cash Packs, etc., in the Suppressor - Final Test, only the amount of your purchase will be refunded. Other rewards will not be included.\r\n\r\nExample\r\nShrooman has made purchases of 648 RMB in the Suppressor - Final Test.\r\nFor the 0–6 RMB segment of his spending, 6 × 500% × 10 = 300 Tanium will be refunded to him.\r\nFor the 7–100 RMB segment, (100 - 6) × 400% × 10 = 3760 Tanium will be refunded.\r\nFor the 101–648 RMB segment, (648 - 100) × 300% × 10 = 16440 Tanium will be refunded.\r\nTherefore, 300 + 3760 + 16440 = 20500 Tanium is the total amount Shrooman will receive.\r\n\r\nRefund Calculation Rules\r\nPurchases made by the same account across servers in the Suppressor - Final Test will all be counted for the refund.\r\nFor example, during the test period, Shrooman has spent 10 RMB on Server A and 20 RMB on Server B, which adds up to 30 RMB in total. Here is how we get the total amount of refund he'll get: \r\nFor the 0–6 RMB segment, he'll get 6 × 500% × 10 = 300 Tanium.\r\nFor the 7–30 RMB segment, he'll get (30 - 6) × 400% × 10 = 960 Tanium.\r\nIn total, he'll get: 300 + 960 = 1260 Tanium.\r\n\r\nRefund Collection Rules\r\n1. Wanderers' purchases in the Suppressor - Final Test will all be refunded in Tanium to one account according to the \"Suppressor - Final Test Purchase Refund Policy\" after the official launch.\r\n2. The refund amount of the Suppressor - Final Test is calculated separately from that of the Suppressor - Amplification Test (3). If Wanderers have made purchases in both tests, the amount spent in both tests will be refunded after the official launch.\r\n3. The refunded amount can be collected on the refund page in game. Please collect it within 90 days from the launch date."
+        }
+      },
+      "GuildHonor": {
+        "Description": {
+          "Namespace": "",
+          "Key": "66E262AB45EEFC137DB995B420A46154",
+          "SourceString": "<biaoti>Honor</>\r\n 1. Complete Crew-related activities to gain honor points.\r\n 2. When honor reaches a certain amount, all Crewmates will receive an honor reward.\r\n 3. Honor points reset every Monday at <orange>05:00</>.\r\n 4. If the honor of a Crew is below 2,000 at the time of reset, it will become \"\"Stagnant.\"\"\r\n 5. If a Crew remains Stagnant for <orange>2 consecutive weeks</>, it will be disbanded automatically."
+        }
+      },
+      "BigSecret": {
+        "Description": {
+          "Namespace": "",
+          "Key": "6F0F2F7341C0C7E8E82C67AD525FA8DB",
+          "SourceString": "<biaoti>Ex Scientia Levels</>\r\n1. Ex Scientia Levels are randomly reset every Monday at <orange>05:10</> with different enemies on different levels.\r\n2. The higher the level, the tougher the challenges and enemies present.\r\n3. Clear a certain number of levels to obtain the <orange>clearance reward</> which can only be claimed once.\r\n\r\n<biaoti>Weapon Damage Enhancement</>\r\n1. Damage of two random weapons will be enhanced every <orange>5 levels</>, regardless of servers.\r\n2. Weapons reset randomly every Monday at <orange>05:10</>.\r\n\r\n<biaoti>Ranking Rewards</>\r\n1. Every Monday at <orange>05:10</>, rewards will be sent according to Wanderers' rankings in their groups, and then the Wanderers are regrouped according to their previous week's rankings.\r\n2. Meanwhile, their <orange>current levels</> will be reset to the closest <orange>level of a multiple of 10</>, rounded down.\r\nFor example, Level 97 will be reset to Level 90; Level 197 will be reset to Level 190.\r\n3. No rewards for Wanderers at Level 0.\r\n\r\n<biaoti>Groupings</>\r\n1. <orange>Trial of Hykros</>: Characters that haven't logged in in the previous week will be automatically assigned to <orange>Trial of Hykros</> this week. If they log in during the current week, they'll be assigned back to the <orange>Battlefield of Elites</>.\r\n2. <orange>Battlefield of Elites</>: Every Monday at <orange>05:10</>, the <orange>top 10</> Wanderers in the Battlefield of Elites will advance into the <orange>Battlefield of Champions</>.\r\n3. <orange>Battlefield of Champions</>: Every Monday at <orange>05:10</>, <orange>bottom 10</> Wanderers in the Battlefield of Champions will be demoted to <orange>Battlefield of Elites</>."
+        }
+      },
+      "xunlian": {
+        "Description": {
+          "Namespace": "",
+          "Key": "A628F39648D9EDEE356E6E9552CF3FD8",
+          "SourceString": "<biaoti>Training</>\r\n1. Each day four random types of training facilities will be available for Wanderers.\r\n2. Wanderers can only participate in one type of training a day.\r\n3. Participate in training at a higher difficulty level to obtain more points."
+        }
+      },
+      "Cafe": {
+        "Description": {
+          "Namespace": "",
+          "Key": "7CAC32F846C822B122EDD8AABE5CA1FA",
+          "SourceString": "1. 3 customers will arrive after <orange>13:00</> every day.\r\n2. They have different likes and dislikes, so pay attention and serve them their favorites to increase customer satisfaction.\r\n3. Each dish will earn somewhere between <orange>5</> to <orange>10</> points based on customer satisfaction.\r\n4. Each customer must be served at least 1 dish, up to 5 dishes.\r\n4. Tip: Earn more points by meeting their needs as much as possible."
+        }
+      },
+      "Shop": {
+        "Description": {
+          "Namespace": "",
+          "Key": "AB2994B84CF4577D5F5934B143F0F4CE",
+          "SourceString": "<blue>Crystal Dust Store</>\r\n1. Participate in any game mode that consumes vitality for a chance to obtain crystal dust. Relic shards change every week, and 2 sets of SSR Relics and 3 sets of SR Relics are guaranteed.\r\n\r\n<blue>Weapon Store</>\r\n1. Participate in Special Order - Choice Weapons to obtain black gold (can only exchange for currently-owned weapons).\r\n\r\n<blue>Matrix Store</>\r\n1. Participate in Special Order - Choice Matrices to obtain base chips. Matrices change daily, and 2 sets of SSR Matrices and SR Matrices are guaranteed.\r\n\r\n<blue>Crew Store</>\r\n1. Participate in crew donations and crew missions to obtain merits.\r\n\r\n<blue>Support Store</>\r\n1. Participate in team-based game modes to obtain support points (details for earning support points can be viewed in the team interface).\r\n\r\n<blue>Points Store</>\r\n1. Participate in Adventures, Challenge, and Training modes to obtain points."
+        }
+      },
+      "RechargeWelfare": {
+        "Description": {
+          "Namespace": "",
+          "Key": "1E20C975449B8B4BCB913AAD0AE49E0A",
+          "SourceString": "<blue>Participation Conditions</>\r\n1. You will automatically participate in the event if you make your first purchase of 30 RMB, 98 RMB, 198 RMB, 328 RMB, or 648 RMB and claim corresponding rewards.\r\n\r\n<blue>Rules</>\r\n1. Make purchase of 30 RMB, 98 RMB, 198 RMB, 328 RMB, or 648 RMB to automatically obtain the corresponding rewards."
+        }
+      },
+      "DC01_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "E2C12C29414D71ECB841A5969EE99C69",
+          "SourceString": " \r\n \r\n \r\n Maze Challenge: Get out of the maze before time runs out"
+        }
+      },
+      "DC02_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "F1E7A87844660D96E667E481027E044C",
+          "SourceString": " \r\n \r\n \r\nPower Challenge: Defeat the enemies on the field before the time runs out."
+        }
+      },
+      "DC03_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "E4784C084DBB79F42A102A9D985C513C",
+          "SourceString": " \r\n \r\n \r\nDefense Challenge: Stop enemies from going through the portal (fewer than 5 enemies entering)"
+        }
+      },
+      "DC04_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "2BA7A63040954E4848BAE18D40C2B58F",
+          "SourceString": " \r\n\r\n\r\nControl Challenge: Reach the destination within the time limit"
+        }
+      },
+      "DC05_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "9BBAFFD74A04F04D760CCD84928B89A9",
+          "SourceString": " \r\n\r\n\r\nControl Challenge: Reach the destination within the time limit"
+        }
+      },
+      "DC06_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "44C4775741B91D6BA4156FB287408A4F",
+          "SourceString": " \r\n\r\n\r\nSurvival Challenge: Stay alive for a set amount of time"
+        }
+      },
+      "DC08_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "1AE58E764EEA69923F070FBA8AFBFB52",
+          "SourceString": " \r\n\r\n\r\nLucky Challenge: Reach the destination within the time limit"
+        }
+      },
+      "DC09_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "C9DC791A469D4FEDAE6B22BA095A0736",
+          "SourceString": " \r\n \r\n \r\n Maze Challenge: collect rift energy for a limited time"
+        }
+      },
+      "DC10_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "D5EAE24E47891728848650BB0A9366A3",
+          "SourceString": " \r\n \r\n \r\n Shooting Challenge: Shoot targets for points until the time runs out"
+        }
+      },
+      "DC11_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "4FB5FAA64D1C9D14B7C501A22F7A4F44",
+          "SourceString": " \r\n\r\n\r\nEnergy Collection: Gather 300 points of energy within the allotted time"
+        }
+      },
+      "DC12_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "488C238644127BB91320A5BA23E3D0B4",
+          "SourceString": " \r\n\r\n\r\nCollecting Challenge: Complete within the time limit"
+        }
+      },
+      "DC13_Activity": {
+        "Description": {
+          "Namespace": "",
+          "Key": "BC0325104E69BF95A6F16088B669B9B2",
+          "SourceString": " \r\n\r\n\r\nMemory Challenge - Match every hologram within the time limit"
+        }
+      },
+      "DangerousIntruder": {
+        "Description": {
+          "Namespace": "",
+          "Key": "46D96A2745ED529B883BE4A781C46672",
+          "SourceString": "<blue>Dangerous Invasion</>\r\n1. The event runs from 10:00 on 27 January 2022 to 05:00 on February 17 and consists of 3 phases.\r\nPhase 1 starts at 10:00 on 27 January. Manna Bio sample research progress limited to 20%.\r\nPhase 2 starts at 05:00 on 3 February. Manna bio sample research progress limited to 50%.\r\nPhase 3 starts at 05:00 on 10 February. Manna bio sample research progress limited to 100%.\r\n2. Once the event has started, Wanderers can obtain Manna bio samples by collecting, defeating, and capturing various creatures, opening chests and boxes, and through event stages.\r\n3. Wanderers can exchange Manna bio samples for contribution points on the event page.\r\n4. Contribution points can be exchanged for rewards in the Contribution Store.\r\n5. Research progress is cumulative by server, not based on individual progress. Work together, Wanderers!"
+        }
+      },
+      "systemtreasure": {
+        "Description": {
+          "Namespace": "",
+          "Key": "42B7A15D4495EA430749809C012CBF8B",
+          "SourceString": "1. 3 orders are deducted for each Scattered Signal claimed. Signal quality is random.\r\n2. Obtain rewards by using the signal to find lost collectors.\r\n3. Signals can be <orange>Blue</>, <orange>Purple</>, and <orange>Orange</>. Higher quality signals earn better rewards.\r\n4. Signals of all qualities last for 24 hours."
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,28 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PlayerSkillMontageDataTable_17",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PlayerSkillMontageData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "GA_FPlayerCannonSkillNew_Level30": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/imitation/FPlayerCannonSkillnew_imitation15.FPlayerCannonSkillnew_imitation15",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerCannonChangeSkill_New": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/imitation/FPlayerCannonChangeSkill_imitation15.FPlayerCannonChangeSkill_imitation15",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      }
+    }
+  }
+]

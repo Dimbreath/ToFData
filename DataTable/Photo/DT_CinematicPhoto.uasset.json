@@ -1,0 +1,791 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CinematicPhoto",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaCinematicRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "23": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "C2CF95C747B7B3DCEDF3AC94911AB71C",
+          "SourceString": "\"Sage\""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "56C485B24D96902EA7E6E7B8346D2929",
+          "SourceString": "Hykros archive HG-031. The speaker in the video clip is supposed to be the leader of the Heirs of Aida, codename \"Sage.\" The children featured in the footage are now living in Astra Shelter, and are proven not connected to the Heirs of Aida after investigation."
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/donghua_xiazuosay.donghua_xiazuosay",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "None",
+        "LevelSequence": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "/Game/Resources/Media/Story.Story",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "/Game/WwiseAudio/Events/SFX/CG/00_Login/Play_Sfx_CG_Login_00_P01.Play_Sfx_CG_Login_00_P01",
+          "SubPathString": ""
+        },
+        "StoryID": "q101030",
+        "CinematicID": "None"
+      },
+      "1": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_001"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_001_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto1.CinematicPhoto1",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_xinglai/HOTTA_xinglai.HOTTA_xinglai",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "1"
+      },
+      "2": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_002"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_002_2"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto2.CinematicPhoto2",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_CICIAppear/HOTTA_CICIAppear_ALL.HOTTA_CICIAppear_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "2"
+      },
+      "3": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_003"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_003_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto3.CinematicPhoto3",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/gong/digongdonghua/dg_01.dg_01",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "3"
+      },
+      "4": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_004"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_004_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto4.CinematicPhoto4",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_xiayu/HOTTA_xiayu.HOTTA_xiayu",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "4"
+      },
+      "5": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_005"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_005_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto5.CinematicPhoto5",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_XIJI/HOTTA_XIJI.HOTTA_XIJI",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "5"
+      },
+      "6": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_006"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_006_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto6.CinematicPhoto6",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_Portal/HOTTA_Portal_All.HOTTA_Portal_All",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "6"
+      },
+      "7": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_007"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_007_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto8.CinematicPhoto8",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_boss_bianyi/HOTTA_boss_bianyi.HOTTA_boss_bianyi",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "7"
+      },
+      "8": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_008"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_008_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto9.CinematicPhoto9",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_shali_dead/new_kill_shali_gai.new_kill_shali_gai",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "8"
+      },
+      "9": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_010"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_010_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto11.CinematicPhoto11",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_Set01_cemetery/HOTTA_Set01_cemetery_All.HOTTA_Set01_cemetery_All",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "9"
+      },
+      "10": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_011"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_011_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto15.CinematicPhoto15",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "city",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_WB/CITY_001/HOTTA_ALL.HOTTA_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "10"
+      },
+      "11": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_012"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_012_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto7.CinematicPhoto7",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "city",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_ZC_baozha/HOTTA_ZC_baozha.HOTTA_ZC_baozha",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "11"
+      },
+      "12": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_013"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_013_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto16.CinematicPhoto16",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "city",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_givekey/HOTTA_givekey.HOTTA_givekey",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "12"
+      },
+      "21": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "033443264F1A414382009BA8AF2894C3",
+          "SourceString": "The Council"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "D30446DE41811246FB0A73B0DE609B06",
+          "SourceString": "The excessive inflow of Omnium is quickly becoming critical. Elric and Klema are about to bring this matter to the attention of Hykros' council."
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto27.CinematicPhoto27",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "city",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_WB/CITY_002/ALL.ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "21"
+      },
+      "13": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_014"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_014_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto12.CinematicPhoto12",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_02/HOTTA_Set02_1LSflower/HOTTA_Set02_1LSflower_ALL.HOTTA_Set02_1LSflower_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "13"
+      },
+      "14": {
+        "CinematicName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_015"
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "cinematic_name_015_0"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto13.CinematicPhoto13",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_2_shatanPK/HOTTA_2_shatanPK_ALL.HOTTA_2_shatanPK_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "14"
+      },
+      "15": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "051FDCBD4C8D338B8B825F88C6CF6160",
+          "SourceString": "Deep Plunge"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "36457C004114D5702EA6C383360F3962",
+          "SourceString": "The dirigible you tried so hard to fix didn't hold under the Ravagers' fierce attack, taking a deep plunge toward the cold lake with you and Melo in it."
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto14.CinematicPhoto14",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_HotBalloon/HOTTA_HotBalloon_ALL.HOTTA_HotBalloon_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "15"
+      },
+      "26": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "AFFD28E543BC67D0940A2C927769B7D2",
+          "SourceString": "Assistance"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "6E3FAA044CB86CC0B6D0C8A2A616087F",
+          "SourceString": "The aberrant was disposed with ease by Zeke and that mysterious woman. You're getting much more assistance from Zeke than you'd like."
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto24.CinematicPhoto24",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_03/HOTTA_Set03_TakeStar/HOTTA_Set03_TakeStar_All.HOTTA_Set03_TakeStar_All",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "26"
+      },
+      "37": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "6BD99888485567EEB4C348B0F876CE44",
+          "SourceString": "From Above"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "2D5321F2432DA9CC0ADA10A64CC263F3",
+          "SourceString": "A new angel descended from above when you're about to shut down the Navia Omnium Tower. A battle is afoot."
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto21.CinematicPhoto21",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_3_tianshi/HOTTA_3_tianshi_ALL.HOTTA_3_tianshi_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "37"
+      },
+      "36": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "608286B3489AC09F6B60FCBBF05290EE",
+          "SourceString": "Time Retracement"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "E9E39DAC4F0030BA23EBAB989585D575",
+          "SourceString": "Black Dog triggered multiple time retracements after being caught by the Hyenas. What can we do about that?"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto22.CinematicPhoto22",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_backintime/timeALL.timeALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "36"
+      },
+      "16": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "F69AA18B44EEAAB55021E2AF401AE1AE",
+          "SourceString": "Truth of Omnium"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "87BDB59848FEA4236837EFA7DC518FD6",
+          "SourceString": "According to Elric, the world is in its current shape because of time retracement. They are trying everything to find the best solution and save the world."
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto38.CinematicPhoto38",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "city",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_04/HOTTASet04Truth/HOTTASet04TruthALL.HOTTASet04TruthALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "16"
+      },
+      "39": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "B87E4821461AF2B54433818F0E6FDC6C",
+          "SourceString": "Frozen Tower"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "CA7A1FDD4B4952A19F22ABBA06EDA543",
+          "SourceString": "You and Franz successfully set up beacons and broke through the ice shell around the Omnium Tower. But the noise attracted a lot of Heirs of Aida."
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto19.CinematicPhoto19",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_5_kaipao/HOTTA_5_kaipao_ALL.HOTTA_5_kaipao_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "39"
+      },
+      "25": {
+        "CinematicName": {
+          "Namespace": "",
+          "Key": "31C1E9F741BCBF7B8EFF5CAE97195280",
+          "SourceString": "A War in Snow"
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "9C7DD76D4A6D0FE4E61D33967FA3745A",
+          "SourceString": "With the ice shell destroyed, Heirs of Aida arrived in droves, followed by Seele, the fourth Angel. You're easily overpowered, but Frigg showed up and took Seele away just before she could deliver the finishing strike. What do they want?"
+        },
+        "Texture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto23.CinematicPhoto23",
+          "SubPathString": ""
+        },
+        "GrayTexture": {
+          "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+          "SubPathString": ""
+        },
+        "LevelID": "QRSL_P",
+        "LevelSequence": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_05/HOTTA_Set05_Retreat/HOTTA_Set05_Retreat_ALL.HOTTA_Set05_Retreat_ALL",
+          "SubPathString": ""
+        },
+        "SoftMediaFile": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "SoftMediaAudio": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "StoryID": "None",
+        "CinematicID": "25"
+      }
+    }
+  }
+]

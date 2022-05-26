@@ -1,0 +1,43 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "ShopRefreshCostDataTable_Overseas",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct ShopRefreshCostRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "GameShopRandomRefreshCost": {
+        "RefreshCostInfo": [
+          {
+            "CountIdx": 1,
+            "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+            "Price": 30
+          },
+          {
+            "CountIdx": 2,
+            "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+            "Price": 50
+          },
+          {
+            "CountIdx": 3,
+            "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+            "Price": 80
+          },
+          {
+            "CountIdx": 4,
+            "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+            "Price": 100
+          },
+          {
+            "CountIdx": 5,
+            "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+            "Price": 100
+          }
+        ]
+      }
+    }
+  }
+]

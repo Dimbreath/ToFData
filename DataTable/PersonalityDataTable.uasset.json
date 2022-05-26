@@ -1,0 +1,410 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PersonalityDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PersonalityData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Reason_1_1": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_01"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": true
+      },
+      "Reason_1_2": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_02"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": true
+      },
+      "Reason_1_3": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_03"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": true
+      },
+      "Reason_1_4": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_04"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": true
+      },
+      "Reason_1_5": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_05"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": true
+      },
+      "Reason_1_6": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_06"
+        },
+        "ShownScore": 85,
+        "IsMainPersonality": true
+      },
+      "Reason_2_1": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_07"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": false
+      },
+      "Reason_2_2": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_08"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": false
+      },
+      "Reason_2_3": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_09"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": false
+      },
+      "Reason_2_4": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_10"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": false
+      },
+      "Reason_2_5": {
+        "PersonalityType": "EPersonalityType::Reason",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_11"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": false
+      },
+      "Self_1_1": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_12"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": true
+      },
+      "Self_1_2": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_13"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": true
+      },
+      "Self_1_3": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_14"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": true
+      },
+      "Self_1_4": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_15"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": true
+      },
+      "Self_1_5": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_16"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": true
+      },
+      "Self_1_6": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_17"
+        },
+        "ShownScore": 85,
+        "IsMainPersonality": true
+      },
+      "Self_2_1": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_18"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": false
+      },
+      "Self_2_2": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_19"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": false
+      },
+      "Self_2_3": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_20"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": false
+      },
+      "Self_2_4": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_21"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": false
+      },
+      "Self_2_5": {
+        "PersonalityType": "EPersonalityType::Self",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_22"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": false
+      },
+      "Brisk_1_1": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_23"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": true
+      },
+      "Brisk_1_2": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_24"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": true
+      },
+      "Brisk_1_3": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_25"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": true
+      },
+      "Brisk_1_4": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_26"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": true
+      },
+      "Brisk_1_5": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_27"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": true
+      },
+      "Brisk_1_6": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_28"
+        },
+        "ShownScore": 85,
+        "IsMainPersonality": true
+      },
+      "Brisk_2_1": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_29"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": false
+      },
+      "Brisk_2_2": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_30"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": false
+      },
+      "Brisk_2_3": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_31"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": false
+      },
+      "Brisk_2_4": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_32"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": false
+      },
+      "Brisk_2_5": {
+        "PersonalityType": "EPersonalityType::Brisk",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_33"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": false
+      },
+      "Leader_1_1": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_34"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": true
+      },
+      "Leader_1_2": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_35"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": true
+      },
+      "Leader_1_3": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_36"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": true
+      },
+      "Leader_1_4": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_37"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": true
+      },
+      "Leader_1_5": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_38"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": true
+      },
+      "Leader_1_6": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_39"
+        },
+        "ShownScore": 85,
+        "IsMainPersonality": true
+      },
+      "Leader_2_1": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_40"
+        },
+        "ShownScore": 0,
+        "IsMainPersonality": false
+      },
+      "Leader_2_2": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_41"
+        },
+        "ShownScore": 25,
+        "IsMainPersonality": false
+      },
+      "Leader_2_3": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_42"
+        },
+        "ShownScore": 40,
+        "IsMainPersonality": false
+      },
+      "Leader_2_4": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_43"
+        },
+        "ShownScore": 55,
+        "IsMainPersonality": false
+      },
+      "Leader_2_5": {
+        "PersonalityType": "EPersonalityType::Leader",
+        "PersonalityText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_44"
+        },
+        "ShownScore": 70,
+        "IsMainPersonality": false
+      }
+    }
+  }
+]

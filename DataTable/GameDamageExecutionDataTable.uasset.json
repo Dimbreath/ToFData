@@ -1,0 +1,6336 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "GameDamageExecutionDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct DamageExecutionData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "GE_damage_mon_boss_023_bizhong": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 2.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MonsterCommonDamage_PT": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.5,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MonsterCommonDamage_KN": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 3.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MonsterCommonDamage_Ultra": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 5.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SwordMeleenew1_2_damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 2.0,
+        "SkillCoefficient": 3.0,
+        "BreakDefSkillCoefficient": 4.0,
+        "MinBreakingSkillCoefficient": 5.0,
+        "MaxBreakingSkillCoefficient": 6.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_damage_mon_hum_053_skill01a": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_damage_mon_hum_053_skill01b": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_damage_mon_hum_053_skill02": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_damage_mon_hum_053_skill03a": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_damage_mon_hum_053_skill03b": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_damage_mon_hum_053_skill04a": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_damage_mon_hum_053_skill04b": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 1.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SwordAirLoop_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.064,
+        "SkillCoefficient": 0.064,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SwordAirLoop_Damage_SR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SwordAirLoop_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_BigSwordAirLoop_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_BigSwordAirLoop_Damage_SR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_BigSwordAirLoop_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.125,
+        "SkillCoefficient": 0.125,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_BigSwordAirAttack4_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_BigSwordAirAttack4_Damage": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_BigSwordAirAttack4_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.125,
+        "SkillCoefficient": 0.125,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DSAirLoop_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.064,
+        "SkillCoefficient": 0.064,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DSAirLoop_Damage_SR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DSAirLoop_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SpearAirLoop_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.064,
+        "SkillCoefficient": 0.064,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SpearAirLoop_Damage_SR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SpearAirLoop_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SpearAirJump_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.064,
+        "SkillCoefficient": 0.064,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SpearAirJump_Damage": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SpearAirJump_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SpearAiJump_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_HammerAirLoop_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_HammerAirLoop_Damage_SR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_HammerAirLoop_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.125,
+        "SkillCoefficient": 0.125,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SickleAirLoop_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SickleAirLoop_Damage_SR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SickleAirLoop_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.125,
+        "SkillCoefficient": 0.125,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SickleAirJump_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.125,
+        "SkillCoefficient": 0.125,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SickleAirJump_Damage": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.125,
+        "SkillCoefficient": 0.125,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldaxeAirLoop_Damage_R": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.08,
+        "SkillCoefficient": 0.08,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldaxeAirLoop_Damage_SR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.1,
+        "SkillCoefficient": 0.1,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldaxeAirLoop_Damage_SSR": {
+        "ExecutionDamageType": 0,
+        "SkillCoefficientMult": 0.125,
+        "SkillCoefficient": 0.125,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SwordSkillEnd_Damage_SSR": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 2.64,
+        "SkillCoefficient": 2.64,
+        "BreakDefSkillCoefficient": 0.6,
+        "MinBreakingSkillCoefficient": 60.0,
+        "MaxBreakingSkillCoefficient": 60.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunAirAttack_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.459563,
+        "SkillCoefficient": 0.459563,
+        "BreakDefSkillCoefficient": 0.126563,
+        "MinBreakingSkillCoefficient": 12.0375,
+        "MaxBreakingSkillCoefficient": 12.0375,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunAirBranch_1_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.704663,
+        "SkillCoefficient": 0.704663,
+        "BreakDefSkillCoefficient": 0.3375,
+        "MinBreakingSkillCoefficient": 32.0,
+        "MaxBreakingSkillCoefficient": 32.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunAirBranch_2_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.986528,
+        "SkillCoefficient": 0.986528,
+        "BreakDefSkillCoefficient": 0.4725,
+        "MinBreakingSkillCoefficient": 44.94,
+        "MaxBreakingSkillCoefficient": 44.94,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunBranch_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.834566,
+        "SkillCoefficient": 0.834566,
+        "BreakDefSkillCoefficient": 0.459675,
+        "MinBreakingSkillCoefficient": 43.72,
+        "MaxBreakingSkillCoefficient": 43.72,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunChangeSkill_1_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 2.383244,
+        "SkillCoefficient": 2.383244,
+        "BreakDefSkillCoefficient": 1.494795,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunChangeSkill_4_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 2.542127,
+        "SkillCoefficient": 2.542127,
+        "BreakDefSkillCoefficient": 1.494795,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunFrontEvade_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.2255,
+        "SkillCoefficient": 1.2255,
+        "BreakDefSkillCoefficient": 0.675,
+        "MinBreakingSkillCoefficient": 64.2,
+        "MaxBreakingSkillCoefficient": 64.2,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunMelee1_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.471477,
+        "SkillCoefficient": 0.471477,
+        "BreakDefSkillCoefficient": 0.2925,
+        "MinBreakingSkillCoefficient": 27.82,
+        "MaxBreakingSkillCoefficient": 27.82,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunMelee2_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.358289,
+        "SkillCoefficient": 0.358289,
+        "BreakDefSkillCoefficient": 0.2475,
+        "MinBreakingSkillCoefficient": 23.54,
+        "MaxBreakingSkillCoefficient": 23.54,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunMelee3_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.196565,
+        "SkillCoefficient": 1.196565,
+        "BreakDefSkillCoefficient": 0.585,
+        "MinBreakingSkillCoefficient": 55.64,
+        "MaxBreakingSkillCoefficient": 55.64,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunMelee4_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.131205,
+        "SkillCoefficient": 1.131205,
+        "BreakDefSkillCoefficient": 0.585,
+        "MinBreakingSkillCoefficient": 55.64,
+        "MaxBreakingSkillCoefficient": 55.64,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunMelee5_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.54,
+        "SkillCoefficient": 1.54,
+        "BreakDefSkillCoefficient": 0.8775,
+        "MinBreakingSkillCoefficient": 83.46,
+        "MaxBreakingSkillCoefficient": 83.46,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunPasLevel0_Damag_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.3,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunPowerAttack_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.229781,
+        "SkillCoefficient": 0.229781,
+        "BreakDefSkillCoefficient": 0.126563,
+        "MinBreakingSkillCoefficient": 13.5,
+        "MaxBreakingSkillCoefficient": 13.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DgunSkill_Damage_Thu_SSR": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 2.697833,
+        "SkillCoefficient": 2.697833,
+        "BreakDefSkillCoefficient": 1.64364,
+        "MinBreakingSkillCoefficient": 250.0,
+        "MaxBreakingSkillCoefficient": 250.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldMelee1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.706483,
+        "SkillCoefficient": 0.706483,
+        "BreakDefSkillCoefficient": 0.7875,
+        "MinBreakingSkillCoefficient": 42.0,
+        "MaxBreakingSkillCoefficient": 42.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldMelee2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.517223,
+        "SkillCoefficient": 0.517223,
+        "BreakDefSkillCoefficient": 0.7875,
+        "MinBreakingSkillCoefficient": 42.0,
+        "MaxBreakingSkillCoefficient": 42.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldMelee3_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.571297,
+        "SkillCoefficient": 0.571297,
+        "BreakDefSkillCoefficient": 0.72,
+        "MinBreakingSkillCoefficient": 38.4,
+        "MaxBreakingSkillCoefficient": 38.4,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldMelee4_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.803818,
+        "SkillCoefficient": 0.803818,
+        "BreakDefSkillCoefficient": 0.54,
+        "MinBreakingSkillCoefficient": 28.8,
+        "MaxBreakingSkillCoefficient": 28.8,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldMelee4_2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.868707,
+        "SkillCoefficient": 0.868707,
+        "BreakDefSkillCoefficient": 1.0125,
+        "MinBreakingSkillCoefficient": 54.0,
+        "MaxBreakingSkillCoefficient": 54.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldSkill1_Damage_SSR": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 2.124063,
+        "SkillCoefficient": 2.124063,
+        "BreakDefSkillCoefficient": 2.1347,
+        "MinBreakingSkillCoefficient": 156.90135,
+        "MaxBreakingSkillCoefficient": 156.90135,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldSkill_Damage_SSR": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 3.398501,
+        "SkillCoefficient": 3.398501,
+        "BreakDefSkillCoefficient": 3.41552,
+        "MinBreakingSkillCoefficient": 251.04216,
+        "MaxBreakingSkillCoefficient": 251.04216,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldSkill1_Damage_SSR_Level6": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 3.398501,
+        "SkillCoefficient": 3.398501,
+        "BreakDefSkillCoefficient": 3.41552,
+        "MinBreakingSkillCoefficient": 251.04216,
+        "MaxBreakingSkillCoefficient": 251.04216,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldSkill_Damage_SSR_Level6": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 5.437602,
+        "SkillCoefficient": 5.437602,
+        "BreakDefSkillCoefficient": 5.464832,
+        "MinBreakingSkillCoefficient": 401.66745,
+        "MaxBreakingSkillCoefficient": 401.66745,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldSkill_SSR_Fire": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 2.124063,
+        "SkillCoefficient": 2.124063,
+        "BreakDefSkillCoefficient": 2.1347,
+        "MinBreakingSkillCoefficient": 156.90135,
+        "MaxBreakingSkillCoefficient": 156.90135,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldSkill_SSR_Fire_Level6": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 3.398501,
+        "SkillCoefficient": 3.398501,
+        "BreakDefSkillCoefficient": 3.41552,
+        "MinBreakingSkillCoefficient": 251.04216,
+        "MaxBreakingSkillCoefficient": 251.04216,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldEvade1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.506948,
+        "SkillCoefficient": 0.506948,
+        "BreakDefSkillCoefficient": 2.25,
+        "MinBreakingSkillCoefficient": 60.0,
+        "MaxBreakingSkillCoefficient": 60.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldEvade1_Damage_OS": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.506948,
+        "SkillCoefficient": 0.506948,
+        "BreakDefSkillCoefficient": 1.125,
+        "MinBreakingSkillCoefficient": 60.0,
+        "MaxBreakingSkillCoefficient": 60.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldAirAttack1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.689872,
+        "SkillCoefficient": 0.689872,
+        "BreakDefSkillCoefficient": 0.79875,
+        "MinBreakingSkillCoefficient": 42.6,
+        "MaxBreakingSkillCoefficient": 42.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldAirAttack2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.728738,
+        "SkillCoefficient": 0.728738,
+        "BreakDefSkillCoefficient": 0.84375,
+        "MinBreakingSkillCoefficient": 45.0,
+        "MaxBreakingSkillCoefficient": 45.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldAirAttack3_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.936672,
+        "SkillCoefficient": 0.936672,
+        "BreakDefSkillCoefficient": 0.63,
+        "MinBreakingSkillCoefficient": 33.6,
+        "MaxBreakingSkillCoefficient": 33.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldAirJump_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.811118,
+        "SkillCoefficient": 0.811118,
+        "BreakDefSkillCoefficient": 2.7,
+        "MinBreakingSkillCoefficient": 96.0,
+        "MaxBreakingSkillCoefficient": 96.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldJumpAttack_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.811118,
+        "SkillCoefficient": 0.811118,
+        "BreakDefSkillCoefficient": 2.7,
+        "MinBreakingSkillCoefficient": 96.0,
+        "MaxBreakingSkillCoefficient": 96.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldJumpAttack_Damage_OS": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.811118,
+        "SkillCoefficient": 0.811118,
+        "BreakDefSkillCoefficient": 1.35,
+        "MinBreakingSkillCoefficient": 96.0,
+        "MaxBreakingSkillCoefficient": 96.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldPowerEnd_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.520846,
+        "SkillCoefficient": 1.520846,
+        "BreakDefSkillCoefficient": 1.6875,
+        "MinBreakingSkillCoefficient": 90.0,
+        "MaxBreakingSkillCoefficient": 90.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldAxe_ChangeSkill_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 3.199967,
+        "SkillCoefficient": 3.199967,
+        "BreakDefSkillCoefficient": 1.9322,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeMelee1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.22869,
+        "SkillCoefficient": 1.22869,
+        "BreakDefSkillCoefficient": 1.08,
+        "MinBreakingSkillCoefficient": 57.6,
+        "MaxBreakingSkillCoefficient": 57.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeMelee2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.722059,
+        "SkillCoefficient": 0.722059,
+        "BreakDefSkillCoefficient": 0.88875,
+        "MinBreakingSkillCoefficient": 47.4,
+        "MaxBreakingSkillCoefficient": 47.4,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeMelee3_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.089687,
+        "SkillCoefficient": 1.089687,
+        "BreakDefSkillCoefficient": 1.125,
+        "MinBreakingSkillCoefficient": 60.0,
+        "MaxBreakingSkillCoefficient": 60.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeMelee4_1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.301431,
+        "SkillCoefficient": 1.301431,
+        "BreakDefSkillCoefficient": 0.81,
+        "MinBreakingSkillCoefficient": 43.2,
+        "MaxBreakingSkillCoefficient": 43.2,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeMelee4_2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.709985,
+        "SkillCoefficient": 0.709985,
+        "BreakDefSkillCoefficient": 1.125,
+        "MinBreakingSkillCoefficient": 60.0,
+        "MaxBreakingSkillCoefficient": 60.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeSkill_Damage_SSR": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 2.814013,
+        "SkillCoefficient": 2.814013,
+        "BreakDefSkillCoefficient": 2.7394,
+        "MinBreakingSkillCoefficient": 232.2027,
+        "MaxBreakingSkillCoefficient": 232.2027,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeEvade1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.234569,
+        "SkillCoefficient": 1.234569,
+        "BreakDefSkillCoefficient": 1.6875,
+        "MinBreakingSkillCoefficient": 90.0,
+        "MaxBreakingSkillCoefficient": 90.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeEvade2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.823046,
+        "SkillCoefficient": 0.823046,
+        "BreakDefSkillCoefficient": 1.6875,
+        "MinBreakingSkillCoefficient": 90.0,
+        "MaxBreakingSkillCoefficient": 90.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeAirAttack1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.077961,
+        "SkillCoefficient": 1.077961,
+        "BreakDefSkillCoefficient": 0.9225,
+        "MinBreakingSkillCoefficient": 49.2,
+        "MaxBreakingSkillCoefficient": 49.2,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeAirAttack2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 0.82819,
+        "SkillCoefficient": 0.82819,
+        "BreakDefSkillCoefficient": 0.70875,
+        "MinBreakingSkillCoefficient": 37.8,
+        "MaxBreakingSkillCoefficient": 37.8,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeAirAttack3_1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.263318,
+        "SkillCoefficient": 1.263318,
+        "BreakDefSkillCoefficient": 1.53,
+        "MinBreakingSkillCoefficient": 81.6,
+        "MaxBreakingSkillCoefficient": 81.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeAirAttack3_2_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.263318,
+        "SkillCoefficient": 1.263318,
+        "BreakDefSkillCoefficient": 1.53,
+        "MinBreakingSkillCoefficient": 81.6,
+        "MaxBreakingSkillCoefficient": 81.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeJumpAttack_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.165982,
+        "SkillCoefficient": 1.165982,
+        "BreakDefSkillCoefficient": 2.86875,
+        "MinBreakingSkillCoefficient": 102.0,
+        "MaxBreakingSkillCoefficient": 102.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxePowerAttack_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 1.11111,
+        "SkillCoefficient": 1.11111,
+        "BreakDefSkillCoefficient": 2.73375,
+        "MinBreakingSkillCoefficient": 97.2,
+        "MaxBreakingSkillCoefficient": 97.2,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_AxeSneak1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 5.7,
+        "SkillCoefficient": 5.7,
+        "BreakDefSkillCoefficient": 5.010215,
+        "MinBreakingSkillCoefficient": 267.21146,
+        "MaxBreakingSkillCoefficient": 267.21146,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ShieldSneak1_Damage": {
+        "ExecutionDamageType": 2,
+        "SkillCoefficientMult": 5.7,
+        "SkillCoefficient": 5.7,
+        "BreakDefSkillCoefficient": 5.010215,
+        "MinBreakingSkillCoefficient": 267.21146,
+        "MaxBreakingSkillCoefficient": 267.21146,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkMelee1_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.564174,
+        "SkillCoefficient": 0.564174,
+        "BreakDefSkillCoefficient": 0.653063,
+        "MinBreakingSkillCoefficient": 46.44,
+        "MaxBreakingSkillCoefficient": 46.44,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkMelee2_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.301687,
+        "SkillCoefficient": 0.301687,
+        "BreakDefSkillCoefficient": 0.30375,
+        "MinBreakingSkillCoefficient": 32.4,
+        "MaxBreakingSkillCoefficient": 32.4,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkMelee3_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.402307,
+        "SkillCoefficient": 0.402307,
+        "BreakDefSkillCoefficient": 0.281137,
+        "MinBreakingSkillCoefficient": 29.988,
+        "MaxBreakingSkillCoefficient": 29.988,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkMelee4_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.397789,
+        "SkillCoefficient": 1.397789,
+        "BreakDefSkillCoefficient": 1.357762,
+        "MinBreakingSkillCoefficient": 144.828,
+        "MaxBreakingSkillCoefficient": 144.828,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkJumpAttack_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.083557,
+        "SkillCoefficient": 1.083557,
+        "BreakDefSkillCoefficient": 0.860625,
+        "MinBreakingSkillCoefficient": 91.8,
+        "MaxBreakingSkillCoefficient": 91.8,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobAppear_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.976508,
+        "SkillCoefficient": 1.976508,
+        "BreakDefSkillCoefficient": 1.442543,
+        "MinBreakingSkillCoefficient": 50.0,
+        "MaxBreakingSkillCoefficient": 50.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee1_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.706941,
+        "SkillCoefficient": 0.706941,
+        "BreakDefSkillCoefficient": 0.472838,
+        "MinBreakingSkillCoefficient": 55.4796,
+        "MaxBreakingSkillCoefficient": 55.4796,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee2_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.386774,
+        "SkillCoefficient": 0.386774,
+        "BreakDefSkillCoefficient": 0.405,
+        "MinBreakingSkillCoefficient": 47.52,
+        "MaxBreakingSkillCoefficient": 47.52,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee3_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.093716,
+        "SkillCoefficient": 1.093716,
+        "BreakDefSkillCoefficient": 0.877837,
+        "MinBreakingSkillCoefficient": 102.9996,
+        "MaxBreakingSkillCoefficient": 102.9996,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee4_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.295807,
+        "SkillCoefficient": 1.295807,
+        "BreakDefSkillCoefficient": 0.574088,
+        "MinBreakingSkillCoefficient": 67.3596,
+        "MaxBreakingSkillCoefficient": 67.3596,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee5_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.884673,
+        "SkillCoefficient": 1.884673,
+        "BreakDefSkillCoefficient": 1.260563,
+        "MinBreakingSkillCoefficient": 147.906,
+        "MaxBreakingSkillCoefficient": 147.906,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobBranch1_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.251668,
+        "SkillCoefficient": 1.251668,
+        "BreakDefSkillCoefficient": 0.795319,
+        "MinBreakingSkillCoefficient": 93.3174,
+        "MaxBreakingSkillCoefficient": 93.3174,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobJumpAttack_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.677223,
+        "SkillCoefficient": 0.677223,
+        "BreakDefSkillCoefficient": 0.430313,
+        "MinBreakingSkillCoefficient": 45.9,
+        "MaxBreakingSkillCoefficient": 45.9,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee6_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.876407,
+        "SkillCoefficient": 0.876407,
+        "BreakDefSkillCoefficient": 0.556875,
+        "MinBreakingSkillCoefficient": 54.0,
+        "MaxBreakingSkillCoefficient": 54.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee7_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.482024,
+        "SkillCoefficient": 0.482024,
+        "BreakDefSkillCoefficient": 0.478913,
+        "MinBreakingSkillCoefficient": 46.44,
+        "MaxBreakingSkillCoefficient": 46.44,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee8_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.92753,
+        "SkillCoefficient": 0.92753,
+        "BreakDefSkillCoefficient": 0.707231,
+        "MinBreakingSkillCoefficient": 68.58,
+        "MaxBreakingSkillCoefficient": 68.58,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee8_1_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.92753,
+        "SkillCoefficient": 0.92753,
+        "BreakDefSkillCoefficient": 0.707231,
+        "MinBreakingSkillCoefficient": 68.58,
+        "MaxBreakingSkillCoefficient": 68.58,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee9_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.519105,
+        "SkillCoefficient": 1.519105,
+        "BreakDefSkillCoefficient": 0.556875,
+        "MinBreakingSkillCoefficient": 54.0,
+        "MaxBreakingSkillCoefficient": 54.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee10_1_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.826432,
+        "SkillCoefficient": 1.826432,
+        "BreakDefSkillCoefficient": 1.160527,
+        "MinBreakingSkillCoefficient": 112.536,
+        "MaxBreakingSkillCoefficient": 112.536,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobMelee10_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.826432,
+        "SkillCoefficient": 1.826432,
+        "BreakDefSkillCoefficient": 1.160527,
+        "MinBreakingSkillCoefficient": 112.536,
+        "MaxBreakingSkillCoefficient": 112.536,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobBranch2_1_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.272383,
+        "SkillCoefficient": 1.272383,
+        "BreakDefSkillCoefficient": 0.889329,
+        "MinBreakingSkillCoefficient": 86.238,
+        "MaxBreakingSkillCoefficient": 86.238,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobBranch2_2_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.272383,
+        "SkillCoefficient": 1.272383,
+        "BreakDefSkillCoefficient": 0.889329,
+        "MinBreakingSkillCoefficient": 86.238,
+        "MaxBreakingSkillCoefficient": 86.238,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobChangeSkill_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.283327,
+        "SkillCoefficient": 1.283327,
+        "BreakDefSkillCoefficient": 1.028957,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Buff_MarkPhy_SSR_Level5_3": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMelee1_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.447955,
+        "SkillCoefficient": 0.447955,
+        "BreakDefSkillCoefficient": 0.696094,
+        "MinBreakingSkillCoefficient": 23.76,
+        "MaxBreakingSkillCoefficient": 23.76,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMelee2_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.316889,
+        "SkillCoefficient": 0.316889,
+        "BreakDefSkillCoefficient": 0.39375,
+        "MinBreakingSkillCoefficient": 13.44,
+        "MaxBreakingSkillCoefficient": 13.44,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMelee3_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.393418,
+        "SkillCoefficient": 0.393418,
+        "BreakDefSkillCoefficient": 0.389062,
+        "MinBreakingSkillCoefficient": 13.28,
+        "MaxBreakingSkillCoefficient": 13.28,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMelee3_1_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.393418,
+        "SkillCoefficient": 0.393418,
+        "BreakDefSkillCoefficient": 0.389062,
+        "MinBreakingSkillCoefficient": 13.28,
+        "MaxBreakingSkillCoefficient": 13.28,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMelee3_2_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.393418,
+        "SkillCoefficient": 0.393418,
+        "BreakDefSkillCoefficient": 0.389062,
+        "MinBreakingSkillCoefficient": 13.28,
+        "MaxBreakingSkillCoefficient": 13.28,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMelee4_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.389899,
+        "SkillCoefficient": 0.389899,
+        "BreakDefSkillCoefficient": 0.421875,
+        "MinBreakingSkillCoefficient": 14.4,
+        "MaxBreakingSkillCoefficient": 14.4,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMelee5_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.332869,
+        "SkillCoefficient": 1.332869,
+        "BreakDefSkillCoefficient": 1.40625,
+        "MinBreakingSkillCoefficient": 48.0,
+        "MaxBreakingSkillCoefficient": 48.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMeleeBranch_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.062161,
+        "SkillCoefficient": 1.062161,
+        "BreakDefSkillCoefficient": 0.984375,
+        "MinBreakingSkillCoefficient": 33.6,
+        "MaxBreakingSkillCoefficient": 33.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalMeleeBranch1_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.756958,
+        "SkillCoefficient": 1.756958,
+        "BreakDefSkillCoefficient": 1.546875,
+        "MinBreakingSkillCoefficient": 52.8,
+        "MaxBreakingSkillCoefficient": 52.8,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttack1_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.657023,
+        "SkillCoefficient": 0.657023,
+        "BreakDefSkillCoefficient": 0.608906,
+        "MinBreakingSkillCoefficient": 20.784,
+        "MaxBreakingSkillCoefficient": 20.784,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttack2_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.657023,
+        "SkillCoefficient": 0.657023,
+        "BreakDefSkillCoefficient": 0.608906,
+        "MinBreakingSkillCoefficient": 20.784,
+        "MaxBreakingSkillCoefficient": 20.784,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttack3_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.561428,
+        "SkillCoefficient": 0.561428,
+        "BreakDefSkillCoefficient": 0.520312,
+        "MinBreakingSkillCoefficient": 17.76,
+        "MaxBreakingSkillCoefficient": 17.76,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttack4_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.682818,
+        "SkillCoefficient": 0.682818,
+        "BreakDefSkillCoefficient": 0.632813,
+        "MinBreakingSkillCoefficient": 21.6,
+        "MaxBreakingSkillCoefficient": 21.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttack5_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.527782,
+        "SkillCoefficient": 0.527782,
+        "BreakDefSkillCoefficient": 0.5625,
+        "MinBreakingSkillCoefficient": 19.2,
+        "MaxBreakingSkillCoefficient": 19.2,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttack5_1_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.923618,
+        "SkillCoefficient": 0.923618,
+        "BreakDefSkillCoefficient": 0.984375,
+        "MinBreakingSkillCoefficient": 33.6,
+        "MaxBreakingSkillCoefficient": 33.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttackBranch_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.527782,
+        "SkillCoefficient": 0.527782,
+        "BreakDefSkillCoefficient": 0.5625,
+        "MinBreakingSkillCoefficient": 19.2,
+        "MaxBreakingSkillCoefficient": 19.2,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirAttackBranch1_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.923618,
+        "SkillCoefficient": 0.923618,
+        "BreakDefSkillCoefficient": 0.984375,
+        "MinBreakingSkillCoefficient": 33.6,
+        "MaxBreakingSkillCoefficient": 33.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalAirJumpAttack_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.121537,
+        "SkillCoefficient": 1.121537,
+        "BreakDefSkillCoefficient": 1.195313,
+        "MinBreakingSkillCoefficient": 40.8,
+        "MaxBreakingSkillCoefficient": 40.8,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalRollForWardAttack_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.876396,
+        "SkillCoefficient": 0.876396,
+        "BreakDefSkillCoefficient": 1.40625,
+        "MinBreakingSkillCoefficient": 48.0,
+        "MaxBreakingSkillCoefficient": 48.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalEvade_Boom": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 3.615133,
+        "SkillCoefficient": 3.615133,
+        "BreakDefSkillCoefficient": 0.527344,
+        "MinBreakingSkillCoefficient": 18.0,
+        "MaxBreakingSkillCoefficient": 18.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalRollBackAttack_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 2.19099,
+        "SkillCoefficient": 2.19099,
+        "BreakDefSkillCoefficient": 1.898438,
+        "MinBreakingSkillCoefficient": 24.0,
+        "MaxBreakingSkillCoefficient": 24.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalSkill_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.816705,
+        "SkillCoefficient": 0.816705,
+        "BreakDefSkillCoefficient": 1.0,
+        "MinBreakingSkillCoefficient": 51.72054,
+        "MaxBreakingSkillCoefficient": 51.72054,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalSkill2_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 2.313997,
+        "SkillCoefficient": 2.313997,
+        "BreakDefSkillCoefficient": 2.840173,
+        "MinBreakingSkillCoefficient": 70.44054,
+        "MaxBreakingSkillCoefficient": 70.44054,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalSkill5_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 2.313997,
+        "SkillCoefficient": 2.313997,
+        "BreakDefSkillCoefficient": 2.840173,
+        "MinBreakingSkillCoefficient": 70.44054,
+        "MaxBreakingSkillCoefficient": 70.44054,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalSkill3_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.179685,
+        "SkillCoefficient": 1.179685,
+        "BreakDefSkillCoefficient": 1.280058,
+        "MinBreakingSkillCoefficient": 46.577778,
+        "MaxBreakingSkillCoefficient": 46.577778,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalSkill4_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.905644,
+        "SkillCoefficient": 1.905644,
+        "BreakDefSkillCoefficient": 2.840173,
+        "MinBreakingSkillCoefficient": 63.24054,
+        "MaxBreakingSkillCoefficient": 63.24054,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalChangeSkill1_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 4.066085,
+        "SkillCoefficient": 4.066085,
+        "BreakDefSkillCoefficient": 4.375,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalChangeSkill2_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.454445,
+        "SkillCoefficient": 0.454445,
+        "BreakDefSkillCoefficient": 0.148888,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalSneak_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 5.7,
+        "SkillCoefficient": 5.7,
+        "BreakDefSkillCoefficient": 8.414568,
+        "MinBreakingSkillCoefficient": 239.34772,
+        "MaxBreakingSkillCoefficient": 239.34772,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Buff_ImmortalThu_SSR_Level3_New_SmallDamage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 6.5,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 3.3,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Buff_ImmortalThu_SSR_Level3_New_BoomDamage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalLevel5Attack_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 2.4,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 1.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Buff_ImmortalThu_SSR_Level3_New_BigDamage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 15.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 3.3,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_ImmortalEvadeBack_Boom_Start": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 3.614904,
+        "SkillCoefficient": 3.575029,
+        "BreakDefSkillCoefficient": 0.527344,
+        "MinBreakingSkillCoefficient": 18.0,
+        "MaxBreakingSkillCoefficient": 18.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkPowerAttackDamage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.23902,
+        "SkillCoefficient": 0.23902,
+        "BreakDefSkillCoefficient": 0.151875,
+        "MinBreakingSkillCoefficient": 16.2,
+        "MaxBreakingSkillCoefficient": 16.2,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobPowerAttackDamage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.177937,
+        "SkillCoefficient": 0.177937,
+        "BreakDefSkillCoefficient": 0.113063,
+        "MinBreakingSkillCoefficient": 12.06,
+        "MaxBreakingSkillCoefficient": 12.06,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobBoomAttackDamage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 0.266906,
+        "SkillCoefficient": 0.266906,
+        "BreakDefSkillCoefficient": 0.113063,
+        "MinBreakingSkillCoefficient": 12.06,
+        "MaxBreakingSkillCoefficient": 12.06,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_MarkRobEvadeAttack_Damage": {
+        "ExecutionDamageType": 1,
+        "SkillCoefficientMult": 1.491485,
+        "SkillCoefficient": 1.491485,
+        "BreakDefSkillCoefficient": 1.2425,
+        "MinBreakingSkillCoefficient": 101.088,
+        "MaxBreakingSkillCoefficient": 101.088,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionMelee1_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.507546,
+        "SkillCoefficient": 0.507546,
+        "BreakDefSkillCoefficient": 0.3375,
+        "MinBreakingSkillCoefficient": 22.5,
+        "MaxBreakingSkillCoefficient": 22.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionMelee2_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.362664,
+        "SkillCoefficient": 0.362664,
+        "BreakDefSkillCoefficient": 0.3375,
+        "MinBreakingSkillCoefficient": 22.5,
+        "MaxBreakingSkillCoefficient": 22.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionMelee3_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.491609,
+        "SkillCoefficient": 0.491609,
+        "BreakDefSkillCoefficient": 0.324,
+        "MinBreakingSkillCoefficient": 21.6,
+        "MaxBreakingSkillCoefficient": 21.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionMelee4_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.224303,
+        "SkillCoefficient": 0.224303,
+        "BreakDefSkillCoefficient": 0.12825,
+        "MinBreakingSkillCoefficient": 8.55,
+        "MaxBreakingSkillCoefficient": 8.55,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionMelee5_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.370814,
+        "SkillCoefficient": 0.370814,
+        "BreakDefSkillCoefficient": 0.19575,
+        "MinBreakingSkillCoefficient": 13.05,
+        "MaxBreakingSkillCoefficient": 13.05,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionSkill_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.291548,
+        "SkillCoefficient": 0.291548,
+        "BreakDefSkillCoefficient": 0.092813,
+        "MinBreakingSkillCoefficient": 6.1875,
+        "MaxBreakingSkillCoefficient": 6.1875,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionEvadeRollAttack_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.5719,
+        "SkillCoefficient": 0.5719,
+        "BreakDefSkillCoefficient": 0.50625,
+        "MinBreakingSkillCoefficient": 22.5,
+        "MaxBreakingSkillCoefficient": 22.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionEvadeRollForWardAttack_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.7157,
+        "SkillCoefficient": 1.7157,
+        "BreakDefSkillCoefficient": 1.51875,
+        "MinBreakingSkillCoefficient": 67.5,
+        "MaxBreakingSkillCoefficient": 67.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionMeleeBranch_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.17911,
+        "SkillCoefficient": 0.17911,
+        "BreakDefSkillCoefficient": 0.145125,
+        "MinBreakingSkillCoefficient": 6.45,
+        "MaxBreakingSkillCoefficient": 6.45,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionAirAttackBranch_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.183833,
+        "SkillCoefficient": 1.183833,
+        "BreakDefSkillCoefficient": 0.151875,
+        "MinBreakingSkillCoefficient": 6.75,
+        "MaxBreakingSkillCoefficient": 6.75,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionAirAttack1_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.624801,
+        "SkillCoefficient": 0.624801,
+        "BreakDefSkillCoefficient": 0.50625,
+        "MinBreakingSkillCoefficient": 22.5,
+        "MaxBreakingSkillCoefficient": 22.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionAirAttack2_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.624801,
+        "SkillCoefficient": 0.624801,
+        "BreakDefSkillCoefficient": 0.50625,
+        "MinBreakingSkillCoefficient": 22.5,
+        "MaxBreakingSkillCoefficient": 22.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionAirAttack3_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.599809,
+        "SkillCoefficient": 0.599809,
+        "BreakDefSkillCoefficient": 0.486,
+        "MinBreakingSkillCoefficient": 21.6,
+        "MaxBreakingSkillCoefficient": 21.6,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionAirAttack4_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.237424,
+        "SkillCoefficient": 0.237424,
+        "BreakDefSkillCoefficient": 0.192375,
+        "MinBreakingSkillCoefficient": 8.55,
+        "MaxBreakingSkillCoefficient": 8.55,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionAirAttack5_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.315117,
+        "SkillCoefficient": 0.315117,
+        "BreakDefSkillCoefficient": 0.293625,
+        "MinBreakingSkillCoefficient": 13.05,
+        "MaxBreakingSkillCoefficient": 13.05,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionChangeSkill1_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.772757,
+        "SkillCoefficient": 1.772757,
+        "BreakDefSkillCoefficient": 1.0125,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_SuspensionChangeSkill2_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.433341,
+        "SkillCoefficient": 0.433341,
+        "BreakDefSkillCoefficient": 0.1215,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Suspension_Fuji_Boom_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.266,
+        "SkillCoefficient": 0.266,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Suspension_Fuji_LightWave_Damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.798,
+        "SkillCoefficient": 0.798,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Suspension_Dianta_Attack_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.399,
+        "SkillCoefficient": 0.399,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 20.0,
+        "MaxBreakingSkillCoefficient": 20.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Suspension_Dianta_BigAttack_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.945,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 40.0,
+        "MaxBreakingSkillCoefficient": 40.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Suspension_Dianta_BigAttack2_damage": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 1.945,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggMelee1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.62117785,
+        "SkillCoefficient": 0.62117785,
+        "BreakDefSkillCoefficient": 0.567,
+        "MinBreakingSkillCoefficient": 45.36,
+        "MaxBreakingSkillCoefficient": 45.36,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggMelee2_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.46233785,
+        "SkillCoefficient": 0.46233785,
+        "BreakDefSkillCoefficient": 0.387,
+        "MinBreakingSkillCoefficient": 30.96,
+        "MaxBreakingSkillCoefficient": 30.96,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggMelee3_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.45558715,
+        "SkillCoefficient": 0.45558715,
+        "BreakDefSkillCoefficient": 0.3015,
+        "MinBreakingSkillCoefficient": 24.12,
+        "MaxBreakingSkillCoefficient": 24.12,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggMelee4_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.55764186,
+        "SkillCoefficient": 0.55764186,
+        "BreakDefSkillCoefficient": 0.45,
+        "MinBreakingSkillCoefficient": 36.0,
+        "MaxBreakingSkillCoefficient": 36.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggMelee5_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.83839154,
+        "SkillCoefficient": 0.83839154,
+        "BreakDefSkillCoefficient": 0.594,
+        "MinBreakingSkillCoefficient": 47.52,
+        "MaxBreakingSkillCoefficient": 47.52,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggMelee5_2_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 1.3454244,
+        "SkillCoefficient": 1.3454244,
+        "BreakDefSkillCoefficient": 0.594,
+        "MinBreakingSkillCoefficient": 47.52,
+        "MaxBreakingSkillCoefficient": 47.52,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggBranch1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.537038,
+        "SkillCoefficient": 0.537038,
+        "BreakDefSkillCoefficient": 0.3528,
+        "MinBreakingSkillCoefficient": 28.224,
+        "MaxBreakingSkillCoefficient": 28.224,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggBranch1_1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.8055571,
+        "SkillCoefficient": 0.8055571,
+        "BreakDefSkillCoefficient": 0.5292,
+        "MinBreakingSkillCoefficient": 42.336,
+        "MaxBreakingSkillCoefficient": 42.336,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggAirAttack1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.64389765,
+        "SkillCoefficient": 0.64389765,
+        "BreakDefSkillCoefficient": 0.423,
+        "MinBreakingSkillCoefficient": 33.84,
+        "MaxBreakingSkillCoefficient": 33.84,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggAirAttack2_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.72609735,
+        "SkillCoefficient": 0.72609735,
+        "BreakDefSkillCoefficient": 0.477,
+        "MinBreakingSkillCoefficient": 38.16,
+        "MaxBreakingSkillCoefficient": 38.16,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggAirAttack3_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.7671972,
+        "SkillCoefficient": 0.7671972,
+        "BreakDefSkillCoefficient": 0.504,
+        "MinBreakingSkillCoefficient": 40.32,
+        "MaxBreakingSkillCoefficient": 40.32,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggAirAttack4_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.43154842,
+        "SkillCoefficient": 0.43154842,
+        "BreakDefSkillCoefficient": 0.2835,
+        "MinBreakingSkillCoefficient": 22.68,
+        "MaxBreakingSkillCoefficient": 22.68,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggAirAttack4_1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.64732265,
+        "SkillCoefficient": 0.64732265,
+        "BreakDefSkillCoefficient": 0.2835,
+        "MinBreakingSkillCoefficient": 22.68,
+        "MaxBreakingSkillCoefficient": 22.68,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggAirAttack5_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.6730845,
+        "SkillCoefficient": 0.6730845,
+        "BreakDefSkillCoefficient": 0.5085,
+        "MinBreakingSkillCoefficient": 40.68,
+        "MaxBreakingSkillCoefficient": 40.68,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggAirAttack5_1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 1.0096267,
+        "SkillCoefficient": 1.0096267,
+        "BreakDefSkillCoefficient": 0.5085,
+        "MinBreakingSkillCoefficient": 40.68,
+        "MaxBreakingSkillCoefficient": 40.68,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggJumpAttack1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.198289,
+        "SkillCoefficient": 0.198289,
+        "BreakDefSkillCoefficient": 0.162,
+        "MinBreakingSkillCoefficient": 12.96,
+        "MaxBreakingSkillCoefficient": 12.96,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggJumpAttack2_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.198289,
+        "SkillCoefficient": 0.198289,
+        "BreakDefSkillCoefficient": 0.162,
+        "MinBreakingSkillCoefficient": 12.96,
+        "MaxBreakingSkillCoefficient": 12.96,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggJumpAttack3_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 1.856704,
+        "SkillCoefficient": 1.856704,
+        "BreakDefSkillCoefficient": 0.486,
+        "MinBreakingSkillCoefficient": 38.88,
+        "MaxBreakingSkillCoefficient": 38.88,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggForwardEvade_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.8569,
+        "SkillCoefficient": 0.8569,
+        "BreakDefSkillCoefficient": 0.27,
+        "MinBreakingSkillCoefficient": 21.5,
+        "MaxBreakingSkillCoefficient": 21.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggBackEvade_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.8569,
+        "SkillCoefficient": 0.8569,
+        "BreakDefSkillCoefficient": 0.27,
+        "MinBreakingSkillCoefficient": 21.5,
+        "MaxBreakingSkillCoefficient": 21.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggSkill_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.62566173,
+        "SkillCoefficient": 0.62566173,
+        "BreakDefSkillCoefficient": 0.3261375,
+        "MinBreakingSkillCoefficient": 26.091,
+        "MaxBreakingSkillCoefficient": 26.091,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggSkill1_1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 2.0213687,
+        "SkillCoefficient": 2.0213687,
+        "BreakDefSkillCoefficient": 1.053675,
+        "MinBreakingSkillCoefficient": 84.294,
+        "MaxBreakingSkillCoefficient": 84.294,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggChangeSkill1_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 2.472888,
+        "SkillCoefficient": 2.472888,
+        "BreakDefSkillCoefficient": 1.3122,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggChangeSkill2_Damage_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 3.709332,
+        "SkillCoefficient": 3.709332,
+        "BreakDefSkillCoefficient": 1.9683,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Damage_Buff_Matrix_SSR30_level1": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Damage_Buff_Matrix_SSR30_level2": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Damage_Buff_Matrix_SSR30_level3": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "Damage_Buff_Matrix_SSR30_level4": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggChangeSkill2_DamageEx_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Frigg_ActorDestroyDamage_L0": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Frigg_ActorDestroyDamage_L3": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_Frigg_ActorDestroyDamage_L1": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.0,
+        "SkillCoefficient": 0.0,
+        "BreakDefSkillCoefficient": 0.0,
+        "MinBreakingSkillCoefficient": 0.0,
+        "MaxBreakingSkillCoefficient": 0.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggBackEvade_Damage2_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.8569,
+        "SkillCoefficient": 0.8569,
+        "BreakDefSkillCoefficient": 0.27,
+        "MinBreakingSkillCoefficient": 21.5,
+        "MaxBreakingSkillCoefficient": 21.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_FriggBackEvade_Damage3_Ice_SSR": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.8569,
+        "SkillCoefficient": 0.8569,
+        "BreakDefSkillCoefficient": 0.27,
+        "MinBreakingSkillCoefficient": 21.5,
+        "MaxBreakingSkillCoefficient": 21.5,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_DsAirJump_Damage_SSR_OS": {
+        "ExecutionDamageType": 4,
+        "SkillCoefficientMult": 0.42,
+        "SkillCoefficient": 0.42,
+        "BreakDefSkillCoefficient": 0.21,
+        "MinBreakingSkillCoefficient": 16.0,
+        "MaxBreakingSkillCoefficient": 16.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_BigSwordPowerAttack1_Damage_SSR_OS": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 0.82,
+        "SkillCoefficient": 0.82,
+        "BreakDefSkillCoefficient": 0.63,
+        "MinBreakingSkillCoefficient": 32.0,
+        "MaxBreakingSkillCoefficient": 32.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_HammerPowerAttack1_Damage_OS": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 1.1,
+        "SkillCoefficient": 1.1,
+        "BreakDefSkillCoefficient": 1.7,
+        "MinBreakingSkillCoefficient": 32.0,
+        "MaxBreakingSkillCoefficient": 32.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_HammerPowerAttack2_Damage_OS": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 2.76,
+        "SkillCoefficient": 2.76,
+        "BreakDefSkillCoefficient": 4.0,
+        "MinBreakingSkillCoefficient": 137.0,
+        "MaxBreakingSkillCoefficient": 137.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      },
+      "GE_HammerPowerAttack3_Damage_OS": {
+        "ExecutionDamageType": 8,
+        "SkillCoefficientMult": 1.295,
+        "SkillCoefficient": 1.295,
+        "BreakDefSkillCoefficient": 2.0,
+        "MinBreakingSkillCoefficient": 64.0,
+        "MaxBreakingSkillCoefficient": 64.0,
+        "ElementConversionRate": 0.0,
+        "SkillCoefficientMultCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "SkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "BreakDefSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MinBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        },
+        "MaxBreakingSkillCoefficientCurve": {
+          "CurveTable": null,
+          "RowName": "None"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "GuildAuctionDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct GuildAuctionData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "WorldBoss": {
+        "AuctionTexture": {
+          "AssetPathName": "/Game/Resources/UI/paimai/card_worldboss.card_worldboss",
+          "SubPathString": ""
+        },
+        "OpenConditionText": {
+          "Namespace": "",
+          "Key": "40BBE0C44BB8FBED36AB228EAD66F7AC",
+          "SourceString": "<miaoshu>Defeat Frontier Clash</>"
+        },
+        "JoinConditionText": {
+          "Namespace": "",
+          "Key": "DCD0D66D4A689EC90CCE70A43F86A577",
+          "SourceString": "All Wanderers in the Crew who participate in the event"
+        },
+        "BonusConditionText": {
+          "Namespace": "",
+          "Key": "DBFAC7624CA4D352107B2BBF29C4820B",
+          "SourceString": "All Wanderers in the Crew who participate in the event"
+        },
+        "OpenTimeText": {
+          "Namespace": "",
+          "Key": "256F432449F146F59F8DFB93825141BC",
+          "SourceString": "Daily 20:40"
+        },
+        "PreviewAwardsDropID": "WorldBoss_Auction_show",
+        "BaseBonus": 100
+      }
+    }
+  }
+]

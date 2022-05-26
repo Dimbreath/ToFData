@@ -1,0 +1,1863 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MakeupPackDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MakeupPackData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "eyebrow",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "face",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "face",
+          "MaterialSlotNames": [
+            "cloth"
+          ]
+        },
+        "Datas": {
+          "MaterialSlotName": "eye",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "face",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "eye",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "None",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "None",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "None",
+          "MaterialSlotNames": []
+        },
+        "MorphDisplays": [
+          {
+            "MorphName": "face_chang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_01"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_kuan",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_02"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_chang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_03"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "taiyangxue_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_04"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "quangu_zuo",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_05"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "quangu_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_06"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "quangu_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_07"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "sai_zuo",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_08"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "sai_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_09"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "sai_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_010"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "sai_jian_old",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_011"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiachunji_zuo",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_012"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiachunji_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_013"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiachunji_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_014"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaba_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_015"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Jaw",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaba_zuo",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_016"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Jaw",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaba_jian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_017"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "bizi_xia",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_018"
+            },
+            "ShapeType": "EMakeupSubType::Nose",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_019"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_kuan",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_020"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_weixiao",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_021"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "cartoonhead0051_ZB",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_022"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaba_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_023"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Jaw",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaegu_zuo",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_024"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaegu_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_025"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaegu_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_026"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "pingguoji_zuo",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_027"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "pingguoji_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_028"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "pingguoji_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_029"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "bizi_huxing",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_030"
+            },
+            "ShapeType": "EMakeupSubType::Nose",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "bizi_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_031"
+            },
+            "ShapeType": "EMakeupSubType::Nose",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_032"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "None",
+            "MorphDisplay": {
+              "CultureInvariantString": null
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.8
+          }
+        ],
+        "BodyClamp": {
+          "X": -1.0,
+          "Y": 1.0
+        },
+        "HeadwearTransforms": [
+          {
+            "ID": "fashion_decoration_21",
+            "Transform": {
+              "Rotation": {
+                "X": -0.28401574,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 0.9588196,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.02,
+                "Y": -7.0,
+                "Z": -1.85781
+              },
+              "Scale3D": {
+                "X": 0.86,
+                "Y": 0.8,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_34",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.23,
+                "Y": 0.3,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 0.9,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_2",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.3,
+                "Z": 0.5
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_26",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 1.2,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_39_huawei",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -0.1,
+                "Y": 1.5,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 0.977,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_5",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -0.2,
+                "Y": 0.45,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_38_oppo",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -7E-06,
+                "Y": 1.200025,
+                "Z": 9E-06
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_40_tap",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -7E-06,
+                "Y": 1.200025,
+                "Z": 9E-06
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ]
+      },
+      "2": {
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "eyebrow",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "face",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "face",
+          "MaterialSlotNames": [
+            "cloth"
+          ]
+        },
+        "Datas": {
+          "MaterialSlotName": "eye",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "face",
+          "MaterialSlotNames": [
+            "face"
+          ]
+        },
+        "Datas": {
+          "MaterialSlotName": "eye",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "None",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "None",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "hair",
+          "MaterialSlotNames": []
+        },
+        "Datas": {
+          "MaterialSlotName": "None",
+          "MaterialSlotNames": []
+        },
+        "MorphDisplays": [
+          {
+            "MorphName": "face_chang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_00"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_yanbianyou",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_01"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_yanbianshang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_02"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_yanbianqian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_03"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Temple",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_quangugu",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_04"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_quangushang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_05"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "face_quanguqian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_06"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiahegu_you",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_07"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiahegu_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_08"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiahegu_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_09"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiahegu_yuan",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_10"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiasai_gu",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_11"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiasai_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_12"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiasai_zuo",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_13"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaba_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_14"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Jaw",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaba_jian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_15"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Jaw",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "xiaba_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_16"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::Jaw",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "bizi_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_17"
+            },
+            "ShapeType": "EMakeupSubType::Nose",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "bizi_zhai",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_18"
+            },
+            "ShapeType": "EMakeupSubType::Nose",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "bizi_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_19"
+            },
+            "ShapeType": "EMakeupSubType::Nose",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "biliang_gu",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_20"
+            },
+            "ShapeType": "EMakeupSubType::Nose",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_21"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.3,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_zai",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_22"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_23"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "zuiba_weixiao",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_021"
+            },
+            "ShapeType": "EMakeupSubType::Mouse",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "chunji_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_25"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "chunji_you",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_26"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.8
+          },
+          {
+            "MorphName": "chunji_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_27"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "pingguoji_qian",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_28"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+            "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.8
+          },
+          {
+            "MorphName": "pingguoji_shang",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_29"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+            "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "pingguoji_you",
+            "MorphDisplay": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "makeupdatatable_2_30"
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+            "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.3
+          },
+          {
+            "MorphName": "None",
+            "MorphDisplay": {
+              "CultureInvariantString": null
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.8
+          },
+          {
+            "MorphName": "None",
+            "MorphDisplay": {
+              "CultureInvariantString": null
+            },
+            "ShapeType": "EMakeupSubType::Face",
+            "ShapeSubType": "EMakeupShapeSubType::None",
+            "ShapeDirection": "EMakeupShapeDirection::None",
+            "bNotRandom": false,
+            "RandomMinValue": -0.8,
+            "RandomMaxValue": 0.8
+          }
+        ],
+        "BodyClamp": {
+          "X": -1.0,
+          "Y": 1.0
+        },
+        "HeadwearTransforms": [
+          {
+            "ID": "fashion_decoration_28",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 1.3,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.1,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_27",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.5,
+                "Z": -0.9
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.15,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_26",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.799986,
+                "Y": 4.2,
+                "Z": 0.5
+              },
+              "Scale3D": {
+                "X": 0.9,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_25",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -3E-06,
+                "Y": 1.099993,
+                "Z": 6E-06
+              },
+              "Scale3D": {
+                "X": 0.92,
+                "Y": 1.1,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_24",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 0.95,
+                "Y": 1.1,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_1",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 1.1,
+                "Z": 1.3
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_2",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.05,
+                "Y": 1.05,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_3",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.2,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_4",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.5,
+                "Y": 2.5,
+                "Z": -0.5
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_5",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.5,
+                "Y": 2.5,
+                "Z": -0.5
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_14",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.1,
+                "Y": 1.1,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_15",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.1,
+                "Y": 1.1,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_17",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": -3.0
+              },
+              "Scale3D": {
+                "X": 0.95,
+                "Y": 1.1,
+                "Z": 1.2
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_18",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.1,
+                "Y": 1.1,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_21",
+            "Transform": {
+              "Rotation": {
+                "X": -0.3255556,
+                "Y": -0.0028410803,
+                "Z": 0.008251101,
+                "W": 0.9454826,
+                "IsNormalized": true,
+                "Size": 0.99999994,
+                "SizeSquared": 0.99999994
+              },
+              "Translation": {
+                "X": 0.254084,
+                "Y": -5.5,
+                "Z": -1.11688
+              },
+              "Scale3D": {
+                "X": 0.8,
+                "Y": 0.8,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_33",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -1.5E-05,
+                "Y": 2.85,
+                "Z": 1.200022
+              },
+              "Scale3D": {
+                "X": 0.88,
+                "Y": 0.96,
+                "Z": 0.75
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_32",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 2.0,
+                "Z": 0.0
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_31",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 2.4,
+                "Z": -0.5
+              },
+              "Scale3D": {
+                "X": 0.94,
+                "Y": 0.96,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_35_bilibili",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 3.500009,
+                "Z": 0.5
+              },
+              "Scale3D": {
+                "X": 0.8,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_36_haoyou",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 3.500009,
+                "Z": 0.5
+              },
+              "Scale3D": {
+                "X": 0.8,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_37_jiuyou",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 3.500009,
+                "Z": 0.5
+              },
+              "Scale3D": {
+                "X": 0.8,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_38_oppo",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.799986,
+                "Y": 4.2,
+                "Z": 0.5
+              },
+              "Scale3D": {
+                "X": 0.9,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_39_huawei",
+            "Transform": {
+              "Rotation": {
+                "X": 0.026176998,
+                "Y": 5.8898905E-08,
+                "Z": -2.773124E-08,
+                "W": 0.99965733,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": -0.1,
+                "Y": 3.5,
+                "Z": -1.299923
+              },
+              "Scale3D": {
+                "X": 0.87,
+                "Y": 0.9,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_34",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 3.3,
+                "Z": 1E-06
+              },
+              "Scale3D": {
+                "X": 0.85,
+                "Y": 0.85,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_29",
+            "Transform": {
+              "Rotation": {
+                "X": 0.026177,
+                "Y": 0.0,
+                "Z": -0.0,
+                "W": 0.999657,
+                "IsNormalized": true,
+                "Size": 0.99999964,
+                "SizeSquared": 0.9999993
+              },
+              "Translation": {
+                "X": -0.1,
+                "Y": 3.5,
+                "Z": -1.299923
+              },
+              "Scale3D": {
+                "X": 0.87,
+                "Y": 0.9,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_40_tap",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.799986,
+                "Y": 4.2,
+                "Z": 0.5
+              },
+              "Scale3D": {
+                "X": 0.9,
+                "Y": 0.9,
+                "Z": 0.9
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_42_heihe",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.0,
+                "Y": 0.5,
+                "Z": -0.9
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.15,
+                "Z": 1.0
+              }
+            }
+          },
+          {
+            "ID": "fashion_decoration_41_douliu",
+            "Transform": {
+              "Rotation": {
+                "X": 0.0,
+                "Y": -0.0,
+                "Z": 0.0,
+                "W": 1.0,
+                "IsNormalized": true,
+                "Size": 1.0,
+                "SizeSquared": 1.0
+              },
+              "Translation": {
+                "X": 0.5,
+                "Y": 2.5,
+                "Z": -0.5
+              },
+              "Scale3D": {
+                "X": 1.0,
+                "Y": 1.0,
+                "Z": 1.0
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+]

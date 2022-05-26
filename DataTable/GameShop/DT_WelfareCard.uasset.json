@@ -1,0 +1,78 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_WelfareCard",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaWelfareCardRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "WeekCard": {
+          "BuyAwardDiamond": 60,
+          "BuyAwardFakeDiamond": 0,
+          "MailTitle": "mail_title_week_card",
+          "MailContent": "mail_content_week_card",
+          "MailSender": "mail_sender_system",
+          "RandomGift": "None",
+          "ItemArray": [
+            {
+              "ItemID": "Currency_BoundDiamond_60",
+              "Amount": 1,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            }
+          ]
+        },
+        "MonthCard": {
+          "BuyAwardDiamond": 300,
+          "BuyAwardFakeDiamond": 0,
+          "MailTitle": "mail_title_month_card",
+          "MailContent": "mail_content_month_card",
+          "MailSender": "mail_sender_system",
+          "RandomGift": "gift_monthcard_autouse",
+          "ItemArray": [
+            {
+              "ItemID": "Item_FakeDiamond",
+              "Amount": 100,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            },
+            {
+              "ItemID": "gift_monthcard_autouse",
+              "Amount": 1,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            }
+          ]
+        },
+        "ForeverCard": {
+          "BuyAwardDiamond": 980,
+          "BuyAwardFakeDiamond": 0,
+          "MailTitle": "mail_title_forever_card",
+          "MailContent": "mail_content_forever_card",
+          "MailSender": "mail_sender_system",
+          "RandomGift": "None",
+          "ItemArray": [
+            {
+              "ItemID": "Currency_BoundDiamond_60",
+              "Amount": 1,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            }
+          ]
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PreferentialGiftConditionDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PreferentialGiftConditionRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "101": {
+        "ConditionID": "101",
+        "MinLevel": 1,
+        "MaxLevel": 26,
+        "QuestID": "None"
+      },
+      "102": {
+        "ConditionID": "102",
+        "MinLevel": 27,
+        "MaxLevel": 100,
+        "QuestID": "None"
+      },
+      "103": {
+        "ConditionID": "103",
+        "MinLevel": 15,
+        "MaxLevel": 26,
+        "QuestID": "None"
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "SpeakDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct SpeakData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "speak_1": {
+        "RoleIndex": 1,
+        "ExpressionId": "expression_1",
+        "SpeakStyle": "ESpeakStyleType::Normal",
+        "Sound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0001_f.Play_Vo_Pinch_Face_Player_0001_f",
+          "SubPathString": ""
+        }
+      },
+      "speak_3": {
+        "RoleIndex": 1,
+        "ExpressionId": "expression_2",
+        "SpeakStyle": "ESpeakStyleType::Normal",
+        "Sound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0003_f.Play_Vo_Pinch_Face_Player_0003_f",
+          "SubPathString": ""
+        }
+      },
+      "speak_5": {
+        "RoleIndex": 2,
+        "ExpressionId": "expression_3",
+        "SpeakStyle": "ESpeakStyleType::Normal",
+        "Sound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0003_m.Play_Vo_Pinch_Face_Player_0003_m",
+          "SubPathString": ""
+        }
+      },
+      "speak_7": {
+        "RoleIndex": 2,
+        "ExpressionId": "expression_4",
+        "SpeakStyle": "ESpeakStyleType::Normal",
+        "Sound": {
+          "AssetPathName": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0001_m.Play_Vo_Pinch_Face_Player_0001_m",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

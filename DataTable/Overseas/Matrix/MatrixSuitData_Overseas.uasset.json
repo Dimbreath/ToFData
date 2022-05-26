@@ -1,0 +1,2720 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MatrixSuitData_Overseas",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MatrixSuitData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "suit_N1_0": {
+        "SuitName": "绿色1",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_N/Buff_Matrix_N_1.Buff_Matrix_N_1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_N_1_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 20.0
+          }
+        ]
+      },
+      "suit_N2_0": {
+        "SuitName": "绿色2",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_N/Buff_Matrix_N_2.Buff_Matrix_N_2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_N_2_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 20.0
+          }
+        ]
+      },
+      "suit_R1_0": {
+        "SuitName": "蓝色1",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_1_level1.Buff_Matrix_R_1_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_R_1_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 35.0
+          }
+        ]
+      },
+      "suit_R2_0": {
+        "SuitName": "蓝色2",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_2_level1.Buff_Matrix_R_2_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_R_2_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 35.0
+          }
+        ]
+      },
+      "suit_R3_0": {
+        "SuitName": "蓝色3",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_3_level1.Buff_Matrix_R_3_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_R_3_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 35.0
+          }
+        ]
+      },
+      "suit_R4_0": {
+        "SuitName": "蓝色4",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_4_level1.Buff_Matrix_R_4_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_R_4_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 35.0
+          }
+        ]
+      },
+      "suit_R6_0": {
+        "SuitName": "蓝色6",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_6_level1.Buff_Matrix_R_6_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_R_6_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 35.0
+          }
+        ]
+      },
+      "suit_R7_0": {
+        "SuitName": "蓝色7",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_7_level1.Buff_Matrix_R_7_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_R_7_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 35.0
+          }
+        ]
+      },
+      "suit_SR1_0": {
+        "SuitName": "区域boss食人花",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_1/Buff_Matrix_SR_1_level1.Buff_Matrix_SR_1_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_1_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR1_1": {
+        "SuitName": "区域boss食人花",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_1/Buff_Matrix_SR_1_level2.Buff_Matrix_SR_1_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_1_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR1_2": {
+        "SuitName": "区域boss食人花",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_1/Buff_Matrix_SR_1_level3.Buff_Matrix_SR_1_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_1_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR2_0": {
+        "SuitName": "区域boss狗",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level1.Buff_Matrix_SR_2_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_2_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR2_1": {
+        "SuitName": "区域boss狗",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level2.Buff_Matrix_SR_2_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_2_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR2_2": {
+        "SuitName": "区域boss狗",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level3.Buff_Matrix_SR_2_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_2_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR3_0": {
+        "SuitName": "区域boss龙虾",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_3/Buff_Matrix_SR_3_level1.Buff_Matrix_SR_3_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_3_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR3_1": {
+        "SuitName": "区域boss龙虾",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_3/Buff_Matrix_SR_3_level2.Buff_Matrix_SR_3_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_3_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR3_2": {
+        "SuitName": "区域boss龙虾",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_3/Buff_Matrix_SR_3_level3.Buff_Matrix_SR_3_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_3_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR4_0": {
+        "SuitName": "区域boss鳄鱼",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_4/Buff_Matrix_SR_4_level1.Buff_Matrix_SR_4_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_4_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR4_1": {
+        "SuitName": "区域boss鳄鱼",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_4/Buff_Matrix_SR_4_level2.Buff_Matrix_SR_4_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_4_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR4_2": {
+        "SuitName": "区域boss鳄鱼",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_4/Buff_Matrix_SR_4_level3.Buff_Matrix_SR_4_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_4_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR5_0": {
+        "SuitName": "区域boss双头犬",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_5/level1/Buff_Matrix_SR_5_level1_add.Buff_Matrix_SR_5_level1_add_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_5_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR5_1": {
+        "SuitName": "区域boss双头犬",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_5/level2/Buff_Matrix_SR_5_level2_add.Buff_Matrix_SR_5_level2_add_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_5_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR5_2": {
+        "SuitName": "区域boss双头犬",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_5/level3/Buff_Matrix_SR_5_level3_add.Buff_Matrix_SR_5_level3_add_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_5_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR6_0": {
+        "SuitName": "SR法杖",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_6/Buff_Matrix_SR_6_level1.Buff_Matrix_SR_6_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_6_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR6_1": {
+        "SuitName": "SR法杖",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_6/Buff_Matrix_SR_6_level2.Buff_Matrix_SR_6_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_6_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR6_2": {
+        "SuitName": "SR法杖",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_6/Buff_Matrix_SR_6_level3.Buff_Matrix_SR_6_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_6_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR7_0": {
+        "SuitName": "SR魔法炮",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_13/Buff_Matrix_SR_13_level1.Buff_Matrix_SR_13_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_13_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR7_1": {
+        "SuitName": "SR魔法炮",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_13/Buff_Matrix_SR_13_level2.Buff_Matrix_SR_13_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_13_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR7_2": {
+        "SuitName": "SR魔法炮",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_13/Buff_Matrix_SR_13_level3.Buff_Matrix_SR_13_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_13_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR8_0": {
+        "SuitName": "SR锤子",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_12/level1/Buff_Matrix_SR_12_level1.Buff_Matrix_SR_12_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_12_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR8_1": {
+        "SuitName": "SR锤子",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_12/level2/Buff_Matrix_SR_12_level2.Buff_Matrix_SR_12_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_12_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR8_2": {
+        "SuitName": "SR锤子",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_12/level3/Buff_Matrix_SR_12_level3.Buff_Matrix_SR_12_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_12_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR9_0": {
+        "SuitName": "SR弓",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_10/Buff_Matrix_SR_10_level1.Buff_Matrix_SR_10_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_10_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR9_1": {
+        "SuitName": "SR弓",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_10/Buff_Matrix_SR_10_level2.Buff_Matrix_SR_10_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_10_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR9_2": {
+        "SuitName": "SR弓",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_10/Buff_Matrix_SR_10_level3.Buff_Matrix_SR_10_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_10_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR10_0": {
+        "SuitName": "SR雷枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level1.buff_matrix_SR_7_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_7_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR10_1": {
+        "SuitName": "SR雷枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level2.buff_matrix_SR_7_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_7_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR10_2": {
+        "SuitName": "SR雷枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level3.buff_matrix_SR_7_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_7_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR11_0": {
+        "SuitName": "SR双刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_11/Buff_Matrix_SR_11_level1.Buff_Matrix_SR_11_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_11_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR11_1": {
+        "SuitName": "SR双刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_11/Buff_Matrix_SR_11_level2.Buff_Matrix_SR_11_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_11_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR11_2": {
+        "SuitName": "SR双刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_11/Buff_Matrix_SR_11_level3.Buff_Matrix_SR_11_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_11_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR12_0": {
+        "SuitName": "SR长枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level1.buff_matrix_SR_7_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_7_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR12_1": {
+        "SuitName": "SR长枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level2.buff_matrix_SR_7_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_7_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR12_2": {
+        "SuitName": "SR长枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level3.buff_matrix_SR_7_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_7_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SR13_0": {
+        "SuitName": "SR短剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_9/Buff_Matrix_SR_9_level1.Buff_Matrix_SR_9_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_9_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          }
+        ]
+      },
+      "suit_SR13_1": {
+        "SuitName": "SR短剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_9/Buff_Matrix_SR_9_level2.Buff_Matrix_SR_9_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_9_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          }
+        ]
+      },
+      "suit_SR13_2": {
+        "SuitName": "SR短剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_9/Buff_Matrix_SR_9_level3.Buff_Matrix_SR_9_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 3,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SR_9_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          }
+        ]
+      },
+      "suit_SSR1_0": {
+        "SuitName": "SSR冰大剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level1.Buff_Matrix_SSR_1_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_1_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level1.Buff_Matrix_SSR2_Sea_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR2_Sea_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR1_1": {
+        "SuitName": "SSR冰大剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level2.Buff_Matrix_SSR_1_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_1_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level2.Buff_Matrix_SSR2_Sea_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR2_Sea_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR1_2": {
+        "SuitName": "SSR冰大剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level3.Buff_Matrix_SSR_1_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_1_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level3.Buff_Matrix_SSR2_Sea_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR2_Sea_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR1_3": {
+        "SuitName": "SSR冰大剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level4.Buff_Matrix_SSR_1_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_1_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level4.Buff_Matrix_SSR2_Sea_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR2_Sea_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR2_0": {
+        "SuitName": "SSR弓",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Buff_Matrix_SSR_7_level1.Buff_Matrix_SSR_7_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_7_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level1.Buff_Matrix_SSR_8_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_8_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR2_1": {
+        "SuitName": "SSR弓",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Buff_Matrix_SSR_7_level2.Buff_Matrix_SSR_7_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_7_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level2.Buff_Matrix_SSR_8_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_8_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR2_2": {
+        "SuitName": "SSR弓",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Buff_Matrix_SSR_7_level3.Buff_Matrix_SSR_7_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_7_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level3.Buff_Matrix_SSR_8_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_8_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR2_3": {
+        "SuitName": "SSR弓",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Buff_Matrix_SSR_7_level4.Buff_Matrix_SSR_7_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_7_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level4.Buff_Matrix_SSR_8_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_8_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR3_0": {
+        "SuitName": "SSR法杖",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level1.Buff_Matrix_SSR_3_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_3_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level1/Buff_Matrix_SSR_4_level1.Buff_Matrix_SSR_4_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_4_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR3_1": {
+        "SuitName": "SSR法杖",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level2.Buff_Matrix_SSR_3_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_3_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level2/Buff_Matrix_SSR_4_level2.Buff_Matrix_SSR_4_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_4_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR3_2": {
+        "SuitName": "SSR法杖",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level3.Buff_Matrix_SSR_3_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_3_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level3/Buff_Matrix_SSR_4_level3.Buff_Matrix_SSR_4_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_4_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR3_3": {
+        "SuitName": "SSR法杖",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level4.Buff_Matrix_SSR_3_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_3_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level4/Buff_Matrix_SSR_4_level4.Buff_Matrix_SSR_4_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_4_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR4_0": {
+        "SuitName": "SSR镰刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_11/level1/Buff_Matrix_SSR_11_level1.Buff_Matrix_SSR_11_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR11_Sea_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level1.Buff_Matrix_SSR_12_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_12_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR4_1": {
+        "SuitName": "SSR镰刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_11/level2/Buff_Matrix_SSR_11_level2.Buff_Matrix_SSR_11_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR11_Sea_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level2.Buff_Matrix_SSR_12_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_12_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR4_2": {
+        "SuitName": "SSR镰刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_11/level3/Buff_Matrix_SSR_11_level3.Buff_Matrix_SSR_11_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR11_Sea_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level3.Buff_Matrix_SSR_12_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_12_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR4_3": {
+        "SuitName": "SSR镰刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_11/level4/Buff_Matrix_SSR_11_level4.Buff_Matrix_SSR_11_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR11_Sea_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level4.Buff_Matrix_SSR_12_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_12_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR5_0": {
+        "SuitName": "SSR火枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level1.Buff_Matrix_SSR9_Sea_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR9_Sea_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level1.Buff_Matrix_SSR10_Sea_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR10_Sea_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR5_1": {
+        "SuitName": "SSR火枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level2.Buff_Matrix_SSR9_Sea_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR9_Sea_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level2.Buff_Matrix_SSR10_Sea_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR10_Sea_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR5_2": {
+        "SuitName": "SSR火枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level3.Buff_Matrix_SSR9_Sea_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR9_Sea_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level3.Buff_Matrix_SSR10_Sea_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR10_Sea_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR5_3": {
+        "SuitName": "SSR火枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level4.Buff_Matrix_SSR9_Sea_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR9_Sea_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level4.Buff_Matrix_SSR10_Sea_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR10_Sea_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR6_0": {
+        "SuitName": "SSR短剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level1/Buff_Matrix_SSR_6_level1.Buff_Matrix_SSR_6_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_6_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level1.Buff_Matrix_SSR_5_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_5_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR6_1": {
+        "SuitName": "SSR短剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level2/Buff_Matrix_SSR_6_level2.Buff_Matrix_SSR_6_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_6_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level2.Buff_Matrix_SSR_5_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_5_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR6_2": {
+        "SuitName": "SSR短剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level3/Buff_Matrix_SSR_6_level3.Buff_Matrix_SSR_6_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_6_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level3.Buff_Matrix_SSR_5_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_5_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR6_3": {
+        "SuitName": "SSR短剑",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level4/Buff_Matrix_SSR_6_level4.Buff_Matrix_SSR_6_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_6_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level4.Buff_Matrix_SSR_5_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_5_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR7_0": {
+        "SuitName": "SSR月轮",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level1.Buff_Matrix_SSR_13_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_13_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level1/Buff_Matrix_SSR_14_level1.Buff_Matrix_SSR_14_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_14_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR7_1": {
+        "SuitName": "SSR月轮",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level2.Buff_Matrix_SSR_13_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_13_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level2/Buff_Matrix_SSR_14_level2.Buff_Matrix_SSR_14_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_14_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR7_2": {
+        "SuitName": "SSR月轮",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level3.Buff_Matrix_SSR_13_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_13_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level3/Buff_Matrix_SSR_14_level3.Buff_Matrix_SSR_14_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_14_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR7_3": {
+        "SuitName": "SSR月轮",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level4.Buff_Matrix_SSR_13_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_13_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level4/Buff_Matrix_SSR_14_level4.Buff_Matrix_SSR_14_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_14_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR8_0": {
+        "SuitName": "SSR魔方",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level1.Buff_Matrix_SSR_15_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_15_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level1/Buff_Matrix_SSR_16_level1.Buff_Matrix_SSR_16_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_16_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR8_1": {
+        "SuitName": "SSR魔方",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level2.Buff_Matrix_SSR_15_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_15_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level2/Buff_Matrix_SSR_16_level2.Buff_Matrix_SSR_16_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_16_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR8_2": {
+        "SuitName": "SSR魔方",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level3.Buff_Matrix_SSR_15_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_15_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level3/Buff_Matrix_SSR_16_level3.Buff_Matrix_SSR_16_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_16_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR8_3": {
+        "SuitName": "SSR魔方",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level4.Buff_Matrix_SSR_15_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_15_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level4/Buff_Matrix_SSR_16_level4.Buff_Matrix_SSR_16_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_16_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR9_0": {
+        "SuitName": "SSR双枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level1.Buff_Matrix_SSR17_Sea_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR17_Sea_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level1.Buff_Matrix_Sea_SSR18_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_Sea_SSR18_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR9_1": {
+        "SuitName": "SSR双枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level2.Buff_Matrix_SSR17_Sea_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR17_Sea_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level2.Buff_Matrix_Sea_SSR18_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_Sea_SSR18_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR9_2": {
+        "SuitName": "SSR双枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level3.Buff_Matrix_SSR17_Sea_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR17_Sea_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level3.Buff_Matrix_Sea_SSR18_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_Sea_SSR18_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR9_3": {
+        "SuitName": "SSR双枪",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level4.Buff_Matrix_SSR17_Sea_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR17_Sea_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level4.Buff_Matrix_Sea_SSR18_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_Sea_SSR18_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR10_0": {
+        "SuitName": "SSR盾斧",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level1.Buff_Matrix_SSR_19_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_19_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level1/Buff_Matrix_SSR_20_level1.Buff_Matrix_SSR_20_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_20_on1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR10_1": {
+        "SuitName": "SSR盾斧",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level2.Buff_Matrix_SSR_19_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_19_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level2/Buff_Matrix_SSR_20_level2.Buff_Matrix_SSR_20_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_20_on2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR10_2": {
+        "SuitName": "SSR盾斧",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level3.Buff_Matrix_SSR_19_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_19_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level3/Buff_Matrix_SSR_20_level3.Buff_Matrix_SSR_20_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_20_on3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR10_3": {
+        "SuitName": "SSR盾斧",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level4.Buff_Matrix_SSR_19_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_19_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level4/Buff_Matrix_SSR_20_level4.Buff_Matrix_SSR_20_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_20_on4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR11_0": {
+        "SuitName": "SSR双刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level1.Buff_Matrix_SSR21_Sea_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR21_Sea_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 50.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level1.Buff_Matrix_SSR22_Sea_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR22_Sea_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 100.0
+          }
+        ]
+      },
+      "suit_SSR11_1": {
+        "SuitName": "SSR双刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level2.Buff_Matrix_SSR21_Sea_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR21_Sea_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 60.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level2.Buff_Matrix_SSR22_Sea_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR22_Sea_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 120.0
+          }
+        ]
+      },
+      "suit_SSR11_2": {
+        "SuitName": "SSR双刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level3.Buff_Matrix_SSR21_Sea_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR21_Sea_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 70.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level3.Buff_Matrix_SSR22_Sea_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR22_Sea_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 140.0
+          }
+        ]
+      },
+      "suit_SSR11_3": {
+        "SuitName": "SSR双刀",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level4.Buff_Matrix_SSR21_Sea_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR21_Sea_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level4.Buff_Matrix_SSR22_Sea_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR22_Sea_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR12_0": {
+        "SuitName": "马克",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level1.Buff_Matrix_SSR23_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_23_level1_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level1.buff_matrix_ssr24_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr24_level1_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR12_1": {
+        "SuitName": "马克",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level2.Buff_Matrix_SSR23_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_23_level2_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level2.buff_matrix_ssr24_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr24_level2_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR12_2": {
+        "SuitName": "马克",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level3.Buff_Matrix_SSR23_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_23_level3_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level3.buff_matrix_ssr24_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr24_level3_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR12_3": {
+        "SuitName": "马克",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level4.Buff_Matrix_SSR23_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR_23_level4_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level4.buff_matrix_ssr24_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr24_level4_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR13_0": {
+        "SuitName": "白月魁",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level1.buff_matrix_ssr25_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr25_level1_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level1.buff_matrix_ssr26_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr26_level1_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR13_1": {
+        "SuitName": "白月魁",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level2.buff_matrix_ssr25_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr25_level2_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level2.buff_matrix_ssr26_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr26_level2_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR13_2": {
+        "SuitName": "白月魁",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level3.buff_matrix_ssr25_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr25_level3_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level3.buff_matrix_ssr26_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr26_level3_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR13_3": {
+        "SuitName": "白月魁",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level4.buff_matrix_ssr25_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr25_level4_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level4.buff_matrix_ssr26_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "buff_matrix_ssr26_level4_on"
+            },
+            "IsGlobal": true,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR14_0": {
+        "SuitName": "奈美西斯",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Buff_Matrix_SSR27_level1.Buff_Matrix_SSR27_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR27_level1_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level1.Buff_Matirx_SSR28_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR28_level1_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR14_1": {
+        "SuitName": "奈美西斯",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Buff_Matrix_SSR27_level2.Buff_Matrix_SSR27_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR27_level2_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level2.Buff_Matirx_SSR28_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR28_level2_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR14_2": {
+        "SuitName": "奈美西斯",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Buff_Matrix_SSR27_level3.Buff_Matrix_SSR27_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR27_level3_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level3.Buff_Matirx_SSR28_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR28_level3_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR14_3": {
+        "SuitName": "奈美西斯",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Buff_Matrix_SSR27_level4.Buff_Matrix_SSR27_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR27_level4_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level4.Buff_Matirx_SSR28_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR28_level4_on"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR15_0": {
+        "SuitName": "弗丽嘉",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Buff_Matrix_SSR29_level1.Buff_Matrix_SSR29_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR29_on_level1"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level1.Buff_Matrix_SSR30_level1_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR30_on_level1"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR15_1": {
+        "SuitName": "弗丽嘉",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Buff_Matrix_SSR29_level2.Buff_Matrix_SSR29_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR29_on_level2"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level2.Buff_Matrix_SSR30_level2_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR30_on_level2"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR15_2": {
+        "SuitName": "弗丽嘉",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Buff_Matrix_SSR29_level3.Buff_Matrix_SSR29_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR29_on_level3"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level3.Buff_Matrix_SSR30_level3_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR30_on_level3"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      },
+      "suit_SSR15_3": {
+        "SuitName": "弗丽嘉",
+        "Buffs": [
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Buff_Matrix_SSR29_level4.Buff_Matrix_SSR29_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 2,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR29_on_level4"
+            },
+            "IsGlobal": true,
+            "AddScore": 80.0
+          },
+          {
+            "BuffObject": {
+              "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level4.Buff_Matrix_SSR30_level4_C",
+              "SubPathString": ""
+            },
+            "SuitCount": 4,
+            "SuitDetail": {
+              "TableId": "/Game/Resources/CoreBlueprints/DataTable/Skill/BuffDes.BuffDes",
+              "Key": "Buff_Matrix_SSR30_on_level4"
+            },
+            "IsGlobal": false,
+            "AddScore": 160.0
+          }
+        ]
+      }
+    }
+  }
+]

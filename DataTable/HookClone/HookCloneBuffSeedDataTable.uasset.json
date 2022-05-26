@@ -1,0 +1,476 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "HookCloneBuffSeedDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HookCloneBuffSeedData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1001_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistanceice_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistanceice.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1001_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistancefire_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistancefire.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1001_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistancethunder_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistancethunder.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1001_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistancephy_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistancephy.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1002_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immfire_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immfire.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1002_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immice_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immice.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1002_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immphy_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immphy.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1002_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immthunder.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1003_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistanceenergy_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistanceenergy.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1003_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistancefirearms_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistancefirearms.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1003_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistancepuncture_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistancepuncture.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1003_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistancesharp_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistancesharp.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1003_5": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_resistancestrength_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_resistancestrength.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1004_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immenergy_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immenergy.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1004_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immfirearms_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immfirearms.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1004_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immpuncture_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immpuncture.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1004_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immsharp_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immsharp.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1004_5": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_buff_immstrength_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_buff_immstrength.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      },
+      "1005_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_MaxHp-20_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_MaxHp-20.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 3
+      },
+      "1005_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_MaxHp20_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_MaxHp20.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 3
+      },
+      "1005_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_MaxHp50_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_MaxHp50.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 3
+      },
+      "1005_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass HookClone_MaxHp100_C",
+            "ObjectPath": "Hotta/Content/Resources/FB/HookClone/BUFF/HookClone_MaxHp100.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "Weight": 1
+      }
+    }
+  }
+]

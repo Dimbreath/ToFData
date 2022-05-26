@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MaterialImproveExampleConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaImproveExampleConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Name": {
+          "Namespace": "",
+          "Key": "81B0EAC946A697055E8950BE923301D6",
+          "SourceString": "Ruins"
+        },
+        "NameTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/menu/menu_digong.menu_digong",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "380568954B5C3677698E5584201C17C0",
+          "SourceString": "Complete the ruin to obtain material"
+        },
+        "RecommendValue": 5,
+        "UnlockFunctionId": "None",
+        "GotoFormPath": "Path=CloneMain",
+        "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+      },
+      "2": {
+        "Name": {
+          "Namespace": "",
+          "Key": "05504E554ADA7E57E35996B51A54B5EB",
+          "SourceString": "Wormhole"
+        },
+        "NameTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/menu/menu_chongdong.menu_chongdong",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "044E0586401DF11920081BB7582AF37E",
+          "SourceString": "Complete the Wormhole to obtain material"
+        },
+        "RecommendValue": 6,
+        "UnlockFunctionId": "chongdong",
+        "GotoFormPath": "Path=WormholeMainUI",
+        "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+      },
+      "3": {
+        "Name": {
+          "Namespace": "",
+          "Key": "387BBE094617AFDA09D8CB9A7B32DCB2",
+          "SourceString": "Group Instances"
+        },
+        "NameTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/pingji/advance_zudui.advance_zudui",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "8D3B87844CC453EC7093969A06AB1034",
+          "SourceString": "Complete missions in a team to obtain material"
+        },
+        "RecommendValue": 6,
+        "UnlockFunctionId": "None",
+        "GotoFormPath": "Path=TeamCloneForm",
+        "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+      }
+    }
+  }
+]

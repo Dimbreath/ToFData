@@ -1,0 +1,70 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_DailyGiftData",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct DailyGiftData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Free_gift": {
+        "GiftIndex": "4",
+        "DropID": "drop_dailyfree",
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "CurrencyAmount": 0,
+        "Title": "None",
+        "GiftIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "GiftDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Daily_gift_1": {
+        "GiftIndex": "1",
+        "DropID": "drop_dailydiamond1",
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "CurrencyAmount": 60,
+        "Title": "海嘉德",
+        "GiftIcon": {
+          "AssetPathName": "/Game/Resources/UI/DailyGift/mrlb_01.mrlb_01",
+          "SubPathString": ""
+        },
+        "GiftDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Daily_gift_2": {
+        "GiftIndex": "2",
+        "DropID": "drop_dailydiamond2",
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "CurrencyAmount": 60,
+        "Title": "班吉斯",
+        "GiftIcon": {
+          "AssetPathName": "/Game/Resources/UI/DailyGift/mrlb_02.mrlb_02",
+          "SubPathString": ""
+        },
+        "GiftDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Daily_gift_3": {
+        "GiftIndex": "3",
+        "DropID": "drop_dailydiamond3",
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "CurrencyAmount": 120,
+        "Title": "黑市",
+        "GiftIcon": {
+          "AssetPathName": "/Game/Resources/UI/DailyGift/mrlb_03.mrlb_03",
+          "SubPathString": ""
+        },
+        "GiftDescription": {
+          "CultureInvariantString": null
+        }
+      }
+    }
+  }
+]

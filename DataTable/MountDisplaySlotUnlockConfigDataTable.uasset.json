@@ -1,0 +1,34 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MountDisplaySlotUnlockConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MountDisplaySlotUnlockConfig",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "1": {
+        "RequiredTotalLevel": 1,
+        "UnlockSlotCount": 1
+      },
+      "2": {
+        "RequiredTotalLevel": 60,
+        "UnlockSlotCount": 2
+      },
+      "3": {
+        "RequiredTotalLevel": 100,
+        "UnlockSlotCount": 3
+      },
+      "4": {
+        "RequiredTotalLevel": 160,
+        "UnlockSlotCount": 4
+      },
+      "5": {
+        "RequiredTotalLevel": 250,
+        "UnlockSlotCount": 5
+      }
+    }
+  }
+]

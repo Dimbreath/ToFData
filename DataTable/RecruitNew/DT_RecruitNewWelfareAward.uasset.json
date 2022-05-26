@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_RecruitNewWelfareAward",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaRecruitNewWelfareRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "LevelCondition": 1,
+        "AwardDropIdList": [
+          "drop_weapon_sr_first"
+        ]
+      },
+      "2": {
+        "LevelCondition": 1,
+        "AwardDropIdList": [
+          "drop_weapon_sr_first"
+        ]
+      },
+      "3": {
+        "LevelCondition": 15,
+        "AwardDropIdList": [
+          "drop_weapon_sr_first"
+        ]
+      }
+    }
+  }
+]

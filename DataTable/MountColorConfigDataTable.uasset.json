@@ -1,0 +1,2750 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MountColorConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MountColorConfig",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Mount001_Skin_01_Color_01": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount001_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "79F8623047E988C87DEC10965DA5A029",
+          "SourceString": "Falcon"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.502887,
+            "G": 0.89627,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFBCF3FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount002_Skin_01_Color_01": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount002_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "53A6D05D45A974E49677EF9D958E1353",
+          "SourceString": "Chaser"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 0.473532,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFB7FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount003_Skin_01_Color_01": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount003_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7376CF7F402A731E86FC9AB674212223",
+          "SourceString": "Omnium Beast VII"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai+.colour-_bai+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai.colour-_bai",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "None",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.527115,
+            "G": 0.921582,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFC0F6FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount004_Skin_01_Color_01": {
+        "CommonColorId": "bai",
+        "OwnerMountSkinId": "Mount004_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "27E2A23042DA629377635D9A34B4344D",
+          "SourceString": "Monocross"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai+.colour-_bai+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai.colour-_bai",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount005_Skin_01_Color_01": {
+        "CommonColorId": "bai",
+        "OwnerMountSkinId": "Mount005_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "D805D9624B9F1A21C94C6F81238E8E9D",
+          "SourceString": "Dust Wheeler"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai+.colour-_bai+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai.colour-_bai",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount006_Skin_01_Color_01": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount006_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "26572B914F6A581F0D8B0EA805892B46",
+          "SourceString": "Crazy Clown"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 0.0,
+            "B": 0.116971,
+            "A": 1.0,
+            "Hex": "FFFF0060"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount008_Skin_01_Color_01": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount008_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BDD86A6D444A2CA3017DEEAE37917E7B",
+          "SourceString": "Aidan Knight"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.045186,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FF3CFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount011_Skin_01_Color_01": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount011_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "96017FCA479353B7E8EEDAA63F9DB81F",
+          "SourceString": "Voyager"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "None",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount001_Skin_01_Color_02": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount001_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "006443904633D36A2503B39FE9914985",
+          "SourceString": "Falcon"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.220588,
+            "G": 1.024857,
+            "B": 1.6,
+            "A": 1.0,
+            "Hex": "FF81FFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount001_Skin_01_Color_03": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount001_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "CD255F7E4936AD27641846878C6DA5B1",
+          "SourceString": "Falcon"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.8,
+            "G": 0.418849,
+            "B": 1.378705,
+            "A": 1.0,
+            "Hex": "FFFFADFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount001_Skin_01_Color_04": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount001_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "2AE390734C1DA09956C2B3807929FC7B",
+          "SourceString": "Falcon"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.6,
+            "G": 0.707531,
+            "B": 0.100648,
+            "A": 1.0,
+            "Hex": "FFFFDB59"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount001_Skin_01_Color_05": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount001_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "FBE786484623E88CE98BB68C2EEBADE9",
+          "SourceString": "Falcon"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.6,
+            "G": 1.546874,
+            "B": 0.161926,
+            "A": 1.0,
+            "Hex": "FFFFFF70"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount001_Skin_01_Color_06": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount001_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "1B78DC864ADDC89E15F83D84A28D34FE",
+          "SourceString": "Falcon"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.189228,
+            "G": 1.6,
+            "B": 0.39533,
+            "A": 1.0,
+            "Hex": "FF78FFA9"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount001_Skin_01_Color_07": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount001_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "85B70C1646114931F62104A16860B885",
+          "SourceString": "Falcon"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.6,
+            "G": 0.149155,
+            "B": 0.133239,
+            "A": 1.0,
+            "Hex": "FFFF6C66"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount002_Skin_01_Color_02": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount002_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "B8225E734C094C2B6A763AA958791A68",
+          "SourceString": "Chaser"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.287993,
+            "G": 0.886639,
+            "B": 1.3,
+            "A": 1.0,
+            "Hex": "FF92F2FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount002_Skin_01_Color_03": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount002_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "4FCF410343BBA73D5DCEED9166D01BF0",
+          "SourceString": "Chaser"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.6,
+            "G": 0.707531,
+            "B": 0.100648,
+            "A": 1.0,
+            "Hex": "FFFFDB59"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount002_Skin_01_Color_04": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount002_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "F9D8369E49E5DB02C7E7C598DB82E8F0",
+          "SourceString": "Chaser"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.6,
+            "G": 1.546874,
+            "B": 0.161926,
+            "A": 1.0,
+            "Hex": "FFFFFF70"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount002_Skin_01_Color_05": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount002_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7AC14E9641283C8770C3669293AA9104",
+          "SourceString": "Chaser"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.189228,
+            "G": 1.6,
+            "B": 0.39533,
+            "A": 1.0,
+            "Hex": "FF78FFA9"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount002_Skin_01_Color_06": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount002_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BEB253E74910CE703697AB8138CDE125",
+          "SourceString": "Chaser"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.6,
+            "G": 0.149155,
+            "B": 0.133239,
+            "A": 1.0,
+            "Hex": "FFFF6C66"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount002_Skin_01_Color_07": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount002_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "4DD9C37843109CC809FE2F860976BD2D",
+          "SourceString": "Chaser"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.26573,
+            "G": 1.552242,
+            "B": 1.6,
+            "A": 1.0,
+            "Hex": "FF8DFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount007_Skin_01_Color_01": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount007_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7349C0C348F462D831132591B49A1EFA",
+          "SourceString": "Land Strider"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai+.colour-_bai+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_bai.colour-_bai",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 0.270498,
+            "B": 0.863157,
+            "A": 1.0,
+            "Hex": "FFFF8EEF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 0,
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "Mount006_Skin_01_Color_02": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount006_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "0BA41E7D4EB154D24342B18915EC06EF",
+          "SourceString": "Crazy Clown"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.156159,
+            "G": 1.485079,
+            "B": 1.5,
+            "A": 1.0,
+            "Hex": "FF6EFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount006_Skin_01_Color_03": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount006_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "E4792675426D94354E05859E78F1644C",
+          "SourceString": "Crazy Clown"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.255,
+            "G": 1.5,
+            "B": 0.151082,
+            "A": 1.0,
+            "Hex": "FF8AFF6C"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount006_Skin_01_Color_04": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount006_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "E4792675426D94354E05859E78F1644C",
+          "SourceString": "Crazy Clown"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.5,
+            "G": 1.325281,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFFFFF00"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount006_Skin_01_Color_05": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount006_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "E4792675426D94354E05859E78F1644C",
+          "SourceString": "Crazy Clown"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.5,
+            "G": 0.626843,
+            "B": 0.185084,
+            "A": 1.0,
+            "Hex": "FFFFD077"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount006_Skin_01_Color_06": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount006_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "E4792675426D94354E05859E78F1644C",
+          "SourceString": "Crazy Clown"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.5,
+            "G": 0.312089,
+            "B": 1.393831,
+            "A": 1.0,
+            "Hex": "FFFF98FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount006_Skin_01_Color_07": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount006_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "E4792675426D94354E05859E78F1644C",
+          "SourceString": "Crazy Clown"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.325,
+            "G": 0.945728,
+            "B": 1.3,
+            "A": 1.0,
+            "Hex": "FF9BF9FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount003_Skin_01_Color_02": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount003_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7376CF7F402A731E86FC9AB674212223",
+          "SourceString": "Omnium Beast VII"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 2.0,
+            "G": 0.385417,
+            "B": 0.763126,
+            "A": 1.0,
+            "Hex": "FFFFA7E3"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount003_Skin_01_Color_03": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount003_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7376CF7F402A731E86FC9AB674212223",
+          "SourceString": "Omnium Beast VII"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.214926,
+            "G": 1.496378,
+            "B": 1.7,
+            "A": 1.0,
+            "Hex": "FF80FFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount003_Skin_01_Color_04": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount003_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7376CF7F402A731E86FC9AB674212223",
+          "SourceString": "Omnium Beast VII"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 2.0,
+            "G": 0.654867,
+            "B": 0.333333,
+            "A": 1.0,
+            "Hex": "FFFFD49C"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount003_Skin_01_Color_05": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount003_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7376CF7F402A731E86FC9AB674212223",
+          "SourceString": "Omnium Beast VII"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.7,
+            "G": 0.158968,
+            "B": 0.192791,
+            "A": 1.0,
+            "Hex": "FFFF6F79"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount003_Skin_01_Color_06": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount003_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7376CF7F402A731E86FC9AB674212223",
+          "SourceString": "Omnium Beast VII"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.662195,
+            "G": 1.7,
+            "B": 0.567082,
+            "A": 1.0,
+            "Hex": "FFD5FFC7"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount003_Skin_01_Color_07": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount003_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7376CF7F402A731E86FC9AB674212223",
+          "SourceString": "Omnium Beast VII"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.7,
+            "G": 1.118531,
+            "B": 0.239063,
+            "A": 1.0,
+            "Hex": "FFFFFF86"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount004_Skin_01_Color_02": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount004_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "27E2A23042DA629377635D9A34B4344D",
+          "SourceString": "Monocross"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.3,
+            "G": 0.901122,
+            "B": 0.070614,
+            "A": 1.0,
+            "Hex": "FFFFF44B"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount004_Skin_01_Color_03": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount004_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "27E2A23042DA629377635D9A34B4344D",
+          "SourceString": "Monocross"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.227091,
+            "G": 1.0,
+            "B": 0.175437,
+            "A": 1.0,
+            "Hex": "FF83FF74"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount004_Skin_01_Color_04": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount004_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "27E2A23042DA629377635D9A34B4344D",
+          "SourceString": "Monocross"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.1,
+            "G": 0.326108,
+            "B": 0.082851,
+            "A": 1.0,
+            "Hex": "FFFF9B51"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount004_Skin_01_Color_05": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount004_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "27E2A23042DA629377635D9A34B4344D",
+          "SourceString": "Monocross"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.156159,
+            "G": 1.485079,
+            "B": 1.5,
+            "A": 1.0,
+            "Hex": "FF6EFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount004_Skin_01_Color_06": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount004_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "27E2A23042DA629377635D9A34B4344D",
+          "SourceString": "Monocross"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.5,
+            "G": 0.312089,
+            "B": 1.393831,
+            "A": 1.0,
+            "Hex": "FFFF98FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount004_Skin_01_Color_07": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount004_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "27E2A23042DA629377635D9A34B4344D",
+          "SourceString": "Monocross"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.325,
+            "G": 0.945728,
+            "B": 1.3,
+            "A": 1.0,
+            "Hex": "FF9BF9FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount005_Skin_01_Color_02": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount005_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "D805D9624B9F1A21C94C6F81238E8E9D",
+          "SourceString": "Dust Wheeler"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.1,
+            "G": 0.326108,
+            "B": 0.082851,
+            "A": 1.0,
+            "Hex": "FFFF9B51"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount005_Skin_01_Color_03": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount005_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "D805D9624B9F1A21C94C6F81238E8E9D",
+          "SourceString": "Dust Wheeler"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.1,
+            "G": 0.185484,
+            "B": 0.762772,
+            "A": 1.0,
+            "Hex": "FFFF77E3"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount005_Skin_01_Color_04": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount005_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "D805D9624B9F1A21C94C6F81238E8E9D",
+          "SourceString": "Dust Wheeler"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.176368,
+            "G": 0.539651,
+            "B": 1.3,
+            "A": 1.0,
+            "Hex": "FF74C2FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount005_Skin_01_Color_05": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount005_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "D805D9624B9F1A21C94C6F81238E8E9D",
+          "SourceString": "Dust Wheeler"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.227091,
+            "G": 1.0,
+            "B": 0.175437,
+            "A": 1.0,
+            "Hex": "FF83FF74"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount005_Skin_01_Color_06": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount005_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "D805D9624B9F1A21C94C6F81238E8E9D",
+          "SourceString": "Dust Wheeler"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.3,
+            "G": 0.901122,
+            "B": 0.070614,
+            "A": 1.0,
+            "Hex": "FFFFF44B"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount005_Skin_01_Color_07": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount005_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "D805D9624B9F1A21C94C6F81238E8E9D",
+          "SourceString": "Dust Wheeler"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 0.082806,
+            "B": 0.072858,
+            "A": 1.0,
+            "Hex": "FFFF514C"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount008_Skin_01_Color_02": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount008_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BDD86A6D444A2CA3017DEEAE37917E7B",
+          "SourceString": "Aidan Knight"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.135606,
+            "G": 1.5,
+            "B": 0.360493,
+            "A": 1.0,
+            "Hex": "FF67FFA2"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount008_Skin_01_Color_03": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount008_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BDD86A6D444A2CA3017DEEAE37917E7B",
+          "SourceString": "Aidan Knight"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.8,
+            "G": 1.388994,
+            "B": 0.155977,
+            "A": 1.0,
+            "Hex": "FFFFFF6E"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount008_Skin_01_Color_04": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount008_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BDD86A6D444A2CA3017DEEAE37917E7B",
+          "SourceString": "Aidan Knight"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.8,
+            "G": 0.093647,
+            "B": 0.111552,
+            "A": 1.0,
+            "Hex": "FFFF565E"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount008_Skin_01_Color_05": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount008_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BDD86A6D444A2CA3017DEEAE37917E7B",
+          "SourceString": "Aidan Knight"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.220588,
+            "G": 1.024857,
+            "B": 1.6,
+            "A": 1.0,
+            "Hex": "FF81FFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount008_Skin_01_Color_06": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount008_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BDD86A6D444A2CA3017DEEAE37917E7B",
+          "SourceString": "Aidan Knight"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.8,
+            "G": 0.418849,
+            "B": 1.378706,
+            "A": 1.0,
+            "Hex": "FFFFADFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount008_Skin_01_Color_07": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount008_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "BDD86A6D444A2CA3017DEEAE37917E7B",
+          "SourceString": "Aidan Knight"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 2.2,
+            "G": 0.674526,
+            "B": 0.187896,
+            "A": 1.0,
+            "Hex": "FFFFD778"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount011_Skin_01_Color_02": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount011_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "96017FCA479353B7E8EEDAA63F9DB81F",
+          "SourceString": "Voyager"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 2.0,
+            "G": 0.756271,
+            "B": 0.168325,
+            "A": 1.0,
+            "Hex": "FFFFE272"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount011_Skin_01_Color_03": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount011_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "96017FCA479353B7E8EEDAA63F9DB81F",
+          "SourceString": "Voyager"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.311986,
+            "G": 1.002511,
+            "B": 2.0,
+            "A": 1.0,
+            "Hex": "FF98FFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount011_Skin_01_Color_04": {
+        "CommonColorId": "zi",
+        "OwnerMountSkinId": "Mount011_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "96017FCA479353B7E8EEDAA63F9DB81F",
+          "SourceString": "Voyager"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi+.colour-_zi+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_zi.colour-_zi",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 2.0,
+            "G": 0.39259,
+            "B": 1.527786,
+            "A": 1.0,
+            "Hex": "FFFFA8FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount011_Skin_01_Color_05": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount011_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "96017FCA479353B7E8EEDAA63F9DB81F",
+          "SourceString": "Voyager"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.450227,
+            "G": 2.0,
+            "B": 0.204945,
+            "A": 1.0,
+            "Hex": "FFB3FF7D"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount011_Skin_01_Color_06": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount011_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "96017FCA479353B7E8EEDAA63F9DB81F",
+          "SourceString": "Voyager"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 2.0,
+            "G": 0.103115,
+            "B": 0.08322,
+            "A": 1.0,
+            "Hex": "FFFF5A51"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount011_Skin_01_Color_07": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount011_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "96017FCA479353B7E8EEDAA63F9DB81F",
+          "SourceString": "Voyager"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.229044,
+            "G": 1.980105,
+            "B": 2.0,
+            "A": 1.0,
+            "Hex": "FF84FFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      },
+      "Mount007_Skin_01_Color_02": {
+        "CommonColorId": "lan",
+        "OwnerMountSkinId": "Mount007_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7349C0C348F462D831132591B49A1EFA",
+          "SourceString": "Land Strider"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan+.colour-_lan+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lan.colour-_lan",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.216067,
+            "G": 0.753686,
+            "B": 1.2,
+            "A": 1.0,
+            "Hex": "FF80E1FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 20,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_20"
+        }
+      },
+      "Mount007_Skin_01_Color_03": {
+        "CommonColorId": "huang",
+        "OwnerMountSkinId": "Mount007_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7349C0C348F462D831132591B49A1EFA",
+          "SourceString": "Land Strider"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang+.colour-_huang+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_huang.colour-_huang",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.4,
+            "G": 1.246495,
+            "B": 0.034997,
+            "A": 1.0,
+            "Hex": "FFFFFF34"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 35,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_35"
+        }
+      },
+      "Mount007_Skin_01_Color_04": {
+        "CommonColorId": "lv",
+        "OwnerMountSkinId": "Mount007_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7349C0C348F462D831132591B49A1EFA",
+          "SourceString": "Land Strider"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv+.colour-_lv+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_lv.colour-_lv",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.151636,
+            "G": 1.4,
+            "B": 0.08904,
+            "A": 1.0,
+            "Hex": "FF6CFF54"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 50,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_50"
+        }
+      },
+      "Mount007_Skin_01_Color_05": {
+        "CommonColorId": "qing",
+        "OwnerMountSkinId": "Mount007_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7349C0C348F462D831132591B49A1EFA",
+          "SourceString": "Land Strider"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing+.colour-_qing+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_qing.colour-_qing",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.158274,
+            "G": 1.33033,
+            "B": 1.4,
+            "A": 1.0,
+            "Hex": "FF6FFFFF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 65,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_65"
+        }
+      },
+      "Mount007_Skin_01_Color_06": {
+        "CommonColorId": "hong",
+        "OwnerMountSkinId": "Mount007_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7349C0C348F462D831132591B49A1EFA",
+          "SourceString": "Land Strider"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-+.colour-_hong-+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_hong-.colour-_hong-",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.5,
+            "G": 0.09375,
+            "B": 0.09375,
+            "A": 1.0,
+            "Hex": "FFFF5656"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 80,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_80"
+        }
+      },
+      "Mount007_Skin_01_Color_07": {
+        "CommonColorId": "cheng",
+        "OwnerMountSkinId": "Mount007_Skin_01",
+        "Name": {
+          "Namespace": "",
+          "Key": "7349C0C348F462D831132591B49A1EFA",
+          "SourceString": "Land Strider"
+        },
+        "BigImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng+.colour-_cheng+",
+          "SubPathString": ""
+        },
+        "IconInUse": {
+          "AssetPathName": "/Game/Resources/UI/Mount/colour-_cheng.colour-_cheng",
+          "SubPathString": ""
+        },
+        "MaterialSlotNames": [
+          "car",
+          "car1"
+        ],
+        "ParameterName": "Color1",
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.5,
+            "G": 0.399087,
+            "B": 0.006198,
+            "A": 1.0,
+            "Hex": "FFFFAA12"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Foreground"
+        },
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "AutoUnlockWhenMountLevel": 95,
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_unlock_95"
+        }
+      }
+    }
+  }
+]

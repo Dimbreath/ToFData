@@ -1,0 +1,806 @@
+﻿[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "NPC_Shop_Food001-01_C",
+    "Super": "BP_DialogueNpcBase_C",
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript NPC_Shop_Food001-01_C:SimpleConstructionScript_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.17"
+      },
+      "InheritableComponentHandler": {
+        "ObjectName": "InheritableComponentHandler NPC_Shop_Food001-01_C:InheritableComponentHandler",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.13"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass BP_DialogueNpcBase_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase.1"
+    },
+    "ClassFlags": 8652820,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Game",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "NPC_Shop_Food001-01_C Default__NPC_Shop_Food001-01_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.1"
+    }
+  },
+  {
+    "Type": "NPC_Shop_Food001-01_C",
+    "Name": "Default__NPC_Shop_Food001-01_C",
+    "Template": "Default__BP_DialogueNpcBase_C",
+    "Properties": {
+      "DialogueCollisionSphere": {
+        "ObjectName": "SphereComponent Default__NPC_Shop_Food001-01_C:DialogueCollisionSphere",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.18"
+      },
+      "MouthShapeMontageArray": [
+        {
+          "ObjectName": "AnimMontage npc_pe_dialogue1_Montage",
+          "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_206/animation/npc_pe_dialogue1_Montage.0"
+        },
+        {
+          "ObjectName": "AnimMontage npc_pe_dialogue2_Montage",
+          "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_206/animation/npc_pe_dialogue2_Montage.0"
+        }
+      ],
+      "GreetTriggerShape": {
+        "ObjectName": "BoxComponent Default__NPC_Shop_Food001-01_C:GreetTriggerBox",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.2"
+      },
+      "AttackReactionEntries": [
+        {
+          "Anim": {
+            "ObjectName": "AnimMontage npc206_hit",
+            "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_206/montage/npc206_hit.0"
+          },
+          "NPCMsg": {
+            "NPCMsgEntries": []
+          },
+          "SpawnTemplate": null
+        }
+      ],
+      "AttackReactionResetInterval": 0.0,
+      "AttackReactionCoolDownTime": 0.0,
+      "SilentCheckComponent": {
+        "ObjectName": "SilentCheckComponent Default__NPC_Shop_Food001-01_C:SilentCheckComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.16"
+      },
+      "SplineComponent": {
+        "ObjectName": "SplineComponent Default__NPC_Shop_Food001-01_C:PathSplineComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.19"
+      },
+      "BubbleComponent": {
+        "ObjectName": "HottaBubbleComponent Default__NPC_Shop_Food001-01_C:BubbleComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.9"
+      },
+      "HeadUpExtraInfo": {
+        "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+        "Key": "NPC_Shop_Food001-01_1"
+      },
+      "SkillEffectComponent": {
+        "ObjectName": "HottaSkillEffectComponent Default__NPC_Shop_Food001-01_C:SkillEffectComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.11"
+      },
+      "ConfigID": "Food_001",
+      "SkillComponent": {
+        "ObjectName": "HottaSkillSystemComponent Default__NPC_Shop_Food001-01_C:SkillComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.12"
+      },
+      "AttributeSet": {
+        "ObjectName": "HottaAttributeSet Default__NPC_Shop_Food001-01_C:AttributeSet",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.7"
+      },
+      "StandaloneHottaAttribute": {
+        "ObjectName": "HottaAttributeSet Default__NPC_Shop_Food001-01_C:StandaloneAttributeSet",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.8"
+      },
+      "FakeShadowMesh": {
+        "ObjectName": "StaticMeshComponent Default__NPC_Shop_Food001-01_C:NewFakeShadow",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.20"
+      },
+      "bShowHeadUpExtra": true,
+      "DescriptiveName": {
+        "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+        "Key": "NPC_Shop_Food001-01"
+      },
+      "HeadUpFuncTypeTexture": {
+        "AssetPathName": "/Game/Resources/UI/MiniMap/mapicon_shop_shicai.mapicon_shop_shicai",
+        "SubPathString": ""
+      },
+      "Mesh": {
+        "ObjectName": "HottaSkeletalMeshComponent Default__NPC_Shop_Food001-01_C:CharacterMesh0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.10"
+      },
+      "CharacterMovement": {
+        "ObjectName": "HottaAIMovementComponent Default__NPC_Shop_Food001-01_C:CharMoveComp",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.6"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      },
+      "MovementModeChangedDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Food001-01_C Default__NPC_Shop_Food001-01_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.1"
+            },
+            "FunctionName": "CharacterMovementModeChanged"
+          }
+        ]
+      },
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "GreetTriggerBox",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "GreetTriggerBox",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCylinder",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "CollisionCylinder"
+  },
+  {
+    "Type": "CharacterHeadUpComp_BP_C",
+    "Name": "CharacterHeadUpComp_BP_GEN_VARIABLE",
+    "Outer": "NPC_Shop_Food001-01_C",
+    "Template": "CharacterHeadUpComp_BP_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 80.0
+      }
+    }
+  },
+  {
+    "Type": "DialogueComponent",
+    "Name": "Dialogue_GEN_VARIABLE",
+    "Outer": "NPC_Shop_Food001-01_C",
+    "Template": "Dialogue_GEN_VARIABLE",
+    "Properties": {
+      "DlgDialogue": {
+        "ObjectName": "DlgDialogue Text_Food001_01",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/Text_Food001_01.0"
+      }
+    }
+  },
+  {
+    "Type": "HottaAIMovementComponent",
+    "Name": "CharMoveComp",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "CharMoveComp"
+  },
+  {
+    "Type": "HottaAttributeSet",
+    "Name": "AttributeSet",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "AttributeSet"
+  },
+  {
+    "Type": "HottaAttributeSet",
+    "Name": "StandaloneAttributeSet",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "StandaloneAttributeSet"
+  },
+  {
+    "Type": "HottaBubbleComponent",
+    "Name": "BubbleComponent",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "BubbleComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  },
+  {
+    "Type": "HottaSkeletalMeshComponent",
+    "Name": "CharacterMesh0",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "CharacterMesh0",
+    "Properties": {
+      "AnimClass": {
+        "ObjectName": "AnimBlueprintGeneratedClass npc206_animBP_C",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/npc_shu_206/npc206_animBP/npc206_animBP.0"
+      },
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMesh npc_shu_206_skin",
+        "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_206/npc_shu_206_skin.0"
+      },
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  },
+  {
+    "Type": "HottaSkillEffectComponent",
+    "Name": "SkillEffectComponent",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "SkillEffectComponent"
+  },
+  {
+    "Type": "HottaSkillSystemComponent",
+    "Name": "SkillComponent",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "SkillComponent",
+    "Properties": {
+      "OnGiveAbilityDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Food001-01_C Default__NPC_Shop_Food001-01_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.1"
+            },
+            "FunctionName": "OnGiveAbility"
+          }
+        ]
+      },
+      "ReplicatedPredictionKeyMap": {
+        "PredictionKeys": [
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "InheritableComponentHandler",
+    "Name": "InheritableComponentHandler",
+    "Outer": "NPC_Shop_Food001-01_C",
+    "Properties": {
+      "Records": [
+        {
+          "ComponentClass": {
+            "ObjectName": "Class DialogueComponent",
+            "ObjectPath": "/Script/QRSL"
+          },
+          "ComponentTemplate": {
+            "ObjectName": "DialogueComponent NPC_Shop_Food001-01_C:Dialogue_GEN_VARIABLE",
+            "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.5"
+          },
+          "ComponentKey": {
+            "OwnerClass": {
+              "ObjectName": "BlueprintGeneratedClass BP_DialogueNpcBase_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase.1"
+            },
+            "SCSVariableName": "Dialogue",
+            "AssociatedGuid": "A8761532-4EA18704-9EC5A880-E4541DE6"
+          },
+          "CookedComponentInstancingData": {
+            "ChangedPropertyList": [],
+            "bHasValidCookedData": false
+          }
+        },
+        {
+          "ComponentClass": {
+            "ObjectName": "BlueprintGeneratedClass CharacterHeadUpComp_BP_C",
+            "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Components/CharacterHeadUpComp_BP.0"
+          },
+          "ComponentTemplate": {
+            "ObjectName": "CharacterHeadUpComp_BP_C NPC_Shop_Food001-01_C:CharacterHeadUpComp_BP_GEN_VARIABLE",
+            "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.4"
+          },
+          "ComponentKey": {
+            "OwnerClass": {
+              "ObjectName": "BlueprintGeneratedClass BP_DialogueNpcBase_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase.1"
+            },
+            "SCSVariableName": "CharacterHeadUpComp_BP",
+            "AssociatedGuid": "E8B1B381-457E1097-A4DE6D9C-ABDE3B5F"
+          },
+          "CookedComponentInstancingData": {
+            "ChangedPropertyList": [],
+            "bHasValidCookedData": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Outer": "NPC_Shop_Food001-01_C"
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Outer": "SimpleConstructionScript_0",
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class SceneComponent",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SceneComponent NPC_Shop_Food001-01_C:DefaultSceneRoot_GEN_VARIABLE",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.14"
+      },
+      "VariableGuid": "4FD518E7-49036C31-85162E9C-B408CE66",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SilentCheckComponent",
+    "Name": "SilentCheckComponent",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "SilentCheckComponent",
+    "Properties": {
+      "OnSilent": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Food001-01_C Default__NPC_Shop_Food001-01_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.1"
+            },
+            "FunctionName": "OnSilent"
+          }
+        ]
+      },
+      "OnUnsilent": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Food001-01_C Default__NPC_Shop_Food001-01_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.1"
+            },
+            "FunctionName": "OnUnsilent"
+          }
+        ]
+      },
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Outer": "NPC_Shop_Food001-01_C",
+    "Properties": {
+      "DefaultSceneRootNode": {
+        "ObjectName": "SCS_Node NPC_Shop_Food001-01_C:SimpleConstructionScript_0.SCS_Node_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.15"
+      }
+    }
+  },
+  {
+    "Type": "SphereComponent",
+    "Name": "DialogueCollisionSphere",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "DialogueCollisionSphere",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  },
+  {
+    "Type": "SplineComponent",
+    "Name": "PathSplineComponent",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "PathSplineComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "NewFakeShadow",
+    "Outer": "Default__NPC_Shop_Food001-01_C",
+    "Template": "NewFakeShadow",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Food001-01_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food001_01/NPC_Shop_Food001-01.3"
+      }
+    }
+  }
+]

@@ -1,0 +1,194 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "WormholeBattleResetDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct WormholeBattleResetDataRow",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "1_1": {
+        "ResetType": "WormholeBattleResetType::MONSTER",
+        "Count": 1,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 40
+        }
+      },
+      "1_2": {
+        "ResetType": "WormholeBattleResetType::MONSTER",
+        "Count": 2,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 60
+        }
+      },
+      "1_3": {
+        "ResetType": "WormholeBattleResetType::MONSTER",
+        "Count": 3,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 80
+        }
+      },
+      "1_4": {
+        "ResetType": "WormholeBattleResetType::MONSTER",
+        "Count": 4,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        }
+      },
+      "1_5": {
+        "ResetType": "WormholeBattleResetType::MONSTER",
+        "Count": 5,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 150
+        }
+      },
+      "2_1": {
+        "ResetType": "WormholeBattleResetType::EFFECT_MONSTER",
+        "Count": 1,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 40
+        }
+      },
+      "2_2": {
+        "ResetType": "WormholeBattleResetType::EFFECT_MONSTER",
+        "Count": 2,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 60
+        }
+      },
+      "2_3": {
+        "ResetType": "WormholeBattleResetType::EFFECT_MONSTER",
+        "Count": 3,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 80
+        }
+      },
+      "2_4": {
+        "ResetType": "WormholeBattleResetType::EFFECT_MONSTER",
+        "Count": 4,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        }
+      },
+      "2_5": {
+        "ResetType": "WormholeBattleResetType::EFFECT_MONSTER",
+        "Count": 5,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 150
+        }
+      },
+      "3_1": {
+        "ResetType": "WormholeBattleResetType::EFFECT_BUFF",
+        "Count": 1,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 40
+        }
+      },
+      "3_2": {
+        "ResetType": "WormholeBattleResetType::EFFECT_BUFF",
+        "Count": 2,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 60
+        }
+      },
+      "3_3": {
+        "ResetType": "WormholeBattleResetType::EFFECT_BUFF",
+        "Count": 3,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 80
+        }
+      },
+      "3_4": {
+        "ResetType": "WormholeBattleResetType::EFFECT_BUFF",
+        "Count": 4,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        }
+      },
+      "3_5": {
+        "ResetType": "WormholeBattleResetType::EFFECT_BUFF",
+        "Count": 5,
+        "BaseCost": {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "Amount": 1
+        },
+        "AnotherCost": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 150
+        }
+      }
+    }
+  }
+]

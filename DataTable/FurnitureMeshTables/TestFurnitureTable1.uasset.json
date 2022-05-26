@@ -1,0 +1,206 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "TestFurnitureTable1",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct FurnitureMeshTable",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "10000": {
+        "UniqueID": "10000",
+        "FurnitureInteractMesh": {
+          "AssetPathName": "/Game/Resources/Environment/Structures/NoviceVillage/SM_xinshoucun24_ZYF.SM_xinshoucun24_ZYF",
+          "SubPathString": ""
+        },
+        "DropID": "Drop_SM_xinshoucun24_ZYF",
+        "Transform": {
+          "Rotation": {
+            "X": -0.0,
+            "Y": 0.0,
+            "Z": -0.3826834,
+            "W": 0.92387956,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -230.0,
+            "Y": -530.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "SphereOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "SphereRadius": 100.0,
+        "FurnitureName": {
+          "CultureInvariantString": null
+        },
+        "InteractTime": 5.0,
+        "Tags": [
+          "NOJUMP"
+        ],
+        "InteractLevel": 0,
+        "CDSeconds": 86400,
+        "InteractEffect": {
+          "ObjectName": "ParticleSystem P_Probe_xinshoucun24",
+          "ObjectPath": "Hotta/Content/Resources/Effect/Particles/FX_Props/FX_probe/P_Probe_xinshoucun24.24"
+        }
+      },
+      "10005": {
+        "UniqueID": "10005",
+        "FurnitureInteractMesh": {
+          "AssetPathName": "/Game/Resources/Environment/City/ZR/SM_bar_06.SM_bar_06",
+          "SubPathString": ""
+        },
+        "DropID": "Drop_SM_xinshoucun24_ZYF",
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -710.0,
+            "Y": -580.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "SphereOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "SphereRadius": 100.0,
+        "FurnitureName": {
+          "Namespace": "",
+          "Key": "E0706CB6422F58B1141C13B373FCA5D1",
+          "SourceString": "11111"
+        },
+        "InteractTime": 5.0,
+        "Tags": [],
+        "InteractLevel": 1,
+        "CDSeconds": 86400,
+        "InteractEffect": {
+          "ObjectName": "ParticleSystem P_Probe_bar_06",
+          "ObjectPath": "Hotta/Content/Resources/Effect/Particles/FX_Props/FX_probe/P_Probe_bar_06.14"
+        }
+      },
+      "10006": {
+        "UniqueID": "10006",
+        "FurnitureInteractMesh": {
+          "AssetPathName": "/Game/Resources/Environment/City/ZR/SM_bar_06.SM_bar_06",
+          "SubPathString": ""
+        },
+        "DropID": "Drop_SM_xinshoucun24_ZYF",
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -710.0,
+            "Y": -960.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "SphereOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "SphereRadius": 100.0,
+        "FurnitureName": {
+          "Namespace": "",
+          "Key": "AF538DAD41C62EB42D01569C1E89D96E",
+          "SourceString": "11111"
+        },
+        "InteractTime": 5.0,
+        "Tags": [],
+        "InteractLevel": 1,
+        "CDSeconds": 86400,
+        "InteractEffect": {
+          "ObjectName": "ParticleSystem P_Probe_bar_06",
+          "ObjectPath": "Hotta/Content/Resources/Effect/Particles/FX_Props/FX_probe/P_Probe_bar_06.14"
+        }
+      },
+      "10013": {
+        "UniqueID": "10013",
+        "FurnitureInteractMesh": {
+          "AssetPathName": "/Game/Resources/Environment/City/ZR/SM_Vendingmachine_zr.SM_Vendingmachine_zr",
+          "SubPathString": ""
+        },
+        "DropID": "Drop_SM_Vendingmachine_zr",
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -622.8898,
+            "Y": -173.08301,
+            "Z": 50.00003
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "SphereOffset": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "SphereRadius": 100.0,
+        "FurnitureName": {
+          "CultureInvariantString": null
+        },
+        "InteractTime": 5.0,
+        "Tags": [
+          "NOJUMP"
+        ],
+        "InteractLevel": 1,
+        "CDSeconds": 86400,
+        "InteractEffect": {
+          "ObjectName": "ParticleSystem P_Probe_Vendingmachine_zr",
+          "ObjectPath": "Hotta/Content/Resources/Effect/Particles/FX_Props/FX_probe/P_Probe_Vendingmachine_zr.14"
+        }
+      }
+    }
+  }
+]

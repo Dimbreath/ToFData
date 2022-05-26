@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "GamePlayTagBreakStateDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct GamePlayTagBreakRelationConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "NewRow": {
+        "ActiveTag": {
+          "TagName": "Status.EffectStatus.Stun"
+        },
+        "StateTypes": [
+          11
+        ]
+      }
+    }
+  }
+]

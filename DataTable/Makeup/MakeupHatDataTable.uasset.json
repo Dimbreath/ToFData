@@ -1,0 +1,1382 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MakeupHatDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MakeupPresetHat",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Hat_1_0": {
+        "HatStaticMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 0,
+        "PresetIndex": 0,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/lianwen/NA.NA",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_1": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/f_headwear_001.f_headwear_001",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 1,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_02.fashion_icon_shipin_02",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_2": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_003/f_headwear_003.f_headwear_003",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.2,
+            "Y": 1.2,
+            "Z": 1.2
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 2,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_01.fashion_icon_shipin_01",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_3": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_015/f_headwear_015.f_headwear_015",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 3,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_09.fashion_icon_shipin_09",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_4": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_017/f_headwear_017.f_headwear_017",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 4,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": true,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_010.fashion_icon_shipin_010",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_5": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_018/f_headwear_018.f_headwear_018",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 5,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_025.fashion_icon_shipin_025",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_9": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_014/f_headwear_014.f_headwear_014",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 3.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 9,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_08.fashion_icon_shipin_08",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_10": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_021/f_headwear_021.f_headwear_021",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 10,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_014.fashion_icon_shipin_014",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_11": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_035/f_headwear_035.f_headwear_035",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 0,
+        "PresetIndex": 11,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_024.fashion_icon_shipin_024",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_12": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_036/f_headwear_036.f_headwear_036",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 0,
+        "PresetIndex": 12,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_023.fashion_icon_shipin_023",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_7": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/f_headwear_001.f_headwear_001",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": 100,
+        "BackHairIndex": 100,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 7,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": true,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_021.fashion_icon_shipin_021",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_8": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/f_headwear_001.f_headwear_001",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": 101,
+        "BackHairIndex": 101,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 8,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": true,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_021.fashion_icon_shipin_021",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_13": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/f_headwear_001.f_headwear_001",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": 102,
+        "BackHairIndex": 102,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 13,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": true,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_026.fashion_icon_shipin_026",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_1_14": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/f_headwear_001.f_headwear_001",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": 103,
+        "BackHairIndex": 103,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 14,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": true,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_027.fashion_icon_shipin_027",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_0": {
+        "HatStaticMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 0,
+        "PresetIndex": 0,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/lianwen/NA.NA",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_1": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/f_headwear_001.f_headwear_001",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -0.014149,
+            "Y": -0.035001,
+            "Z": -1.026983
+          },
+          "Scale3D": {
+            "X": 0.925,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 1,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_02.fashion_icon_shipin_02",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_2": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_003/f_headwear_003.f_headwear_003",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.008266,
+            "Y": 2.924255,
+            "Z": -0.055132
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 2,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_01.fashion_icon_shipin_01",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_3": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_015/f_headwear_015.f_headwear_015",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 3,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_09.fashion_icon_shipin_09",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_4": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_017/f_headwear_017.f_headwear_017",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 4,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": true,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_010.fashion_icon_shipin_010",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_5": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_018/f_headwear_018.f_headwear_018",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -0.05365,
+            "Y": 7.214962,
+            "Z": -2.723452
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 5,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_025.fashion_icon_shipin_025",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_9": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_014/f_headwear_014.f_headwear_014",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.013385,
+            "Y": 3.877116,
+            "Z": 1.18929
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 9,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_08.fashion_icon_shipin_08",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_10": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_021/f_headwear_021.f_headwear_021",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 10,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_014.fashion_icon_shipin_014",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_11": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_035/f_headwear_035.f_headwear_035",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 1.0,
+            "Z": 0.0
+          },
+          "Scale3D": {
+            "X": 0.95,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "RoleIndex": 0,
+        "PresetIndex": 11,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_024.fashion_icon_shipin_024",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "Hat_2_12": {
+        "HatStaticMesh": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/f_headwear/f_headwear_036/f_headwear_036.f_headwear_036",
+          "SubPathString": ""
+        },
+        "ForeHairIndex": -1,
+        "BackHairIndex": -1,
+        "Transform": {
+          "Rotation": {
+            "X": -0.103873104,
+            "Y": 0.13030441,
+            "Z": -0.0010251589,
+            "W": 0.9860173,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -2.671754,
+            "Y": -0.336688,
+            "Z": 2.413305
+          },
+          "Scale3D": {
+            "X": 0.9,
+            "Y": 0.9,
+            "Z": 0.9
+          }
+        },
+        "RoleIndex": 0,
+        "PresetIndex": 12,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/shizhuang/Fashion_icon/fashion_icon_shipin_023.fashion_icon_shipin_023",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      }
+    }
+  }
+]

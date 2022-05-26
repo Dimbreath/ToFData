@@ -1,0 +1,53 @@
+﻿[
+  {
+    "Type": "HottaCafeDataAsset",
+    "Name": "CafeDataAsset",
+    "Properties": {
+      "SatisfiedScoreRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 35
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        }
+      },
+      "CommonScoreRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 15
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 34
+        }
+      },
+      "DetestableScoreRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Exclusive"
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 14
+        }
+      },
+      "CustomerConfigDataTable": {
+        "ObjectName": "DataTable ImitationCustomerConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Cafe/ImitationCustomerConfigDataTable.0"
+      },
+      "ActivityItemConfigDataTable": {
+        "ObjectName": "DataTable ActivityItemConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Cafe/ActivityItemConfigDataTable.0"
+      },
+      "RestrictedItemConfigDataTable": {
+        "ObjectName": "DataTable RestrictedItemConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Cafe/RestrictedItemConfigDataTable.0"
+      },
+      "TurnoverAwardConfigDataTable": {
+        "ObjectName": "DataTable TurnoverAwardConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Cafe/TurnoverAwardConfigDataTable.0"
+      }
+    }
+  }
+]

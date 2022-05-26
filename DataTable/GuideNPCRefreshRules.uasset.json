@@ -1,0 +1,420 @@
+﻿[
+  {
+    "Type": "GuideNPCDataAsset",
+    "Name": "GuideNPCRefreshRules",
+    "Properties": {
+      "GuideNPCTemplate": {
+        "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+        "SubPathString": ""
+      },
+      "DefaultIdleStates": [
+        {
+          "StateClass": {
+            "ObjectName": "BlueprintGeneratedClass IdleState_NPC_GeneralBP_Base_C",
+            "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/IdleState_NPC_GeneralBP_Base.0"
+          },
+          "StateLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        }
+      ],
+      "GuideNPCRefreshRules": [
+        {
+          "QuestID_Spawn": "q101030",
+          "ObjectiveID_Spawn": "5",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q101031",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q101031",
+          "ObjectiveID_Destroy": "2"
+        },
+        {
+          "QuestID_Spawn": "q101043",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q101043",
+          "ObjectiveID_Destroy": "6"
+        },
+        {
+          "QuestID_Spawn": "q101052",
+          "ObjectiveID_Spawn": "3",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q101053",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q101054",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q201050",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q201051",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q201057",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q1010602",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q103046",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q103046",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q103046",
+          "ObjectiveID_Spawn": "2",
+          "QuestID_Destroy": "q103046",
+          "ObjectiveID_Destroy": "3"
+        },
+        {
+          "QuestID_Spawn": "q103050",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q103052",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q103053",
+          "ObjectiveID_Spawn": "1",
+          "QuestID_Destroy": "q103054",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q103055",
+          "ObjectiveID_Spawn": "1",
+          "QuestID_Destroy": "q103057",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q103067",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q103001",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q1030021",
+          "ObjectiveID_Destroy": "3"
+        },
+        {
+          "QuestID_Spawn": "q1030021",
+          "ObjectiveID_Spawn": "4",
+          "QuestID_Destroy": "q103004",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q103004",
+          "ObjectiveID_Spawn": "2",
+          "QuestID_Destroy": "q103005",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q103006",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q103007",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q103008",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q103011",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q103016",
+          "ObjectiveID_Spawn": "2",
+          "QuestID_Destroy": "q103016",
+          "ObjectiveID_Destroy": "3"
+        },
+        {
+          "QuestID_Spawn": "q103020",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q103025",
+          "ObjectiveID_Destroy": "5"
+        },
+        {
+          "QuestID_Spawn": "q103028",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q103028",
+          "ObjectiveID_Destroy": "2"
+        },
+        {
+          "QuestID_Spawn": "q105010",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q105010",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q102010",
+          "ObjectiveID_Spawn": "2",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q1020100",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q1020101",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102011",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102011A",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102011H",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102011B",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102012",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q1020121",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102013",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102014",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q102014",
+          "ObjectiveID_Destroy": "21"
+        },
+        {
+          "QuestID_Spawn": "q102015",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102016",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102017",
+          "ObjectiveID_Spawn": "0",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102018",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102019",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q102019",
+          "ObjectiveID_Destroy": "2"
+        },
+        {
+          "QuestID_Spawn": "q102101",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102103",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102104",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102104",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q102105",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q102105",
+          "ObjectiveID_Destroy": "0"
+        },
+        {
+          "QuestID_Spawn": "q104031",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q104032",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q104033",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q104034",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q104034",
+          "ObjectiveID_Destroy": "3"
+        },
+        {
+          "QuestID_Spawn": "q104036",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q104037",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q104037",
+          "ObjectiveID_Destroy": "2"
+        },
+        {
+          "QuestID_Spawn": "q104039",
+          "ObjectiveID_Spawn": "1",
+          "QuestID_Destroy": "q104039",
+          "ObjectiveID_Destroy": "2"
+        },
+        {
+          "QuestID_Spawn": "q102128",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q102131",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q102132",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "None",
+          "ObjectiveID_Destroy": "None"
+        },
+        {
+          "QuestID_Spawn": "q105013",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q105016",
+          "ObjectiveID_Destroy": "5"
+        },
+        {
+          "QuestID_Spawn": "q105023",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q105024",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q1050341",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q1050342",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q105035",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q105045",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q105048",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q105048",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q105062",
+          "ObjectiveID_Spawn": "1",
+          "QuestID_Destroy": "q105063",
+          "ObjectiveID_Destroy": "5"
+        },
+        {
+          "QuestID_Spawn": "q104001",
+          "ObjectiveID_Spawn": "1",
+          "QuestID_Destroy": "q1040013",
+          "ObjectiveID_Destroy": "3"
+        },
+        {
+          "QuestID_Spawn": "q106010",
+          "ObjectiveID_Spawn": "None",
+          "QuestID_Destroy": "q106014",
+          "ObjectiveID_Destroy": "1"
+        },
+        {
+          "QuestID_Spawn": "q600303",
+          "ObjectiveID_Spawn": "1",
+          "QuestID_Destroy": "q600311",
+          "ObjectiveID_Destroy": "3"
+        }
+      ],
+      "IdleStateOverrideRules": [
+        {
+          "QuestID": "q201050",
+          "ObjectiveID": "2",
+          "bUseDefaultIdleStates": false,
+          "IdleStateOverrides": [
+            {
+              "StateClass": {
+                "ObjectName": "BlueprintGeneratedClass IdleState_NPC_GeneralBP_Base_C",
+                "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/IdleState_NPC_GeneralBP_Base.0"
+              },
+              "StateLocation": {
+                "X": -32314.854,
+                "Y": 81182.016,
+                "Z": -14059.0
+              }
+            }
+          ],
+          "bFollowPlayer": false
+        }
+      ]
+    }
+  }
+]

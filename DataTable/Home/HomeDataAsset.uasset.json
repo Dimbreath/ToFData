@@ -1,0 +1,33 @@
+﻿[
+  {
+    "Type": "HottaHomeDataAsset",
+    "Name": "HomeDataAsset",
+    "Properties": {
+      "DevelopmentCenterBuildingID": "development_center",
+      "ModuleConfigDataTable": {
+        "ObjectName": "DataTable ModuleConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Home/ModuleConfigDataTable.0"
+      },
+      "PetConfigDataTable": {
+        "ObjectName": "DataTable PetConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Home/PetConfigDataTable.0"
+      },
+      "BuildingConfigDataTable": {
+        "ObjectName": "DataTable BuildingConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Home/BuildingConfigDataTable.0"
+      },
+      "DevelopmentCenterLevelConfigDataTable": {
+        "ObjectName": "DataTable DevelopmentCenterLevelConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Home/DevelopmentCenterLevelConfigDataTable.0"
+      },
+      "BuildingLevelConfigDataTable": {
+        "ObjectName": "DataTable BuildingLevelConfigDataTable",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/Home/BuildingLevelConfigDataTable.0"
+      },
+      "HomeObjectClass": {
+        "AssetPathName": "/Script/HottaFramework.HottaHomeObject",
+        "SubPathString": ""
+      }
+    }
+  }
+]

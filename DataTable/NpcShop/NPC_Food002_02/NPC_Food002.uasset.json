@@ -1,0 +1,203 @@
+﻿[
+  {
+    "Type": "DlgDialogue",
+    "Name": "NPC_Food002",
+    "Properties": {
+      "Name": "NPC_Food002",
+      "GUID": "F048FF89-4D84E23C-1CD7E0A2-1F88564D",
+      "ParticipantsData": {
+        "Food_004": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "OpenShop:Dish_bangis"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      },
+      "StartNode": {
+        "ObjectName": "DlgNode_Speech NPC_Food002:DlgNode_Speech_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food002_02/NPC_Food002.2"
+      },
+      "Nodes": [
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food002:DlgNode_Speech_1",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food002_02/NPC_Food002.3"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food002:DlgNode_Speech_2",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food002_02/NPC_Food002.4"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Food002:DlgNode_Speech_3",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food002_02/NPC_Food002.5"
+        },
+        {
+          "ObjectName": "DlgNode_End NPC_Food002:DlgNode_End_0",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Food002_02/NPC_Food002.1"
+        }
+      ],
+      "NodesGUIDToIndexMap": null
+    }
+  },
+  {
+    "Type": "DlgNode_End",
+    "Name": "DlgNode_End_0",
+    "Outer": "NPC_Food002",
+    "Properties": {
+      "OwnerName": "Food_004",
+      "NodeGUID": "B57EECA5-40EA63AE-913DFAAD-AFA40BC9"
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_0",
+    "Outer": "NPC_Food002",
+    "Properties": {
+      "NodeGUID": "EB0EC039-4E1BFD1D-2EB365A9-E479D35A",
+      "Children": [
+        {
+          "TargetIndex": 0,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_1",
+    "Outer": "NPC_Food002",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "7FAEFACB4B4D04808C757C9BCE863BF1",
+        "SourceString": "We sell all kinds of cooked food. Come check it out!"
+      },
+      "OwnerName": "Food_004",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "NodeGUID": "1EA898D0-4CA102E6-DB55A796-10DED3E3",
+      "Children": [
+        {
+          "TargetIndex": 1,
+          "EdgeIndex": 2,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "",
+            "Key": "A8E5D54A4C0CBE21744C15A9C385E9E9",
+            "SourceString": "View"
+          },
+          "TextArguments": []
+        },
+        {
+          "TargetIndex": 2,
+          "EdgeIndex": 1,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "",
+            "Key": "191B031345EC784DDD904B866EC8AE7E",
+            "SourceString": "Nope, thanks."
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_2",
+    "Outer": "NPC_Food002",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "B1E7517B43BE3686D8F2C4B1DB153FC8",
+        "SourceString": "Thank you. I'll let you know when we have a new menu. Stay tuned!"
+      },
+      "OwnerName": "Food_004",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "EnterEvents": [
+        {
+          "ParticipantName": "Food_004",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "OpenShop:Dish_bangis",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "0C110B87-46E62A99-84B75EA6-913BF59E",
+      "Children": [
+        {
+          "TargetIndex": 3,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_3",
+    "Outer": "NPC_Food002",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "D315AC214307B248333CC98ABE0CB7DC",
+        "SourceString": "Actually you can have free samples."
+      },
+      "OwnerName": "Food_004",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "NodeGUID": "9AC289BD-44BCCFD0-683CDA9A-2A520C08",
+      "Children": [
+        {
+          "TargetIndex": 3,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  }
+]

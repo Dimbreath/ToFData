@@ -1,0 +1,110 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "ExpImproveExampleConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaImproveExampleConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Name": {
+          "Namespace": "",
+          "Key": "309EB718417A6A671828B6B19A3C4F18",
+          "SourceString": "Bounty Missions"
+        },
+        "NameTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/pingji/advance_xuanshang.advance_xuanshang",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "72B6B8C6417E503C7F46E3938DAAB1B8",
+          "SourceString": "Complete Bounty Missions to earn huge amounts of EXP!"
+        },
+        "RecommendValue": 3,
+        "UnlockFunctionId": "None",
+        "GotoFormPath": "Path=ActivityEntrance&ClickButtons=AdventureRadioBox",
+        "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+      },
+      "2": {
+        "Name": {
+          "Namespace": "",
+          "Key": "449AB51E4A2DE064F0C90287BC1B1720",
+          "SourceString": "Side Mission"
+        },
+        "NameTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/pingji/advance_zhipu.advance_zhipu",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "A17D1E3B4B3DAC540A0D82982BB225CC",
+          "SourceString": "Complete side missions to earn huge amounts of EXP!"
+        },
+        "RecommendValue": 4,
+        "UnlockFunctionId": "chongdong",
+        "GotoFormPath": "Path=ActivityEntrance",
+        "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+      },
+      "3": {
+        "Name": {
+          "Namespace": "",
+          "Key": "A5FF941B417DF3DE366F628FB65D3206",
+          "SourceString": "Group Instances"
+        },
+        "NameTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/pingji/advance_zudui.advance_zudui",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "43B93A3B41D0664BFB2B0EB8E897A828",
+          "SourceString": "Clear Group Instances to earn huge amounts of EXP!"
+        },
+        "RecommendValue": 6,
+        "UnlockFunctionId": "None",
+        "GotoFormPath": "Path=TeamCloneForm",
+        "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+      },
+      "4": {
+        "Name": {
+          "Namespace": "",
+          "Key": "8290C5814FC68C666284B19EE8AD012F",
+          "SourceString": "Quiz"
+        },
+        "NameTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/pingji/advance_dati.advance_dati",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "5C9EF26B49F3BDBE9E7F5ABDE46AB6F6",
+          "SourceString": "Complete Quizzes to earn huge amounts of EXP!"
+        },
+        "RecommendValue": 4,
+        "UnlockFunctionId": "None",
+        "GotoFormPath": "Path=ActivityEntrance",
+        "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+      }
+    }
+  }
+]

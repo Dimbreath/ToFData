@@ -1,0 +1,170 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "StoryChapterDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct StoryChapterData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "quest_1": {
+        "UIClass": "StoryBase1",
+        "ChapterName": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest2.ST_Quest2",
+          "Key": "chaptername1"
+        },
+        "ActiveQuestID": "q101010",
+        "AwardsInfo": [
+          {
+            "Progress": 10,
+            "AwardGroupID": "Drop_StoryProgress_1"
+          },
+          {
+            "Progress": 50,
+            "AwardGroupID": "Drop_StoryProgress_2"
+          },
+          {
+            "Progress": 80,
+            "AwardGroupID": "Drop_StoryProgress_3"
+          },
+          {
+            "Progress": 100,
+            "AwardGroupID": "Drop_StoryProgress_4"
+          }
+        ]
+      },
+      "quest_2": {
+        "UIClass": "StoryBase2",
+        "ChapterName": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest2.ST_Quest2",
+          "Key": "chaptername2"
+        },
+        "ActiveQuestID": "q101060",
+        "AwardsInfo": [
+          {
+            "Progress": 25,
+            "AwardGroupID": "Drop_StoryProgress_1"
+          },
+          {
+            "Progress": 50,
+            "AwardGroupID": "Drop_StoryProgress_2"
+          },
+          {
+            "Progress": 75,
+            "AwardGroupID": "Drop_StoryProgress_3"
+          },
+          {
+            "Progress": 100,
+            "AwardGroupID": "Drop_StoryProgress_4"
+          }
+        ]
+      },
+      "quest_3": {
+        "UIClass": "StoryBase3",
+        "ChapterName": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest2.ST_Quest2",
+          "Key": "chaptername3"
+        },
+        "ActiveQuestID": "q103001",
+        "AwardsInfo": [
+          {
+            "Progress": 25,
+            "AwardGroupID": "Drop_StoryProgress_1"
+          },
+          {
+            "Progress": 50,
+            "AwardGroupID": "Drop_StoryProgress_2"
+          },
+          {
+            "Progress": 75,
+            "AwardGroupID": "Drop_StoryProgress_3"
+          },
+          {
+            "Progress": 100,
+            "AwardGroupID": "Drop_StoryProgress_4"
+          }
+        ]
+      },
+      "quest_4": {
+        "UIClass": "StoryBase4",
+        "ChapterName": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest2.ST_Quest2",
+          "Key": "chaptername4"
+        },
+        "ActiveQuestID": "q104000",
+        "AwardsInfo": [
+          {
+            "Progress": 25,
+            "AwardGroupID": "Drop_StoryProgress_1"
+          },
+          {
+            "Progress": 50,
+            "AwardGroupID": "Drop_StoryProgress_2"
+          },
+          {
+            "Progress": 75,
+            "AwardGroupID": "Drop_StoryProgress_3"
+          },
+          {
+            "Progress": 100,
+            "AwardGroupID": "Drop_StoryProgress_4"
+          }
+        ]
+      },
+      "quest_5": {
+        "UIClass": "StoryBase5",
+        "ChapterName": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest2.ST_Quest2",
+          "Key": "chaptername5"
+        },
+        "ActiveQuestID": "q105010",
+        "AwardsInfo": [
+          {
+            "Progress": 25,
+            "AwardGroupID": "Drop_StoryProgress_1"
+          },
+          {
+            "Progress": 50,
+            "AwardGroupID": "Drop_StoryProgress_2"
+          },
+          {
+            "Progress": 75,
+            "AwardGroupID": "Drop_StoryProgress_3"
+          },
+          {
+            "Progress": 100,
+            "AwardGroupID": "Drop_StoryProgress_4"
+          }
+        ]
+      },
+      "quest_6": {
+        "UIClass": "StoryBase6",
+        "ChapterName": {
+          "TableId": "/Game/Resources/Dialogues/Quests/ST_Quest2.ST_Quest2",
+          "Key": "chaptername6"
+        },
+        "ActiveQuestID": "q105092",
+        "AwardsInfo": [
+          {
+            "Progress": 25,
+            "AwardGroupID": "Drop_StoryProgress_1"
+          },
+          {
+            "Progress": 50,
+            "AwardGroupID": "Drop_StoryProgress_2"
+          },
+          {
+            "Progress": 75,
+            "AwardGroupID": "Drop_StoryProgress_3"
+          },
+          {
+            "Progress": 100,
+            "AwardGroupID": "Drop_StoryProgress_4"
+          }
+        ]
+      }
+    }
+  }
+]

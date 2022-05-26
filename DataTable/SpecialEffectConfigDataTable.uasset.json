@@ -1,0 +1,204 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "SpecialEffectConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaSpecialEffectConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "TestEffect01": {
+        "EffectType": "EHottaSpecialEffectType::Suppressor",
+        "Conditions": [
+          {
+            "ConditionType": "EHottaConditionType::SuppressorLevel",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 11
+          },
+          {
+            "ConditionType": "EHottaConditionType::Level",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 20
+          }
+        ],
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Common/buff_level_Damage_Lv1.buff_level_Damage_Lv1_C",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LevelLimit.UI_LevelLimit_C",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "TestEffect02": {
+        "EffectType": "EHottaSpecialEffectType::None",
+        "Conditions": [],
+        "BuffClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "LevelLimit_Area3": {
+        "EffectType": "EHottaSpecialEffectType::Suppressor",
+        "Conditions": [
+          {
+            "ConditionType": "EHottaConditionType::SuppressorLevel",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 0
+          }
+        ],
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Common/buff_level_Damage_Lv1.buff_level_Damage_Lv1_C",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LevelLimit.UI_LevelLimit_C",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "/Game/Resources/Abilities/GameCue/Effect/CameraEffect/Effect_CameraLevelLimit_001.Effect_CameraLevelLimit_001_C",
+          "SubPathString": ""
+        }
+      },
+      "LevelLimit_Area4": {
+        "EffectType": "EHottaSpecialEffectType::Suppressor",
+        "Conditions": [
+          {
+            "ConditionType": "EHottaConditionType::SuppressorLevel",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 31
+          },
+          {
+            "ConditionType": "EHottaConditionType::Level",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 32
+          }
+        ],
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Common/buff_level_Damage_Lv1.buff_level_Damage_Lv1_C",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LevelLimit.UI_LevelLimit_C",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "/Game/Resources/Abilities/GameCue/Effect/CameraEffect/Effect_CameraLevelLimit_001.Effect_CameraLevelLimit_001_C",
+          "SubPathString": ""
+        }
+      },
+      "LevelLimit_Area5": {
+        "EffectType": "EHottaSpecialEffectType::Suppressor",
+        "Conditions": [
+          {
+            "ConditionType": "EHottaConditionType::SuppressorLevel",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 34
+          },
+          {
+            "ConditionType": "EHottaConditionType::Level",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 39
+          }
+        ],
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Common/buff_level_Damage_Lv2.buff_level_Damage_Lv2_C",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LevelLimit.UI_LevelLimit_C",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "/Game/Resources/Abilities/GameCue/Effect/CameraEffect/Effect_CameraLevelLimit_001.Effect_CameraLevelLimit_001_C",
+          "SubPathString": ""
+        }
+      },
+      "LevelLimit_Area6": {
+        "EffectType": "EHottaSpecialEffectType::Suppressor",
+        "Conditions": [
+          {
+            "ConditionType": "EHottaConditionType::SuppressorLevel",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 45
+          },
+          {
+            "ConditionType": "EHottaConditionType::Level",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 49
+          }
+        ],
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Common/buff_level_Damage_Lv3.buff_level_Damage_Lv3_C",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LevelLimit.UI_LevelLimit_C",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "/Game/Resources/Abilities/GameCue/Effect/CameraEffect/Effect_CameraLevelLimit_001.Effect_CameraLevelLimit_001_C",
+          "SubPathString": ""
+        }
+      },
+      "LevelLimit_MapBodrer": {
+        "EffectType": "EHottaSpecialEffectType::Suppressor",
+        "Conditions": [
+          {
+            "ConditionType": "EHottaConditionType::SuppressorLevel",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 999
+          }
+        ],
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Common/buff_level_Damage_MapBorder.buff_level_Damage_MapBorder_C",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MapBorderTips.UI_MapBorderTips_C",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "/Game/Resources/Abilities/GameCue/Effect/CameraEffect/Effect_CameraLevelLimit_001.Effect_CameraLevelLimit_001_C",
+          "SubPathString": ""
+        }
+      },
+      "cityspe_1": {
+        "EffectType": "EHottaSpecialEffectType::Suppressor",
+        "Conditions": [
+          {
+            "ConditionType": "EHottaConditionType::SuppressorLevel",
+            "OperationType": "EArithmeticKeyOperation::Less",
+            "ConditionValue": 999
+          }
+        ],
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Player/Common/buff_level_Damage_MapBorder.buff_level_Damage_MapBorder_C",
+          "SubPathString": ""
+        },
+        "WidgetClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MapBorderTips_city.UI_MapBorderTips_city_C",
+          "SubPathString": ""
+        },
+        "EmitterCameraLensEffect": {
+          "AssetPathName": "/Game/Resources/Abilities/GameCue/Effect/CameraEffect/Effect_CameraLevelLimit_001.Effect_CameraLevelLimit_001_C",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

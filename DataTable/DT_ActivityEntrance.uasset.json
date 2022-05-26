@@ -1,0 +1,2978 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ActivityEntrance",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct ActivityEntranceConfig",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "GuildTask": {
+        "GameActivityType": "EGameActivityType::GAT_GUILD_TASK",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "guildtask_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "BeginWeekDay": "EWeekday::MONDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "00:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": 4,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+        "CountConfig": [
+          {
+            "bIsResetCount": true,
+            "ActivityCount": 4,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::MONDAY",
+              "MonthDay": 0,
+              "EventTime": "05:00:00",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "CultureInvariantString": null
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Activity_Entrance_36_1"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/huodongtu/card_yj.card_yj",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Activity_Entrance_36_2"
+        },
+        "PreviewDropID": "None",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 12,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=GuildTaskPanel",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "Orienteering": {
+        "GameActivityType": "EGameActivityType::GAT_ORIENTEERING",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "None",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": true,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "Namespace": "",
+          "Key": "4321F02D463B8193AB8FDE948887BDA9",
+          "SourceString": "12:00–23:00"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "12:00:00",
+            "EndedTime": "12:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "13:00:00",
+            "EndedTime": "13:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "14:00:00",
+            "EndedTime": "14:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "15:00:00",
+            "EndedTime": "15:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "16:00:00",
+            "EndedTime": "16:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "17:00:00",
+            "EndedTime": "17:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "18:00:00",
+            "EndedTime": "18:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "19:00:00",
+            "EndedTime": "19:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "20:00:00",
+            "EndedTime": "20:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "21:00:00",
+            "EndedTime": "21:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "22:00:00",
+            "EndedTime": "22:20:00",
+            "TimeID": "None"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::WEDNESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "23:00:00",
+            "EndedTime": "23:20:00",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "12:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "12:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "13:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "13:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "14:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "14:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "15:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "15:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "16:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "16:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "17:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "17:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "18:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "18:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "19:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "19:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "20:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "20:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "21:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "21:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "22:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "22:09:57",
+            "EventID": "Ready"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "23:10:00",
+            "EventID": "StartGame"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "23:09:57",
+            "EventID": "Ready"
+          }
+        ],
+        "ActivityCount": 0,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [
+          {
+            "bIsResetCount": true,
+            "ActivityCount": 999,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+              "EventWeekDay": "EWeekday::SUNDAY",
+              "MonthDay": 0,
+              "EventTime": "5:00:00",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": true,
+        "MainType": {
+          "CultureInvariantString": null
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Orienteering_title"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_dingxiangyueye.card_dingxiangyueye",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map04.wormhold_map04",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Orienteering_des"
+        },
+        "PreviewDropID": "preview_orienteering",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 16,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=OrienteeringEntry",
+        "DestinationLevel": "QRSL_P",
+        "DestinationLocation": {
+          "X": -11514.0,
+          "Y": 42068.0,
+          "Z": -13426.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "/Game/Resources/City_forest/MiniGame/Orienteering/NPC_Minigame_Orienteering.NPC_Minigame_Orienteering_C",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_ACTIVITY_ORIENTEERING"
+      },
+      "xuanshang": {
+        "GameActivityType": "EGameActivityType::GAT_REWARD_QUEST",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "reward_quest_unlock",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": 0,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [
+          {
+            "bIsResetCount": true,
+            "ActivityCount": 4,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+              "EventWeekDay": "EWeekday::SUNDAY",
+              "MonthDay": 0,
+              "EventTime": "5:00:00",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 40,
+        "ParticipateLiveness": 10,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_1"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_31"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_xuanshangrengwu.card_xuanshangrengwu",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_31_1"
+        },
+        "PreviewDropID": "preview_rewardquest",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 4,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=RewardQuestMain",
+        "DestinationLevel": "QRSL_P",
+        "DestinationLocation": {
+          "X": -56458.45,
+          "Y": 63659.086,
+          "Z": -3020.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_121/npc_shu_121_character.npc_shu_121_character_C",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "qiandao": {
+        "GameActivityType": "EGameActivityType::GAT_SIGN",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "fuli_qd",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": 0,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_1"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_39_1"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_qiandao.card_qiandao",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_39_2"
+        },
+        "PreviewDropID": "preview_qiandao",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 6,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=ActivityMain&ClickButtons=RButton_Welfare&ClickButtons=RBoxDailySign",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "zuduifuben": {
+        "GameActivityType": "EGameActivityType::GAT_TEAM_CLONE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "teamclone_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_ZERO",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 60,
+        "LivenessUpperLimit": 60,
+        "ParticipateLiveness": 30,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_4"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_28"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_lianhezuozhan.card_lianhezuozhan",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_28_1"
+        },
+        "PreviewDropID": "preview_teamclone",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 100,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=TeamCloneForm",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "Wormhole": {
+        "GameActivityType": "EGameActivityType::GAT_WORMHOLE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "Wormhole",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "00:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 20,
+        "ParticipateLiveness": 20,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_2"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_30"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_chongdong.card_chongdong",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_30_1"
+        },
+        "PreviewDropID": "preview_wormhole",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 16,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=WormholeMainUI",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "xingjietansuo": {
+        "GameActivityType": "EGameActivityType::GAT_ASTRAL_PLANE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "astralplane_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "00:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [
+          {
+            "bIsResetCount": true,
+            "ActivityCount": 6,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+              "EventWeekDay": "EWeekday::SUNDAY",
+              "MonthDay": 0,
+              "EventTime": "5:0:0",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": true,
+        "ParticipateCostStamina": 30,
+        "LivenessUpperLimit": 60,
+        "ParticipateLiveness": 15,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_4"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_35"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_xingjietansuo.card_xingjietansuo",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_35_1"
+        },
+        "PreviewDropID": "preview_astral",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 19,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "None",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "TreasureMap": {
+        "GameActivityType": "EGameActivityType::GAT_TREASURE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "treasuremap_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::TUESDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "00:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 30,
+        "LivenessUpperLimit": 60,
+        "ParticipateLiveness": 15,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_4"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_26"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_yuannengxinbiao.card_yuannengxinbiao",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_26_1"
+        },
+        "PreviewDropID": "preview_treasuremap",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 18,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=TreasureMapUI",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "SoloLeague": {
+        "GameActivityType": "EGameActivityType::GAT_SOLO_LEAGUE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "sololeague_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "Namespace": "",
+          "Key": "7D8BC0F04D8C4CED6C5EFD834F666278",
+          "SourceString": "12:00–24:00"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "12:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "1-4月21日"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 60,
+        "ParticipateLiveness": 15,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_2"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_23"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_dianfeng.card_dianfeng",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_23_1"
+        },
+        "PreviewDropID": "preview_solo",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 19,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=SoloLeagueMain",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "WorldBoss": {
+        "GameActivityType": "EGameActivityType::GAT_WORLD_BOSS",
+        "bIsAwardBinding": false,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "worldboss_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": true,
+        "bIsOnlyPublic": false,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::TUESDAY",
+            "EndedWeekDay": "EWeekday::WEDNESDAY",
+            "BeginTime": "0:0:0",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": 3,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+        "CountConfig": [
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::TUESDAY",
+              "MonthDay": 0,
+              "EventTime": "5:0:0",
+              "EventID": "None"
+            }
+          },
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::THURSDAY",
+              "MonthDay": 0,
+              "EventTime": "5:0:0",
+              "EventID": "None"
+            }
+          },
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::SATURDAY",
+              "MonthDay": 0,
+              "EventTime": "5:0:0",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 20,
+        "ParticipateLiveness": 20,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_2"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_34"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_shenyuanruqing.card_shenyuanruqing",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/MiniMap/map_worldboss.map_worldboss",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_34_1"
+        },
+        "PreviewDropID": "preview_worldboss",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 18,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=WorldBossInfoForm",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_ACTIVITY_WORLDBOSS"
+      },
+      "digong": {
+        "GameActivityType": "EGameActivityType::GAT_SINGLE_CLONE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "digong_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_1"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_27"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_yiji.card_yiji",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_27_1"
+        },
+        "PreviewDropID": "preview_digong",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 2,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=CloneMain",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "HookClone": {
+        "GameActivityType": "EGameActivityType::GAT_HOOK_CLONE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "hookclone_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": true,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "00:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "5:0:0",
+            "EventID": "GenerateClones"
+          }
+        ],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 30,
+        "LivenessUpperLimit": 60,
+        "ParticipateLiveness": 15,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_4"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_37_1"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_ciyuanlilian.card_ciyuanlilian",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_37_2"
+        },
+        "PreviewDropID": "preview_hookclone",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 20,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=HookCloneMain",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "Feed": {
+        "GameActivityType": "EGameActivityType::GAT_FEED",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "feed_unlock",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE"
+        ],
+        "bIsNotifyState": true,
+        "bIsOnlyPublic": false,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "4:59:59",
+            "TimeID": "0"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "5:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "1"
+          }
+        ],
+        "EventConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "",
+            "EventID": "SettleStart"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "",
+            "EventID": "SettleEnd"
+          },
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "",
+            "EventID": "SettleClear"
+          }
+        ],
+        "ActivityCount": -1,
+        "MaxCountLimit": 3,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [
+          {
+            "bIsResetCount": true,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+              "EventWeekDay": "EWeekday::SUNDAY",
+              "MonthDay": 0,
+              "EventTime": "05:00:00",
+              "EventID": "None"
+            }
+          },
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+              "EventWeekDay": "EWeekday::SUNDAY",
+              "MonthDay": 0,
+              "EventTime": "12:00:00",
+              "EventID": "None"
+            }
+          },
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+              "EventWeekDay": "EWeekday::SUNDAY",
+              "MonthDay": 0,
+              "EventTime": "18:00:00",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 30,
+        "ParticipateLiveness": 10,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_1"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_38_2"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_touwei.card_touwei",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_38_1"
+        },
+        "PreviewDropID": "preview_feed",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 5,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=Feed",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "RandomRuins": {
+        "GameActivityType": "EGameActivityType::GAT_RANDOM_RUINS",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "randomruins_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "00:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 30,
+        "LivenessUpperLimit": 60,
+        "ParticipateLiveness": 15,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_4"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Activity_25"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_suijiyiji.card_suijiyiji",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_40"
+        },
+        "PreviewDropID": "preview_randomruins",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 17,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=RandomRuinsMainUI",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "VoidClone": {
+        "GameActivityType": "EGameActivityType::GAT_VOID_CLONE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "voidclone_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": 3,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+        "CountConfig": [
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::MONDAY",
+              "MonthDay": 0,
+              "EventTime": "05:00:00",
+              "EventID": "None"
+            }
+          },
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::WEDNESDAY",
+              "MonthDay": 0,
+              "EventTime": "05:00:00",
+              "EventID": "None"
+            }
+          },
+          {
+            "bIsResetCount": false,
+            "ActivityCount": 1,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::FRIDAY",
+              "MonthDay": 0,
+              "EventTime": "05:00:00",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 20,
+        "ParticipateLiveness": 20,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_2"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "void"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_xukongliexi.card_xukongliexi",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "void_002"
+        },
+        "PreviewDropID": "preview_voidclone",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 17,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=VoidCloneMain",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "AstralPlanePassiveTimes": {
+        "GameActivityType": "EGameActivityType::GAT_INVALID",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "astralplane_unlock",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_ZERO",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": true,
+        "ParticipateCostStamina": 25,
+        "LivenessUpperLimit": 40,
+        "ParticipateLiveness": 10,
+        "bIsLimitTime": false,
+        "MainType": {
+          "CultureInvariantString": null
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "CultureInvariantString": null
+        },
+        "ActivityIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "CultureInvariantString": null
+        },
+        "PreviewDropID": "None",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 0,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "tansuo": {
+        "GameActivityType": "EGameActivityType::GAT_EXPLORE",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "None",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 50,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_1"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_41"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_shijietansuo.card_shijietansuo",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_41_1"
+        },
+        "PreviewDropID": "preview_tansuo",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 3,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=WarFogOverviewMap&SubPage=TowerEnergy",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "DreamClone": {
+        "GameActivityType": "EGameActivityType::GAT_DREAM_CLONE",
+        "bIsAwardBinding": false,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "dreamclone_unlock",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "CultureInvariantString": null
+        },
+        "TimeConfig": [],
+        "EventConfig": [],
+        "ActivityCount": 0,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [
+          {
+            "bIsResetCount": true,
+            "ActivityCount": 7,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+              "EventWeekDay": "EWeekday::MONDAY",
+              "MonthDay": 0,
+              "EventTime": "5:0:0",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_3"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "CultureInvariantString": null
+        },
+        "ActivityIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "CultureInvariantString": null
+        },
+        "PreviewDropID": "None",
+        "ActivityPopulation": {
+          "CultureInvariantString": null
+        },
+        "OrderPriority": 0,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "GuildCampfire": {
+        "GameActivityType": "EGameActivityType::GAT_GUILD_CAMPFIRE",
+        "bIsAwardBinding": false,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "zuzhi",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "00:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": 20,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+        "CountConfig": [
+          {
+            "bIsResetCount": true,
+            "ActivityCount": 20,
+            "TimeConfig": {
+              "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+              "EventWeekDay": "EWeekday::MONDAY",
+              "MonthDay": 0,
+              "EventTime": "5:0:0",
+              "EventID": "None"
+            }
+          }
+        ],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "CultureInvariantString": null
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_Answer_014"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "CultureInvariantString": null
+        },
+        "PreviewDropID": "preview_campfire",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 0,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=GuildCampfireMain",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": true,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "GuildAnswer": {
+        "GameActivityType": "EGameActivityType::GAT_GUILD_ANSWER",
+        "bIsAwardBinding": false,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "zuzhi",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": true,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "Namespace": "",
+          "Key": "9A9F0DE84256FE355D4A09933406CE1C",
+          "SourceString": "19:05–19:20"
+        },
+        "TimeConfig": [],
+        "EventConfig": [],
+        "ActivityCount": 10,
+        "MaxCountLimit": 10,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "CultureInvariantString": null
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_Answer_001"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "CultureInvariantString": null
+        },
+        "PreviewDropID": "None",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_29"
+        },
+        "OrderPriority": 0,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": true,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "BigSecret": {
+        "GameActivityType": "EGameActivityType::GAT_BIG_SECRET",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "BigSecret_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": true,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::MONDAY",
+            "MonthDay": 0,
+            "EventTime": "05:10:00",
+            "EventID": "WeekDistributeGroup"
+          }
+        ],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 20,
+        "ParticipateLiveness": 20,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_2"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "Namespace": "",
+          "Key": "C633297846A9AEBBFA433FAD0A297246",
+          "SourceString": "Bygone Phantasm"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_jiurihuanxiang.card_jiurihuanxiang",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "BigSecret_Desc"
+        },
+        "PreviewDropID": "preview_bigsecret",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 20,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=NetWait",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "minigame": {
+        "GameActivityType": "EGameActivityType::GAT_ABILITY_TRAINING",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "None",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ui_activity_always_open"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "0:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "None"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 20,
+        "ParticipateLiveness": 10,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_2"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "minigame"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_nenglixunlian.card_nenglixunlian",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_42_1"
+        },
+        "PreviewDropID": "preview_minigame",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 21,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=MiniGameMain",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "StaminaPush": {
+        "GameActivityType": "EGameActivityType::GAT_INVALID",
+        "bIsAwardBinding": false,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "None",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "CultureInvariantString": null
+        },
+        "TimeConfig": [],
+        "EventConfig": [],
+        "ActivityCount": 0,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "CultureInvariantString": null
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "Namespace": "",
+          "Key": "83B77DC74BE3D1557DE15C8AE30CDE2F",
+          "SourceString": "Restore all endurance"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "CultureInvariantString": null
+        },
+        "PreviewDropID": "None",
+        "ActivityPopulation": {
+          "CultureInvariantString": null
+        },
+        "OrderPriority": 0,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "",
+            "EventID": "StaminaPush"
+          }
+        ],
+        "PushMsgTitle": {
+          "Namespace": "",
+          "Key": "84F8E0664877520B8EE958BD0780E59F",
+          "SourceString": "Tower of Fantasy"
+        },
+        "PushMsgBody": {
+          "Namespace": "",
+          "Key": "91C218BE4BD2981ECB9913902300BF5A",
+          "SourceString": "Dear Wanderer, your vitality has reached the limit. Go on with your adventure!"
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "2V2": {
+        "GameActivityType": "EGameActivityType::GAT_2V2",
+        "bIsAwardBinding": true,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "sololeague_unlock",
+        "bIsMutexActivity": true,
+        "ProhibitJoinScene": [
+          "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+          "ELevelSceneType::LEVEL_TYPE_GUILD"
+        ],
+        "bIsNotifyState": false,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "Namespace": "",
+          "Key": "7D8BC0F04D8C4CED6C5EFD834F666278",
+          "SourceString": "12:00–24:00"
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "12:00:00",
+            "EndedTime": "23:59:59",
+            "TimeID": "1-4月21日"
+          }
+        ],
+        "EventConfig": [],
+        "ActivityCount": -1,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 60,
+        "ParticipateLiveness": 15,
+        "bIsLimitTime": false,
+        "MainType": {
+          "CultureInvariantString": null
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_23"
+        },
+        "ActivityIcon": {
+          "AssetPathName": "/Game/Resources/UI/Activity/maoxian/card_dianfeng.card_dianfeng",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_23_1"
+        },
+        "PreviewDropID": "preview_solo",
+        "ActivityPopulation": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_24"
+        },
+        "OrderPriority": 19,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "Path=2V2Main",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      },
+      "DangerousIntruder": {
+        "GameActivityType": "EGameActivityType::GAT_DANGEROUS_INTRUDER",
+        "bIsAwardBinding": false,
+        "bIsSupportMatch": false,
+        "bIsExpLimit": false,
+        "UnlockCondition": "None",
+        "bIsMutexActivity": false,
+        "ProhibitJoinScene": [],
+        "bIsNotifyState": true,
+        "bIsOnlyPublic": true,
+        "TimeText": {
+          "CultureInvariantString": null
+        },
+        "TimeConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_PERIOD",
+            "BeginWeekDay": "EWeekday::SUNDAY",
+            "EndedWeekDay": "EWeekday::SUNDAY",
+            "BeginTime": "2022:1:27-10:00:00",
+            "EndedTime": "2022:2:17-5:00:00",
+            "TimeID": "Intruder"
+          }
+        ],
+        "EventConfig": [
+          {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "5:00:00",
+            "EventID": "IntruderDailyZero"
+          }
+        ],
+        "ActivityCount": 0,
+        "MaxCountLimit": -1,
+        "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+        "CountConfig": [],
+        "BuyCountInfo": {},
+        "bCanOnlyParticipate": false,
+        "ParticipateCostStamina": 0,
+        "LivenessUpperLimit": 0,
+        "ParticipateLiveness": 0,
+        "bIsLimitTime": false,
+        "MainType": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_main_3"
+        },
+        "SubType": {
+          "CultureInvariantString": null
+        },
+        "ActivityName": {
+          "CultureInvariantString": null
+        },
+        "ActivityIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityMiniIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "ActivityDesc": {
+          "CultureInvariantString": null
+        },
+        "PreviewDropID": "None",
+        "ActivityPopulation": {
+          "CultureInvariantString": null
+        },
+        "OrderPriority": 0,
+        "bIsRecommend": false,
+        "PushTimeDesc": {
+          "CultureInvariantString": null
+        },
+        "PushCycleDesc": {
+          "CultureInvariantString": null
+        },
+        "PushTimeConfig": [],
+        "PushMsgTitle": {
+          "CultureInvariantString": null
+        },
+        "PushMsgBody": {
+          "CultureInvariantString": null
+        },
+        "PushMsgAction": {
+          "CultureInvariantString": null
+        },
+        "bIsAutoNavigate": false,
+        "GotoFormPath": "",
+        "DestinationLevel": "",
+        "DestinationLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "DestinationInteractNPC": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "NPCInteractIndex": 0,
+        "bGotoGuildScene": false,
+        "bNeedTravelGuildScene": false,
+        "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+      }
+    }
+  }
+]

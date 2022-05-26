@@ -1,0 +1,93 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TitleCategory",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct TitleCategoryRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "ParentCategory": {
+          "Namespace": "",
+          "Key": "626143924426A74527E46EAB1F631B33",
+          "SourceString": "Adventure"
+        },
+        "TitleGroupArray": [
+          {
+            "ChildCategory": {
+              "Namespace": "",
+              "Key": "47E93B754AA6E5A1EB7E16AEDDA97181",
+              "SourceString": "Exploration"
+            },
+            "TitleIdArray": [
+              "1_1_1_1",
+              "1_1_2_1",
+              "1_1_3_1",
+              "1_1_4_1",
+              "1_1_5_1"
+            ]
+          }
+        ]
+      },
+      "2": {
+        "ParentCategory": {
+          "Namespace": "",
+          "Key": "578D79EF4EDF486C877A62847918AE87",
+          "SourceString": "Title"
+        },
+        "TitleGroupArray": [
+          {
+            "ChildCategory": {
+              "Namespace": "",
+              "Key": "BB7C565B41713CECCB8906B3C58EA119",
+              "SourceString": "Arena"
+            },
+            "TitleIdArray": [
+              "1_3_1_5",
+              "1_3_1_6",
+              "1_3_1_7",
+              "1_3_1_1",
+              "1_3_1_2",
+              "1_3_1_3",
+              "1_3_1_4",
+              "1_4_1_1",
+              "1_4_1_2",
+              "1_4_1_3",
+              "1_4_1_4",
+              "1_4_1_5"
+            ]
+          },
+          {
+            "ChildCategory": {
+              "Namespace": "",
+              "Key": "AE6A9FEC4691A501A4A542814D03C582",
+              "SourceString": "Bygone Phantasm"
+            },
+            "TitleIdArray": [
+              "1_4_2_1",
+              "1_4_2_2",
+              "1_4_2_3",
+              "1_4_2_4",
+              "1_4_2_5"
+            ]
+          },
+          {
+            "ChildCategory": {
+              "Namespace": "",
+              "Key": "F31B9045401709122366D9B98A099461",
+              "SourceString": "Special"
+            },
+            "TitleIdArray": [
+              "1_3_2_1",
+              "1_5_1_1",
+              "1_6_1_1"
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

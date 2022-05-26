@@ -1,0 +1,198 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "CombatAwardEntranceConfigDataTable_Overseas",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaCombatAwardEntranceConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Activity_01": {
+        "StartDateTime": {
+          "Ticks": 0
+        },
+        "EndDateTime": {
+          "Ticks": 0
+        },
+        "AwardConfigPackId": "CombatAward",
+        "MaxLevel": 150,
+        "InitialCertificateConfigId": "InitialCertificate",
+        "AdvancedCertificateConfigId": "AdvancedCertificate",
+        "BuyCertificateAwardArray": [],
+        "PreviewAllAwardDropId": "drop_bp_show_68",
+        "PreviewAdvancedAwardDropId": "drop_bp_show_68",
+        "OneCurrencyAddExp": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 4
+        },
+        "OverrideFormConfigMap": {}
+      },
+      "Activity_02": {
+        "StartDateTime": {
+          "Ticks": 0
+        },
+        "EndDateTime": {
+          "Ticks": 0
+        },
+        "AwardConfigPackId": "CombatAward",
+        "MaxLevel": 150,
+        "InitialCertificateConfigId": "InitialCertificate",
+        "AdvancedCertificateConfigId": "AdvancedCertificate",
+        "BuyCertificateAwardArray": [],
+        "PreviewAllAwardDropId": "drop_bp_show_68",
+        "PreviewAdvancedAwardDropId": "drop_bp_show_68",
+        "OneCurrencyAddExp": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 4
+        },
+        "OverrideFormConfigMap": {}
+      },
+      "Activity_03": {
+        "StartDateTime": {
+          "Ticks": 0
+        },
+        "EndDateTime": {
+          "Ticks": 0
+        },
+        "AwardConfigPackId": "CombatAward",
+        "MaxLevel": 150,
+        "InitialCertificateConfigId": "InitialCertificate",
+        "AdvancedCertificateConfigId": "AdvancedCertificate",
+        "BuyCertificateAwardArray": [],
+        "PreviewAllAwardDropId": "drop_bp_show_68",
+        "PreviewAdvancedAwardDropId": "drop_bp_show_68",
+        "OneCurrencyAddExp": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 4
+        },
+        "OverrideFormConfigMap": {
+          "CombatAwardAdvertisement": {
+            "OverrideImageMap": null,
+            "OverrideTextBlockMap": {
+              "TextBlock_165": {
+                "Namespace": "",
+                "Key": "D2A6E1DE4F9D8B7317BCDA9DA9FB66C9",
+                "SourceString": "Diverse"
+              },
+              "TextBlock": {
+                "Namespace": "",
+                "Key": "381D038D4D7A7FFA16F70781816804FB",
+                "SourceString": "Dissipation"
+              },
+              "TextBlock_1": {
+                "Namespace": "",
+                "Key": "E150DD484B9D9581B938CFBAC5BD8DA7",
+                "SourceString": "Nth Power"
+              },
+              "TextBlock_2": {
+                "Namespace": "",
+                "Key": "58A7C3024FF5427597B688A7C15567A4",
+                "SourceString": "Fair Trade"
+              }
+            }
+          },
+          "BuyCombatAwardCertificateForm": {
+            "OverrideImageMap": null,
+            "OverrideTextBlockMap": {}
+          },
+          "CombatAwardForm": {
+            "OverrideImageMap": {
+              "Image_98": {
+                "AssetPathName": "/Game/Resources/UI/CombatAward/txzgg_01.txzgg_01",
+                "SubPathString": ""
+              }
+            },
+            "OverrideTextBlockMap": {}
+          },
+          "CombatAwardReceiveForm": {
+            "OverrideImageMap": {
+              "Image_216": {
+                "AssetPathName": "/Game/Resources/UI/CombatAward/txztc_03.txztc_03",
+                "SubPathString": ""
+              }
+            },
+            "OverrideTextBlockMap": {}
+          },
+          "ShopRecommend": {
+            "OverrideImageMap": null,
+            "OverrideTextBlockMap": {}
+          }
+        }
+      },
+      "Activity_overseas_01": {
+        "StartDateTime": {
+          "Ticks": 637841952000000000
+        },
+        "EndDateTime": {
+          "Ticks": 637894656000000000
+        },
+        "AwardConfigPackId": "CombatAward_overseas_1st",
+        "MaxLevel": 180,
+        "InitialCertificateConfigId": "InitialCertificate",
+        "AdvancedCertificateConfigId": "AdvancedCertificate_overseas_1st",
+        "BuyCertificateAwardArray": [],
+        "PreviewAllAwardDropId": "drop_bp_show_68_overseas_1st",
+        "PreviewAdvancedAwardDropId": "drop_bp_show_68_overseas_1st",
+        "OneCurrencyAddExp": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 4
+        },
+        "OverrideFormConfigMap": {
+          "CombatAwardAdvertisement": {
+            "OverrideImageMap": null,
+            "OverrideTextBlockMap": {
+              "TextBlock_165": {
+                "Namespace": "",
+                "Key": "D2A6E1DE4F9D8B7317BCDA9DA9FB66C9",
+                "SourceString": "Diverse"
+              },
+              "TextBlock": {
+                "Namespace": "",
+                "Key": "381D038D4D7A7FFA16F70781816804FB",
+                "SourceString": "Dissipation"
+              },
+              "TextBlock_1": {
+                "Namespace": "",
+                "Key": "E150DD484B9D9581B938CFBAC5BD8DA7",
+                "SourceString": "Nth Power"
+              },
+              "TextBlock_2": {
+                "Namespace": "",
+                "Key": "58A7C3024FF5427597B688A7C15567A4",
+                "SourceString": "Fair Trade"
+              }
+            }
+          },
+          "BuyCombatAwardCertificateForm": {
+            "OverrideImageMap": null,
+            "OverrideTextBlockMap": {}
+          },
+          "CombatAwardForm": {
+            "OverrideImageMap": {
+              "Image_98": {
+                "AssetPathName": "/Game/Resources/UI/CombatAward/txzgg_01.txzgg_01",
+                "SubPathString": ""
+              }
+            },
+            "OverrideTextBlockMap": {}
+          },
+          "CombatAwardReceiveForm": {
+            "OverrideImageMap": {
+              "Image_216": {
+                "AssetPathName": "/Game/Resources/UI/CombatAward/txztc_03.txztc_03",
+                "SubPathString": ""
+              }
+            },
+            "OverrideTextBlockMap": {}
+          },
+          "ShopRecommend": {
+            "OverrideImageMap": null,
+            "OverrideTextBlockMap": {}
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,478 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "AstralPortalGroupConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaAstralPortalGroupConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GroupId": "Test_1",
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 19
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 27
+          }
+        },
+        "ClassesWithWeightArray": [
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_1_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_1.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_2_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_2.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_3_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_3.0"
+              }
+            ],
+            "Weight": 10.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_1_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_1.0"
+              }
+            ],
+            "Weight": 5.0
+          }
+        ]
+      },
+      "2": {
+        "GroupId": "Group1",
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 21
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 39
+          }
+        },
+        "ClassesWithWeightArray": [
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_1_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_1.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_2_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_2.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_3_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_3.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_4_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_4.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_5_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_5.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_6_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_6.0"
+              }
+            ],
+            "Weight": 170.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_7_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_7.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_8_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_8.0"
+              }
+            ],
+            "Weight": 204.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_1_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_1.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_2_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_2.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_3_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_3.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_4_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_4.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_5_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_5.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_6_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_6.0"
+              }
+            ],
+            "Weight": 20.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_7_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_7.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_8_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_8.0"
+              }
+            ],
+            "Weight": 24.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_1_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_1.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_2_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_2.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_3_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_3.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_4_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_4.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_5_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_5.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_6_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_6.0"
+              }
+            ],
+            "Weight": 10.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_7_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_7.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_8_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_8.0"
+              }
+            ],
+            "Weight": 12.0
+          }
+        ]
+      },
+      "3": {
+        "GroupId": "Group1",
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 40
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 69
+          }
+        },
+        "ClassesWithWeightArray": [
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_9_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_9.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_10_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_10.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_11_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_11.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_12_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_12.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_13_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_13.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_14_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_14.0"
+              }
+            ],
+            "Weight": 170.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_15_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_15.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_16_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_16.0"
+              }
+            ],
+            "Weight": 204.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_9_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_9.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_10_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_10.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_11_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_11.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_12_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_12.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_13_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_13.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_14_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_14.0"
+              }
+            ],
+            "Weight": 20.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_15_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_15.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_16_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_16.0"
+              }
+            ],
+            "Weight": 24.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_9_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_9.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_10_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_10.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_11_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_11.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_12_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_12.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_13_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_13.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_14_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_14.0"
+              }
+            ],
+            "Weight": 10.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_15_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_15.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_16_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_16.0"
+              }
+            ],
+            "Weight": 12.0
+          }
+        ]
+      },
+      "4": {
+        "GroupId": "Group1",
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 100
+          }
+        },
+        "ClassesWithWeightArray": [
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_9_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_9.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_10_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_10.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_11_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_11.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_12_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_12.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_13_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_13.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_14_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_14.0"
+              }
+            ],
+            "Weight": 170.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_15_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_15.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L1_16_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_16.0"
+              }
+            ],
+            "Weight": 204.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_9_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_9.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_10_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_10.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_11_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_11.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_12_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_12.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_13_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_13.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_14_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_14.0"
+              }
+            ],
+            "Weight": 20.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_15_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_15.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L2_16_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_16.0"
+              }
+            ],
+            "Weight": 24.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_9_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_9.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_10_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_10.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_11_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_11.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_12_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_12.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_13_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_13.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_14_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_14.0"
+              }
+            ],
+            "Weight": 10.0
+          },
+          {
+            "AstralPortalTemplateArray": [
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_15_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_15.0"
+              },
+              {
+                "ObjectName": "BlueprintGeneratedClass AstralPlaneTransferDoorBP_L3_16_C",
+                "ObjectPath": "Hotta/Content/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_16.0"
+              }
+            ],
+            "Weight": 12.0
+          }
+        ]
+      }
+    }
+  }
+]

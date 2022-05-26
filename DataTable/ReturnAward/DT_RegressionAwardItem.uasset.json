@@ -1,0 +1,56 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_RegressionAwardItem",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaRegressionAwardRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "2": {
+        "description": {
+          "Namespace": "",
+          "Key": "3DE3EE6E4C178AF02A61FFA8FB9E1089",
+          "SourceString": "Vitality"
+        },
+        "AwardList": [
+          {
+            "ItemID": "Item_PrimaryEnergy_2",
+            "Amount": 160,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_Gold",
+            "Amount": 3000,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ]
+      },
+      "0": {
+        "description": {
+          "Namespace": "",
+          "Key": "C55A47E04512CD5126C41695E1B15DC8",
+          "SourceString": "Raid coin"
+        },
+        "AwardList": [
+          {
+            "ItemID": "Item_RegressionCoin",
+            "Amount": 800,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ]
+      }
+    }
+  }
+]

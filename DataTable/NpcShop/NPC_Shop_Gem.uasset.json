@@ -1,0 +1,1081 @@
+﻿[
+  {
+    "Type": "Function",
+    "Name": "ExecuteUbergraph_NPC_Shop_Gem",
+    "Outer": "NPC_Shop_Gem_C",
+    "ChildProperties": [
+      {
+        "Type": "IntProperty",
+        "Name": "EntryPoint",
+        "Flags": 1,
+        "ElementSize": 4,
+        "PropertyFlags": 148
+      },
+      {
+        "Type": "NameProperty",
+        "Name": "CallFunc_MakeLiteralName_ReturnValue",
+        "Flags": 1,
+        "ElementSize": 12
+      },
+      {
+        "Type": "NameProperty",
+        "Name": "K2Node_Event_EventName",
+        "Flags": 1,
+        "ElementSize": 12,
+        "PropertyFlags": 2
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "CallFunc_GetClientPlayerCharacter_ReturnValue",
+        "Flags": 1,
+        "ElementSize": 8,
+        "PropertyClass": {
+          "ObjectName": "Class HottaPlayerCharacter",
+          "ObjectPath": "/Script/HottaFramework"
+        }
+      },
+      {
+        "Type": "BoolProperty",
+        "Name": "CallFunc_EqualEqual_NameName_ReturnValue",
+        "Flags": 1,
+        "ElementSize": 1,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "CallFunc_GetHottaPlayerController_ReturnValue",
+        "Flags": 1,
+        "ElementSize": 8,
+        "PropertyClass": {
+          "ObjectName": "Class HottaPlayerController",
+          "ObjectPath": "/Script/HottaFramework"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "CallFunc_GetHUD_ReturnValue",
+        "Flags": 1,
+        "ElementSize": 8,
+        "PropertyClass": {
+          "ObjectName": "Class HUD",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "K2Node_DynamicCast_AsQRSLHUD",
+        "Flags": 1,
+        "ElementSize": 8,
+        "PropertyFlags": 1125899906842624,
+        "PropertyClass": {
+          "ObjectName": "Class QRSLHUD",
+          "ObjectPath": "/Script/QRSL"
+        }
+      },
+      {
+        "Type": "BoolProperty",
+        "Name": "K2Node_DynamicCast_bSuccess",
+        "Flags": 1,
+        "ElementSize": 1,
+        "PropertyFlags": 1125899906842624,
+        "FieldSize": 1,
+        "ByteOffset": 0,
+        "ByteMask": 1,
+        "FieldMask": 255,
+        "BoolSize": 1,
+        "bIsNativeBool": true
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "CallFunc_ShowLotteryMainForm_ReturnValue",
+        "Flags": 1,
+        "ElementSize": 8,
+        "PropertyFlags": 524288,
+        "PropertyClass": {
+          "ObjectName": "Class QRSLUI_LotteryMainForm",
+          "ObjectPath": "/Script/QRSL"
+        }
+      }
+    ],
+    "FunctionFlags": 32769
+  },
+  {
+    "Type": "Function",
+    "Name": "BP_OnDialogueEvent",
+    "Outer": "NPC_Shop_Gem_C",
+    "SuperStruct": {
+      "ObjectName": "Function QRSLDialogueNpcCharacter:BP_OnDialogueEvent",
+      "ObjectPath": "/Script/QRSL"
+    },
+    "ChildProperties": [
+      {
+        "Type": "NameProperty",
+        "Name": "EventName",
+        "Flags": 1,
+        "ElementSize": 12,
+        "PropertyFlags": 134218134
+      }
+    ],
+    "FunctionFlags": 138545152
+  },
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "NPC_Shop_Gem_C",
+    "Super": "BP_DialogueNpcBase_C",
+    "Properties": {
+      "SimpleConstructionScript": {
+        "ObjectName": "SimpleConstructionScript NPC_Shop_Gem_C:SimpleConstructionScript_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.20"
+      },
+      "InheritableComponentHandler": {
+        "ObjectName": "InheritableComponentHandler NPC_Shop_Gem_C:InheritableComponentHandler",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.15"
+      },
+      "UberGraphFunction": {
+        "ObjectName": "Function NPC_Shop_Gem_C:ExecuteUbergraph_NPC_Shop_Gem",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.0"
+      }
+    },
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass BP_DialogueNpcBase_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase.1"
+    },
+    "Children": [
+      {
+        "ObjectName": "Function NPC_Shop_Gem_C:BP_OnDialogueEvent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.1"
+      },
+      {
+        "ObjectName": "Function NPC_Shop_Gem_C:ExecuteUbergraph_NPC_Shop_Gem",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.0"
+      }
+    ],
+    "ChildProperties": [
+      {
+        "Type": "StructProperty",
+        "Name": "UberGraphFrame",
+        "Flags": 2097153,
+        "ElementSize": 16,
+        "PropertyFlags": 2105344,
+        "Struct": {
+          "ObjectName": "ScriptStruct PointerToUberGraphFrame",
+          "ObjectPath": "/Script/Engine"
+        }
+      },
+      {
+        "Type": "ObjectProperty",
+        "Name": "npcshop",
+        "Flags": 2097153,
+        "ElementSize": 8,
+        "PropertyFlags": 17180393476,
+        "PropertyClass": {
+          "ObjectName": "Class SkeletalMeshComponent",
+          "ObjectPath": "/Script/Engine"
+        }
+      }
+    ],
+    "FuncMap": {
+      "ExecuteUbergraph_NPC_Shop_Gem": {
+        "ObjectName": "Function NPC_Shop_Gem_C:ExecuteUbergraph_NPC_Shop_Gem",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.0"
+      },
+      "BP_OnDialogueEvent": {
+        "ObjectName": "Function NPC_Shop_Gem_C:BP_OnDialogueEvent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.1"
+      }
+    },
+    "ClassFlags": 8652820,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Game",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "NPC_Shop_Gem_C Default__NPC_Shop_Gem_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.3"
+    }
+  },
+  {
+    "Type": "NPC_Shop_Gem_C",
+    "Name": "Default__NPC_Shop_Gem_C",
+    "Template": "Default__BP_DialogueNpcBase_C",
+    "Properties": {
+      "UberGraphFrame": {},
+      "DialogueCollisionSphere": {
+        "ObjectName": "SphereComponent Default__NPC_Shop_Gem_C:DialogueCollisionSphere",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.22"
+      },
+      "GreetTriggerShape": {
+        "ObjectName": "BoxComponent Default__NPC_Shop_Gem_C:GreetTriggerBox",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.4"
+      },
+      "AttackReactionEntries": [
+        {
+          "Anim": {
+            "ObjectName": "AnimMontage npc025_hit",
+            "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_025/montage/npc025_hit.0"
+          },
+          "NPCMsg": {
+            "NPCMsgEntries": []
+          },
+          "SpawnTemplate": null
+        }
+      ],
+      "AttackReactionResetInterval": 0.0,
+      "AttackReactionCoolDownTime": 0.0,
+      "SilentCheckComponent": {
+        "ObjectName": "SilentCheckComponent Default__NPC_Shop_Gem_C:SilentCheckComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.19"
+      },
+      "SplineComponent": {
+        "ObjectName": "SplineComponent Default__NPC_Shop_Gem_C:PathSplineComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.23"
+      },
+      "BubbleComponent": {
+        "ObjectName": "HottaBubbleComponent Default__NPC_Shop_Gem_C:BubbleComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.11"
+      },
+      "IdleStateEntries": [],
+      "bUseTurnInPlace": false,
+      "HeadUpExtraInfo": {
+        "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+        "Key": "npc_shop_gem_headtitle"
+      },
+      "SkillEffectComponent": {
+        "ObjectName": "HottaSkillEffectComponent Default__NPC_Shop_Gem_C:SkillEffectComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.13"
+      },
+      "ConfigID": "NPC_Shop_Gem",
+      "SkillComponent": {
+        "ObjectName": "HottaSkillSystemComponent Default__NPC_Shop_Gem_C:SkillComponent",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.14"
+      },
+      "AttributeSet": {
+        "ObjectName": "HottaAttributeSet Default__NPC_Shop_Gem_C:AttributeSet",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.9"
+      },
+      "StandaloneHottaAttribute": {
+        "ObjectName": "HottaAttributeSet Default__NPC_Shop_Gem_C:StandaloneAttributeSet",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.10"
+      },
+      "FakeShadowMesh": {
+        "ObjectName": "StaticMeshComponent Default__NPC_Shop_Gem_C:NewFakeShadow",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.24"
+      },
+      "bShowHeadUpExtra": true,
+      "DescriptiveName": {
+        "TableId": "/Game/Resources/Text/ST_actorname.ST_actorname",
+        "Key": "npc_shop_gem"
+      },
+      "HeadUpFuncTypeTexture": {
+        "AssetPathName": "/Game/Resources/UI/npc/icon_shop.icon_shop",
+        "SubPathString": ""
+      },
+      "Mesh": {
+        "ObjectName": "HottaSkeletalMeshComponent Default__NPC_Shop_Gem_C:CharacterMesh0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.12"
+      },
+      "CharacterMovement": {
+        "ObjectName": "HottaAIMovementComponent Default__NPC_Shop_Gem_C:CharMoveComp",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.8"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      },
+      "MovementModeChangedDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Gem_C Default__NPC_Shop_Gem_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.3"
+            },
+            "FunctionName": "CharacterMovementModeChanged"
+          }
+        ]
+      },
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      }
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "GreetTriggerBox",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "GreetTriggerBox",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCylinder",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "CollisionCylinder",
+    "Properties": {
+      "CapsuleHalfHeight": 180.0,
+      "CapsuleRadius": 60.0
+    }
+  },
+  {
+    "Type": "CharacterHeadUpComp_BP_C",
+    "Name": "CharacterHeadUpComp_BP_GEN_VARIABLE",
+    "Outer": "NPC_Shop_Gem_C",
+    "Template": "CharacterHeadUpComp_BP_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -6.1035156E-05,
+        "Y": 0.00064086914,
+        "Z": 203.98587
+      }
+    }
+  },
+  {
+    "Type": "DialogueComponent",
+    "Name": "Dialogue_GEN_VARIABLE",
+    "Outer": "NPC_Shop_Gem_C",
+    "Template": "Dialogue_GEN_VARIABLE",
+    "Properties": {
+      "DlgDialogue": {
+        "ObjectName": "DlgDialogue Text_Gem",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/Text_Gem.0"
+      }
+    }
+  },
+  {
+    "Type": "HottaAIMovementComponent",
+    "Name": "CharMoveComp",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "CharMoveComp"
+  },
+  {
+    "Type": "HottaAttributeSet",
+    "Name": "AttributeSet",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "AttributeSet"
+  },
+  {
+    "Type": "HottaAttributeSet",
+    "Name": "StandaloneAttributeSet",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "StandaloneAttributeSet"
+  },
+  {
+    "Type": "HottaBubbleComponent",
+    "Name": "BubbleComponent",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "BubbleComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      }
+    }
+  },
+  {
+    "Type": "HottaSkeletalMeshComponent",
+    "Name": "CharacterMesh0",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "CharacterMesh0",
+    "Properties": {
+      "AnimClass": {
+        "ObjectName": "AnimBlueprintGeneratedClass npc052_animBP_C",
+        "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_052/npc052_animBP/npc052_animBP.0"
+      },
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMesh npc_shu_052_skin",
+        "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_052/npc_shu_052_skin.0"
+      },
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "MeleeTrace",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "LaunchTrace",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "FlyBall",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "WaterMesh",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      },
+      "RelativeLocation": {
+        "X": -0.0017661992,
+        "Y": -0.681713,
+        "Z": -179.0125
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00018,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "HottaSkillEffectComponent",
+    "Name": "SkillEffectComponent",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "SkillEffectComponent"
+  },
+  {
+    "Type": "HottaSkillSystemComponent",
+    "Name": "SkillComponent",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "SkillComponent",
+    "Properties": {
+      "OnGiveAbilityDelegate": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Gem_C Default__NPC_Shop_Gem_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.3"
+            },
+            "FunctionName": "OnGiveAbility"
+          }
+        ]
+      },
+      "ReplicatedPredictionKeyMap": {
+        "PredictionKeys": [
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "PredictiveConnection": null,
+              "Current": 0,
+              "Base": 0,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          }
+        ],
+        "ArrayReplicationKey": 96
+      }
+    }
+  },
+  {
+    "Type": "InheritableComponentHandler",
+    "Name": "InheritableComponentHandler",
+    "Outer": "NPC_Shop_Gem_C",
+    "Properties": {
+      "Records": [
+        {
+          "ComponentClass": {
+            "ObjectName": "Class DialogueComponent",
+            "ObjectPath": "/Script/QRSL"
+          },
+          "ComponentTemplate": {
+            "ObjectName": "DialogueComponent NPC_Shop_Gem_C:Dialogue_GEN_VARIABLE",
+            "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.7"
+          },
+          "ComponentKey": {
+            "OwnerClass": {
+              "ObjectName": "BlueprintGeneratedClass BP_DialogueNpcBase_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase.1"
+            },
+            "SCSVariableName": "Dialogue",
+            "AssociatedGuid": "A8761532-4EA18704-9EC5A880-E4541DE6"
+          },
+          "CookedComponentInstancingData": {
+            "ChangedPropertyList": [],
+            "bHasValidCookedData": false
+          }
+        },
+        {
+          "ComponentClass": {
+            "ObjectName": "BlueprintGeneratedClass CharacterHeadUpComp_BP_C",
+            "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Components/CharacterHeadUpComp_BP.0"
+          },
+          "ComponentTemplate": {
+            "ObjectName": "CharacterHeadUpComp_BP_C NPC_Shop_Gem_C:CharacterHeadUpComp_BP_GEN_VARIABLE",
+            "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.6"
+          },
+          "ComponentKey": {
+            "OwnerClass": {
+              "ObjectName": "BlueprintGeneratedClass BP_DialogueNpcBase_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase.1"
+            },
+            "SCSVariableName": "CharacterHeadUpComp_BP",
+            "AssociatedGuid": "E8B1B381-457E1097-A4DE6D9C-ABDE3B5F"
+          },
+          "CookedComponentInstancingData": {
+            "ChangedPropertyList": [],
+            "bHasValidCookedData": false
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot_GEN_VARIABLE",
+    "Outer": "NPC_Shop_Gem_C"
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_0",
+    "Outer": "SimpleConstructionScript_0",
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class SceneComponent",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SceneComponent NPC_Shop_Gem_C:DefaultSceneRoot_GEN_VARIABLE",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.16"
+      },
+      "VariableGuid": "F22E2524-49EA7E66-720D6B99-09379347",
+      "InternalVariableName": "DefaultSceneRoot"
+    }
+  },
+  {
+    "Type": "SCS_Node",
+    "Name": "SCS_Node_2",
+    "Outer": "SimpleConstructionScript_0",
+    "Properties": {
+      "ComponentClass": {
+        "ObjectName": "Class SkeletalMeshComponent",
+        "ObjectPath": "/Script/Engine"
+      },
+      "ComponentTemplate": {
+        "ObjectName": "SkeletalMeshComponent NPC_Shop_Gem_C:npcshop_GEN_VARIABLE",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.21"
+      },
+      "AttachToName": "RideSocket",
+      "ParentComponentOrVariableName": "CharacterMesh0",
+      "bIsParentComponentNative": true,
+      "VariableGuid": "4AF6BB27-47D09EBF-807363B0-D9D64D29",
+      "InternalVariableName": "npcshop"
+    }
+  },
+  {
+    "Type": "SilentCheckComponent",
+    "Name": "SilentCheckComponent",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "SilentCheckComponent",
+    "Properties": {
+      "OnSilent": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Gem_C Default__NPC_Shop_Gem_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.3"
+            },
+            "FunctionName": "OnSilent"
+          }
+        ]
+      },
+      "OnUnsilent": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "NPC_Shop_Gem_C Default__NPC_Shop_Gem_C",
+              "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.3"
+            },
+            "FunctionName": "OnUnsilent"
+          }
+        ]
+      },
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      }
+    }
+  },
+  {
+    "Type": "SimpleConstructionScript",
+    "Name": "SimpleConstructionScript_0",
+    "Outer": "NPC_Shop_Gem_C",
+    "Properties": {
+      "RootNodes": [
+        {
+          "ObjectName": "SCS_Node NPC_Shop_Gem_C:SimpleConstructionScript_0.SCS_Node_2",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.18"
+        }
+      ],
+      "AllNodes": [
+        {
+          "ObjectName": "SCS_Node NPC_Shop_Gem_C:SimpleConstructionScript_0.SCS_Node_2",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.18"
+        }
+      ],
+      "DefaultSceneRootNode": {
+        "ObjectName": "SCS_Node NPC_Shop_Gem_C:SimpleConstructionScript_0.SCS_Node_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.17"
+      }
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "npcshop_GEN_VARIABLE",
+    "Outer": "NPC_Shop_Gem_C",
+    "Properties": {
+      "AnimClass": {
+        "ObjectName": "AnimBlueprintGeneratedClass npc217_shop_C",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Character/Npc/npc_shu_217/npc217_shop/npc217_shop.0"
+      },
+      "ClothingSimulationFactory": {
+        "ObjectName": "Class ClothingSimulationFactoryNv",
+        "ObjectPath": "/Script/ClothingSystemRuntimeNv"
+      },
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMesh npc_shu_217_skin",
+        "ObjectPath": "Hotta/Content/Resources/Characters/NPC/npc_shu_217/npc_shu_217_skin.0"
+      },
+      "bRenderOutline": true,
+      "OutlineMaterial": {
+        "ObjectName": "MaterialInstanceConstant OutLine_Inst_2",
+        "ObjectPath": "Hotta/Content/AnimeToonShading/OutLine_Inst_2.0"
+      },
+      "RelativeLocation": {
+        "X": -1.3916098,
+        "Y": -21.998013,
+        "Z": 51.209473
+      }
+    }
+  },
+  {
+    "Type": "SphereComponent",
+    "Name": "DialogueCollisionSphere",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "DialogueCollisionSphere",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      },
+      "RelativeLocation": {
+        "X": 158.2432,
+        "Y": 0.0,
+        "Z": -9.1552734E-05
+      },
+      "RelativeScale3D": {
+        "X": 1.8,
+        "Y": 1.8,
+        "Z": 1.8
+      }
+    }
+  },
+  {
+    "Type": "SplineComponent",
+    "Name": "PathSplineComponent",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "PathSplineComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "NewFakeShadow",
+    "Outer": "Default__NPC_Shop_Gem_C",
+    "Template": "NewFakeShadow",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CapsuleComponent Default__NPC_Shop_Gem_C:CollisionCylinder",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Shop_Gem.5"
+      }
+    }
+  }
+]

@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "CoolDownDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct CoolDownDataTable",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "test": {
+        "CoolDownTime": 10.0,
+        "RunOnServerOrStandalone": true,
+        "RunOnClient": true,
+        "PauseWhenOffline": true,
+        "NotifyIfOffline": true,
+        "RemoveWhenOffline": false,
+        "LoopCount": 1
+      },
+      "GlidingSprint": {
+        "CoolDownTime": 3.0,
+        "RunOnServerOrStandalone": true,
+        "RunOnClient": true,
+        "PauseWhenOffline": false,
+        "NotifyIfOffline": false,
+        "RemoveWhenOffline": true,
+        "LoopCount": 1
+      },
+      "SendTeamEmployMessage": {
+        "CoolDownTime": 10.0,
+        "RunOnServerOrStandalone": false,
+        "RunOnClient": true,
+        "PauseWhenOffline": false,
+        "NotifyIfOffline": false,
+        "RemoveWhenOffline": true,
+        "LoopCount": 1
+      },
+      "InteractiveAction": {
+        "CoolDownTime": 15.0,
+        "RunOnServerOrStandalone": true,
+        "RunOnClient": true,
+        "PauseWhenOffline": false,
+        "NotifyIfOffline": true,
+        "RemoveWhenOffline": false,
+        "LoopCount": 1
+      },
+      "GlidEjection": {
+        "CoolDownTime": 60.0,
+        "RunOnServerOrStandalone": true,
+        "RunOnClient": true,
+        "PauseWhenOffline": false,
+        "NotifyIfOffline": false,
+        "RemoveWhenOffline": false,
+        "LoopCount": 1
+      },
+      "Gliding": {
+        "CoolDownTime": 2.0,
+        "RunOnServerOrStandalone": true,
+        "RunOnClient": true,
+        "PauseWhenOffline": false,
+        "NotifyIfOffline": false,
+        "RemoveWhenOffline": false,
+        "LoopCount": 1
+      },
+      "GuildCampfire": {
+        "CoolDownTime": 1200.0,
+        "RunOnServerOrStandalone": true,
+        "RunOnClient": false,
+        "PauseWhenOffline": false,
+        "NotifyIfOffline": true,
+        "RemoveWhenOffline": false,
+        "LoopCount": 1
+      },
+      "GuildPresentMushroom": {
+        "CoolDownTime": 30.0,
+        "RunOnServerOrStandalone": true,
+        "RunOnClient": false,
+        "PauseWhenOffline": false,
+        "NotifyIfOffline": false,
+        "RemoveWhenOffline": true,
+        "LoopCount": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,95 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "ItemUpgradeRouteConfigDataTableDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaItemUpgradeRouteConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Mount_Strengthen_001": {
+        "FirstItemId": "Mount_Strengthen_1_1",
+        "SecondToFirstExchangeRate": 2,
+        "SecondItemId": "Mount_Strengthen_1_2",
+        "ThirdToSecondExchangeRate": 2,
+        "ThirdItemId": "Mount_Strengthen_1_3",
+        "FourthToThirdExchangeRate": 2,
+        "FourthItemId": "Mount_Strengthen_1_4"
+      },
+      "breakthrough_a": {
+        "FirstItemId": "item_breakthrough_a1",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "item_breakthrough_a2",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "item_breakthrough_a3",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      },
+      "breakthrough_b": {
+        "FirstItemId": "item_breakthrough_b1",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "item_breakthrough_b2",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "item_breakthrough_b3",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      },
+      "breakthrough_c": {
+        "FirstItemId": "item_breakthrough_c1",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "item_breakthrough_c2",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "item_breakthrough_c3",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      },
+      "breakthrough_d": {
+        "FirstItemId": "item_breakthrough_d1",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "item_breakthrough_d2",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "item_breakthrough_d3",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      },
+      "mine_fire": {
+        "FirstItemId": "Item_Mine_fire",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "Item_Mine_fire_02",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "Item_Mine_fire_03",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      },
+      "mine_ice": {
+        "FirstItemId": "Item_Mine_ice",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "Item_Mine_ice_02",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "Item_Mine_ice_03",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      },
+      "mine_thunder": {
+        "FirstItemId": "Item_Mine_thunder",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "Item_Mine_thunder_02",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "Item_Mine_thunder_03",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      },
+      "mine_physic": {
+        "FirstItemId": "Item_Mine_physic",
+        "SecondToFirstExchangeRate": 4,
+        "SecondItemId": "Item_Mine_physic_02",
+        "ThirdToSecondExchangeRate": 5,
+        "ThirdItemId": "Item_Mine_physic_03",
+        "FourthToThirdExchangeRate": 0,
+        "FourthItemId": "None"
+      }
+    }
+  }
+]

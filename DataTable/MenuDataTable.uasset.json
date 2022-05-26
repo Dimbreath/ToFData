@@ -1,0 +1,158 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MenuDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MenuData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "test": {
+        "MenuLevelsData": [
+          {
+            "MenuItemClass": {
+              "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_FirstMenuItem_BP.UI_FirstMenuItem_BP_C",
+              "SubPathString": ""
+            },
+            "MenuItems": [
+              {
+                "MenuText": {
+                  "Namespace": "",
+                  "Key": "97154D774D11A56C44922F8FB47EDBDC",
+                  "SourceString": "1"
+                },
+                "MenuID": "111",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": 0,
+                "CanUnselect": false
+              },
+              {
+                "MenuText": {
+                  "Namespace": "",
+                  "Key": "6E9BCE354CB66AD1E2B0B19D214AB0D3",
+                  "SourceString": "2"
+                },
+                "MenuID": "222",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": -1,
+                "CanUnselect": false
+              }
+            ],
+            "ShowSubItemsOneByOne": true,
+            "ShowSubItemsOneByOneTime": 0.1
+          },
+          {
+            "MenuItemClass": {
+              "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_SecondMenuItem_BP.UI_SecondMenuItem_BP_C",
+              "SubPathString": ""
+            },
+            "MenuItems": [
+              {
+                "MenuText": {
+                  "Namespace": "",
+                  "Key": "D5D5FD1242FECBE613FEDC8F9C4119C1",
+                  "SourceString": "I"
+                },
+                "MenuID": "333",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": -1,
+                "CanUnselect": false
+              },
+              {
+                "MenuText": {
+                  "Namespace": "",
+                  "Key": "2F949C904C8289BE435157AA1E56B720",
+                  "SourceString": "II"
+                },
+                "MenuID": "444",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": -1,
+                "CanUnselect": false
+              },
+              {
+                "MenuText": {
+                  "Namespace": "",
+                  "Key": "BA52FF4B443FB90CB51AB19EE441C5A7",
+                  "SourceString": "III"
+                },
+                "MenuID": "",
+                "ParentIndex": 1,
+                "DefaultChooseSubMenuIndex": -1,
+                "CanUnselect": false
+              }
+            ],
+            "ShowSubItemsOneByOne": true,
+            "ShowSubItemsOneByOneTime": 0.1
+          }
+        ],
+        "DefaultChooseMenuIndex": -1
+      },
+      "GuildAuction": {
+        "MenuLevelsData": [
+          {
+            "MenuItemClass": {
+              "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Auction_FirstMenuItem_BP.UI_Guild_Auction_FirstMenuItem_BP_C",
+              "SubPathString": ""
+            },
+            "MenuItems": [
+              {
+                "MenuText": {
+                  "TableId": "/Game/Resources/Text/UI.UI",
+                  "Key": "guild_88"
+                },
+                "MenuID": "MyAuction",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": -1,
+                "CanUnselect": true
+              },
+              {
+                "MenuText": {
+                  "TableId": "/Game/Resources/Text/UI.UI",
+                  "Key": "guild_89"
+                },
+                "MenuID": "GuildAuction",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": 0,
+                "CanUnselect": true
+              },
+              {
+                "MenuText": {
+                  "TableId": "/Game/Resources/Text/UI.UI",
+                  "Key": "guild_90"
+                },
+                "MenuID": "WorldAuction",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": 0,
+                "CanUnselect": true
+              },
+              {
+                "MenuText": {
+                  "TableId": "/Game/Resources/Text/UI.UI",
+                  "Key": "guild_91"
+                },
+                "MenuID": "AuctionBonus",
+                "ParentIndex": 0,
+                "DefaultChooseSubMenuIndex": -1,
+                "CanUnselect": true
+              }
+            ],
+            "ShowSubItemsOneByOne": true,
+            "ShowSubItemsOneByOneTime": 0.1
+          },
+          {
+            "MenuItemClass": {
+              "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Auction_SecondMenuItem_BP.UI_Guild_Auction_SecondMenuItem_BP_C",
+              "SubPathString": ""
+            },
+            "MenuItems": [],
+            "ShowSubItemsOneByOne": false,
+            "ShowSubItemsOneByOneTime": 0.1
+          }
+        ],
+        "DefaultChooseMenuIndex": -1
+      }
+    }
+  }
+]

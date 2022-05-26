@@ -1,0 +1,61 @@
+﻿[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "IS_general_equip02_C",
+    "Super": "IdleStatePatrolBP_Base_C",
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass IdleStatePatrolBP_Base_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/AI/AIState/IdleStatePatrolBP_Base.0"
+    },
+    "ClassFlags": 264208,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "IS_general_equip02_C Default__IS_general_equip02_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/IS_General_equip02.1"
+    }
+  },
+  {
+    "Type": "IS_general_equip02_C",
+    "Name": "Default__IS_general_equip02_C",
+    "Template": "Default__IdleStatePatrolBP_Base_C",
+    "Properties": {
+      "PatrolType": "EAIPatrolType::InSitu",
+      "DoesStateBeginWithInitialLocation": true,
+      "DoesStateBeginWithCurrentLocation": false,
+      "bUseRandomAnim": true,
+      "RandomAnimList": [
+        {
+          "Anim": null,
+          "Weight": 1.0,
+          "NPCMsg": {
+            "NPCMsgEntries": [
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": {
+                      "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+                      "Key": "atmopshere_equip02_1"
+                    },
+                    "MsgDuration": 5.0,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1.0,
+                "MessageType": "ENPCMessageShowType::Bubble"
+              }
+            ]
+          }
+        }
+      ],
+      "RandomAnimIntervalMin": 10.0,
+      "RandomAnimIntervalMax": 10.0,
+      "bExecuteRandomAnimImmediatelyWhenStateBegin": true,
+      "MovementSpeedOverride": 120.0
+    }
+  }
+]

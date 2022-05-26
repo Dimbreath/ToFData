@@ -1,0 +1,566 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "VoidCloneBossAffixConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct VoidCloneBossAffixRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "buff_void_boss_001": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_001_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_001_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_001_strategy"
+        },
+        "AffixStars": 2,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_001.buff_void_boss_001_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/buff_firedefdown_001.buff_firedefdown_001",
+          "SubPathString": ""
+        },
+        "BuffGroup": 1
+      },
+      "buff_void_boss_002": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_002_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_002_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_002_strategy"
+        },
+        "AffixStars": 2,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_002.buff_void_boss_002_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/buff_icedefdown_001.buff_icedefdown_001",
+          "SubPathString": ""
+        },
+        "BuffGroup": 2
+      },
+      "buff_void_boss_003": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_003_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_003_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_003_strategy"
+        },
+        "AffixStars": 2,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_003.buff_void_boss_003_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/buff_thudefdown_001.buff_thudefdown_001",
+          "SubPathString": ""
+        },
+        "BuffGroup": 3
+      },
+      "buff_void_boss_004": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_004_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_004_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_004_strategy"
+        },
+        "AffixStars": 2,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_004.buff_void_boss_004_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/buff_phydefdown_001.buff_phydefdown_001",
+          "SubPathString": ""
+        },
+        "BuffGroup": 4
+      },
+      "buff_void_boss_101": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_101_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_101_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_101_strategy"
+        },
+        "AffixStars": 5,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_101.buff_void_boss_101_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_101.buff_void_boss_101",
+          "SubPathString": ""
+        },
+        "BuffGroup": 5
+      },
+      "buff_void_boss_102": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_102_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_102_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_102_strategy"
+        },
+        "AffixStars": 5,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_102.buff_void_boss_102_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_102.buff_void_boss_102",
+          "SubPathString": ""
+        },
+        "BuffGroup": 6
+      },
+      "buff_void_boss_201": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_201_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_201_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_201_strategy"
+        },
+        "AffixStars": 3,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_201.buff_void_boss_201_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_201.buff_void_boss_201",
+          "SubPathString": ""
+        },
+        "BuffGroup": 7
+      },
+      "buff_void_boss_202": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_202_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_202_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_202_strategy"
+        },
+        "AffixStars": 3,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_202.buff_void_boss_202_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_202.buff_void_boss_202",
+          "SubPathString": ""
+        },
+        "BuffGroup": 8
+      },
+      "buff_void_boss_301": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_301_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_301_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_301_strategy"
+        },
+        "AffixStars": 3,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_301.buff_void_boss_301_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/AddFireImm.AddFireImm",
+          "SubPathString": ""
+        },
+        "BuffGroup": 1
+      },
+      "buff_void_boss_302": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_302_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_302_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_302_strategy"
+        },
+        "AffixStars": 3,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_302.buff_void_boss_302_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/AddIceImm.AddIceImm",
+          "SubPathString": ""
+        },
+        "BuffGroup": 2
+      },
+      "buff_void_boss_303": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_303_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_303_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_303_strategy"
+        },
+        "AffixStars": 3,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_303.buff_void_boss_303_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/AddThunderImm.AddThunderImm",
+          "SubPathString": ""
+        },
+        "BuffGroup": 3
+      },
+      "buff_void_boss_304": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_304_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_304_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_304_strategy"
+        },
+        "AffixStars": 3,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_304.buff_void_boss_304_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyDefFoodBase.buff_AddPhyDefFoodBase",
+          "SubPathString": ""
+        },
+        "BuffGroup": 4
+      },
+      "buff_void_boss_305": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_305_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_305_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_305_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_305.buff_void_boss_305_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_305.buff_void_boss_305",
+          "SubPathString": ""
+        },
+        "BuffGroup": 10
+      },
+      "buff_void_boss_306": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_306_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_306_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_306_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_306.buff_void_boss_306_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_306.buff_void_boss_306",
+          "SubPathString": ""
+        },
+        "BuffGroup": 10
+      },
+      "buff_void_boss_307": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_307_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_307_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_307_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_307.buff_void_boss_307_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_307.buff_void_boss_307",
+          "SubPathString": ""
+        },
+        "BuffGroup": 10
+      },
+      "buff_void_boss_308": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_308_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_308_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_308_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_308.buff_void_boss_308_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_308.buff_void_boss_308",
+          "SubPathString": ""
+        },
+        "BuffGroup": 10
+      },
+      "buff_void_boss_309": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_309_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_309_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_309_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_309.buff_void_boss_309_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_309.buff_void_boss_309",
+          "SubPathString": ""
+        },
+        "BuffGroup": 10
+      },
+      "buff_void_boss_310": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_310_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_310_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_310_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_310.buff_void_boss_310_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_310.buff_void_boss_310",
+          "SubPathString": ""
+        },
+        "BuffGroup": 10
+      },
+      "buff_void_boss_401": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_401_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_401_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_401_strategy"
+        },
+        "AffixStars": 2,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_401.buff_void_boss_401_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_401.buff_void_boss_401",
+          "SubPathString": ""
+        },
+        "BuffGroup": 0
+      },
+      "buff_void_boss_402": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_402_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_402_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_402_strategy"
+        },
+        "AffixStars": 1,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_402.buff_void_boss_402_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_402.buff_void_boss_402",
+          "SubPathString": ""
+        },
+        "BuffGroup": 5
+      },
+      "buff_void_boss_403": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_403_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_403_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_403_strategy"
+        },
+        "AffixStars": 1,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_403.buff_void_boss_403_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_403.buff_void_boss_403",
+          "SubPathString": ""
+        },
+        "BuffGroup": 7
+      },
+      "buff_void_boss_501": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_501_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_501_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_501_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_501.buff_void_boss_501_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_501.buff_void_boss_501",
+          "SubPathString": ""
+        },
+        "BuffGroup": 0
+      },
+      "buff_void_boss_502": {
+        "NameText": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_502_name"
+        },
+        "AffixDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_502_des"
+        },
+        "AffixCrackDes": {
+          "TableId": "/Game/Resources/Text/ST_VoidClone.ST_VoidClone",
+          "Key": "buff_void_boss_502_strategy"
+        },
+        "AffixStars": 4,
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_502.buff_void_boss_502_C",
+          "SubPathString": ""
+        },
+        "BuffIcon": {
+          "AssetPathName": "/Game/Resources/UI/void/BUFF/buff_void_boss_502.buff_void_boss_502",
+          "SubPathString": ""
+        },
+        "BuffGroup": 0
+      }
+    }
+  }
+]

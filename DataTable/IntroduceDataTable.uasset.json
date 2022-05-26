@@ -1,0 +1,80 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "IntroduceDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct IntroduceData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Wormhole": {
+        "Descriptions": [
+          {
+            "DescImage": {
+              "AssetPathName": "/Game/Resources/UI/Wormhole/wormhole_yd_1.wormhole_yd_1",
+              "SubPathString": ""
+            },
+            "DescTitle": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "wormhole_22_1"
+            },
+            "DescText": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "wormhole_22_2"
+            }
+          },
+          {
+            "DescImage": {
+              "AssetPathName": "/Game/Resources/UI/Wormhole/wormhole_yd_3.wormhole_yd_3",
+              "SubPathString": ""
+            },
+            "DescTitle": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "wormhole_24_1"
+            },
+            "DescText": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "wormhole_24_2"
+            }
+          },
+          {
+            "DescImage": {
+              "AssetPathName": "/Game/Resources/UI/Wormhole/wormhole_yd_4.wormhole_yd_4",
+              "SubPathString": ""
+            },
+            "DescTitle": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "wormhole_26_1"
+            },
+            "DescText": {
+              "TableId": "/Game/Resources/Text/UI.UI",
+              "Key": "wormhole_26_2"
+            }
+          }
+        ]
+      },
+      "TreasureMap": {
+        "Descriptions": [
+          {
+            "DescImage": {
+              "AssetPathName": "/Game/Resources/UI/welfarecard/fuli_signin_pannel.fuli_signin_pannel",
+              "SubPathString": ""
+            },
+            "DescTitle": {
+              "Namespace": "",
+              "Key": "5D7123B84A84E6CCFBC86E9A2925202A",
+              "SourceString": "Rules of Beacon Hunt"
+            },
+            "DescText": {
+              "Namespace": "",
+              "Key": "E775C86342AC9BDF9BD6A3A86EA0EF4F",
+              "SourceString": "How it works: \r\n1. Claim your free Omnium collector every day and place it anywhere to collect Omnium in the environment.\r\n2. If not found by other Wanderers, your Omnium collector will be fully charged in 24 hours and yield rewards in proportion with its grade.\r\n3. Upon deployment, the Omnium collector will broadcast irregular signals identifying its location. Wanderers who pick up the signal and trace it to the root will obtain abundant rewards.\r\n5. The Omnium collector broadcasts in three possible patterns: complete location, partial location, and location fragment.\r\nComplete location: Any Wanderer who picks up this signal can hunt for the collector independently. \r\nPartial location: The signal is a clue that leads to another Wanderer who has the other half of the location. Two Wanderers must team up to find the Omnium collector.\r\nLocation fragment: The signal is a clue that leads to two other Wanderers with more fragments. All three Wanderers must team up to find the Omnium collector."
+            }
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,63 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "WeatherInfoDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct WeatherInfo",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "WeatherState": "EWeatherState::Sunny",
+        "WeatherTextures": {
+          "AssetPathName": "/Game/Resources/UI/main/weather_sun2.weather_sun2",
+          "SubPathString": ""
+        }
+      },
+      "NewRow": {
+        "WeatherState": "EWeatherState::Rain",
+        "WeatherTextures": {
+          "AssetPathName": "/Game/Resources/UI/main/weather_rain2.weather_rain2",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_0": {
+        "WeatherState": "EWeatherState::StormRain",
+        "WeatherTextures": {
+          "AssetPathName": "/Game/Resources/UI/main/weather_rain1.weather_rain1",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_1": {
+        "WeatherState": "EWeatherState::Snow",
+        "WeatherTextures": {
+          "AssetPathName": "/Game/Resources/UI/main/weather_cloud2.weather_cloud2",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_2": {
+        "WeatherState": "EWeatherState::Fog",
+        "WeatherTextures": {
+          "AssetPathName": "/Game/Resources/UI/main/weather_cloud2.weather_cloud2",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_3": {
+        "WeatherState": "EWeatherState::GhostFog",
+        "WeatherTextures": {
+          "AssetPathName": "/Game/Resources/UI/main/weather_cloud1.weather_cloud1",
+          "SubPathString": ""
+        }
+      },
+      "NewRow_4": {
+        "WeatherState": "EWeatherState::HotSunny",
+        "WeatherTextures": {
+          "AssetPathName": "/Game/Resources/UI/main/weather_sun1.weather_sun1",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

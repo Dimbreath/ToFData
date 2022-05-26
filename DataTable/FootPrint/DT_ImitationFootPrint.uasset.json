@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_ImitationFootPrint",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaImitationFootPrintRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "meryl_level1": {
+        "ImitationID": "Imitation_3",
+        "PhysicsMaterialTypeName": "Ice",
+        "SpecialFootPrintID": "Imitation3_Ice",
+        "FootPrintActor": {
+          "ObjectName": "BlueprintGeneratedClass FPA_Imitation3_Ice_C",
+          "ObjectPath": "Hotta/Content/Resources/Effect/BP_Footprint/FPA_Imitation3_Ice.5"
+        }
+      },
+      "meryl_level2": {
+        "ImitationID": "imitation_3L1",
+        "PhysicsMaterialTypeName": "Ice",
+        "SpecialFootPrintID": "imitation_3L1_Ice",
+        "FootPrintActor": {
+          "ObjectName": "BlueprintGeneratedClass FPA_Imitation3_Ice_C",
+          "ObjectPath": "Hotta/Content/Resources/Effect/BP_Footprint/FPA_Imitation3_Ice.5"
+        }
+      }
+    }
+  }
+]

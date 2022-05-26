@@ -1,0 +1,249 @@
+﻿[
+  {
+    "Type": "DlgDialogue",
+    "Name": "Text_Equip02",
+    "Properties": {
+      "Name": "Text_Equip02",
+      "GUID": "E8E0F7E1-414144B4-A31CB4B2-C68E7E8C",
+      "ParticipantsData": {
+        "Equip_001": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "ShowNpcShop:"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      },
+      "StartNode": {
+        "ObjectName": "DlgNode_Speech Text_Equip02:DlgNode_Speech_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/Text_Equip02.3"
+      },
+      "Nodes": [
+        {
+          "ObjectName": "DlgNode_Speech Text_Equip02:DlgNode_Speech_4",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/Text_Equip02.7"
+        },
+        {
+          "ObjectName": "DlgNode_End Text_Equip02:DlgNode_End_1",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/Text_Equip02.2"
+        },
+        {
+          "ObjectName": "DlgNode_Speech Text_Equip02:DlgNode_Speech_1",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/Text_Equip02.4"
+        },
+        {
+          "ObjectName": "DlgNode_Speech Text_Equip02:DlgNode_Speech_2",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/Text_Equip02.5"
+        },
+        {
+          "ObjectName": "DlgNode_Speech Text_Equip02:DlgNode_Speech_3",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/Text_Equip02.6"
+        },
+        {
+          "ObjectName": "DlgNode_End Text_Equip02:DlgNode_End_0",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Equip001_02/Text_Equip02.1"
+        }
+      ],
+      "NodesGUIDToIndexMap": null
+    }
+  },
+  {
+    "Type": "DlgNode_End",
+    "Name": "DlgNode_End_0",
+    "Outer": "Text_Equip02",
+    "Properties": {
+      "OwnerName": "Equip_001",
+      "BlackFade": true,
+      "NodeGUID": "1D4FEF91-4BD3FE25-CD3099B8-9613C3C4"
+    }
+  },
+  {
+    "Type": "DlgNode_End",
+    "Name": "DlgNode_End_1",
+    "Outer": "Text_Equip02",
+    "Properties": {
+      "OwnerName": "Equip_001",
+      "NodeGUID": "56465586-41B81390-E37BDDA7-C5F40F5B"
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_0",
+    "Outer": "Text_Equip02",
+    "Properties": {
+      "NodeGUID": "48A976E9-49CC578C-D79C228D-12D5EAA3",
+      "Children": [
+        {
+          "TargetIndex": 0,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_next",
+            "SourceString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_1",
+    "Outer": "Text_Equip02",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "equip001_talk1"
+      },
+      "OwnerName": "Equip_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "BlackFade": true,
+      "NodeGUID": "3BA05EE1-4C5A6EA6-12336FB1-CFD8C63F",
+      "Children": [
+        {
+          "TargetIndex": 3,
+          "EdgeIndex": 2,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+            "Key": "playerequip01-1"
+          },
+          "TextArguments": []
+        },
+        {
+          "TargetIndex": 4,
+          "EdgeIndex": 1,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+            "Key": "playerequip01-2"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_2",
+    "Outer": "Text_Equip02",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "equip001_talk2"
+      },
+      "OwnerName": "Equip_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "EnterEvents": [
+        {
+          "ParticipantName": "Equip_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "ShowNpcShop:",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "24D3ADB6-4C010DC0-5A712BBE-646EB0CC",
+      "Children": [
+        {
+          "TargetIndex": 5,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_3",
+    "Outer": "Text_Equip02",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "equip001_talk3"
+      },
+      "OwnerName": "Equip_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "NodeGUID": "51F82F5B-4C97FA7F-A5BC05A7-B5B1A875",
+      "Children": [
+        {
+          "TargetIndex": 5,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_4",
+    "Outer": "Text_Equip02",
+    "Properties": {
+      "Text": {
+        "Namespace": "",
+        "Key": "ADA3B43D472E589B705363A2F4680E1E",
+        "SourceString": "Blame the economy. The store is out of business."
+      },
+      "OwnerName": "Equip_001",
+      "NodeGUID": "302B459B-40AD51BA-38406089-39026660",
+      "Children": [
+        {
+          "TargetIndex": 1,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "Namespace": "DlgSystem",
+            "Key": "edge_finish",
+            "SourceString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,300 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MsgBoxConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MsgBoxConfig",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "MSG_COLLECT_TEAM_REQUEST": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "Path=TeamForm&ClickButtons=MyTeamButton",
+        "QBoxContent": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "MsgBox_01"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_team.icon_team",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Msgbox_05"
+        },
+        "MsgDesc": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "msg_team1"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "BC47C7954057CCE6C5569FAE43324E95",
+          "SourceString": "{0}"
+        }
+      },
+      "MSG_COLLECT_TEAM_INVITE": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "message_box_team_invite"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_team.icon_team",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Msgbox_05"
+        },
+        "MsgDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "message_box_team_invite_1"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "F37F513645184A77A0E32ABC66BB15A7",
+          "SourceString": "{0}"
+        }
+      },
+      "MSG_COLLECT_TEAM_FRIEND": {
+        "IndateSeconds": 300.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "Path=SocialForm&ClickButtons=FriendRadioButton&ClickButtons=InviteButton",
+        "QBoxContent": {
+          "CultureInvariantString": null
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_friends.icon_friends",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Msgbox_06"
+        },
+        "MsgDesc": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "msg_friend"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "68C44BE643E0BB1F3EDC238E5518B6A6",
+          "SourceString": "{0}"
+        }
+      },
+      "MSG_COLLECT_PK": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "MsgBox_02"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_pk.icon_pk",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Msgbox_07"
+        },
+        "MsgDesc": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "msg_pk"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "B7A8D6FD474B225E8CAEEEAC2AC06C53",
+          "SourceString": "{0}"
+        }
+      },
+      "MSG_COLLECT_INTERACTIVE_ACTION_INVITE": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "MsgBox_04"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_team.icon_team",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Msgbox_08"
+        },
+        "MsgDesc": {
+          "Namespace": "",
+          "Key": "2C7F19824D30295398E3A49D192B15BC",
+          "SourceString": "<Bubble>Invite to interact {0}</>"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "A2BA1B3648AB5B30EA5D76AFC52F6A2E",
+          "SourceString": "{0}"
+        }
+      },
+      "MSG_COLLECT_TEAM_SUMMON": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "MsgBox_03"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_zhdy.icon_zhdy",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Msgbox_09"
+        },
+        "MsgDesc": {
+          "Namespace": "",
+          "Key": "D6E84ABA4B0B5C3884A01AAC79E5F022",
+          "SourceString": "Team Summoning"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "BB2C1A2141544E3EBC21C4ACB19A87AD",
+          "SourceString": "{0}"
+        }
+      },
+      "MSG_COLLECT_TEAM_VOTE_FOR_KICK": {
+        "IndateSeconds": 15.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "Namespace": "",
+          "Key": "AA80F9CF4F8DED88CAA67E8349FDFB29",
+          "SourceString": "Do you agree to remove {0} from the team?"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_team.icon_team",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Msgbox_11"
+        },
+        "MsgDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "UI_Team_46"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "F4EA58B54945733FB0B210BFBED36047",
+          "SourceString": "{0}"
+        }
+      },
+      "MSG_COLLECT_TEAM_CLONE_MATCH_TIME_OUT": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "Namespace": "",
+          "Key": "2A07D1F040DE5060E66A78B4B49D677D",
+          "SourceString": "There are not a lot of new players. Keep searching?"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_sjboss.icon_sjboss",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "Namespace": "",
+          "Key": "86276CBB4F802921AD7728BA1D1AA5EF",
+          "SourceString": "Match"
+        },
+        "MsgDesc": {
+          "CultureInvariantString": null
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "E0D24AC441941D0FB52B019B5904B112",
+          "SourceString": "There are not a lot of new players. Keep searching?"
+        }
+      },
+      "MSG_COLLECT_TEAM_CLONE_MATCH_TIME_OUT_TEAM": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "Namespace": "",
+          "Key": "F4013A9949258AA76F0165A2C12645B4",
+          "SourceString": "There are few Wanderers, are you sure to join now?"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_sjboss.icon_sjboss",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "Namespace": "",
+          "Key": "86276CBB4F802921AD7728BA1D1AA5EF",
+          "SourceString": "Match"
+        },
+        "MsgDesc": {
+          "CultureInvariantString": null
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "F4013A9949258AA76F0165A2C12645B4",
+          "SourceString": "There are few Wanderers, are you sure to join now?"
+        }
+      },
+      "MSG_COLLECT_ACTIVITY_GUILD_CAMPFIRE": {
+        "IndateSeconds": 1200.0,
+        "bIsHasAnimation": false,
+        "GotoFormPath": "Path=GuildMainUI",
+        "QBoxContent": {
+          "CultureInvariantString": null
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/gonghui.gonghui",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_113"
+        },
+        "MsgDesc": {
+          "CultureInvariantString": null
+        },
+        "MsgRoleName": {
+          "CultureInvariantString": null
+        }
+      },
+      "MSG_COLLECT_GUILD_SUMMON": {
+        "IndateSeconds": 60.0,
+        "bIsHasAnimation": true,
+        "GotoFormPath": "",
+        "QBoxContent": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_119"
+        },
+        "MsgIcon": {
+          "AssetPathName": "/Game/Resources/UI/main/icon_zhdy.icon_zhdy",
+          "SubPathString": ""
+        },
+        "MsgTitle": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_118"
+        },
+        "MsgDesc": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_120"
+        },
+        "MsgRoleName": {
+          "Namespace": "",
+          "Key": "BB2C1A2141544E3EBC21C4ACB19A87AD",
+          "SourceString": "{0}"
+        }
+      }
+    }
+  }
+]

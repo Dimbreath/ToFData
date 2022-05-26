@@ -1,0 +1,84 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "QuestChapterDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaQuestChapterData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MainChapterPhoto": {
+          "AssetPathName": "/Game/Resources/UI/chapter/shilian_icon.shilian_icon",
+          "SubPathString": ""
+        },
+        "ChapterList": [
+          {
+            "QuestID": "q101013",
+            "ChapterPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_zhihui1.sl_icon_zhihui1",
+              "SubPathString": ""
+            },
+            "ChapterCompletedPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_zhihui2.sl_icon_zhihui2",
+              "SubPathString": ""
+            }
+          },
+          {
+            "QuestID": "q101015",
+            "ChapterPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_jingzhun1.sl_icon_jingzhun1",
+              "SubPathString": ""
+            },
+            "ChapterCompletedPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_jingzhun2.sl_icon_jingzhun2",
+              "SubPathString": ""
+            }
+          },
+          {
+            "QuestID": "q101017",
+            "ChapterPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_xunjie1.sl_icon_xunjie1",
+              "SubPathString": ""
+            },
+            "ChapterCompletedPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_xunjie2.sl_icon_xunjie2",
+              "SubPathString": ""
+            }
+          },
+          {
+            "QuestID": "q101018",
+            "ChapterPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_yongqi1.sl_icon_yongqi1",
+              "SubPathString": ""
+            },
+            "ChapterCompletedPhoto": {
+              "AssetPathName": "/Game/Resources/UI/chapter/sl_icon_yongqi2.sl_icon_yongqi2",
+              "SubPathString": ""
+            }
+          }
+        ],
+        "ChapterAwards": [
+          {
+            "ItemID": "Item_Plant002",
+            "Amount": 10,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "Item_Fruit_001",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ]
+      }
+    }
+  }
+]

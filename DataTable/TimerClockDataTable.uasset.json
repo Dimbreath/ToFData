@@ -1,0 +1,1069 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "TimerClockDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct TimerClockDataTable",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "test": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_MINUTE",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndOwnerClient",
+        "Times": [
+          {
+            "month": 1,
+            "day": 7,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          },
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 16,
+            "minute": 21,
+            "second": 20
+          },
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 40
+          },
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 10
+          },
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 30
+          },
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 50
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "WormholeReset": {
+        "ClockIntervalType": "EClockIntervalType::INTERVAL_DAYS",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 5,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "RefreshFurniture": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 20,
+            "minute": 19,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "DailySign": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "ResetCookingDailyExp": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "FriendPointReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "TreasureBoxOpenedRest": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "ResetTreasureChestReceiveCount": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "HarvestLimitReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "SoloLeagueDailyWin": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "SoloLeagueSeasonReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_MOUTH",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 5
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "SingleCloneReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 7,
+            "minute": 30,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": true,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "LivenessReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "GameVersionTimer1": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_YEAR",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 20,
+            "hour": 11,
+            "minute": 50,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "AstralPlaneTimesReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "AstralPortalTimesReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "EquipStrengthenAssistReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "ReceiveGiftWeekReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "GuildGloryReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "RewardQuestActivityReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 1
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "TradeLineRecycleLimitReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "GuildService": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "GuildDailyCheck": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 1,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "GuildCaptainTransferCheck": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 5,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "WeekResetGuildData": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "ClearProvides": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "MicroGameReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "MiniGameTimesReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "WormholeDailyReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "WeeklySign": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "MonthlySign": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_MOUTH",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "TradeLineTotalTradeEarnReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "GuildSnapshot": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 30,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": false
+      },
+      "ChatReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "MountTaskCD1": {
+        "ClockIntervalType": "EClockIntervalType::INTERVAL_DAYS",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "MountTaskCD2": {
+        "ClockIntervalType": "EClockIntervalType::INTERVAL_DAYS",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 2,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "MountTaskCD3": {
+        "ClockIntervalType": "EClockIntervalType::INTERVAL_DAYS",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 3,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "FatigueLimitReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_MOUTH",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "DailyReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "DailyQuestReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "NPCShopStoreWeeklyReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "UpdateLastDayOfflineDateTime": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "VoidCloneReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "VoidCloneDailyReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "ItemCanUseFlgReset": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "GuildSalarySettle": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_WEEK",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "TeamCloneRefresh1": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "RecoverTimer": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": false
+      },
+      "DailyResetAtZero": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "ServerLevelCalc": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "SettlingMountPopularityAward": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_HOUR",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 1,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "RefreshMountWindVane": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "MiniGameRefresh": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "ServerBigSecretCalc": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "SoloLeagueSeasonResetForPublic": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_MOUTH",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "BigSecretRankSeasonRestForPublic": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_MOUTH",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": true,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "RefreshCafeCustomersTimer": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 13,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "AddHopkinsOrderTimer": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerAndAllClients",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 0
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": false,
+        "OfflineNotify": true
+      },
+      "IntruderBeginCheck": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 10,
+            "minute": 0,
+            "second": 15
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      },
+      "IntruderEndCheck": {
+        "ClockIntervalType": "EClockIntervalType::EVERY_DAY",
+        "NetType": "EClockNetType::CLOCKNET_ServerOrStandalone",
+        "Times": [
+          {
+            "month": 1,
+            "day": 1,
+            "hour": 5,
+            "minute": 0,
+            "second": 15
+          }
+        ],
+        "UseForPublic": false,
+        "OnlyOnce": false,
+        "OnlyNotifyOnce": true,
+        "OfflineNotify": true
+      }
+    }
+  }
+]

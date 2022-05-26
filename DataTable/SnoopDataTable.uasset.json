@@ -1,0 +1,442 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "SnoopDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct SnoopingData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Story1Snoop": {
+        "NpcSpeakArray": [
+          {
+            "MsgID": "talk1002",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2023"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_208/npc_shu_208_character.npc_shu_208_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_018/animation/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Story1Snoop02",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2024"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Story1Snoop03",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2025"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_208/npc_shu_208_character.npc_shu_208_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_018/animation/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Story1Snoop04",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2026"
+            },
+            "MsgDuration": 7.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Story1Snoop05",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2027"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Story1Snoop06",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2028"
+            },
+            "MsgDuration": 6.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_208/npc_shu_208_character.npc_shu_208_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_018/animation/mon_h_pe_talk1_Montage.mon_h_pe_talk1_Montage",
+              "SubPathString": ""
+            }
+          }
+        ]
+      },
+      "Bookquest1Snoop1": {
+        "NpcSpeakArray": [
+          {
+            "MsgID": "book001",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_01"
+            },
+            "MsgDuration": 3.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book002",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_02"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book003",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_03"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book004",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_04"
+            },
+            "MsgDuration": 4.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book005",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_05"
+            },
+            "MsgDuration": 4.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book006",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_06"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book11",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_07"
+            },
+            "MsgDuration": 4.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book13",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_08"
+            },
+            "MsgDuration": 6.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book007",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_09"
+            },
+            "MsgDuration": 4.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book008",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_10"
+            },
+            "MsgDuration": 6.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book009",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_11"
+            },
+            "MsgDuration": 2.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book15",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_12"
+            },
+            "MsgDuration": 3.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book010",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_13"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "book011",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "snoop_book_14"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            }
+          }
+        ]
+      },
+      "q102014Snoop": {
+        "NpcSpeakArray": [
+          {
+            "MsgID": "Snoop01",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2065"
+            },
+            "MsgDuration": 4.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_902/animation/npc_pe_talk2_Montage.npc_pe_talk2_Montage",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Snoop02",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2066"
+            },
+            "MsgDuration": 4.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Snoop03",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2067"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_902/animation/npc_pe_talk1_Montage.npc_pe_talk1_Montage",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Snoop04",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2068"
+            },
+            "MsgDuration": 2.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage.mon_h_pe_talk1_Montage",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Snoop05",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2069"
+            },
+            "MsgDuration": 8.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_902/animation/npc_pe_talk3_Montage.npc_pe_talk3_Montage",
+              "SubPathString": ""
+            }
+          },
+          {
+            "MsgID": "Snoop06",
+            "MsgText": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "UI-talk2070"
+            },
+            "MsgDuration": 5.0,
+            "SpeakerTemplate": {
+              "AssetPathName": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+              "SubPathString": ""
+            },
+            "SpeakerMontage": {
+              "AssetPathName": "/Game/Resources/Characters/NPC/npc_shu_902/animation/mon_h_ToBattle_sly_Montage.mon_h_ToBattle_sly_Montage",
+              "SubPathString": ""
+            }
+          }
+        ]
+      }
+    }
+  }
+]

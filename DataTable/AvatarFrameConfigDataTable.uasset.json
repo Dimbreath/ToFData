@@ -1,0 +1,497 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "AvatarFrameConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaAvatarConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "TestAvatarFrame01": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "TestAvatarFrame01_name"
+        },
+        "bAutoUnlock": true,
+        "bDisplayWhenLocked": true,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_02.AvatarFrame_02",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_02_s.AvatarFrame_02_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "TestAvatarFrame01_des"
+        },
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "E78EAAB241170D0656C3BD96A2FD286F",
+          "SourceString": "Basic Avatar Frame"
+        }
+      },
+      "TestAvatarFrame02": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "TestAvatarFrame02_name"
+        },
+        "bAutoUnlock": true,
+        "bDisplayWhenLocked": true,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_01.AvatarFrame_01",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_01_s.AvatarFrame_01_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "TestAvatarFrame02_des"
+        },
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "CA3CD5B0484E5F97B36530B75B779422",
+          "SourceString": "Basic Avatar Frame"
+        }
+      },
+      "AvatarFrame03": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame03_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": true,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali.AvatarFrame_shali",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali_s.AvatarFrame_shali_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame03_des"
+        },
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "0B5C44894F36FFF89D3580A2018671FE",
+          "SourceString": "Obtain by purchasing the First Advanced Pass"
+        }
+      },
+      "AvatarFrame04": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame04_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xiazuo.AvatarFrame_xiazuo",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xiazuo_s.AvatarFrame_xiazuo_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame04_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame05": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame05_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xuxubaobao.AvatarFrame_xuxubaobao",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xuxubaobao_s.AvatarFrame_xuxubaobao_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame05_des"
+        },
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "904E37A442AA7FDA65B45BADF0973870",
+          "SourceString": "Exclusive to Streamer"
+        }
+      },
+      "kefu": {
+        "Name": {
+          "Namespace": "",
+          "Key": "336375314FF07017348E6A99A21D9B8C",
+          "SourceString": "Customer Service"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_naimeixisi.AvatarFrame_naimeixisi",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_naimeixisi_s.AvatarFrame_naimeixisi_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "CultureInvariantString": null
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame06": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame06_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_fulijia.AvatarFrame_fulijia",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_fulijia_s.AvatarFrame_fulijia_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame06_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame07": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame07_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_naimeixisi.AvatarFrame_naimeixisi",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_naimeixisi_s.AvatarFrame_naimeixisi_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame07_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame09": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame09_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_yixisi.AvatarFrame_yixisi",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_yixisi_s.AvatarFrame_yixisi_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame09_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame10": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame10_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_valkiri.AvatarFrame_valkiri",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_valkiri_s.AvatarFrame_valkiri_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame10_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame11": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame11_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_haijiade.AvatarFrame_haijiade",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_haijiade_s.AvatarFrame_haijiade_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame11_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame12": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame12_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_hotta.AvatarFrame_hotta",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_hotta_s.AvatarFrame_hotta_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame12_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "meilier": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "meilier_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali.AvatarFrame_shali",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali_s.AvatarFrame_shali_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "meilier_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame13": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame13_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_chuangzuodaren.AvatarFrame_chuangzuodaren",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_chuangzuodaren_s.AvatarFrame_chuangzuodaren_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame13_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame15": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame15_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_tata.AvatarFrame_tata",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_tata_s.AvatarFrame_tata_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame15_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame16": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame16_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_kongzhongleyuan.AvatarFrame_kongzhongleyuan",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_kongzhongleyuan_s.AvatarFrame_kongzhongleyuan_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame16_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame17": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame17_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_Coffee.AvatarFrame_Coffee",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_Coffee_s.AvatarFrame_Coffee_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame17_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame18": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame18_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_tajian.AvatarFrame_tajian",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_tajian_s.AvatarFrame_tajian_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame18_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      },
+      "AvatarFrame21": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame21_name"
+        },
+        "bAutoUnlock": false,
+        "bDisplayWhenLocked": false,
+        "bService": false,
+        "BigImage": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_21.AvatarFrame_21",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_21_s.AvatarFrame_21_s",
+          "SubPathString": ""
+        },
+        "ModifyID": "None",
+        "Description": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "AvatarFrame21_des"
+        },
+        "UnlockDescription": {
+          "CultureInvariantString": null
+        }
+      }
+    }
+  }
+]

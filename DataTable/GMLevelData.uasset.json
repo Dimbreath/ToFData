@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "GMLevelData",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct GMLevelDataRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "GetSelectedCharacterInfo": {
+        "GMCmd": "获取目标信息",
+        "GMLevel": 50
+      },
+      "TeleportSelectedCharacterToPosition": {
+        "GMCmd": "传送目标",
+        "GMLevel": 50
+      },
+      "SetSelectedCharacterLevel": {
+        "GMCmd": "设置目标等级",
+        "GMLevel": 40
+      },
+      "KillSelectedCharacter": {
+        "GMCmd": "杀死选中的目标",
+        "GMLevel": 40
+      },
+      "DeleteSelectedActor": {
+        "GMCmd": "删除选中的目标",
+        "GMLevel": 50
+      },
+      "SubmitQuest": {
+        "GMCmd": "完成目标的任务",
+        "GMLevel": 100
+      },
+      "AcceptQuest": {
+        "GMCmd": "目标接取任务",
+        "GMLevel": 100
+      },
+      "TeleportPlayerToMeByName": {
+        "GMCmd": "传送到目标位置",
+        "GMLevel": 50
+      },
+      "DeleteQuest": {
+        "GMCmd": "移除目标的任务",
+        "GMLevel": 100
+      },
+      "ResetMaxLimitExp": {
+        "GMCmd": "重置每日经验任务",
+        "GMLevel": 100
+      },
+      "SetServerTime": {
+        "GMCmd": "设置开服时间",
+        "GMLevel": 100
+      }
+    }
+  }
+]

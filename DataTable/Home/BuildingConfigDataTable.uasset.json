@@ -1,0 +1,244 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "BuildingConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaHomeBuildingConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "development_center": {
+        "Name": {
+          "Namespace": "",
+          "Key": "9D1F4AD849EEDCF209B19E8989FFE5C8",
+          "SourceString": "Development Center"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_9.pet_house_9",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu02.homeland_jianzhu02",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "08629E934B4685307F2A5D82179286C3",
+          "SourceString": "Development Center, la-la-la!"
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_1": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_1_Name",
+          "SourceString": "Mech Depot"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_9.pet_house_9",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu02.homeland_jianzhu02",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "634B431B4224E630E18ED18412866DF9",
+          "SourceString": "A sturdy mechanical pod for investigating, digging, gathering, and analyzing soil. It cannot be damaged by any geological disasters. The system can be hooked up to Bronze Baron's mind to increase ore yield."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_2": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_2_Name",
+          "SourceString": "Pumpkin House"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_2.pet_house_2",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu02.homeland_jianzhu02",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "914C8C8145C1E4AAD977348478EA2DFB",
+          "SourceString": "A dreamy Pumpkin House, has a very large data analysis system under its adorable appearance. It is mainly used to analyze the soil, air, water and nutrient solutions for growing vegetables. It was once a project for the post-Omnium plague world, hoping to produce vegetables free of radiation contamination."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_3": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_3_Name",
+          "SourceString": "Treehouse"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_9.pet_house_9",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu03.homeland_jianzhu03",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "0AD780CE416BA108A6F32F8A234B82F0",
+          "SourceString": "A treehouse with a hint of freedom and romance, with temperature and humidity control. Designed with an old tree in mind to be closer to nature, it is often used for resting."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_4": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_4_Name",
+          "SourceString": "Kalka's House"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_4.pet_house_4",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu04.homeland_jianzhu04",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "4DFDBA904E0A9EE36BE99DBAFB5DC262",
+          "SourceString": "A well-built home that is capable of storing large amounts of food. The house is big enough for Kalka to live there comfortably. Yes, it's for Kalka."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_5": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_5_Name",
+          "SourceString": "Kitty House"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_5.pet_house_5",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu05.homeland_jianzhu05",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "67025E4C4017C0656D134EA0EC175CFC",
+          "SourceString": "A peaceful hut that contains everything for a unique and comfortable lifestyle: a nice bed, a place to laze in the sun, cat furniture and fishing poles."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_6": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_6_Name",
+          "SourceString": "Turtle House"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_6.pet_house_6",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu06.homeland_jianzhu06",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "1F8B8592491414967BD721B619044B35",
+          "SourceString": "An igloo-like hut constructed with turtle shells. Contains a special system that keeps fish fresh and complete after being caught."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_7": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_7_Name",
+          "SourceString": "workshop"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_7.pet_house_7",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu07.homeland_jianzhu07",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "B852262648D2BE6E809E06BA5A06E846",
+          "SourceString": "A factory that manufactures something mysterious, but calls itself the Workshop to sound more professional and less ordinary."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_8": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_8_Name",
+          "SourceString": "The Everything Store"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_8.pet_house_8",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu08.homeland_jianzhu08",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "98C9B1BF4CEC0761508141A78F893827",
+          "SourceString": "A gorgeous grocery store with all kinds of things on sale. It is certainly to be a car, however, overloaded with things that make it impossible to move. Therefore, it can only be used as an ordinary grocery store instead of a mobile grocery cart."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      },
+      "pet_house_9": {
+        "Name": {
+          "Namespace": "BuildingConfigDataTable",
+          "Key": "pet_house_9_Name",
+          "SourceString": "Gallery"
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/house/pet_house_9.pet_house_9",
+          "SubPathString": ""
+        },
+        "BackgroundImage": {
+          "AssetPathName": "/Game/Resources/UI/jiayuan/main/homeland_jianzhu01.homeland_jianzhu01",
+          "SubPathString": ""
+        },
+        "Description": {
+          "Namespace": "",
+          "Key": "3938FAA3425B3AFB43616A8824AC4156",
+          "SourceString": "Every artist needs their own atelier, and the Art Master has the most comprehensive art creation ecology, providing their users with on-demand services."
+        },
+        "MaxLevel": 5,
+        "HarvestDuration": 60,
+        "HarvestAwardMaxCount": 6
+      }
+    }
+  }
+]

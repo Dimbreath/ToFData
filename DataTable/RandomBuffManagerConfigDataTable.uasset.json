@@ -1,0 +1,91 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "RandomBuffManagerConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaRandomBuffManagerConfigRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GroupId": "WorldBoss",
+        "ServerLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 100
+          }
+        },
+        "WaveManagerId": "0",
+        "RandomBuffMap": {
+          "resistanceele": 1
+        },
+        "BuffBeginTime": "2000-1-23 00:00:00",
+        "BuffEndTime": "2100-1-23 00:00:00"
+      },
+      "2": {
+        "GroupId": "WorldBoss",
+        "ServerLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 100
+          }
+        },
+        "WaveManagerId": "0",
+        "RandomBuffMap": {
+          "WorldBossUpThunder": 1
+        },
+        "BuffBeginTime": "2022-1-15 00:00:00",
+        "BuffEndTime": "2022-2-15 00:00:00"
+      },
+      "3": {
+        "GroupId": "WorldBoss",
+        "ServerLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 100
+          }
+        },
+        "WaveManagerId": "0",
+        "RandomBuffMap": {
+          "WorldBossUpPhy": 1
+        },
+        "BuffBeginTime": "2022-2-16 00:00:00",
+        "BuffEndTime": "2022-3-09 00:00:00"
+      },
+      "444": {
+        "GroupId": "BigSecret",
+        "ServerLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 90
+          }
+        },
+        "WaveManagerId": "None",
+        "RandomBuffMap": {
+          "BigSecret_SSR": 1,
+          "BigSecret_SR": 1
+        },
+        "BuffBeginTime": "2000-1-23 00:00:00",
+        "BuffEndTime": "2100-1-23 00:00:00"
+      }
+    }
+  }
+]

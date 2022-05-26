@@ -1,0 +1,791 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MountConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MountConfig",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Mount1": {
+        "Name": {
+          "Namespace": "",
+          "Key": "8741E9AF48B7239499C48D98F7F35C70",
+          "SourceString": "Falcon"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_02.zuoqi_tubiap_02",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_02.zuoqi_tubiap_02",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_001"
+        },
+        "AutoUnlockWhenCharacterLevel": 1,
+        "NeedItemArray": [],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount1_unlock"
+        },
+        "FixedPopularityValue": 0,
+        "PopularityValueEveryLevel": 2,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Epic1_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "None",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount001_Skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::None"
+      },
+      "Mount2": {
+        "Name": {
+          "Namespace": "",
+          "Key": "C0B7F8344C857B5343991582C1193D37",
+          "SourceString": "Chaser"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_03.zuoqi_tubiap_03",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_03.zuoqi_tubiap_03",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_002"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_002_a",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_002_b",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount2_unlock"
+        },
+        "FixedPopularityValue": 0,
+        "PopularityValueEveryLevel": 2,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Epic2_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Epic2_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount002_Skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::None"
+      },
+      "Mount3": {
+        "Name": {
+          "Namespace": "",
+          "Key": "776B45034BE8AC8B73D2F689BA22A507",
+          "SourceString": "Omnium Beast VII"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_04.zuoqi_tubiap_04",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_04.zuoqi_tubiap_04",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_003"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_003_a",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_003_b",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_003_c",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount3_unlock"
+        },
+        "FixedPopularityValue": 0,
+        "PopularityValueEveryLevel": 2,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Epic3_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Epic3_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount003_Skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::None"
+      },
+      "Mount11": {
+        "Name": {
+          "Namespace": "",
+          "Key": "C3E4CE044C7C575C7896D7BAB12FDA15",
+          "SourceString": "Voyager"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_11.zuoqi_tubiap_11",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_11.zuoqi_tubiap_11",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_009"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_011_a",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_011_b",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_011_c",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_011_d",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount11_unlock"
+        },
+        "FixedPopularityValue": 0,
+        "PopularityValueEveryLevel": 2,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend5_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend5_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount011_Skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::None"
+      },
+      "Mount4": {
+        "Name": {
+          "Namespace": "",
+          "Key": "B76F895040AA32BC75ADADBE3547C496",
+          "SourceString": "Monocross"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_05.zuoqi_tubiap_05",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_05.zuoqi_tubiap_05",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_004"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_004_a",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_004_b",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_004_c",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_004_d",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount4_unlock"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Epic4_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Epic4_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount004_Skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::None"
+      },
+      "Mount5": {
+        "Name": {
+          "Namespace": "",
+          "Key": "EDC824D94B69F86A3A9C81A287BEEA50",
+          "SourceString": "Dust Wheeler"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_01.zuoqi_tubiap_01",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_01.zuoqi_tubiap_01",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_005"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_005",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount5_unlock"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend1_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend1_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount005_Skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::None"
+      },
+      "Mount13": {
+        "Name": {
+          "Namespace": "",
+          "Key": "BA817A994AB589D094934BB704079E68",
+          "SourceString": "2613"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_13.zuoqi_tubiap_13",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_13.zuoqi_tubiap_13",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "Namespace": "",
+          "Key": "D84D123C484B0C103D299BBD2B06F284",
+          "SourceString": "    A unique cube-shaped vehicle. The in-built floating power unit allows it to move easily even on bumpy roads. However, its flashy tape lights make it looks like a moving disco light and particularly obvious during night."
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_013",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "C9BAB0E04898537E721D5E85B86B893F",
+          "SourceString": "Amplification Test - Server Overcrowded Compensation"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend6_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend6_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount013_skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::None"
+      },
+      "Mount14": {
+        "Name": {
+          "Namespace": "",
+          "Key": "6016CEC848E9B744DE734E9E0BD93C24",
+          "SourceString": "Heavy Engine"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_14.zuoqi_tubiap_14",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_14.zuoqi_tubiap_14",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "Namespace": "",
+          "Key": "E972B22E4CB1ABA563F0EB89A81668FF",
+          "SourceString": "    A batch of retro yet high-tech heavy motorcycles reclaimed from the ruins of an auto plant. Lighthouse R&D's modifications enable them to speed over winding roads and counterstrike gorgers."
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_014",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "363E3E4D4829326D8174AF8D73030E45",
+          "SourceString": "Unlock when Dawn reaches 3-Stars"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend7_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend7_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount014_skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch5"
+      },
+      "Mount6": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_006"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06.zuoqi_tubiap_06",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06.zuoqi_tubiap_06",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_006"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_006",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_get_006"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend2_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend2_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount006_skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch1"
+      },
+      "Mount7": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_007"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_07.zuoqi_tubiap_07",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_07.zuoqi_tubiap_07",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_007"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_007_a",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_007_b",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_007_c",
+            "ItemCount": 1
+          },
+          {
+            "ItemId": "Mount_007_d",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "EB0B3E9B40EAF6F0F62F3C87611047F0",
+          "SourceString": "Unlock in the Dangerous Invasion event"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend3_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend3_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount007_skin_01",
+        "bExhibitBySwitch": false,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch2"
+      },
+      "Mount8": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_008"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_08.zuoqi_tubiap_08",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_08.zuoqi_tubiap_08",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_008"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_008",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "Namespace": "",
+          "Key": "43A5F1C34AE42CAD9AF074B73EBD06F6",
+          "SourceString": "Purchase at the Store"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend4_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend4_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount008_skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch3"
+      },
+      "Mount6_1": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_006_name_1"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_1.zuoqi_tubiap_06_1",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_1.zuoqi_tubiap_06_1",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_006_1"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_006_1",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_get_006_1"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend6_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend6_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount006_1_Skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch4"
+      },
+      "Mount6_2": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_006_name_2"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_2.zuoqi_tubiap_06_2",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_2.zuoqi_tubiap_06_2",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_006_2"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_006_2",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_get_006_2"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend6_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend6_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount006_2_Skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch4"
+      },
+      "Mount6_3": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_006_name_3"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_3.zuoqi_tubiap_06_3",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_3.zuoqi_tubiap_06_3",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_006_3"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_006_3",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_get_006_3"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend6_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend6_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount006_3_Skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch4"
+      },
+      "Mount6_4": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_006_name_4"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_4.zuoqi_tubiap_06_4",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_4.zuoqi_tubiap_06_4",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_006_4"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_006_4",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_get_006_4"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend6_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend6_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount006_4_Skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch4"
+      },
+      "Mount6_5": {
+        "Name": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "Item_Mount_006_name_5"
+        },
+        "NameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Icon": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_5.zuoqi_tubiap_06_5",
+          "SubPathString": ""
+        },
+        "QualityType": "ITEM_QUALITY_LEGENDRY",
+        "ShowImage": {
+          "AssetPathName": "/Game/Resources/UI/Mount/zuoqi_tubiap_06_5.zuoqi_tubiap_06_5",
+          "SubPathString": ""
+        },
+        "ShowDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_des_006_5"
+        },
+        "AutoUnlockWhenCharacterLevel": -1,
+        "NeedItemArray": [
+          {
+            "ItemId": "Mount_006_5",
+            "ItemCount": 1
+          }
+        ],
+        "UnlockDescription": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Mount_get_006_5"
+        },
+        "FixedPopularityValue": 20,
+        "PopularityValueEveryLevel": 3,
+        "PopularityValueEverySkin": 0,
+        "LevelPackId": "Legend6_lv",
+        "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+        "MaxLevel": 100,
+        "StrengthenPackId": "Legend6_adv",
+        "MaxStrengthenLevel": 25,
+        "DefaultSkinId": "Mount006_5_Skin_01",
+        "bExhibitBySwitch": true,
+        "SwitchType": "EGameFunctionType::ExhibitMountSwitch4"
+      }
+    }
+  }
+]

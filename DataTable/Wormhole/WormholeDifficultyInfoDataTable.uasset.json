@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "WormholeDifficultyInfoDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct WormholeDifficultyInfoData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Easy": {
+        "DifficultyText": {
+          "TableId": "/Game/Resources/Text/ST_Wormhole.ST_Wormhole",
+          "Key": "DifficultyInfo_02"
+        },
+        "DifficultyIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DifficultyImage": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/card_infobg1.card_infobg1",
+          "SubPathString": ""
+        },
+        "DifficultySymbolTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Normal": {
+        "DifficultyText": {
+          "TableId": "/Game/Resources/Text/ST_Wormhole.ST_Wormhole",
+          "Key": "DifficultyInfo_03"
+        },
+        "DifficultyIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DifficultyImage": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/card_infobg1.card_infobg1",
+          "SubPathString": ""
+        },
+        "DifficultySymbolTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Hard": {
+        "DifficultyText": {
+          "TableId": "/Game/Resources/Text/ST_Wormhole.ST_Wormhole",
+          "Key": "DifficultyInfo_04"
+        },
+        "DifficultyIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DifficultyImage": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/card_infobg1.card_infobg1",
+          "SubPathString": ""
+        },
+        "DifficultySymbolTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Challenge": {
+        "DifficultyText": {
+          "TableId": "/Game/Resources/Text/ST_Wormhole.ST_Wormhole",
+          "Key": "DifficultyInfo_04"
+        },
+        "DifficultyIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DifficultyImage": {
+          "AssetPathName": "/Game/Resources/UI/Wormhole/card_infobg1.card_infobg1",
+          "SubPathString": ""
+        },
+        "DifficultySymbolTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

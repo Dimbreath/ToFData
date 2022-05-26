@@ -1,0 +1,94 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "GuildPostDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct GuildPostData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "President": {
+        "PostName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_81"
+        },
+        "CanInvitePlayer": true,
+        "CanAcceptApplies": true,
+        "CanKickOutMember": true,
+        "CanAssignPost": true,
+        "CanEditDeclaration": true,
+        "CanPublishNotice": true,
+        "CanUpgradeGuild": true,
+        "CanSettingRecruit": true,
+        "BaseSalary": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 150
+        },
+        "bCanSummonMember": true,
+        "CanRename": false
+      },
+      "VicePresident": {
+        "PostName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_82"
+        },
+        "CanInvitePlayer": true,
+        "CanAcceptApplies": true,
+        "CanKickOutMember": true,
+        "CanAssignPost": true,
+        "CanEditDeclaration": true,
+        "CanPublishNotice": true,
+        "CanUpgradeGuild": true,
+        "CanSettingRecruit": true,
+        "BaseSalary": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 150
+        },
+        "bCanSummonMember": false,
+        "CanRename": false
+      },
+      "Cadre": {
+        "PostName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_85"
+        },
+        "CanInvitePlayer": true,
+        "CanAcceptApplies": false,
+        "CanKickOutMember": false,
+        "CanAssignPost": false,
+        "CanEditDeclaration": false,
+        "CanPublishNotice": false,
+        "CanUpgradeGuild": false,
+        "CanSettingRecruit": false,
+        "BaseSalary": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 120
+        },
+        "bCanSummonMember": false,
+        "CanRename": false
+      },
+      "NormalMember": {
+        "PostName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_87"
+        },
+        "CanInvitePlayer": false,
+        "CanAcceptApplies": false,
+        "CanKickOutMember": false,
+        "CanAssignPost": false,
+        "CanEditDeclaration": false,
+        "CanPublishNotice": false,
+        "CanUpgradeGuild": false,
+        "CanSettingRecruit": false,
+        "BaseSalary": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        },
+        "bCanSummonMember": false,
+        "CanRename": false
+      }
+    }
+  }
+]

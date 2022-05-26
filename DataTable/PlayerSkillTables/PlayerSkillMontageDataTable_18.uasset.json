@@ -1,0 +1,28 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PlayerSkillMontageDataTable_18",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PlayerSkillMontageData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "GA_FPlayerBowSkill_R": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Bow/imitation/FPlayerBowSkill_imitation16.FPlayerBowSkill_imitation16",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerBowChangeSkill_R": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/Bow/imitation/FPlayerBowChangeSkill_imitation16.FPlayerBowChangeSkill_imitation16",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      }
+    }
+  }
+]

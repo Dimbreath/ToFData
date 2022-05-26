@@ -1,0 +1,106 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_StoryPhoto",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaStoryPhotoRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "q101030": {
+        "StoryName": {
+          "Namespace": "",
+          "Key": "080C0AF448073DEB5C4CAB9B09DED528",
+          "SourceString": "Zeke Missing"
+        },
+        "StoryPhotos": [
+          {
+            "Title": {
+              "Namespace": "",
+              "Key": "F04ACBC44F865A3BCE85C49C98AB54DD",
+              "SourceString": "Astra Ruin"
+            },
+            "SoftTexture": {
+              "AssetPathName": "/Game/Resources/UI/Scenery/image_digong1.image_digong1",
+              "SubPathString": ""
+            },
+            "SoftGrayTexture": {
+              "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+              "SubPathString": ""
+            },
+            "SoftMediaFile": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            },
+            "SoftMediaAudio": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            },
+            "Description": {
+              "Namespace": "",
+              "Key": "7CE920934DDB5A5EE3C1CC8EAA6C1E9F",
+              "SourceString": "Zeke's note: These devices are called Chrono Chambers. What are they for? Why is Hykros trying to disguise them as ruins?"
+            }
+          },
+          {
+            "Title": {
+              "Namespace": "",
+              "Key": "F8EEFF86434A82637F2248BB8C1A33CD",
+              "SourceString": "Astra Omnium Tower"
+            },
+            "SoftTexture": {
+              "AssetPathName": "/Game/Resources/UI/Scenery/image_yuannengta1.image_yuannengta1",
+              "SubPathString": ""
+            },
+            "SoftGrayTexture": {
+              "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+              "SubPathString": ""
+            },
+            "SoftMediaFile": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            },
+            "SoftMediaAudio": {
+              "AssetPathName": "None",
+              "SubPathString": ""
+            },
+            "Description": {
+              "Namespace": "",
+              "Key": "82871208436357140AEFBE922546CE9E",
+              "SourceString": "Zeke\\'s note: The Omnium Tower seems to be connected to these Chrono Chambers somehow."
+            }
+          },
+          {
+            "Title": {
+              "Namespace": "",
+              "Key": "0C4FE43C4F5BB28B2AEDCE9951C0855E",
+              "SourceString": "Video segment"
+            },
+            "SoftTexture": {
+              "AssetPathName": "/Game/Resources/UI/Scenery/donghua_xiazuosay.donghua_xiazuosay",
+              "SubPathString": ""
+            },
+            "SoftGrayTexture": {
+              "AssetPathName": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+              "SubPathString": ""
+            },
+            "SoftMediaFile": {
+              "AssetPathName": "/Game/Resources/Media/Story.Story",
+              "SubPathString": ""
+            },
+            "SoftMediaAudio": {
+              "AssetPathName": "/Game/WwiseAudio/Events/SFX/CG/00_Login/Play_Sfx_CG_Login_00_P01.Play_Sfx_CG_Login_00_P01",
+              "SubPathString": ""
+            },
+            "Description": {
+              "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+              "Key": "story_shipin"
+            }
+          }
+        ]
+      }
+    }
+  }
+]

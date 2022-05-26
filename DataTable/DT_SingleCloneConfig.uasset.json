@@ -1,0 +1,1973 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_SingleCloneConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct SingleCloneConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "FB03_D": {
+        "FirstPassDropID": "digong_a1_1_1",
+        "PrototypeCloneID": "FB03_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB/HOTTA_InFB_All.HOTTA_InFB_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 230,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB03_2"
+        },
+        "SortPriority": 1,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB03.FB03",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB03.ListFB03",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB03_KN_D": {
+        "FirstPassDropID": "digong_a1_1_2",
+        "PrototypeCloneID": "FB03_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB/HOTTA_InFB_All.HOTTA_InFB_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 3330,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB03_2"
+        },
+        "SortPriority": 1,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB03.FB03",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB03.ListFB03",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB03_SY_D": {
+        "FirstPassDropID": "digong_a1_1_3",
+        "PrototypeCloneID": "FB03_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB/HOTTA_InFB_All.HOTTA_InFB_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 11800,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB03_2"
+        },
+        "SortPriority": 1,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB03.FB03",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB03.ListFB03",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB04_D": {
+        "FirstPassDropID": "digong_a1_2_1",
+        "PrototypeCloneID": "FB04_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_002/HOTTA_InFB_002_All.HOTTA_InFB_002_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 600,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB04_2"
+        },
+        "SortPriority": 2,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB04.FB04",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB04.ListFB04",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB04_KN_D": {
+        "FirstPassDropID": "digong_a1_2_2",
+        "PrototypeCloneID": "FB04_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_002/HOTTA_InFB_002_All.HOTTA_InFB_002_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 4480,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB04_2"
+        },
+        "SortPriority": 2,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB04.FB04",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB04.ListFB04",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB04_SY_D": {
+        "FirstPassDropID": "digong_a1_2_3",
+        "PrototypeCloneID": "FB04_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_002/HOTTA_InFB_002_All.HOTTA_InFB_002_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 16880,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB04_2"
+        },
+        "SortPriority": 2,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB04.FB04",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB04.ListFB04",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB01_D": {
+        "FirstPassDropID": "digong_a1_3_1",
+        "PrototypeCloneID": "FB01_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_003/HOTTA_InFB_003_All.HOTTA_InFB_003_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 1090,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB01_2"
+        },
+        "SortPriority": 3,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB01.FB01",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB01.ListFB01",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB01_KN_D": {
+        "FirstPassDropID": "digong_a1_3_2",
+        "PrototypeCloneID": "FB01_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_003/HOTTA_InFB_003_All.HOTTA_InFB_003_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 5470,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB01_2"
+        },
+        "SortPriority": 3,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB01.FB01",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB01.ListFB01",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB01_SY_D": {
+        "FirstPassDropID": "digong_a1_3_3",
+        "PrototypeCloneID": "FB01_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_003/HOTTA_InFB_003_All.HOTTA_InFB_003_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 23080,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB01_2"
+        },
+        "SortPriority": 3,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB01.FB01",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB01.ListFB01",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB05_D": {
+        "FirstPassDropID": "digong_a2_4_1",
+        "PrototypeCloneID": "FB05_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B01/HOTTA_InFB_B01_All.HOTTA_InFB_B01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 1760,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB05_2"
+        },
+        "SortPriority": 4,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB05.FB05",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB05.ListFB05",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB05_KN_D": {
+        "FirstPassDropID": "digong_a2_4_2",
+        "PrototypeCloneID": "FB05_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B01/HOTTA_InFB_B01_All.HOTTA_InFB_B01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 7820,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB05_2"
+        },
+        "SortPriority": 4,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB05.FB05",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB05.ListFB05",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "D5D299064C6C493633C90599C6769E78",
+              "SourceString": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallice_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallice.0"
+          }
+        ]
+      },
+      "FB05_SY_D": {
+        "FirstPassDropID": "digong_a2_4_3",
+        "PrototypeCloneID": "FB05_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B01/HOTTA_InFB_B01_All.HOTTA_InFB_B01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 31390,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB05_2"
+        },
+        "SortPriority": 4,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB05.FB05",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB05.ListFB05",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "D5D299064C6C493633C90599C6769E78",
+              "SourceString": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallice_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallice.0"
+          }
+        ]
+      },
+      "FB06_D": {
+        "FirstPassDropID": "digong_a2_5_1",
+        "PrototypeCloneID": "FB06_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B02/HOTTA_InFB_B02_All.HOTTA_InFB_B02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 2490,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB06_2"
+        },
+        "SortPriority": 5,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB06.FB06",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB06.ListFB06",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB06_KN_D": {
+        "FirstPassDropID": "digong_a2_5_2",
+        "PrototypeCloneID": "FB06_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B02/HOTTA_InFB_B02_All.HOTTA_InFB_B02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 15800,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB06_2"
+        },
+        "SortPriority": 5,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB06.FB06",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB06.ListFB06",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB06_SY_D": {
+        "FirstPassDropID": "digong_a2_5_3",
+        "PrototypeCloneID": "FB06_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B02/HOTTA_InFB_B02_All.HOTTA_InFB_B02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 50020,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB06_2"
+        },
+        "SortPriority": 5,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB06.FB06",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB06.ListFB06",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB02_D": {
+        "FirstPassDropID": "digong_a2_6_1",
+        "PrototypeCloneID": "FB02_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B03/HOTTA_InFB_B03_All.HOTTA_InFB_B03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 3530,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB02_2"
+        },
+        "SortPriority": 6,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB02.FB02",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB02.ListFB02",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB02_KN_D": {
+        "FirstPassDropID": "digong_a2_6_2",
+        "PrototypeCloneID": "FB02_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B03/HOTTA_InFB_B03_All.HOTTA_InFB_B03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 19000,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB02_2"
+        },
+        "SortPriority": 6,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB02.FB02",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB02.ListFB02",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB02_SY_D": {
+        "FirstPassDropID": "digong_a2_6_3",
+        "PrototypeCloneID": "FB02_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B03/HOTTA_InFB_B03_All.HOTTA_InFB_B03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 59320,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB02_2"
+        },
+        "SortPriority": 6,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB02.FB02",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB02.ListFB02",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB25_D": {
+        "FirstPassDropID": "digong_a3_7_1",
+        "PrototypeCloneID": "FB25_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C01/HOTTA_InFB_C01_All.HOTTA_InFB_C01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 4310,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB25_2"
+        },
+        "SortPriority": 7,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB25.FB25",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB25.ListFB25",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB25_KN_D": {
+        "FirstPassDropID": "digong_a3_7_2",
+        "PrototypeCloneID": "FB25_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C01/HOTTA_InFB_C01_All.HOTTA_InFB_C01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 22850,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB25_2"
+        },
+        "SortPriority": 7,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB25.FB25",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB25.ListFB25",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB25_SY_D": {
+        "FirstPassDropID": "digong_a3_7_3",
+        "PrototypeCloneID": "FB25_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C01/HOTTA_InFB_C01_All.HOTTA_InFB_C01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 60900,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB25_2"
+        },
+        "SortPriority": 7,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB25.FB25",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB25.ListFB25",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB09_D": {
+        "FirstPassDropID": "digong_a3_8_1",
+        "PrototypeCloneID": "FB09_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C02/HOTTA_InFB_C02_All.HOTTA_InFB_C02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 5200,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB09_2"
+        },
+        "SortPriority": 8,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB09.FB09",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB09.ListFB09",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB09_KN_D": {
+        "FirstPassDropID": "digong_a3_8_2",
+        "PrototypeCloneID": "FB09_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C02/HOTTA_InFB_C02_All.HOTTA_InFB_C02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 25840,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB09_2"
+        },
+        "SortPriority": 8,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB09.FB09",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB09.ListFB09",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB09_SY_D": {
+        "FirstPassDropID": "digong_a3_8_3",
+        "PrototypeCloneID": "FB09_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C02/HOTTA_InFB_C02_All.HOTTA_InFB_C02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 62510,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB09_2"
+        },
+        "SortPriority": 8,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB09.FB09",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB09.ListFB09",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB07_D": {
+        "FirstPassDropID": "digong_a3_9_1",
+        "PrototypeCloneID": "FB07_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C03/HOTTA_InFB_C03_All.HOTTA_InFB_C03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 6220,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB07_2"
+        },
+        "SortPriority": 9,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB07.FB07",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB07.ListFB07",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB07_KN_D": {
+        "FirstPassDropID": "digong_a3_9_2",
+        "PrototypeCloneID": "FB07_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C03/HOTTA_InFB_C03_All.HOTTA_InFB_C03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 29320,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB07_2"
+        },
+        "SortPriority": 9,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB07.FB07",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB07.ListFB07",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB07_SY_D": {
+        "FirstPassDropID": "digong_a3_9_3",
+        "PrototypeCloneID": "FB07_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C03/HOTTA_InFB_C03_All.HOTTA_InFB_C03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 64170,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB07_2"
+        },
+        "SortPriority": 9,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB07.FB07",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB07.ListFB07",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB08_D": {
+        "FirstPassDropID": "digong_a4_10_1",
+        "PrototypeCloneID": "FB08_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D01/HOTTA_InFB_D01_All.HOTTA_InFB_D01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 7440,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB08_2"
+        },
+        "SortPriority": 10,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB08.FB08",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB08.ListFB08",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB08_KN_D": {
+        "FirstPassDropID": "digong_a4_10_2",
+        "PrototypeCloneID": "FB08_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D01/HOTTA_InFB_D01_All.HOTTA_InFB_D01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 30600,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB08_2"
+        },
+        "SortPriority": 10,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB08.FB08",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB08.ListFB08",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB08_SY_D": {
+        "FirstPassDropID": "digong_a4_10_3",
+        "PrototypeCloneID": "FB08_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D01/HOTTA_InFB_D01_All.HOTTA_InFB_D01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 65880,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB08_2"
+        },
+        "SortPriority": 10,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB08.FB08",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB08.ListFB08",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "14EEDFD9456270AE9D3ECE81E4564860",
+              "SourceString": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallfire.0"
+          }
+        ]
+      },
+      "FB13_D": {
+        "FirstPassDropID": "digong_a4_11_1",
+        "PrototypeCloneID": "FB13_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D02/HOTTA_InFB_D02_All.HOTTA_InFB_D02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 8900,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB13_2"
+        },
+        "SortPriority": 11,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB13.FB13",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB13.ListFB13",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB13_KN_D": {
+        "FirstPassDropID": "digong_a4_11_2",
+        "PrototypeCloneID": "FB13_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D02/HOTTA_InFB_D02_All.HOTTA_InFB_D02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 31940,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB13_2"
+        },
+        "SortPriority": 11,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB13.FB13",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB13.ListFB13",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB13_SY_D": {
+        "FirstPassDropID": "digong_a4_11_3",
+        "PrototypeCloneID": "FB13_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D02/HOTTA_InFB_D02_All.HOTTA_InFB_D02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 67620,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB13_2"
+        },
+        "SortPriority": 11,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB13.FB13",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB13.ListFB13",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB29_D": {
+        "FirstPassDropID": "digong_a4_12_1",
+        "PrototypeCloneID": "FB29_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D03/HOTTA_InFB_D03_All.HOTTA_InFB_D03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 10640,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB29_2"
+        },
+        "SortPriority": 12,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB29.FB29",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB29.ListFB29",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": null,
+        "MonsterWeaknessBuff": []
+      },
+      "FB29_KN_D": {
+        "FirstPassDropID": "digong_a4_12_2",
+        "PrototypeCloneID": "FB29_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D03/HOTTA_InFB_D03_All.HOTTA_InFB_D03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 33330,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB29_2"
+        },
+        "SortPriority": 12,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB29.FB29",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB29.ListFB29",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_115_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_115.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB29_SY_D": {
+        "FirstPassDropID": "digong_a4_12_3",
+        "PrototypeCloneID": "FB29_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D03/HOTTA_InFB_D03_All.HOTTA_InFB_D03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 69420,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB29_2"
+        },
+        "SortPriority": 12,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB29.FB29",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB29.ListFB29",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "7E5BD2D443212F8266AE38AA7D3B005C",
+              "SourceString": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_145_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_145.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallphy_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallphy.0"
+          }
+        ]
+      },
+      "FB10_D": {
+        "FirstPassDropID": "digong_a5_13_1",
+        "PrototypeCloneID": "FB10_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E01/HOTTA_InFB_E01_All.HOTTA_InFB_E01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 13000,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB10_2"
+        },
+        "SortPriority": 13,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB10.FB10",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB10.ListFB10",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_105_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_105.0"
+        },
+        "MonsterWeaknessBuff": []
+      },
+      "FB10_KN_D": {
+        "FirstPassDropID": "digong_a5_13_2",
+        "PrototypeCloneID": "FB10_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E01/HOTTA_InFB_E01_All.HOTTA_InFB_E01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 36310,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB10_2"
+        },
+        "SortPriority": 13,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB10.FB10",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB10.ListFB10",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "D5D299064C6C493633C90599C6769E78",
+              "SourceString": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_120_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_120.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallice_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallice.0"
+          }
+        ]
+      },
+      "FB10_SY_D": {
+        "FirstPassDropID": "digong_a5_13_3",
+        "PrototypeCloneID": "FB10_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E01/HOTTA_InFB_E01_All.HOTTA_InFB_E01_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 71260,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB10_2"
+        },
+        "SortPriority": 13,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB10.FB10",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB10.ListFB10",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "D5D299064C6C493633C90599C6769E78",
+              "SourceString": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_155_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_155.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallice_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallice.0"
+          }
+        ]
+      },
+      "FB14_D": {
+        "FirstPassDropID": "digong_a5_14_1",
+        "PrototypeCloneID": "FB14_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E02/HOTTA_InFB_E02_All.HOTTA_InFB_E02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 14700,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB14_2"
+        },
+        "SortPriority": 14,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB14.FB14",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB14.ListFB14",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_105_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_105.0"
+        },
+        "MonsterWeaknessBuff": []
+      },
+      "FB14_KN_D": {
+        "FirstPassDropID": "digong_a5_14_2",
+        "PrototypeCloneID": "FB14_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E02/HOTTA_InFB_E02_All.HOTTA_InFB_E02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 39550,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB14_2"
+        },
+        "SortPriority": 14,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB14.FB14",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB14.ListFB14",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_120_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_120.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB14_SY_D": {
+        "FirstPassDropID": "digong_a5_14_3",
+        "PrototypeCloneID": "FB14_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E02/HOTTA_InFB_E02_All.HOTTA_InFB_E02_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 73150,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB14_2"
+        },
+        "SortPriority": 14,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB14.FB14",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB14.ListFB14",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "DA959369415C5771DCD0DC89CC5CD0FD",
+              "SourceString": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_155_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_155.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallthunder_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallthunder.0"
+          }
+        ]
+      },
+      "FB30_D": {
+        "FirstPassDropID": "digong_a5_15_1",
+        "PrototypeCloneID": "FB30_D",
+        "DifficultyLevel": 0,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E03/HOTTA_InFB_E03_All.HOTTA_InFB_E03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 18800,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB30_2"
+        },
+        "SortPriority": 15,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB30.FB30",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB30.ListFB30",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_105_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_105.0"
+        },
+        "MonsterWeaknessBuff": []
+      },
+      "FB30_KN_D": {
+        "FirstPassDropID": "digong_a5_15_2",
+        "PrototypeCloneID": "FB30_D",
+        "DifficultyLevel": 1,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E03/HOTTA_InFB_E03_All.HOTTA_InFB_E03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 41280,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB30_2"
+        },
+        "SortPriority": 15,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB30.FB30",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB30.ListFB30",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "D5D299064C6C493633C90599C6769E78",
+              "SourceString": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_120_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_120.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallice_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallice.0"
+          }
+        ]
+      },
+      "FB30_SY_D": {
+        "FirstPassDropID": "digong_a5_15_3",
+        "PrototypeCloneID": "FB30_D",
+        "DifficultyLevel": 2,
+        "LeveSequenceOverride": {
+          "AssetPathName": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E03/HOTTA_InFB_E03_All.HOTTA_InFB_E03_All",
+          "SubPathString": ""
+        },
+        "AreaParticleAsset": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "RecommondBattleScore": 75090,
+        "CloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "LevelConfig_FB30_2"
+        },
+        "SortPriority": 15,
+        "CloneBgTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/FB30.FB30",
+          "SubPathString": ""
+        },
+        "CloneSlotTexture": {
+          "AssetPathName": "/Game/Resources/UI/digong/CloneImage/ListFB30.ListFB30",
+          "SubPathString": ""
+        },
+        "MonsterInfoList": [
+          {
+            "WeakImage": {
+              "AssetPathName": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+              "SubPathString": ""
+            },
+            "WeakDesc": {
+              "Namespace": "",
+              "Key": "D5D299064C6C493633C90599C6769E78",
+              "SourceString": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+            }
+          }
+        ],
+        "MonsterBalanceBuff": {
+          "ObjectName": "BlueprintGeneratedClass SingleClone_buff_155_C",
+          "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/SingleClone/SingleClone_buff_155.0"
+        },
+        "MonsterWeaknessBuff": [
+          {
+            "ObjectName": "BlueprintGeneratedClass Buff_SingleClone_smallice_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/MonsterWeaknessBuff/SingleClone/Buff_SingleClone_smallice.0"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,34 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_WorldBossConfig",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct WorldBossConfigData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "WorldBoss": {
+        "ActivityId": "WorldBoss",
+        "TeamTargetId": "FB32_WorldBoss",
+        "DataList": [
+          {
+            "MapName": "FB32_WorldBoss"
+          }
+        ],
+        "LimitDuration": 480,
+        "WorldBossPrepareTime": 120,
+        "GuildBuffClassMap": {},
+        "GuildStackingBuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff.Worldboss_playerbuff_C",
+          "SubPathString": ""
+        },
+        "TeamRankAwardConfigArray": [],
+        "GuildRankAwardConfigArray": [],
+        "GuildPreviewAwardDropId": "None",
+        "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+      }
+    }
+  }
+]

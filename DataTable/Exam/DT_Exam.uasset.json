@@ -1,0 +1,90 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Exam",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct ExamData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "1": {
+        "SoftQuestionBankTable": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/Exam/DT_ExamQuestionBank_1.DT_ExamQuestionBank_1",
+          "SubPathString": ""
+        },
+        "QuestionAmount": 10,
+        "GameplayEnterLimitID": "Exam1",
+        "RightAward": {
+          "ItemAwards": [
+            {
+              "ItemID": "Item_Gold",
+              "Amount": 500,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            }
+          ],
+          "ExpAward": {
+            "400": 400
+          }
+        },
+        "WrongAward": {
+          "ItemAwards": [
+            {
+              "ItemID": "Item_Gold",
+              "Amount": 400,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            }
+          ],
+          "ExpAward": {
+            "320": 320
+          }
+        }
+      },
+      "2": {
+        "SoftQuestionBankTable": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/DataTable/Exam/DT_ExamQuestionBank_2.DT_ExamQuestionBank_2",
+          "SubPathString": ""
+        },
+        "QuestionAmount": 10,
+        "GameplayEnterLimitID": "Exam2",
+        "RightAward": {
+          "ItemAwards": [
+            {
+              "ItemID": "Item_Gold",
+              "Amount": 500,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            }
+          ],
+          "ExpAward": {
+            "400": 400
+          }
+        },
+        "WrongAward": {
+          "ItemAwards": [
+            {
+              "ItemID": "Item_Gold",
+              "Amount": 400,
+              "ExpLimitIndex": 0,
+              "MustDrop": true,
+              "IsBind": true,
+              "ExtraParamsStr": ""
+            }
+          ],
+          "ExpAward": {
+            "320": 320
+          }
+        }
+      }
+    }
+  }
+]

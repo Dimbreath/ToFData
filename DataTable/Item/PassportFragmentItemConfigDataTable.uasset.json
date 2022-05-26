@@ -1,0 +1,699 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PassportFragmentItemConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct StaticItemData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "park1": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/Resources/Icon/park/Item_passport_yaxia01.Item_passport_yaxia01",
+          "SubPathString": ""
+        },
+        "ArtPackID": "None",
+        "ItemName": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park1"
+        },
+        "ItemNameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park1-2"
+        },
+        "UseDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park-des"
+        },
+        "UpgradeRouteConfigId": "None",
+        "bNeedNoticeMessage": false,
+        "bNeedShowFirstGetTips": false,
+        "bAlwaysBind": false,
+        "bShowAttrIcon": false,
+        "bNotReminder": true,
+        "EquipBatchLevel": 0,
+        "SellPrice": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "GuildAuctionInitialPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 10
+        },
+        "GuildAuctionMaxPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        },
+        "CanPriorityAuction": true,
+        "ItemType": "ITEM_TYPE_PASSPORT_FRAGMENT",
+        "DisplayTypeText": {
+          "CultureInvariantString": null
+        },
+        "LogItemType": 29,
+        "ArrangeType": 0,
+        "bShowBagAmount": false,
+        "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+        "ItemQuality": "ITEM_QUALITY_EPIC",
+        "RandomAttributeQuality": "ITEM_QUALITY_EPIC",
+        "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+        "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+        "ItemActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DropActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttachInfoName": "None",
+        "UsingItemSkill": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "MaxAmount": 999,
+        "bUseDurable": false,
+        "MaxDurable": 1000,
+        "LifeTime": 0,
+        "ModifyData": "None",
+        "RandomModifyData": "None",
+        "BaseScore": 0,
+        "bAutoUseWhenAdd": false,
+        "UesNeedSlot": 0,
+        "StaticToolName": "None",
+        "NeedLevel": 0,
+        "bCanMulUse": false,
+        "UsePathID": "None",
+        "bIsCanUseInBattle": true,
+        "BlockID": "None",
+        "NeedShowMessageBox": false,
+        "ShowMessageBoxContent": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxSure": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxCancel": {
+          "CultureInvariantString": null
+        },
+        "IngredientID": "None",
+        "Buffs": [],
+        "PermanentAttributeModify": [],
+        "PriceMap": {
+          "EHottaCurrencyType::Gold": 100
+        },
+        "BookName": "None",
+        "LetterID": "None",
+        "MountId": "None",
+        "OutputSourceID": "None",
+        "ItemBrief": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "brief_activety"
+        },
+        "bShowOutputSource": false,
+        "bCanMelt": true,
+        "MeltPackID": "None",
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "IdentifyCost": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "DropGroupID": "None",
+        "JackpotID": "None",
+        "bAwardCanSelect": false,
+        "NeedShowCanUseFlg": true,
+        "bShowHighQualityTip": true,
+        "LotteryDrawing": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryCardImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryDescription": {
+          "CultureInvariantString": null
+        },
+        "LotteryCharacterType": "RCT_NULL",
+        "LotteryMontageId": "None",
+        "bIgnoreHarvestLimit": false,
+        "HobbyFlag": [],
+        "LikeabilityValue": 0,
+        "bCanExhibit": false
+      },
+      "park2": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/Resources/Icon/park/Item_passport_yaxia02.Item_passport_yaxia02",
+          "SubPathString": ""
+        },
+        "ArtPackID": "None",
+        "ItemName": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park2"
+        },
+        "ItemNameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park2-2"
+        },
+        "UseDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park-des"
+        },
+        "UpgradeRouteConfigId": "None",
+        "bNeedNoticeMessage": false,
+        "bNeedShowFirstGetTips": false,
+        "bAlwaysBind": false,
+        "bShowAttrIcon": false,
+        "bNotReminder": true,
+        "EquipBatchLevel": 0,
+        "SellPrice": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "GuildAuctionInitialPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 10
+        },
+        "GuildAuctionMaxPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        },
+        "CanPriorityAuction": true,
+        "ItemType": "ITEM_TYPE_PASSPORT_FRAGMENT",
+        "DisplayTypeText": {
+          "CultureInvariantString": null
+        },
+        "LogItemType": 29,
+        "ArrangeType": 0,
+        "bShowBagAmount": false,
+        "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+        "ItemQuality": "ITEM_QUALITY_EPIC",
+        "RandomAttributeQuality": "ITEM_QUALITY_EPIC",
+        "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+        "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+        "ItemActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DropActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttachInfoName": "None",
+        "UsingItemSkill": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "MaxAmount": 999,
+        "bUseDurable": false,
+        "MaxDurable": 1000,
+        "LifeTime": 0,
+        "ModifyData": "None",
+        "RandomModifyData": "None",
+        "BaseScore": 0,
+        "bAutoUseWhenAdd": false,
+        "UesNeedSlot": 0,
+        "StaticToolName": "None",
+        "NeedLevel": 0,
+        "bCanMulUse": false,
+        "UsePathID": "None",
+        "bIsCanUseInBattle": true,
+        "BlockID": "None",
+        "NeedShowMessageBox": false,
+        "ShowMessageBoxContent": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxSure": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxCancel": {
+          "CultureInvariantString": null
+        },
+        "IngredientID": "None",
+        "Buffs": [],
+        "PermanentAttributeModify": [],
+        "PriceMap": {
+          "EHottaCurrencyType::Gold": 100
+        },
+        "BookName": "None",
+        "LetterID": "None",
+        "MountId": "None",
+        "OutputSourceID": "None",
+        "ItemBrief": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "brief_activety"
+        },
+        "bShowOutputSource": false,
+        "bCanMelt": true,
+        "MeltPackID": "None",
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "IdentifyCost": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "DropGroupID": "None",
+        "JackpotID": "None",
+        "bAwardCanSelect": false,
+        "NeedShowCanUseFlg": true,
+        "bShowHighQualityTip": true,
+        "LotteryDrawing": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryCardImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryDescription": {
+          "CultureInvariantString": null
+        },
+        "LotteryCharacterType": "RCT_NULL",
+        "LotteryMontageId": "None",
+        "bIgnoreHarvestLimit": false,
+        "HobbyFlag": [],
+        "LikeabilityValue": 0,
+        "bCanExhibit": false
+      },
+      "park3": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/Resources/Icon/park/Item_passport_yaxia05.Item_passport_yaxia05",
+          "SubPathString": ""
+        },
+        "ArtPackID": "None",
+        "ItemName": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park3"
+        },
+        "ItemNameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park3-2"
+        },
+        "UseDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park-des"
+        },
+        "UpgradeRouteConfigId": "None",
+        "bNeedNoticeMessage": false,
+        "bNeedShowFirstGetTips": false,
+        "bAlwaysBind": false,
+        "bShowAttrIcon": false,
+        "bNotReminder": true,
+        "EquipBatchLevel": 0,
+        "SellPrice": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "GuildAuctionInitialPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 10
+        },
+        "GuildAuctionMaxPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        },
+        "CanPriorityAuction": true,
+        "ItemType": "ITEM_TYPE_PASSPORT_FRAGMENT",
+        "DisplayTypeText": {
+          "CultureInvariantString": null
+        },
+        "LogItemType": 29,
+        "ArrangeType": 0,
+        "bShowBagAmount": false,
+        "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+        "ItemQuality": "ITEM_QUALITY_EPIC",
+        "RandomAttributeQuality": "ITEM_QUALITY_EPIC",
+        "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+        "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+        "ItemActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DropActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttachInfoName": "None",
+        "UsingItemSkill": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "MaxAmount": 999,
+        "bUseDurable": false,
+        "MaxDurable": 1000,
+        "LifeTime": 0,
+        "ModifyData": "None",
+        "RandomModifyData": "None",
+        "BaseScore": 0,
+        "bAutoUseWhenAdd": false,
+        "UesNeedSlot": 0,
+        "StaticToolName": "None",
+        "NeedLevel": 0,
+        "bCanMulUse": false,
+        "UsePathID": "None",
+        "bIsCanUseInBattle": true,
+        "BlockID": "None",
+        "NeedShowMessageBox": false,
+        "ShowMessageBoxContent": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxSure": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxCancel": {
+          "CultureInvariantString": null
+        },
+        "IngredientID": "None",
+        "Buffs": [],
+        "PermanentAttributeModify": [],
+        "PriceMap": {
+          "EHottaCurrencyType::Gold": 100
+        },
+        "BookName": "None",
+        "LetterID": "None",
+        "MountId": "None",
+        "OutputSourceID": "None",
+        "ItemBrief": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "brief_activety"
+        },
+        "bShowOutputSource": false,
+        "bCanMelt": true,
+        "MeltPackID": "None",
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "IdentifyCost": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "DropGroupID": "None",
+        "JackpotID": "None",
+        "bAwardCanSelect": false,
+        "NeedShowCanUseFlg": true,
+        "bShowHighQualityTip": true,
+        "LotteryDrawing": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryCardImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryDescription": {
+          "CultureInvariantString": null
+        },
+        "LotteryCharacterType": "RCT_NULL",
+        "LotteryMontageId": "None",
+        "bIgnoreHarvestLimit": false,
+        "HobbyFlag": [],
+        "LikeabilityValue": 0,
+        "bCanExhibit": false
+      },
+      "park4": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/Resources/Icon/park/Item_passport_yaxia03.Item_passport_yaxia03",
+          "SubPathString": ""
+        },
+        "ArtPackID": "None",
+        "ItemName": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park4"
+        },
+        "ItemNameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park4-2"
+        },
+        "UseDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park-des"
+        },
+        "UpgradeRouteConfigId": "None",
+        "bNeedNoticeMessage": false,
+        "bNeedShowFirstGetTips": false,
+        "bAlwaysBind": false,
+        "bShowAttrIcon": false,
+        "bNotReminder": true,
+        "EquipBatchLevel": 0,
+        "SellPrice": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "GuildAuctionInitialPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 10
+        },
+        "GuildAuctionMaxPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        },
+        "CanPriorityAuction": true,
+        "ItemType": "ITEM_TYPE_PASSPORT_FRAGMENT",
+        "DisplayTypeText": {
+          "CultureInvariantString": null
+        },
+        "LogItemType": 29,
+        "ArrangeType": 0,
+        "bShowBagAmount": false,
+        "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+        "ItemQuality": "ITEM_QUALITY_EPIC",
+        "RandomAttributeQuality": "ITEM_QUALITY_EPIC",
+        "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+        "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+        "ItemActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DropActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttachInfoName": "None",
+        "UsingItemSkill": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "MaxAmount": 999,
+        "bUseDurable": false,
+        "MaxDurable": 1000,
+        "LifeTime": 0,
+        "ModifyData": "None",
+        "RandomModifyData": "None",
+        "BaseScore": 0,
+        "bAutoUseWhenAdd": false,
+        "UesNeedSlot": 0,
+        "StaticToolName": "None",
+        "NeedLevel": 0,
+        "bCanMulUse": false,
+        "UsePathID": "None",
+        "bIsCanUseInBattle": true,
+        "BlockID": "None",
+        "NeedShowMessageBox": false,
+        "ShowMessageBoxContent": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxSure": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxCancel": {
+          "CultureInvariantString": null
+        },
+        "IngredientID": "None",
+        "Buffs": [],
+        "PermanentAttributeModify": [],
+        "PriceMap": {
+          "EHottaCurrencyType::Gold": 100
+        },
+        "BookName": "None",
+        "LetterID": "None",
+        "MountId": "None",
+        "OutputSourceID": "None",
+        "ItemBrief": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "brief_activety"
+        },
+        "bShowOutputSource": false,
+        "bCanMelt": true,
+        "MeltPackID": "None",
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "IdentifyCost": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "DropGroupID": "None",
+        "JackpotID": "None",
+        "bAwardCanSelect": false,
+        "NeedShowCanUseFlg": true,
+        "bShowHighQualityTip": true,
+        "LotteryDrawing": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryCardImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryDescription": {
+          "CultureInvariantString": null
+        },
+        "LotteryCharacterType": "RCT_NULL",
+        "LotteryMontageId": "None",
+        "bIgnoreHarvestLimit": false,
+        "HobbyFlag": [],
+        "LikeabilityValue": 0,
+        "bCanExhibit": false
+      },
+      "park5": {
+        "ItemIcon": {
+          "AssetPathName": "/Game/Resources/Icon/park/Item_passport_yaxia04.Item_passport_yaxia04",
+          "SubPathString": ""
+        },
+        "ArtPackID": "None",
+        "ItemName": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park5"
+        },
+        "ItemNameImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "Description": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park5-2"
+        },
+        "UseDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "park-des"
+        },
+        "UpgradeRouteConfigId": "None",
+        "bNeedNoticeMessage": false,
+        "bNeedShowFirstGetTips": false,
+        "bAlwaysBind": false,
+        "bShowAttrIcon": false,
+        "bNotReminder": true,
+        "EquipBatchLevel": 0,
+        "SellPrice": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "GuildAuctionInitialPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 10
+        },
+        "GuildAuctionMaxPrice": {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "Amount": 100
+        },
+        "CanPriorityAuction": true,
+        "ItemType": "ITEM_TYPE_PASSPORT_FRAGMENT",
+        "DisplayTypeText": {
+          "CultureInvariantString": null
+        },
+        "LogItemType": 29,
+        "ArrangeType": 0,
+        "bShowBagAmount": false,
+        "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+        "ItemQuality": "ITEM_QUALITY_EPIC",
+        "RandomAttributeQuality": "ITEM_QUALITY_EPIC",
+        "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+        "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+        "ItemActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DropActorClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttachInfoName": "None",
+        "UsingItemSkill": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "MaxAmount": 999,
+        "bUseDurable": false,
+        "MaxDurable": 1000,
+        "LifeTime": 0,
+        "ModifyData": "None",
+        "RandomModifyData": "None",
+        "BaseScore": 0,
+        "bAutoUseWhenAdd": false,
+        "UesNeedSlot": 0,
+        "StaticToolName": "None",
+        "NeedLevel": 0,
+        "bCanMulUse": false,
+        "UsePathID": "None",
+        "bIsCanUseInBattle": true,
+        "BlockID": "None",
+        "NeedShowMessageBox": false,
+        "ShowMessageBoxContent": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxSure": {
+          "CultureInvariantString": null
+        },
+        "ShowMessageBoxCancel": {
+          "CultureInvariantString": null
+        },
+        "IngredientID": "None",
+        "Buffs": [],
+        "PermanentAttributeModify": [],
+        "PriceMap": {
+          "EHottaCurrencyType::Gold": 100
+        },
+        "BookName": "None",
+        "LetterID": "None",
+        "MountId": "None",
+        "OutputSourceID": "None",
+        "ItemBrief": {
+          "TableId": "/Game/Resources/Text/ST_item.ST_Item",
+          "Key": "brief_activety"
+        },
+        "bShowOutputSource": false,
+        "bCanMelt": true,
+        "MeltPackID": "None",
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "IdentifyCost": {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "Amount": 0
+        },
+        "DropGroupID": "None",
+        "JackpotID": "None",
+        "bAwardCanSelect": false,
+        "NeedShowCanUseFlg": true,
+        "bShowHighQualityTip": true,
+        "LotteryDrawing": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryCardImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "LotteryDescription": {
+          "CultureInvariantString": null
+        },
+        "LotteryCharacterType": "RCT_NULL",
+        "LotteryMontageId": "None",
+        "bIgnoreHarvestLimit": false,
+        "HobbyFlag": [],
+        "LikeabilityValue": 0,
+        "bCanExhibit": false
+      }
+    }
+  }
+]

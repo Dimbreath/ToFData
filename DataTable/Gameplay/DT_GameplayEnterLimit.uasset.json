@@ -1,0 +1,84 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_GameplayEnterLimit",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaGameplayEnterLimit",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "FBEnergyGrab3v1": {
+        "Level": 1,
+        "WeekDays": [],
+        "DailyCount": 0,
+        "WeeklyCount": 0,
+        "DailyResetTimeOfHour": 0,
+        "WeeklyResetDay": 0,
+        "WeeklyResetHour": 0
+      },
+      "Exam1": {
+        "Level": 0,
+        "WeekDays": [
+          {
+            "WeekDay": 0,
+            "StartHour": 9,
+            "StartMinute": 30,
+            "EndHour": 18,
+            "EndMinute": 30
+          }
+        ],
+        "DailyCount": 1,
+        "WeeklyCount": 0,
+        "DailyResetTimeOfHour": 0,
+        "WeeklyResetDay": 0,
+        "WeeklyResetHour": 0
+      },
+      "Exam2": {
+        "Level": 0,
+        "WeekDays": [
+          {
+            "WeekDay": 0,
+            "StartHour": 20,
+            "StartMinute": 0,
+            "EndHour": 22,
+            "EndMinute": 0
+          }
+        ],
+        "DailyCount": 0,
+        "WeeklyCount": 0,
+        "DailyResetTimeOfHour": 0,
+        "WeeklyResetDay": 0,
+        "WeeklyResetHour": 0
+      },
+      "worldevent_1_1": {
+        "Level": 1,
+        "WeekDays": [],
+        "DailyCount": 3,
+        "WeeklyCount": 0,
+        "DailyResetTimeOfHour": 0,
+        "WeeklyResetDay": 0,
+        "WeeklyResetHour": 0
+      },
+      "worldevent_1_2": {
+        "Level": 1,
+        "WeekDays": [],
+        "DailyCount": 3,
+        "WeeklyCount": 0,
+        "DailyResetTimeOfHour": 0,
+        "WeeklyResetDay": 0,
+        "WeeklyResetHour": 0
+      },
+      "worldevent_1_3": {
+        "Level": 1,
+        "WeekDays": [],
+        "DailyCount": 1,
+        "WeeklyCount": 0,
+        "DailyResetTimeOfHour": 0,
+        "WeeklyResetDay": 0,
+        "WeeklyResetHour": 0
+      }
+    }
+  }
+]

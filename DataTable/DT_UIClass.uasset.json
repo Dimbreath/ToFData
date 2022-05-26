@@ -1,0 +1,4262 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_UIClass",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaUIClassData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Login": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Login.UI_Login_C",
+          "SubPathString": ""
+        }
+      },
+      "ServerList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ServerList/UI_Serverlist.UI_Serverlist_C",
+          "SubPathString": ""
+        }
+      },
+      "Register": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Register.UI_Register_C",
+          "SubPathString": ""
+        }
+      },
+      "Notice": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Notice/BP_UINotice.BP_UINotice_C",
+          "SubPathString": ""
+        }
+      },
+      "ItemSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ItemSlot.UI_ItemSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "MainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MainForm.UI_MainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "Interaction": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Interation.UI_Interation_C",
+          "SubPathString": ""
+        }
+      },
+      "Dialogue": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Dialogue.UI_Dialogue_C",
+          "SubPathString": ""
+        }
+      },
+      "CreateRole": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CreateRole.UI_CreateRole_C",
+          "SubPathString": ""
+        }
+      },
+      "CreateSuitButton": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CreateSuitButton.UI_CreateSuitButton_C",
+          "SubPathString": ""
+        }
+      },
+      "TipDialogueTemplate": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_TipDialog.UI_TipDialog_C",
+          "SubPathString": ""
+        }
+      },
+      "BagPage": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BagPage.UI_BagPage_C",
+          "SubPathString": ""
+        }
+      },
+      "ItemTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_ItemTips.UI_ItemTips_C",
+          "SubPathString": ""
+        }
+      },
+      "TipsBase": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_ItemTipsBase.UI_ItemTipsBase_C",
+          "SubPathString": ""
+        }
+      },
+      "CostSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CostSlot.UI_CostSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "PageTag": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_PageTag.UI_PageTag_C",
+          "SubPathString": ""
+        }
+      },
+      "SelfMenu": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SelfMenu.UI_SelfMenu_C",
+          "SubPathString": ""
+        }
+      },
+      "ItemHeadbar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/HeadbarWisget_Item.HeadbarWisget_Item_C",
+          "SubPathString": ""
+        }
+      },
+      "GuideMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_GuideMain.UI_GuideMain_C",
+          "SubPathString": ""
+        }
+      },
+      "WearWeapon": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WearWeapon.UI_WearWeapon_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponSelected": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WeaponSelected.UI_WeaponSelected_C",
+          "SubPathString": ""
+        }
+      },
+      "Relive": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Relive.UI_Relive_C",
+          "SubPathString": ""
+        }
+      },
+      "Attribute": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Attribute.UI_Attribute_C",
+          "SubPathString": ""
+        }
+      },
+      "AttributeSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AttributeSlot.UI_AttributeSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "Overlay": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Overlay.UI_Overlay_C",
+          "SubPathString": ""
+        }
+      },
+      "BossHPBar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BossHPBar.UI_BossHPBar_C",
+          "SubPathString": ""
+        }
+      },
+      "BossDescription": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BossDescription.UI_BossDescription_C",
+          "SubPathString": ""
+        }
+      },
+      "GMPlayerState": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/UI/gm/GM_PlayerState.GM_PlayerState_C",
+          "SubPathString": ""
+        }
+      },
+      "GMConsole": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_GMConsole.UI_GMConsole_C",
+          "SubPathString": ""
+        }
+      },
+      "Loading": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Loading_BP.UI_Loading_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponChange": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WeaponChange.UI_WeaponChange_C",
+          "SubPathString": ""
+        }
+      },
+      "AzimuthIndicator": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AzimuthIndicator.UI_AzimuthIndicator_C",
+          "SubPathString": ""
+        }
+      },
+      "TimeBar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_TimeBar.UI_TimeBar_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestPanel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Quest/UI_QuestPanel.UI_QuestPanel_C",
+          "SubPathString": ""
+        }
+      },
+      "Recipes": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CookingUI/UI_Recipes.UI_Recipes_C",
+          "SubPathString": ""
+        }
+      },
+      "RecipeDetails": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CookingUI/UI_RecipeDetails.UI_RecipeDetails_C",
+          "SubPathString": ""
+        }
+      },
+      "CardCollecter": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CardCollecter.UI_CardCollecter_C",
+          "SubPathString": ""
+        }
+      },
+      "StatusMessage": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StatusMsg.UI_StatusMsg_C",
+          "SubPathString": ""
+        }
+      },
+      "Book": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Book.UI_Book_C",
+          "SubPathString": ""
+        }
+      },
+      "MessageBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MessageBox.UI_MessageBox_C",
+          "SubPathString": ""
+        }
+      },
+      "Makeup": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Makeup.UI_Makeup_C",
+          "SubPathString": ""
+        }
+      },
+      "FurnituresList": {
+        "UIClass": {
+          "AssetPathName": "/Game/ToolActors/Furnitures/UI_FurnituresList.UI_FurnituresList_C",
+          "SubPathString": ""
+        }
+      },
+      "Wormhole": {
+        "UIClass": {
+          "AssetPathName": "/Game/ToolActors/WormholeLevels/WormholeLevelsInfosUI_BP.WormholeLevelsInfosUI_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Cooking": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CookingUI/UI_Cooking_Main.UI_Cooking_Main_C",
+          "SubPathString": ""
+        }
+      },
+      "Message": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Message/WB_Message.WB_Message_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactLotteryMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/UI_ArtifactLotteryMainForm.UI_ArtifactLotteryMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipStrengthen": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipStrengthen.UI_EquipStrengthen_C",
+          "SubPathString": ""
+        }
+      },
+      "ServerTabSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ServerList/UI_ServerTabSlot.UI_ServerTabSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WormholeMainForm.UI_WormholeMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipSmith": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipSmith.UI_EquipSmith_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipForge": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipForge.UI_EquipForge_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipMelt": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipMelt.UI_EquipMelt_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamCloneForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TeamClone/UI_TeamClone.UI_TeamClone_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipForgeRecord": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipForgeRecord.UI_EquipForgeRecord_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipForgeRecordSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipForgeRecordSlot.UI_EquipForgeRecordSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "UnlockFuncPreShow": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FuncPreshow.UI_FuncPreshow_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_List": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_List_BP.UI_Artifact_List_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_Details": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_Details_BP.UI_Artifact_Details_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "DailyActivity": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_DailyActivity.UI_DailyActivity_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_Strengthen": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_Strengthen_BP.UI_Artifact_Strengthen_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AchievementItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Achievement/UI_AchievementItem.UI_AchievementItem_C",
+          "SubPathString": ""
+        }
+      },
+      "AchievementAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Achievement/UI_AchievementAward.UI_AchievementAward_C",
+          "SubPathString": ""
+        }
+      },
+      "AchievementPopup": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Achievement/UI_AchievementPopup.UI_AchievementPopup_C",
+          "SubPathString": ""
+        }
+      },
+      "AchievementDetail": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Achievement/UI_AchievementDetails.UI_AchievementDetails_C",
+          "SubPathString": ""
+        }
+      },
+      "Warehouse": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Warehouse/WB_Warehouse.WB_Warehouse_C",
+          "SubPathString": ""
+        }
+      },
+      "OpenMapEffectUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/UI_OpenMapEffect_BP.UI_OpenMapEffect_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeBuffSelector": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_WormholeBuffSelector_BP.UI_WormholeBuffSelector_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ChatView": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatView.UI_ChatView_C",
+          "SubPathString": ""
+        }
+      },
+      "SiteTrigger": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TravelPhotos/WB_SiteTrigger.WB_SiteTrigger_C",
+          "SubPathString": ""
+        }
+      },
+      "TravelPhotos": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TravelPhotos/WB_TravelPhotos.WB_TravelPhotos_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipHandle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipHandle.UI_EquipHandle_C",
+          "SubPathString": ""
+        }
+      },
+      "RoleAttributeSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Role/BP_UIRoleAttributeSlot.BP_UIRoleAttributeSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "RoleBuffer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Role/BP_UIRoleBuffer.BP_UIRoleBuffer_C",
+          "SubPathString": ""
+        }
+      },
+      "RoleInfoMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Role/BP_UIRoleInfoMain.BP_UIRoleInfoMain_C",
+          "SubPathString": ""
+        }
+      },
+      "ChatSetting": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatSetting.UI_ChatSetting_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Team/UI_TeamForm.UI_TeamForm_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeMainUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_Main_BP.UI_Wormhole_Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntroduceUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Introduce_BP.UI_Introduce_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ChapterAwarad": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_ChapterAwards.BP_ChapterAwards_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamCloneResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TeamClone/UI_TeamCloneResult.UI_TeamCloneResult_C",
+          "SubPathString": ""
+        }
+      },
+      "TrialMessage": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_TrialMessage.BP_TrialMessage_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestChapterSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_QuestChapterSlot.BP_QuestChapterSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeFailedUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_Failed_BP.UI_Wormhole_Failed_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeSuccessUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_Success_BP.UI_Wormhole_Success_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyBar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_EnergyBar.UI_EnergyBar_C",
+          "SubPathString": ""
+        }
+      },
+      "Friend": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Friend/UI_Friend.UI_Friend_C",
+          "SubPathString": ""
+        }
+      },
+      "FriendCreateGroup": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Friend/UI_FriendCreateGroup.UI_FriendCreateGroup_C",
+          "SubPathString": ""
+        }
+      },
+      "FriendModifyRemark": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Friend/UI_FriendModifyRemark.UI_FriendModifyRemark_C",
+          "SubPathString": ""
+        }
+      },
+      "FriendSearch": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Friend/UI_FriendSearch.UI_FriendSearch_C",
+          "SubPathString": ""
+        }
+      },
+      "FriendInvite": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Friend/UI_FriendInvite.UI_FriendInvite_C",
+          "SubPathString": ""
+        }
+      },
+      "Selfie": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Selfie/WB_Selfie.WB_Selfie_C",
+          "SubPathString": ""
+        }
+      },
+      "PlayerLevelUp": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_PlayerLevelup_BP.UI_PlayerLevelup_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WarFogOverviewMap": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/UI_OverviewMapContainer_WarFog_BP.UI_OverviewMapContainer_WarFog_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "RequestJoinTeamTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Team/RecvInviteJoinTeamTips.RecvInviteJoinTeamTips_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamQuickForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Team/UI_TeamQuickForm.UI_TeamQuickForm_C",
+          "SubPathString": ""
+        }
+      },
+      "TransitionAnimation": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_TransitionAnimationBP.UI_TransitionAnimationBP_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_Award_BP.UI_Wormhole_Award_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "UIMailCurrencyAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mail/BP_UIMailCurrencyAward.BP_UIMailCurrencyAward_C",
+          "SubPathString": ""
+        }
+      },
+      "ItemOutputSource": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ItemOutputSource/WB_ItemOutputSource.WB_ItemOutputSource_C",
+          "SubPathString": ""
+        }
+      },
+      "MaskUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Mask_BP.UI_Mask_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestObjectiveTrack": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Quest/UI_QuestObjectiveTrack.UI_QuestObjectiveTrack_C",
+          "SubPathString": ""
+        }
+      },
+      "RequestJoinTeamListForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Team/UI_RequestJoinTeamListForm.UI_RequestJoinTeamListForm_C",
+          "SubPathString": ""
+        }
+      },
+      "RecvInviteJoinTeamTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Team/RecvInviteJoinTeamTips.RecvInviteJoinTeamTips_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestTrackItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Quest/UI_QuestTrackItem.UI_QuestTrackItem_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamReadyForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Team/UI_TeamReadyForm.UI_TeamReadyForm_C",
+          "SubPathString": ""
+        }
+      },
+      "SocialForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SocialForm.UI_SocialForm_C",
+          "SubPathString": ""
+        }
+      },
+      "PKView": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/PK/UI_PKView.UI_PKView_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeRuneSynthesis": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_Rune_Synthesis_BP.UI_Wormhole_Rune_Synthesis_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "FunctionPreviewItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FuncPreviewItem_BP.UI_FuncPreviewItem_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ProfessionTipForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Profession/UI_ProfessionTipForm.UI_ProfessionTipForm_C",
+          "SubPathString": ""
+        }
+      },
+      "Numpad": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Numpad/WB_Numpad.WB_Numpad_C",
+          "SubPathString": ""
+        }
+      },
+      "ItemTipsWidget": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Item/UI_ItemTipsWidget.UI_ItemTipsWidget_C",
+          "SubPathString": ""
+        }
+      },
+      "SurvivalGuideMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SurvivalGuide/UI_SurvivalGuide_BP.UI_SurvivalGuide_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamCloneFlop": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TeamClone/UI_TeamCloneFlop.UI_TeamCloneFlop_C",
+          "SubPathString": ""
+        }
+      },
+      "NetworkTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/BP_UINetworkTips.BP_UINetworkTips_C",
+          "SubPathString": ""
+        }
+      },
+      "GroupMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_GroupMainForm_BP.UI_GroupMainForm_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CloneFightInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CloneFightInfo_BP.UI_CloneFightInfo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ChapterList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Quest/UI_ChapterLister_BP.UI_ChapterLister_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "UnlockFuncShow": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_UnlockFuncShow.BP_UnlockFuncShow_C",
+          "SubPathString": ""
+        }
+      },
+      "BulletScreen": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/WB_BulletScreen.WB_BulletScreen_C",
+          "SubPathString": ""
+        }
+      },
+      "PlayerInteract": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_PlayerInteract.UI_PlayerInteract_C",
+          "SubPathString": ""
+        }
+      },
+      "RidingAttack": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RidingAttack.UI_RidingAttack_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamCloneSpectator": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TeamClone/UI_TeamCloneSpectator.UI_TeamCloneSpectator_C",
+          "SubPathString": ""
+        }
+      },
+      "SingleCloneOver": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/BP_UISingleCloneResult.BP_UISingleCloneResult_C",
+          "SubPathString": ""
+        }
+      },
+      "WeatherSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WeatherSlot_BP.UI_WeatherSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WeatherPreview": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WeatherPreview_BP.UI_WeatherPreview_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TimeClock": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_TimeClock_BP.UI_TimeClock_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntensifyButton": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_IntensifyButton.UI_IntensifyButton_C",
+          "SubPathString": ""
+        }
+      },
+      "AbilityScore": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AbilityScore_BP.UI_AbilityScore_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AttackIntensifyButton": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_AttackIntensifyButton.UI_AttackIntensifyButton_C",
+          "SubPathString": ""
+        }
+      },
+      "DefenceIntensifyButton": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_DefenceIntensifyButton.UI_DefenceIntensifyButton_C",
+          "SubPathString": ""
+        }
+      },
+      "InvitePlayerForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/InvitePlayer/UI_InvitePlayerForm.UI_InvitePlayerForm_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TreasureMap/UI_TreasureMap_Main_BP.UI_TreasureMap_Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "HarvestLimitMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/HarvestLimit/UI_HarvestLimitMain.UI_HarvestLimitMain_C",
+          "SubPathString": ""
+        }
+      },
+      "HarvestItemCollect": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/HarvestLimit/UI_HarvestItemCollect.UI_HarvestItemCollect_C",
+          "SubPathString": ""
+        }
+      },
+      "Title": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Title/WB_Title.WB_Title_C",
+          "SubPathString": ""
+        }
+      },
+      "SendTeamEmployMessageForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Team/UI_SendTeamEmployMessageForm.UI_SendTeamEmployMessageForm_C",
+          "SubPathString": ""
+        }
+      },
+      "AwardsInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AwardsInfo_BP.UI_AwardsInfo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CurrencyCostSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Currency/UI_CurrencyCostSlot.UI_CurrencyCostSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "LoginQueue": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_LoginQueue.UI_LoginQueue_C",
+          "SubPathString": ""
+        }
+      },
+      "ChangeAvatarForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Player/UI_ChangeAvatarForm.UI_ChangeAvatarForm_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Item/UI_TreasureMapTips_BP.UI_TreasureMapTips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapPhotoUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TreasureMap/UI_TreasureMap_Photo_BP.UI_TreasureMap_Photo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestChapterSlotEx": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_QuestChapterSlot_EX.BP_QuestChapterSlot_EX_C",
+          "SubPathString": ""
+        }
+      },
+      "StoneStatue": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CustomUI/UI_StoneStatue.UI_StoneStatue_C",
+          "SubPathString": ""
+        }
+      },
+      "SceneLayerTemplate": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SceneLayer_BP.UI_SceneLayer_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "RewardQuestMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RewardQuestMain_BP.UI_RewardQuestMain_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "RewardQuestItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RewardQuestItem_BP.UI_RewardQuestItem_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Fashion": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Fashion/UI_Fashion.UI_Fashion_C",
+          "SubPathString": ""
+        }
+      },
+      "Charm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Fashion/UI_Charm.UI_Charm_C",
+          "SubPathString": ""
+        }
+      },
+      "ChangeTeamLevelForm": {
+        "UIClass": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapAwardsUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TreasureMap/UI_TreasureMap_Awards_BP.UI_TreasureMap_Awards_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "PersonalityUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Personality/UI_Personality_BP.UI_Personality_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ImproveForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Improve/UI_ImproveForm.UI_ImproveForm_C",
+          "SubPathString": ""
+        }
+      },
+      "DropItemTipsWidget": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Item/UI_DropItemTipsWidget.UI_DropItemTipsWidget_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabBasic": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Basic.WB_EnergyGrab_Basic_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabWait": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Waiting.WB_EnergyGrab_Waiting_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabCamp": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Camp.WB_EnergyGrab_Camp_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabPlay": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Playing.WB_EnergyGrab_Playing_C",
+          "SubPathString": ""
+        }
+      },
+      "CloneMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/BP_UICloneMain.BP_UICloneMain_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabSpectate": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Spectate.WB_EnergyGrab_Spectate_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabEscapeResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_EscapeResult.WB_EnergyGrab_EscapeResult_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Result.WB_EnergyGrab_Result_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabApply": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Apply.WB_EnergyGrab_Apply_C",
+          "SubPathString": ""
+        }
+      },
+      "EnergyGrabStart": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/EnergyGrab/WB_EnergyGrab_Start.WB_EnergyGrab_Start_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildJoinUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Join_BP.UI_Guild_Join_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildMainUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Main_BP.UI_Guild_Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildEventsPanel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Events_Panel_BP.UI_Guild_Events_Panel_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "FashionMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Fashion/UI_FashionMain.UI_FashionMain_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestMessageForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Quest/UI_QuestTrack.UI_QuestTrack_C",
+          "SubPathString": ""
+        }
+      },
+      "DefendMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Quest/UI_DefendMain_BP.UI_DefendMain_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildRecruitSetting": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_RecruitSetting_BP.UI_Guild_RecruitSetting_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ActorDigest": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_ActorDigest.UI_ActorDigest_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Item/UI_ArtifactTips_BP.UI_ArtifactTips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Exam": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Exam/WB_Exam.WB_Exam_C",
+          "SubPathString": ""
+        }
+      },
+      "SoloLeagueMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SoloLeague/BP_UISoloLeagueMain.BP_UISoloLeagueMain_C",
+          "SubPathString": ""
+        }
+      },
+      "PowerSaving": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_UIPowerSaving.BP_UIPowerSaving_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureChestPointTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Item/UI_TreasureChestPointTips_BP.UI_TreasureChestPointTips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "SoloLeagueBattle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SoloLeague/BP_UISoloLeagueBattle.BP_UISoloLeagueBattle_C",
+          "SubPathString": ""
+        }
+      },
+      "SoloLeagueResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SoloLeague/BP_UISoloLeagueResult.BP_UISoloLeagueResult_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapDigSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TreasureMap/UI_TreasureMap_DigSuccessTips_BP.UI_TreasureMap_DigSuccessTips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildPostAssignPanel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_PostAssignPanel_BP.UI_Guild_PostAssignPanel_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TradeMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Trade/UI_TradeMain_BP.UI_TradeMain_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TradeShelveSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Trade/UI_TradeShelveSlot_BP.UI_TradeShelveSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TradeItemTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_TradeLineTips_BP.UI_TradeLineTips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TradeAwardSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Trade/UI_TradeAwardSlot_BP.UI_TradeAwardSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ColorSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Fashion/UI_ColorSlot.UI_ColorSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "SoloLeagueMatch": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SoloLeague/BP_UISoloLeagueMatch.BP_UISoloLeagueMatch_C",
+          "SubPathString": ""
+        }
+      },
+      "TradeLineItemSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Trade/UI_TradeLineItemSlot_BP.UI_TradeLineItemSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TradeLineSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Trade/UI_TradeLineSlot_BP.UI_TradeLineSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "BagRecycle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BagRecycle_BP.UI_BagRecycle_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TradeBuyTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_TradeBuyTips_BP.UI_TradeBuyTips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ActivityEntrance": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ActivityEntrance/BP_UIActivityEntrance.BP_UIActivityEntrance_C",
+          "SubPathString": ""
+        }
+      },
+      "SkillHoverTip": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SkillHoverTip.UI_SkillHoverTip_C",
+          "SubPathString": ""
+        }
+      },
+      "MountMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mount/UI_MountMainForm.UI_MountMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "MountSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mount/UI_MountSlot.UI_MountSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "MountLvlUp": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mount/UI_MountLvlUp.UI_MountLvlUp_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildShopBuyTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_GuildShopBuyTips_BP.UI_GuildShopBuyTips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "MountLevelUpForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mount/UI_MountLevelUpForm.UI_MountLevelUpForm_C",
+          "SubPathString": ""
+        }
+      },
+      "FashionInitial": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Fashion/UI_FashionInitial.UI_FashionInitial_C",
+          "SubPathString": ""
+        }
+      },
+      "SkillReadBar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SkillReadBar.UI_SkillReadBar_C",
+          "SubPathString": ""
+        }
+      },
+      "GemstoneItemTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_GemstoneItemTips.UI_GemstoneItemTips_C",
+          "SubPathString": ""
+        }
+      },
+      "GemstoneTipsForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Gemstone/UI_GemstoneTipsForm.UI_GemstoneTipsForm_C",
+          "SubPathString": ""
+        }
+      },
+      "ShenGe": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ShenGe/WB_ShenGe.WB_ShenGe_C",
+          "SubPathString": ""
+        }
+      },
+      "ShenGeSign": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ShenGe/WB_ShenGeSign.WB_ShenGeSign_C",
+          "SubPathString": ""
+        }
+      },
+      "SingleCloneQBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/BP_UISingleCloneQBox.BP_UISingleCloneQBox_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakableHPBar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BreakableActorHPBar.UI_BreakableActorHPBar_C",
+          "SubPathString": ""
+        }
+      },
+      "Pet": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_Pet.UI_Pet_C",
+          "SubPathString": ""
+        }
+      },
+      "PetGene": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetGene.UI_PetGene_C",
+          "SubPathString": ""
+        }
+      },
+      "PetHatch": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetHatch.UI_PetHatch_C",
+          "SubPathString": ""
+        }
+      },
+      "PetMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetMain.UI_PetMain_C",
+          "SubPathString": ""
+        }
+      },
+      "PetHatchSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetHatchSlot.UI_PetHatchSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "PetUpgrade": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetUpgrade.UI_PetUpgrade_C",
+          "SubPathString": ""
+        }
+      },
+      "PetContainer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetContainer.UI_PetContainer_C",
+          "SubPathString": ""
+        }
+      },
+      "PetInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetInfo.UI_PetInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "PetAdvance": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetAdvance.UI_PetAdvance_C",
+          "SubPathString": ""
+        }
+      },
+      "PetAwaken": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetAwaken.UI_PetAwaken_C",
+          "SubPathString": ""
+        }
+      },
+      "PetChip": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetChip.UI_PetChip_C",
+          "SubPathString": ""
+        }
+      },
+      "PetPulse": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetPulse.UI_PetPulse_C",
+          "SubPathString": ""
+        }
+      },
+      "PetFight": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetFight.UI_PetFight_C",
+          "SubPathString": ""
+        }
+      },
+      "PetRename": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetRename.UI_PetRename_C",
+          "SubPathString": ""
+        }
+      },
+      "TowerExplore": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TowerExplore/BP_UITowerExplore.BP_UITowerExplore_C",
+          "SubPathString": ""
+        }
+      },
+      "TowerEnergy": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TowerExplore/BP_UITowerEnergy.BP_UITowerEnergy_C",
+          "SubPathString": ""
+        }
+      },
+      "AttributeChangeSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AttributeChangeSlot_BP.UI_AttributeChangeSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AttributeChangeMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AttributeChangeMain_BP.UI_AttributeChangeMain_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipmentMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipmentMainForm.UI_EquipmentMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "MountAttributeTipForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mount/UI_MountAttributeTipForm.UI_MountAttributeTipForm_C",
+          "SubPathString": ""
+        }
+      },
+      "ShapeSlider": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Makeup/UI_ShapeSlider.UI_ShapeSlider_C",
+          "SubPathString": ""
+        }
+      },
+      "SoloLeaguePrepare": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SoloLeague/BP_UISoloLeaguePrepare.BP_UISoloLeaguePrepare_C",
+          "SubPathString": ""
+        }
+      },
+      "QuickComposeGemstoneForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Gemstone/UI_QuickComposeGemstoneForm.UI_QuickComposeGemstoneForm_C",
+          "SubPathString": ""
+        }
+      },
+      "DescriptionUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Description_BP.UI_Description_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AstralPlane.UI_AstralPlane_C",
+          "SubPathString": ""
+        }
+      },
+      "ActivitySchedule": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ActivityEntrance/BP_UIActivitySchedule.BP_UIActivitySchedule_C",
+          "SubPathString": ""
+        }
+      },
+      "PreventInputUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_PreventInput.UI_PreventInput_C",
+          "SubPathString": ""
+        }
+      },
+      "AwardChoose": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Award/WB_AwardChoose.WB_AwardChoose_C",
+          "SubPathString": ""
+        }
+      },
+      "Currency": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Currency/WB_Currency.WB_Currency_C",
+          "SubPathString": ""
+        }
+      },
+      "ChatHorn": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatOfHorn.UI_ChatOfHorn_C",
+          "SubPathString": ""
+        }
+      },
+      "RoleLevelExpInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Role/BP_UIRoleLevelExpInfo.BP_UIRoleLevelExpInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactSplit": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_Split_BP.UI_Artifact_Split_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CharacterAttribute": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/UI/gm/GM_CharacterProp.GM_CharacterProp_C",
+          "SubPathString": ""
+        }
+      },
+      "MediaPlayer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MediaPlayer/WB_MediaPlayer.WB_MediaPlayer_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipStrengthenTransfer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipStrengthenTransfer.UI_EquipStrengthenTransfer_C",
+          "SubPathString": ""
+        }
+      },
+      "NumenBag": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Item/UI_NumenBagWidget.UI_NumenBagWidget_C",
+          "SubPathString": ""
+        }
+      },
+      "ProfessionUpgradeForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Profession/UI_ProfessionUpgradeForm.UI_ProfessionUpgradeForm_C",
+          "SubPathString": ""
+        }
+      },
+      "MaskForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_MaskForm.BP_MaskForm_C",
+          "SubPathString": ""
+        }
+      },
+      "PlayerInfoMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_PlayerInfoMain.BP_PlayerInfoMain_C",
+          "SubPathString": ""
+        }
+      },
+      "PetTalentSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetTalentSlot.UI_PetTalentSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "PetOther": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetOther.UI_PetOther_C",
+          "SubPathString": ""
+        }
+      },
+      "PetDecompose": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetDecompose.UI_PetDecompose_C",
+          "SubPathString": ""
+        }
+      },
+      "PetRebirth": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetRebirth.UI_PetRebirth_C",
+          "SubPathString": ""
+        }
+      },
+      "PetTransfer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetTransfer.UI_PetTransfer_C",
+          "SubPathString": ""
+        }
+      },
+      "TransferPointActive": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/BP_UITransferPointActive.BP_UITransferPointActive_C",
+          "SubPathString": ""
+        }
+      },
+      "MakeupWidget": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Makeup/UI_MakeupWidget.UI_MakeupWidget_C",
+          "SubPathString": ""
+        }
+      },
+      "CookingLevelUp": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CookingUI/UI_Cooking_LevelUp_BP.UI_Cooking_LevelUp_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildEditDeclaration": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_EditDeclaration_BP.UI_Guild_EditDeclaration_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildEditNotice": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_EditNotice_BP.UI_Guild_EditNotice_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CategoryInventory": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_CategoryInventory.BP_CategoryInventory_C",
+          "SubPathString": ""
+        }
+      },
+      "Genelock": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Godhood/Genelock.Genelock_C",
+          "SubPathString": ""
+        }
+      },
+      "CategoryProfesson": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_CategoryProfesson.BP_CategoryProfesson_C",
+          "SubPathString": ""
+        }
+      },
+      "UIRoleAttribute": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Role/BP_UIRoleAttribute.BP_UIRoleAttribute_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildNoticeList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_NoticeList_BP.UI_Guild_NoticeList_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "FoodItemTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_FoodItemTips.UI_FoodItemTips_C",
+          "SubPathString": ""
+        }
+      },
+      "FoodEffectSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_FoodEffectSlot.UI_FoodEffectSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "PetTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetTips.UI_PetTips_C",
+          "SubPathString": ""
+        }
+      },
+      "Lottery": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/WB_Lottery.WB_Lottery_C",
+          "SubPathString": ""
+        }
+      },
+      "PetAwakenResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Pet/UI_PetAwakenResult.UI_PetAwakenResult_C",
+          "SubPathString": ""
+        }
+      },
+      "BloodTwinkle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BloodTwinkle.UI_BloodTwinkle_C",
+          "SubPathString": ""
+        }
+      },
+      "InputBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_InputBox.UI_InputBox_C",
+          "SubPathString": ""
+        }
+      },
+      "Screenshot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_Screenshot.UI_Screenshot_C",
+          "SubPathString": ""
+        }
+      },
+      "MakeupImport": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Makeup/UI_MakeupImport.UI_MakeupImport_C",
+          "SubPathString": ""
+        }
+      },
+      "AreaNotification": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AreaNotification.UI_AreaNotification_C",
+          "SubPathString": ""
+        }
+      },
+      "AtSomeone": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatAtSomeone.UI_ChatAtSomeone_C",
+          "SubPathString": ""
+        }
+      },
+      "AtSomeoneSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatAtSomeoneSlot.UI_ChatAtSomeoneSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "Patcher": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_PatcherMainForm.UI_PatcherMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildSetAuctionPriorityPlayer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_SetPriorityAuctionPlayerPanel_BP.UI_Guild_SetPriorityAuctionPlayerPanel_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "FightGuide": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FightGuide_BP.UI_FightGuide_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AtMeMsgView": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatAtMeView.UI_ChatAtMeView_C",
+          "SubPathString": ""
+        }
+      },
+      "AtMeMsgSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatAtMeViewSlot.UI_ChatAtMeViewSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "SelectChatChannel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/WB_SelectChatChannel.WB_SelectChatChannel_C",
+          "SubPathString": ""
+        }
+      },
+      "StarConnection": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/City_forest/MiniGame/StarConnection/BP_UIStarConnection.BP_UIStarConnection_C",
+          "SubPathString": ""
+        }
+      },
+      "AzimuthController": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AzimuthController.UI_AzimuthController_C",
+          "SubPathString": ""
+        }
+      },
+      "CookingLevelDetails": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CookingUI/UI_Cooking_LevelDetails_BP.UI_Cooking_LevelDetails_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_QuestTips.UI_QuestTips_C",
+          "SubPathString": ""
+        }
+      },
+      "KeepForward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/KeepForward/WB_KeepForward.WB_KeepForward_C",
+          "SubPathString": ""
+        }
+      },
+      "KeepForwardEnd": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/KeepForward/WB_KeepForwardEnd.WB_KeepForwardEnd_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildAuctionCompetition": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_AuctionCompetitionPanel_BP.UI_Guild_AuctionCompetitionPanel_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "PlayIntroduce": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/PlayIntroduce/UI_PlayIntroduce_BP.UI_PlayIntroduce_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CloneFightResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CloneFightResult.UI_CloneFightResult_C",
+          "SubPathString": ""
+        }
+      },
+      "FightResultSimple": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CloneFightResultSimple.UI_CloneFightResultSimple_C",
+          "SubPathString": ""
+        }
+      },
+      "MiniGameController": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/City_forest/MiniGame/Common/UI_MiniGameController.UI_MiniGameController_C",
+          "SubPathString": ""
+        }
+      },
+      "LetterUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LetterUI.UI_LetterUI_C",
+          "SubPathString": ""
+        }
+      },
+      "FightGuideEvade": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FightGuideEvade_BP.UI_FightGuideEvade_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "UIFightGuideChangeSkill": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FightGuideChangeWeapon_BP.UI_FightGuideChangeWeapon_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "SettingsPanel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameSettings/UI_GameSettingsPanel.UI_GameSettingsPanel_C",
+          "SubPathString": ""
+        }
+      },
+      "HeavyHurt": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Damage/UI_HeavyHurt.UI_HeavyHurt_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactAdvanceStarUp": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_Advance_StarUp_BP.UI_Artifact_Advance_StarUp_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GameActivityMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameActivity/UI_GameActivityMain.UI_GameActivityMain_C",
+          "SubPathString": ""
+        }
+      },
+      "ItemMulUseUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ItemMulUse.UI_ItemMulUse_C",
+          "SubPathString": ""
+        }
+      },
+      "Suppressor": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ShenGe/WB_Suppressor.WB_Suppressor_C",
+          "SubPathString": ""
+        }
+      },
+      "SuppressorNotice": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ShenGe/WB_SuppressorNotice.WB_SuppressorNotice_C",
+          "SubPathString": ""
+        }
+      },
+      "CloneInfoForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_CloneInfoForm.UI_CloneInfoForm_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldBossRankForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_WorldBossRankForm.UI_WorldBossRankForm_C",
+          "SubPathString": ""
+        }
+      },
+      "AutoNavigation": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AutoNavigationBP.UI_AutoNavigationBP_C",
+          "SubPathString": ""
+        }
+      },
+      "RewardQuestTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RewardQuestInfo_BP.UI_RewardQuestInfo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "BuyCombatAwardCertificateForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CombatAward/UI_BuyCombatAwardCertificate.UI_BuyCombatAwardCertificate_C",
+          "SubPathString": ""
+        }
+      },
+      "BuyCombatAwardLevelForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CombatAward/UI_BuyCombatAwardLevel.UI_BuyCombatAwardLevel_C",
+          "SubPathString": ""
+        }
+      },
+      "ResetProfessionForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Profession/UI_ResetProfessionForm.UI_ResetProfessionForm_C",
+          "SubPathString": ""
+        }
+      },
+      "PersonalityAnalysisDetails": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Personality/UI_Personality_Analysis_Details_BP.UI_Personality_Analysis_Details_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CurrencySubstituteForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CurrencySubstituteForm.UI_CurrencySubstituteForm_C",
+          "SubPathString": ""
+        }
+      },
+      "AutoNavigationTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AutoNavigationTipsBP.UI_AutoNavigationTipsBP_C",
+          "SubPathString": ""
+        }
+      },
+      "BuyCombatAwardCertificateMessageBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CombatAward/UI_BuyCombatAwardCertificateMessageBox.UI_BuyCombatAwardCertificateMessageBox_C",
+          "SubPathString": ""
+        }
+      },
+      "EntryWorldBossForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_EntryWorldBossForm.UI_EntryWorldBossForm_C",
+          "SubPathString": ""
+        }
+      },
+      "LeaveWorldBossForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_LeaveWorldBossForm.UI_LeaveWorldBossForm_C",
+          "SubPathString": ""
+        }
+      },
+      "MonsterHoverTip": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MonsterTip_BP.UI_MonsterTip_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactFormationList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_Formation_List_BP.UI_Artifact_Formation_List_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactFormationSettingUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_Formation_Setting_BP.UI_Artifact_Formation_Setting_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "SuppressorFuncAnim": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ShenGe/WB_SuppressorFuncAnim.WB_SuppressorFuncAnim_C",
+          "SubPathString": ""
+        }
+      },
+      "ChatTitle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/WB_ChatTitle.WB_ChatTitle_C",
+          "SubPathString": ""
+        }
+      },
+      "MiniGameIntroduce": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MiniGameIntroduce.UI_MiniGameIntroduce_C",
+          "SubPathString": ""
+        }
+      },
+      "MiniGameAchievementAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MiniGameAchievementAward.UI_MiniGameAchievementAward_C",
+          "SubPathString": ""
+        }
+      },
+      "VoiceInput": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/UI_ChatVoiceInput.UI_ChatVoiceInput_C",
+          "SubPathString": ""
+        }
+      },
+      "MagicHandGuide": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SPYD/UI_PlayGuideMedia_MagicHand.UI_PlayGuideMedia_MagicHand_C",
+          "SubPathString": ""
+        }
+      },
+      "PlayIntroduceIcon": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/PlayIntroduce/UI_PlayIntroduceIcon_BP.UI_PlayIntroduceIcon_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "PlayIntroduceEntrance": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/PlayIntroduce/UI_PlayIntroduceEntrance_BP.UI_PlayIntroduceEntrance_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "MapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Script/QRSL.QRSLUI_MapIconInfo",
+          "SubPathString": ""
+        }
+      },
+      "PlayGuideImg": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_PlayGuideImg.UI_PlayGuideImg_C",
+          "SubPathString": ""
+        }
+      },
+      "AchievementChat": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Achievement/BP_UIAchievementChatTips.BP_UIAchievementChatTips_C",
+          "SubPathString": ""
+        }
+      },
+      "NPFLeftBoom": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SPYD/UI_PlayGuideMedia_LeftBoom.UI_PlayGuideMedia_LeftBoom_C",
+          "SubPathString": ""
+        }
+      },
+      "FragmentItemTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_ItemTipsBase.UI_ItemTipsBase_C",
+          "SubPathString": ""
+        }
+      },
+      "DamageDecal": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Damage/UI_DamageDecal.UI_DamageDecal_C",
+          "SubPathString": ""
+        }
+      },
+      "CaseAwardList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CaseAwardList.UI_CaseAwardList_C",
+          "SubPathString": ""
+        }
+      },
+      "CaseAwardSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CaseAwardSlot.UI_CaseAwardSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "SingleCloneTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/BP_UISingleCloneTips.BP_UISingleCloneTips_C",
+          "SubPathString": ""
+        }
+      },
+      "AwardMessageBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AwardMessageBox.UI_AwardMessageBox_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactSSR008": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SPYD/UI_PlayGuideMedia_ArtifactSSR008.UI_PlayGuideMedia_ArtifactSSR008_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactSSR012": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SPYD/UI_PlayGuideMedia_ArtifactSSR012.UI_PlayGuideMedia_ArtifactSSR012_C",
+          "SubPathString": ""
+        }
+      },
+      "DailySign": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_DailySign.UI_DailySign_C",
+          "SubPathString": ""
+        }
+      },
+      "LevelGiftPackForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GiftPack/UI_LevelGiftPackForm.UI_LevelGiftPackForm_C",
+          "SubPathString": ""
+        }
+      },
+      "WelfareCard": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameShop/WB_WelfareCard.WB_WelfareCard_C",
+          "SubPathString": ""
+        }
+      },
+      "FuncPreview": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FuncPreview_BP.UI_FuncPreview_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "OnlineGiftPackForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GiftPack/UI_OnlineGiftPackForm.UI_OnlineGiftPackForm_C",
+          "SubPathString": ""
+        }
+      },
+      "CombatAwardForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CombatAward/UI_CombatAwardForm.UI_CombatAwardForm_C",
+          "SubPathString": ""
+        }
+      },
+      "CDKey": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CDKey.UI_CDKey_C",
+          "SubPathString": ""
+        }
+      },
+      "HookCloneMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/HookClone/UI_HookClone_Main_BP.UI_HookClone_Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "HookCloneChooseMapUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/HookClone/UI_HookClone_ChooseMap_BP.UI_HookClone_ChooseMap_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AttributeDesc": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Role/BP_UIAttributeDesc.BP_UIAttributeDesc_C",
+          "SubPathString": ""
+        }
+      },
+      "TeaseAnimal": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_TeaseAnimal.UI_TeaseAnimal_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldEventDonate": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/WorldEvent/WB_WorldEventDonate.WB_WorldEventDonate_C",
+          "SubPathString": ""
+        }
+      },
+      "InviteContributionForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Contribution/UI_InviteContributionForm.UI_InviteContributionForm_C",
+          "SubPathString": ""
+        }
+      },
+      "DonationItemForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Contribution/UI_DonationItemForm.UI_DonationItemForm_C",
+          "SubPathString": ""
+        }
+      },
+      "ChatBulletScreen": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Chat/WB_ChatBulletScreen.WB_ChatBulletScreen_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldEvent": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/WorldEvent/WB_WorldEvent.WB_WorldEvent_C",
+          "SubPathString": ""
+        }
+      },
+      "CloneObjectiveInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CloneObjectiveInfo_BP.CloneObjectiveInfo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "SimpleCloneObjective": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SimpleCloneObjective_BP.SimpleCloneObjective_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "MakeupExhibition": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Makeup/UI_MakeupExhibition.UI_MakeupExhibition_C",
+          "SubPathString": ""
+        }
+      },
+      "CurrencyShopMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CurrencyShopMain_BP.CurrencyShopMain_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CurrencyShopSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CurrencyShopSlot_BP.CurrencyShopSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "SuppressorContainer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ShenGe/WB_SuppressorContainer.WB_SuppressorContainer_C",
+          "SubPathString": ""
+        }
+      },
+      "CloneObjectiveAwardSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CloneObjectiveAwardSlot_BP.CloneObjectiveAwardSlot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildTaskPanel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_GuildTask_Panel_BP.UI_GuildTask_Panel_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "MsgCollectBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_UIMsgCollectBox.BP_UIMsgCollectBox_C",
+          "SubPathString": ""
+        }
+      },
+      "MatchSplash": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TeamClone/WB_MatchSplash.WB_MatchSplash_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryBase1": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StorylineBase.UI_StorylineBase_C",
+          "SubPathString": ""
+        }
+      },
+      "StorylineMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StorylineMain.UI_StorylineMain_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryObjectiveDetail": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StoryObjectiveDetail.UI_StoryObjectiveDetail_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldEventRank": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/WorldEvent/WB_WorldEventRank.WB_WorldEventRank_C",
+          "SubPathString": ""
+        }
+      },
+      "MakeupExhibitionDetail": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Makeup/UI_MakeupExhibitionDetail.UI_MakeupExhibitionDetail_C",
+          "SubPathString": ""
+        }
+      },
+      "MakeupUpload": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Makeup/UI_MakeupUpload.UI_MakeupUpload_C",
+          "SubPathString": ""
+        }
+      },
+      "ActivityRecoverForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ActivityEntrance/UI_ActivityRecoverForm.UI_ActivityRecoverForm_C",
+          "SubPathString": ""
+        }
+      },
+      "PlayerGetOnCannon": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SPYD/UI_PlayGuideMedia_PlayerGetOnCannon.UI_PlayGuideMedia_PlayerGetOnCannon_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestComboSkill": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_QuestComboSkill_BP.UI_QuestComboSkill_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryBase2": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StorylineBase_2.UI_StorylineBase_2_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryBase3": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StorylineBase_3.UI_StorylineBase_3_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryBase4": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StorylineBase_4.UI_StorylineBase_4_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryBase5": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StorylineBase_5.UI_StorylineBase_5_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryBase6": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StorylineBase_6.UI_StorylineBase_6_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestLimitTime": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_QuestLimitTime.UI_QuestLimitTime_C",
+          "SubPathString": ""
+        }
+      },
+      "OrienteeringResult": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Orienteering/UI_Orienteering_Result_BP.UI_Orienteering_Result_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "MailForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mail/UI_MailForm.UI_MailForm_C",
+          "SubPathString": ""
+        }
+      },
+      "SupplyItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Supply/BP_UISupplyItem.BP_UISupplyItem_C",
+          "SubPathString": ""
+        }
+      },
+      "MonsterFightingTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/UI_MonsterFightingTips.UI_MonsterFightingTips_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryChapterTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StoryChapterTips.UI_StoryChapterTips_C",
+          "SubPathString": ""
+        }
+      },
+      "ActivityRecoverTipsForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ActivityEntrance/UI_ActivityRecoverTipsForm.UI_ActivityRecoverTipsForm_C",
+          "SubPathString": ""
+        }
+      },
+      "InRangeIcon": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/BP_UIInRangeIcon.BP_UIInRangeIcon_C",
+          "SubPathString": ""
+        }
+      },
+      "FoundRecipeUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CookingUI/UI_Cooking_FoundRecipe_BP.UI_Cooking_FoundRecipe_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntensifyAttributeWidget": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Gemstone/UI_GemstoneAttributeWidget.UI_GemstoneAttributeWidget_C",
+          "SubPathString": ""
+        }
+      },
+      "UseSupplyTimeBar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_UseSupplyTimeBar.UI_UseSupplyTimeBar_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeBuffListUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_BuffList_BP.UI_Wormhole_BuffList_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TowerReachEnergy": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TowerExplore/BP_UITowerReachEnergy.BP_UITowerReachEnergy_C",
+          "SubPathString": ""
+        }
+      },
+      "MarkerPOI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/BP_UICreateMarker.BP_UICreateMarker_C",
+          "SubPathString": ""
+        }
+      },
+      "WeekJournal": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/WeeklyJournal/WB_WeeklyJournal.WB_WeeklyJournal_C",
+          "SubPathString": ""
+        }
+      },
+      "ActivityMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameActivity/UI_ActivityMain.UI_ActivityMain_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapQuickUse": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TreasureMap/UI_TreasureMap_QuickUse_BP.UI_TreasureMap_QuickUse_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "HomeDevelopment": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Home/UI_HomeDevelopment.UI_HomeDevelopment_C",
+          "SubPathString": ""
+        }
+      },
+      "WillStopMiniGameForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/City_forest/MiniGame/Common/Widget/MiniGameStopForm.MiniGameStopForm_C",
+          "SubPathString": ""
+        }
+      },
+      "NewWeaponTypeTip": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/WB_NewWeaponTypeTip.WB_NewWeaponTypeTip_C",
+          "SubPathString": ""
+        }
+      },
+      "HighQualityTip": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Tips/WB_HighQualityTip.WB_HighQualityTip_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeStartTipsUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_Start_Tips_BP.UI_Wormhole_Start_Tips_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WormholeStartInfoUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Wormhole/UI_Wormhole_Start_Info_BP.UI_Wormhole_Start_Info_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GetArtifactForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_GetArtifactForm.UI_GetArtifactForm_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipSuit": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipSuit.UI_EquipSuit_C",
+          "SubPathString": ""
+        }
+      },
+      "HookCloneMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/HookClone/UI_HookClone_Mainform_BP.UI_HookClone_Mainform_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldBossInfoForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_WorldBossInfoForm.UI_WorldBossInfoForm_C",
+          "SubPathString": ""
+        }
+      },
+      "OrienteeringEntry": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Orienteering/UI_Orienteering_Entry_Bp.UI_Orienteering_Entry_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GMInitCharacterInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/UI/gm/GM_InitCharacterInfo.GM_InitCharacterInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "UI_BossHPBar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BossHPBar.UI_BossHPBar_C",
+          "SubPathString": ""
+        }
+      },
+      "OrienteeringInfoUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Orienteering/UI_Orienteering_Info_BP.UI_Orienteering_Info_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "OrienteeringDesc": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Orienteering/UI_Orienteering_Desc.UI_Orienteering_Desc_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamCloneResultTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TeamClone/UI_TeamCloneResultTips.UI_TeamCloneResultTips_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildInteract": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GuildInteract.GuildInteract_C",
+          "SubPathString": ""
+        }
+      },
+      "CookingItemScreenUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CookingUI/UI_Cooking_Item_Screen_BP.UI_Cooking_Item_Screen_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "SubMenu": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BP_UISubMenu.BP_UISubMenu_C",
+          "SubPathString": ""
+        }
+      },
+      "Feed": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Feed/WB_Feed.WB_Feed_C",
+          "SubPathString": ""
+        }
+      },
+      "CooperationPlayTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CooperationPlay/UI_CooperationPlayTips.UI_CooperationPlayTips_C",
+          "SubPathString": ""
+        }
+      },
+      "CooperationPlayProgress": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CooperationPlay/UI_CooperationPlayProgress.UI_CooperationPlayProgress_C",
+          "SubPathString": ""
+        }
+      },
+      "FriendGroupList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Friend/UI_FriendGroupList.UI_FriendGroupList_C",
+          "SubPathString": ""
+        }
+      },
+      "RandomRuinsMainUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/RandomRuins/UI_RandomRuins_Main_BP.UI_RandomRuins_Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Rank": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Rank_BP.UI_Rank_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "RankRow": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RankRow_BP.UI_RankRow_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "HunterLevelAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_HunterLevelAward.UI_HunterLevelAward_C",
+          "SubPathString": ""
+        }
+      },
+      "SKillController": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SKillController.UI_SKillController_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactSkillPanel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ArtifactSkillPanel.UI_ArtifactSkillPanel_C",
+          "SubPathString": ""
+        }
+      },
+      "BossMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UIBossMapIconInfo.BP_UIBossMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "GenericMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UIGenericMapIconInfo.BP_UIGenericMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldEventMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UIMapIconInfo_WorldEvent.BP_UIMapIconInfo_WorldEvent_C",
+          "SubPathString": ""
+        }
+      },
+      "MinigameMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UIMinigameMapIconInfo.BP_UIMinigameMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UIQuestMapIconInfo.BP_UIQuestMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "SingleCloneMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UISingleCloneMapIconInfo.BP_UISingleCloneMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "StrongholdMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UIStrongholdMapIconInfo.BP_UIStrongholdMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "TransferPointMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UITransferPointMapIconInfo.BP_UITransferPointMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UITreasureMapIconInfo.BP_UITreasureMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "StrongBoxMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StrongBoxMain.UI_StrongBoxMain_C",
+          "SubPathString": ""
+        }
+      },
+      "HomeMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Home/UI_HomeMain.UI_HomeMain_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneMain.UI_VoidCloneMain_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneHandBook": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneHandBook.UI_VoidCloneHandBook_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneHandBookItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneHandBookItem.UI_VoidCloneHandBookItem_C",
+          "SubPathString": ""
+        }
+      },
+      "voidclocneDesc": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_Voidclocnedesc.UI_Voidclocnedesc_C",
+          "SubPathString": ""
+        }
+      },
+      "SitState": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/State/WB_SitState.WB_SitState_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneBuffUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneBuffUI.UI_VoidCloneBuffUI_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneBuffItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneBuffItem.UI_VoidCloneBuffItem_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneTransferBuff": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneTransferBuff.UI_VoidCloneTransferBuff_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneBossInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneBossInfo.UI_VoidCloneBossInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneBossAffixItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneBossAffixItem.UI_VoidCloneBossAffixItem_C",
+          "SubPathString": ""
+        }
+      },
+      "VoidCloneBossAffix": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/VoidClone/UI_VoidCloneBossAffix.UI_VoidCloneBossAffix_C",
+          "SubPathString": ""
+        }
+      },
+      "FightSettlement": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FightSettlement_BP.UI_FightSettlement_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "FightSettlementItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FightSettlementItem_BP.UI_FightSettlementItem_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponMain.UI_WeaponMain_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponUpgradeSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponUpgradeSuccess.UI_WeaponUpgradeSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "GliderGuide": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_GliderGuide_BP.UI_GliderGuide_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "HookCloneAwardsInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/HookClone/UI_HookClone_AwardsInfo_BP.UI_HookClone_AwardsInfo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "TowerExplorePopup": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TowerExplore/BP_UITowerExplorePopup.BP_UITowerExplorePopup_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponDevelop": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_WeaponDevelop.UI_WeaponDevelop_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponUpgrade": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_WeaponUpgrade.UI_WeaponUpgrade_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponContainer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_WeaponContainer.UI_WeaponContainer_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponUpgradeStar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponUpgradeInfo.UI_WeaponUpgradeInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "AuctionDescription": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Auction/UI_Auction_Description_BP.UI_Auction_Description_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CinematicCharacterIntroduction": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/WB_CinematicCharacterIntroduction.WB_CinematicCharacterIntroduction_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponDevelopSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_WeaponDevelopSuccess.UI_WeaponDevelopSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponDetails": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponDetails.UI_WeaponDetails_C",
+          "SubPathString": ""
+        }
+      },
+      "SkipCinematic": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/UI_SkipCinematic.UI_SkipCinematic_C",
+          "SubPathString": ""
+        }
+      },
+      "QuestLoadAnim": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_QuestLoadAnim.UI_QuestLoadAnim_C",
+          "SubPathString": ""
+        }
+      },
+      "TreasureMapNotify": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TreasureMap/UI_TreasureMap_Notify_BP.UI_TreasureMap_Notify_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "DamageFloatiesForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DamageFloaties/UI_DamageFloatiesForm.UI_DamageFloatiesForm_C",
+          "SubPathString": ""
+        }
+      },
+      "StarConnectionSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/City_forest/MiniGame/StarConnection/BP_UIStarConnectionSuccess.BP_UIStarConnectionSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "UnlockSpot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TravelPhotos/WB_UnlockSpotEx.WB_UnlockSpotEx_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponRecast": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponRecast.UI_WeaponRecast_C",
+          "SubPathString": ""
+        }
+      },
+      "IllustrationEntry": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TravelPhotos/WB_IllustrationEntry.WB_IllustrationEntry_C",
+          "SubPathString": ""
+        }
+      },
+      "LetterEntry": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TravelPhotos/WB_LetterEntry.WB_LetterEntry_C",
+          "SubPathString": ""
+        }
+      },
+      "MountUnlockForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mount/UI_MountUnlockForm.UI_MountUnlockForm_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationDetail": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Fashion/UI_ImitationDetail.UI_ImitationDetail_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopCurrency": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopCurrencyBP.QRSLUI_ShopCurrencyBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopTable": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopRadioBoxBP.QRSLUI_ShopRadioBoxBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopManager": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopManagerBP.QRSLUI_ShopManagerBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopAwardBP.QRSLUI_ShopAwardBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopFashion": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopFashionBP.QRSLUI_ShopFashionBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopGame": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopGameBP.QRSLUI_ShopGameBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopGift": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopGiftBP.QRSLUI_ShopGiftBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopNpc": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopNpcBP.QRSLUI_ShopNpcBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopRandom": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopRandomBP.QRSLUI_ShopRandomBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopRecharge": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopRechargeBP.QRSLUI_ShopRechargeBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopRecommend": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopRecommendBP.QRSLUI_ShopRecommendBP_C",
+          "SubPathString": ""
+        }
+      },
+      "LotteryMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/BP_UILotteryMainForm.BP_UILotteryMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildSceneMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_GuildScene_Mainform_BP.UI_GuildScene_Mainform_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "SatietyShortcut": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Supply/BP_UISatietyShortcut.BP_UISatietyShortcut_C",
+          "SubPathString": ""
+        }
+      },
+      "PresentMushroomList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_GuildScene_PresentMushroomList_BP.UI_GuildScene_PresentMushroomList_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Shopbuy": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopBuyBP.QRSLUI_ShopBuyBP_C",
+          "SubPathString": ""
+        }
+      },
+      "SatietyItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Supply/BP_UISatietyShortcutItem.BP_UISatietyShortcutItem_C",
+          "SubPathString": ""
+        }
+      },
+      "HomeDevelopmentMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Home/UI_HomeDevelopmentMain.UI_HomeDevelopmentMain_C",
+          "SubPathString": ""
+        }
+      },
+      "WidgetMove": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameSettings/UI_WidgetMove.UI_WidgetMove_C",
+          "SubPathString": ""
+        }
+      },
+      "FirstRecharge": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_FirstRechargeBP.QRSLUI_FirstRechargeBP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildAnswerMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_AnswerMain_BP.UI_Guild_AnswerMain_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AstralAwardsInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/AstralPlane/UI_AstralAwardsInfo_BP.UI_AstralAwardsInfo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AstralHiddenAwardsInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/AstralPlane/UI_AstralHiddenAwardsInfo_BP.UI_AstralHiddenAwardsInfo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "PasswordGame": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/City_forest/MiniGame/PasswordGame/BP_UIPasswordGame.BP_UIPasswordGame_C",
+          "SubPathString": ""
+        }
+      },
+      "Rename": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Item/UI_ItemRename.UI_ItemRename_C",
+          "SubPathString": ""
+        }
+      },
+      "HomePetHouse": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Home/UI_HomePetHouse.UI_HomePetHouse_C",
+          "SubPathString": ""
+        }
+      },
+      "StoryObjDetailSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_StoryObjDetailSlot.UI_StoryObjDetailSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "SilverTreeGame": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniGames/HottaUI_SilverTreeGame.HottaUI_SilverTreeGame_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldBossInfo_boci": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_WorldBossInfo_boci.UI_WorldBossInfo_boci_C",
+          "SubPathString": ""
+        }
+      },
+      "TrackGoalGuide": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_TrackGoalGuide.UI_TrackGoalGuide_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopGiftTimeLimitGood": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopGiftTimeLimitGoodBP.QRSLUI_ShopGiftTimeLimitGoodBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ActivateSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_ActivateSuccess.UI_ActivateSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "JobDescription": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_JobDescription.UI_JobDescription_C",
+          "SubPathString": ""
+        }
+      },
+      "Fatigue": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Fatigue.UI_Fatigue_C",
+          "SubPathString": ""
+        }
+      },
+      "FatigueMessageBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_FatigueMessageBox.UI_FatigueMessageBox_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactUpgradeLevelUp": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_Upgrade_LevelUp_BP.UI_Artifact_Upgrade_LevelUp_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "BigMapAzimuthIcon": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/BP_UIBigMapAzimuthIcon.BP_UIBigMapAzimuthIcon_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamCloneGoal": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamCloneGoal.BP_UIDreamCloneGoal_C",
+          "SubPathString": ""
+        }
+      },
+      "WorldBossGuildBuffForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_WorldBossGuildBuffForm.UI_WorldBossGuildBuffForm_C",
+          "SubPathString": ""
+        }
+      },
+      "MainQuickForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_MainQuickForm.UI_MainQuickForm_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipStrengthenSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipStrengthenSuccess.UI_EquipStrengthenSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlaneInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AstralPlaneInfo.UI_AstralPlaneInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "SoloLeagueWait": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/SoloLeague/BP_UISoloLeagueWait.BP_UISoloLeagueWait_C",
+          "SubPathString": ""
+        }
+      },
+      "FirstRecharge2": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_FirstRechargeBP2.QRSLUI_FirstRechargeBP2_C",
+          "SubPathString": ""
+        }
+      },
+      "HomePet": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Home/UI_HomePet.UI_HomePet_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildSceneRecovery": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_GuildSceneRecovery_BP.UI_GuildSceneRecovery_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "RechargeRebate": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RechargeRebate.UI_RechargeRebate_C",
+          "SubPathString": ""
+        }
+      },
+      "HomeState": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Home/UI_HomeState.UI_HomeState_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildCampfireMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Campfire_Main_BP.UI_Guild_Campfire_Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildAnswerActivity": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Answer_Activity_BP.UI_Guild_Answer_Activity_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamCloneSettle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamCloneSettle.BP_UIDreamCloneSettle_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamCloneEntrance": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_UIDreamCloneEntranceMapIconInfo.BP_UIDreamCloneEntranceMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "Weapon_Description1": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Weapon_Description1.Weapon_Description1_C",
+          "SubPathString": ""
+        }
+      },
+      "GuildSceneKickedOut": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Guild/UI_GuildScene_KickedOut_BP.UI_GuildScene_KickedOut_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Weapon_Description2": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Weapon_Description2.Weapon_Description2_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_Description1": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Artifact_Description1.Artifact_Description1_C",
+          "SubPathString": ""
+        }
+      },
+      "TimeLimitGiftItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_TimeLimitGiftItemBP.QRSLUI_TimeLimitGiftItemBP_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretMainForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretMainForm.UI_BigSecretMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "ClawMachineForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniGames/HottaUI_MiniGameClawMachineController.HottaUI_MiniGameClawMachineController_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopDailyGift": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DailyGift/BP_DailyGift.BP_DailyGift_C",
+          "SubPathString": ""
+        }
+      },
+      "CombatAwardAdvertisement": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CombatAward/UI_CombatAwardAdvertisement.UI_CombatAwardAdvertisement_C",
+          "SubPathString": ""
+        }
+      },
+      "CombatAwardReceiveForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/CombatAward/UI_CombatAwardReceiveForm.UI_CombatAwardReceiveForm_C",
+          "SubPathString": ""
+        }
+      },
+      "BindPhone": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_BindPhone.UI_BindPhone_C",
+          "SubPathString": ""
+        }
+      },
+      "PublicBetaReward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_PublicBetaReward.UI_PublicBetaReward_C",
+          "SubPathString": ""
+        }
+      },
+      "LotteryRecord": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/BP_UILotteryRecord.BP_UILotteryRecord_C",
+          "SubPathString": ""
+        }
+      },
+      "LotteryRecordItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/BP_UILotteryRecordItem.BP_UILotteryRecordItem_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretStartForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretStartForm.UI_BigSecretStartForm_C",
+          "SubPathString": ""
+        }
+      },
+      "Recruit": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RecruitNewPeople.UI_RecruitNewPeople_C",
+          "SubPathString": ""
+        }
+      },
+      "SnoopSkip": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SnoopSkip.UI_SnoopSkip_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretPassForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretPassForm.UI_BigSecretPassForm_C",
+          "SubPathString": ""
+        }
+      },
+      "LuckyboxSaleBuy": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LuckyboxSaleBuy.UI_LuckyboxSaleBuy_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Fashion/UI_ImitationMain.UI_ImitationMain_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixDevelop": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixDevelop.UI_MatrixDevelop_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixUpgradeStar": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixUpgradeStar.UI_MatrixUpgradeStar_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixStrengthen": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixStrengthen.UI_MatrixStrengthen_C",
+          "SubPathString": ""
+        }
+      },
+      "PredictSaleoff": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LuckyboxSaleoff.UI_LuckyboxSaleoff_C",
+          "SubPathString": ""
+        }
+      },
+      "LuckboxPredict": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LuckyboxPredict.UI_LuckyboxPredict_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixStrengthenSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixStrengthenSuccess.UI_MatrixStrengthenSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixUpgradeStarSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixUpgradeStarSuccess.UI_MatrixUpgradeStarSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretGroupRankForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretGroupRankForm.UI_BigSecretGroupRankForm_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretRankItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretRankItem.UI_BigSecretRankItem_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationQuestPanel": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ImitationQuestPanel.UI_ImitationQuestPanel_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationEntrance": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ImitationQuestEntrance.UI_ImitationQuestEntrance_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretSceneForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretSceneForm.UI_BigSecretSceneForm_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretRewardItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretRewardItem.UI_BigSecretRewardItem_C",
+          "SubPathString": ""
+        }
+      },
+      "MountDisplayForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Mount/UI_MountDisplayForm.UI_MountDisplayForm_C",
+          "SubPathString": ""
+        }
+      },
+      "LuckyboxSaleoffBuy": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LuckyboxSaleBuy.UI_LuckyboxSaleBuy_C",
+          "SubPathString": ""
+        }
+      },
+      "Regression": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RegressionAwardMain.UI_RegressionAwardMain_C",
+          "SubPathString": ""
+        }
+      },
+      "RegressionAwardTipForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_RegressionAwardTipForm.UI_RegressionAwardTipForm_C",
+          "SubPathString": ""
+        }
+      },
+      "ModelPreviewSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ModelPreviewSlot.UI_ModelPreviewSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "ModelPreview": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ModelPreview.UI_ModelPreview_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretFailForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretFailForm.UI_BigSecretFailForm_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopRecommendTitle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopRecommendTitleBP.QRSLUI_ShopRecommendTitleBP_C",
+          "SubPathString": ""
+        }
+      },
+      "MonthCardBuy": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_MonthCardBuyBP.QRSLUI_MonthCardBuyBP_C",
+          "SubPathString": ""
+        }
+      },
+      "FakeDiamondExchange": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopDiamondExchangeBP.QRSLUI_ShopDiamondExchangeBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ActivityRecharge": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/QRSLUI_RechargeActivityBP.QRSLUI_RechargeActivityBP_C",
+          "SubPathString": ""
+        }
+      },
+      "LuckyboxOpenAnim": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LuckyboxOpenAnim.UI_LuckyboxOpenAnim_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixTips": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixTips.UI_MatrixTips_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponMatrix": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponMatrix.UI_WeaponMatrix_C",
+          "SubPathString": ""
+        }
+      },
+      "JobDescriptionContainer": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_JobDescription_Container.UI_JobDescription_Container_C",
+          "SubPathString": ""
+        }
+      },
+      "SuitSummaryAttribute": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_SuitSummaryAttribute.UI_SuitSummaryAttribute_C",
+          "SubPathString": ""
+        }
+      },
+      "LuckyboxReceiveAnim": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_LuckyboxReceiveAnim.UI_LuckyboxReceiveAnim_C",
+          "SubPathString": ""
+        }
+      },
+      "ThemeActivity": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ThemeActivities/UI_ThemeActivity_Main.UI_ThemeActivity_Main_C",
+          "SubPathString": ""
+        }
+      },
+      "ThemeActivity_Cooking": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ThemeActivities/UI_ThemeActivity_Cooking.UI_ThemeActivity_Cooking_C",
+          "SubPathString": ""
+        }
+      },
+      "ThemeActivity_GiftBag": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/ThemeActivities/UI_ThemeActivity_GiftBag.UI_ThemeActivity_GiftBag_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponOutbreak": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponOutbreak.UI_WeaponOutbreak_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationAwakenEntrance": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ImitationAwakenEntrance.UI_ImitationAwakenEntrance_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationAwakenAward": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ImitationAwakenAward.UI_ImitationAwakenAward_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationSendGift": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Imitation/UI_ImitationSendGifts_BP.UI_ImitationSendGifts_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ChangeLineUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ChangeLine_BP.UI_ChangeLine_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationHobbyText": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Imitation/UI_ImitationHobbyItemText_BP.UI_ImitationHobbyItemText_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "OccupationDetailsUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Occupation/UI_OccupationDetails_BP.UI_OccupationDetails_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationInfoItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Imitation/UI_ImitationInfoItem_BP.UI_ImitationInfoItem_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationInfoItemV": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Imitation/UI_ImitationInfoItemV_BP.UI_ImitationInfoItemV_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationInfoItemImage": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Imitation/UI_ImitationInfoItemImage_BP.UI_ImitationInfoItemImage_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationHobbyItemText": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Imitation/UI_ImitationHobbyItemText_Tip_BP.UI_ImitationHobbyItemText_Tip_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "DailyGiftBuy": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DailyGift/QRSLUI_DailyGiftBuyBP.QRSLUI_DailyGiftBuyBP_C",
+          "SubPathString": ""
+        }
+      },
+      "QueryPubDataUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_QueryPubData_BP.UI_QueryPubData_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "VoiceSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UW_ImitationVoiceSlot.UW_ImitationVoiceSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixSuitRemouldDetail": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixSuitRemouldDetail.UI_MatrixSuitRemouldDetail_C",
+          "SubPathString": ""
+        }
+      },
+      "AirCraftAttackUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AirCraftAttack.UI_AirCraftAttack_C",
+          "SubPathString": ""
+        }
+      },
+      "Report": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Report/QRSLUI_ReportBP.QRSLUI_ReportBP_C",
+          "SubPathString": ""
+        }
+      },
+      "ReportEvidence": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Report/QRSLUI_ReportEvidenceBP.QRSLUI_ReportEvidenceBP_C",
+          "SubPathString": ""
+        }
+      },
+      "Mon_hum_026_Flash": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Mon_hum_026_Flash.UI_Mon_hum_026_Flash_C",
+          "SubPathString": ""
+        }
+      },
+      "TeamCloneLevelWidget": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TeamClone/UI_TeamClone_Level.UI_TeamClone_Level_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationEntrance_2": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ImitationQuestEntrance_2.UI_ImitationQuestEntrance_2_C",
+          "SubPathString": ""
+        }
+      },
+      "MiniGameMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniGames/BP_UIMiniGameMain.BP_UIMiniGameMain_C",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlaneMapIconInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MiniMap/MapIconInfo/BP_AstralPlaneMapIconInfo.BP_AstralPlaneMapIconInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "BossAwardWorldBoss": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clone/UI_BossAwardWorldBossForm.UI_BossAwardWorldBossForm_C",
+          "SubPathString": ""
+        }
+      },
+      "DailyGiftItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DailyGift/UI_DailyGiftItemWidget.UI_DailyGiftItemWidget_C",
+          "SubPathString": ""
+        }
+      },
+      "LotteryDescriptionSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/BP_UILotteryDescriptionSlot.BP_UILotteryDescriptionSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "BuyStamina": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/QRSLUI_BuyStaminaBP.QRSLUI_BuyStaminaBP_C",
+          "SubPathString": ""
+        }
+      },
+      "CloneObjectWeakInfoItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_CloneObjectWeekInfoItem_BP.UI_CloneObjectWeekInfoItem_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "EquipAdvanceSuccess": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Equip/UI_EquipAdvanceSuccess.UI_EquipAdvanceSuccess_C",
+          "SubPathString": ""
+        }
+      },
+      "FakeLoading": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/QRSLUI_FakeLoading_BP.QRSLUI_FakeLoading_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakFateMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_BreakFateMain.UI_BreakFateMain_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopTimeLimitGood": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopTimeLimitGoodBP.QRSLUI_ShopTimeLimitGoodBP_C",
+          "SubPathString": ""
+        }
+      },
+      "SemirClue": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Clue.Clue_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakFateRelive": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/WB_BreakFateRelive.WB_BreakFateRelive_C",
+          "SubPathString": ""
+        }
+      },
+      "FateBag": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_FateBag.UI_FateBag_C",
+          "SubPathString": ""
+        }
+      },
+      "BigSecretRewardView": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BigSecretClone/UI_BigSecretRewardView.UI_BigSecretRewardView_C",
+          "SubPathString": ""
+        }
+      },
+      "FateDropList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_FateDropList.UI_FateDropList_C",
+          "SubPathString": ""
+        }
+      },
+      "FateDropSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UW_FateDropSlot.UW_FateDropSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "LotteryDescriptionSlot1": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/BP_UILotteryDescriptionSlot1.BP_UILotteryDescriptionSlot1_C",
+          "SubPathString": ""
+        }
+      },
+      "FatePlayerDieDropList": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_FatePlayerDieDropList.UI_FatePlayerDieDropList_C",
+          "SubPathString": ""
+        }
+      },
+      "MakeupShareShotUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Makeup/UI_MakeupShareShot_BP.UI_MakeupShareShot_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "FateMianForm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_FateMainForm.UI_FateMainForm_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakFateSettlement": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_BreakFateSettlement.UI_BreakFateSettlement_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakFatePrepare": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_BreakFatePrepare.UI_BreakFatePrepare_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakFatePrepareChooseArea": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/BreakFatePrepareChooseArea.BreakFatePrepareChooseArea_C",
+          "SubPathString": ""
+        }
+      },
+      "ShopBuyItemSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Shop/QRSLUI_ShopBuyItemSlot.QRSLUI_ShopBuyItemSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "AwardMessageBoxGet": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_AwardMessageBoxGet.UI_AwardMessageBoxGet_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponInfo.UI_WeaponInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponWarehouse": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/UI_WeaponWarehouse.UI_WeaponWarehouse_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixInfo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixInfo.UI_MatrixInfo_C",
+          "SubPathString": ""
+        }
+      },
+      "FireworkFixUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/City_forest/MiniGame/FireworkLaunching/BP_FireworkFixUI.BP_FireworkFixUI_C",
+          "SubPathString": ""
+        }
+      },
+      "BackDrop": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/WB_BackDrop.WB_BackDrop_C",
+          "SubPathString": ""
+        }
+      },
+      "Area4_Warning": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_Area4_Warning_BP.UI_Area4_Warning_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "AutoSprintSetting": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameSettings/UI_AutoSprintSetting.UI_AutoSprintSetting_C",
+          "SubPathString": ""
+        }
+      },
+      "UI_Characters": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/Effect/BP_Effect/BP_UI_Characters.BP_UI_Characters_C",
+          "SubPathString": ""
+        }
+      },
+      "UI_Characters_sly": {
+        "UIClass": {
+          "AssetPathName": "/Game/Resources/Effect/BP_Effect/BP_UI_CharactersSly.BP_UI_CharactersSly_C",
+          "SubPathString": ""
+        }
+      },
+      "WB_NextDay": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/WB_NextDay.WB_NextDay_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakFateWiner": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/WB_BreakFateWiner.WB_BreakFateWiner_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactPreviewVideo": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Artifact/UI_Artifact_PreviewVideo_BP.UI_Artifact_PreviewVideo_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "ShareRollerCoasterPhoto": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/State/WB_ShareRollerCoasterPhoto.WB_ShareRollerCoasterPhoto_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationArchivesItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Imitation/UI_ImitationArchives_Item_BP.UI_ImitationArchives_Item_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "Weapon_Description3": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Weapon_Description3.Weapon_Description3_C",
+          "SubPathString": ""
+        }
+      },
+      "Weapon_Description4": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Weapon_Description4.Weapon_Description4_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_Description3": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Artifact_Description3.Artifact_Description3_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_Description2": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Artifact_Description2.Artifact_Description2_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactLottery_3": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/UI_ArtifactLotteryWidget_3.UI_ArtifactLotteryWidget_3_C",
+          "SubPathString": ""
+        }
+      },
+      "CafeRecipeView": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameActivity/UI_CafeRecipeView.UI_CafeRecipeView_C",
+          "SubPathString": ""
+        }
+      },
+      "CafeFoodIngredientListView": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameActivity/UI_CafeFoodIngredientListView.UI_CafeFoodIngredientListView_C",
+          "SubPathString": ""
+        }
+      },
+      "CafeAwardOverview": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameActivity/UI_CafeAwardOverview.UI_CafeAwardOverview_C",
+          "SubPathString": ""
+        }
+      },
+      "GameActivityCafe": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameActivity/UI_GameActivityCafe.UI_GameActivityCafe_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponControllerPC": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WeaponController_pc.UI_WeaponController_pc_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponController": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WeaponController.UI_WeaponController_C",
+          "SubPathString": ""
+        }
+      },
+      "SKillControllerPC": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SKillController_pc.UI_SKillController_pc_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactSkillPanelPC": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ArtifactSkillPanel_pc.UI_ArtifactSkillPanel_pc_C",
+          "SubPathString": ""
+        }
+      },
+      "ImitationQuestShow": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Quest/imitation_quest_show.imitation_quest_show_C",
+          "SubPathString": ""
+        }
+      },
+      "DailyGiftBuyAll": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DailyGift/QRSLUI_DailyGiftBuyAllBP.QRSLUI_DailyGiftBuyAllBP_C",
+          "SubPathString": ""
+        }
+      },
+      "BreakFateMatch": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/BreakFate/UI_BreakFateMatch.UI_BreakFateMatch_C",
+          "SubPathString": ""
+        }
+      },
+      "WB_zz": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/WB_zz.WB_zz_C",
+          "SubPathString": ""
+        }
+      },
+      "SystemTreasureMapUI": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/TreasureMap/UI_SystemTreasureMap_Main_BP.UI_SystemTreasureMap_Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "HopkinsOrder": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameActivity/UI_GameActivityHopkinsOrder.UI_GameActivityHopkinsOrder_C",
+          "SubPathString": ""
+        }
+      },
+      "2V2Main": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/2V2/UI_2V2Main_BP.UI_2V2Main_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "DangerousIntruder": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/IncarnationLinked/UI_IntruderMain.UI_IntruderMain_C",
+          "SubPathString": ""
+        }
+      },
+      "IntruderTask": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/IncarnationLinked/UI_IntruderTask.UI_IntruderTask_C",
+          "SubPathString": ""
+        }
+      },
+      "IntruderTaskItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/IncarnationLinked/UI_IntruderTaskItem.UI_IntruderTaskItem_C",
+          "SubPathString": ""
+        }
+      },
+      "IntruderMonster": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/IncarnationLinked/UI_IntruderMonster.UI_IntruderMonster_C",
+          "SubPathString": ""
+        }
+      },
+      "IntruderClean": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/IncarnationLinked/UI_IntruderClean.UI_IntruderClean_C",
+          "SubPathString": ""
+        }
+      },
+      "2V2Result": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/2V2/UI_2V2_Result_BP.UI_2V2_Result_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "UI_gulanhuodong": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_gulanhuodong.UI_gulanhuodong_C",
+          "SubPathString": ""
+        }
+      },
+      "UI_gulanhuodong_2": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_gulanhuodong_2.UI_gulanhuodong_2_C",
+          "SubPathString": ""
+        }
+      },
+      "WB_NextDay_ljz_1": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/WB_NextDay_ljz_1.WB_NextDay_ljz_1_C",
+          "SubPathString": ""
+        }
+      },
+      "WB_NextDay_ljz_2": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Sequence/WB_NextDay_ljz_2.WB_NextDay_ljz_2_C",
+          "SubPathString": ""
+        }
+      },
+      "WidgetMoveIpad": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/GameSettings/UI_WidgetMoveIpad.UI_WidgetMoveIpad_C",
+          "SubPathString": ""
+        }
+      },
+      "WeaponControllerIPAD": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_WeaponController_ipad.UI_WeaponController_ipad_C",
+          "SubPathString": ""
+        }
+      },
+      "ArtifactSkillPanelIPAD": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_ArtifactSkillPanel_ipad.UI_ArtifactSkillPanel_ipad_C",
+          "SubPathString": ""
+        }
+      },
+      "SKillControllerIPAD": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UI_SKillController_ipad.UI_SKillController_ipad_C",
+          "SubPathString": ""
+        }
+      },
+      "2V2Battle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/2V2/UI_2V2_Battle_BP.UI_2V2_Battle_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "2V2Match": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/2V2/UI_2V2_Match_BP.UI_2V2_Match_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "NetWait": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Common/UI_NetWait.UI_NetWait_C",
+          "SubPathString": ""
+        }
+      },
+      "MatrixSuitRecommend": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Weapon/Matrix/UI_MatrixSuitRecommend.UI_MatrixSuitRecommend_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamChallenge": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamChallenge.BP_UIDreamChallenge_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamChallengeGoal": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamChallengeGoal.BP_UIDreamChallengeGoal_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamChallengeGoalItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamChallengeGoalItem.BP_UIDreamChallengeGoalItem_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamChallengeSelectBuff": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamChallengeSelectBuff.BP_UIDreamChallengeSelectBuff_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamChallengeSelectClone": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamChallengeSelectClone.BP_UIDreamChallengeSelectClone_C",
+          "SubPathString": ""
+        }
+      },
+      "DreamChallengeSettle": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/DreamClone/BP_UIDreamChallengeSettle.BP_UIDreamChallengeSettle_C",
+          "SubPathString": ""
+        }
+      },
+      "Weapon_Description5_BYK": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Weapon_Description5_BYK.Weapon_Description5_BYK_C",
+          "SubPathString": ""
+        }
+      },
+      "Weapon_Description6_MK": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Weapon_Description6_MK.Weapon_Description6_MK_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_Description4_BYK": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Artifact_Description4_BYK.Artifact_Description4_BYK_C",
+          "SubPathString": ""
+        }
+      },
+      "Artifact_Description5_MK": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Lottery/Artifact_Description5_MK.Artifact_Description5_MK_C",
+          "SubPathString": ""
+        }
+      },
+      "GiftSlot": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/UW_GiftSlot.UW_GiftSlot_C",
+          "SubPathString": ""
+        }
+      },
+      "ResVersionWarningBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/MsgBox/BP_UIResVersionMsgBox.BP_UIResVersionMsgBox_C",
+          "SubPathString": ""
+        }
+      },
+      "AntiPluginReport": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/Report/QRSLUI_ReportAntiPluginBP.QRSLUI_ReportAntiPluginBP_C",
+          "SubPathString": ""
+        }
+      },
+      "hopkinsDesc": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/hopkinshuodong_3.hopkinshuodong_3_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlLoginMain": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Login/INTL_LoginMain_BP.INTL_LoginMain_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlRegisterAccount": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Login/INTL_RegisterAccount_BP.INTL_RegisterAccount_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlRegisterPassword": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Login/INTL_RegisterPassword_BP.INTL_RegisterPassword_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlPasswordChange": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Login/INTL_PasswordChange_BP.INTL_PasswordChange_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlPasswordChangeAccount": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Login/INTL_PasswordChangeAccount_BP.INTL_PasswordChangeAccount_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCancelAccount": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Login/INTL_CancelAccount_BP.INTL_CancelAccount_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlBindAccount": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/GameSetting/INTL_BindAccount_BP.INTL_BindAccount_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCountryAndBirthday": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CompCountryAndBirthday_BP.INTL_CompCountryAndBirthday_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCountryItem": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CompCountryItem_BP.INTL_CompCountryItem_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCompMail": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CompMail_BP.INTL_CompMail_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCompCreditCard": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CompCreditCard_BP.INTL_CompCreditCard_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCompSelfConfirm": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CompSelfConfirm_BP.INTL_CompSelfConfirm_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCompEEA": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CompEEA_BP.INTL_CompEEA_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "CultureAudioManager": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/GameSetting/Culture/UI_CultureAudioMgr.UI_CultureAudioMgr_C",
+          "SubPathString": ""
+        }
+      },
+      "CultureMessageBox": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/GameSetting/Culture/UI_CultureMessageBox.UI_CultureMessageBox_C",
+          "SubPathString": ""
+        }
+      },
+      "CultureDownload": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/GameSetting/Culture/UI_CultureDownload.UI_CultureDownload_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCustomBindPassword": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CustomBindPassword_BP.INTL_CustomBindPassword_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlCustonBindAccount": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CustomBindAccount_BP.INTL_CustomBindAccount_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlChatTip": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/Intl/Compliance/INTL_CompChatTip_BP.INTL_CompChatTip_BP_C",
+          "SubPathString": ""
+        }
+      },
+      "IntlAttention": {
+        "UIClass": {
+          "AssetPathName": "/Game/SevenForest/Blueprint/UI/OverseaUI/AttentionActivity/UI_IntlAttentionActivity.UI_IntlAttentionActivity_C",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

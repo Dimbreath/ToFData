@@ -1,0 +1,154 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DreamChallengeBuffConfigData",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct DreamChallengeBuffConfigRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Buff_BigSword_001": {
+        "NameText": {
+          "Namespace": "",
+          "Key": "7C96242B4D87F968D4E9228A095AEC83",
+          "SourceString": "Buff Name 1"
+        },
+        "BuffEffectDes": {
+          "Namespace": "",
+          "Key": "361EDB0744F3C94CCA7A20B9CE0FCC4A",
+          "SourceString": "Buff Effect"
+        },
+        "BuffImage": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon7.chengjiu_icon7",
+          "SubPathString": ""
+        },
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_1/Buff_Matrix_SR_1_level1.Buff_Matrix_SR_1_level1_C",
+          "SubPathString": ""
+        }
+      },
+      "Buff_Hammer_004": {
+        "NameText": {
+          "Namespace": "",
+          "Key": "E824D965482A097D3699C992C9B17398",
+          "SourceString": "Buff Name 2"
+        },
+        "BuffEffectDes": {
+          "Namespace": "",
+          "Key": "361EDB0744F3C94CCA7A20B9CE0FCC4A",
+          "SourceString": "Buff Effect"
+        },
+        "BuffImage": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon2.chengjiu_icon2",
+          "SubPathString": ""
+        },
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level1.Buff_Matrix_SR_2_level1_C",
+          "SubPathString": ""
+        }
+      },
+      "Buff_Spear_002": {
+        "NameText": {
+          "Namespace": "",
+          "Key": "090A90974AB01DCD1A54A5801AAD1D15",
+          "SourceString": "Buff Name 3"
+        },
+        "BuffEffectDes": {
+          "Namespace": "",
+          "Key": "361EDB0744F3C94CCA7A20B9CE0FCC4A",
+          "SourceString": "Buff Effect"
+        },
+        "BuffImage": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon10.chengjiu_icon10",
+          "SubPathString": ""
+        },
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_3/Buff_Matrix_SR_3_level3.Buff_Matrix_SR_3_level3_C",
+          "SubPathString": ""
+        }
+      },
+      "buff_fire_On_Lv1": {
+        "NameText": {
+          "Namespace": "",
+          "Key": "53933D214334F098A37885BADB8D3AF1",
+          "SourceString": "Buff Name 4"
+        },
+        "BuffEffectDes": {
+          "Namespace": "",
+          "Key": "361EDB0744F3C94CCA7A20B9CE0FCC4A",
+          "SourceString": "Buff Effect"
+        },
+        "BuffImage": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon8.chengjiu_icon8",
+          "SubPathString": ""
+        },
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_4/Buff_Matrix_SR_4_level2.Buff_Matrix_SR_4_level2_C",
+          "SubPathString": ""
+        }
+      },
+      "buff_fire_On_Lv2": {
+        "NameText": {
+          "Namespace": "",
+          "Key": "06ECDC4445C63DF15449C2B074F317BF",
+          "SourceString": "Buff Name 5"
+        },
+        "BuffEffectDes": {
+          "Namespace": "",
+          "Key": "361EDB0744F3C94CCA7A20B9CE0FCC4A",
+          "SourceString": "Buff Effect"
+        },
+        "BuffImage": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon5.chengjiu_icon5",
+          "SubPathString": ""
+        },
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_5/level1/Buff_Matrix_SR_5_level1_add.Buff_Matrix_SR_5_level1_add_C",
+          "SubPathString": ""
+        }
+      },
+      "buff_fire_On_Lv3": {
+        "NameText": {
+          "Namespace": "",
+          "Key": "2D4D16E5474651547626668063506365",
+          "SourceString": "Buff Name 6"
+        },
+        "BuffEffectDes": {
+          "Namespace": "",
+          "Key": "361EDB0744F3C94CCA7A20B9CE0FCC4A",
+          "SourceString": "Buff Effect"
+        },
+        "BuffImage": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon4.chengjiu_icon4",
+          "SubPathString": ""
+        },
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level3.Buff_Matrix_SR_2_level3_C",
+          "SubPathString": ""
+        }
+      },
+      "buff_fire_Off_Lv1": {
+        "NameText": {
+          "Namespace": "",
+          "Key": "238EFCF4438FCC7EF834D6B0C7DAF1EB",
+          "SourceString": "Buff Name 7"
+        },
+        "BuffEffectDes": {
+          "Namespace": "",
+          "Key": "361EDB0744F3C94CCA7A20B9CE0FCC4A",
+          "SourceString": "Buff Effect"
+        },
+        "BuffImage": {
+          "AssetPathName": "/Game/Resources/UI/chengjiu/chengjiu_icon3.chengjiu_icon3",
+          "SubPathString": ""
+        },
+        "BuffClass": {
+          "AssetPathName": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level3.Buff_Matrix_SR_2_level3_C",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

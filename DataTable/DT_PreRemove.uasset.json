@@ -1,0 +1,150 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PreRemove",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PreRemoveData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Monster": {
+        "RemoveClass": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/SceneItem/SoundActor/BP_RiverSouneActor.BP_RiverSouneActor_C",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "QRSLSpawnTrigger_Quest": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/QRSL.QRSLSpawnTrigger_Quest",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "TaskTrigger-client": {
+        "RemoveClass": {
+          "AssetPathName": "/Game/Resources/FB/FB_Area4_Story01/TaskTrigger-client.TaskTrigger-client_C",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "CameraActor": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.CameraActor",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "PointLight": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.PointLight",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "AkAmbientSound": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/AkAudio.AkAmbientSound",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "RectLight": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.RectLight",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "SphereReflectionCapture": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.SphereReflectionCapture",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "SpotLight": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.SpotLight",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "hyperlight": {
+        "RemoveClass": {
+          "AssetPathName": "/Game/Resources/CoreBlueprints/SceneItem/Interaction/Area4/hyperlight.hyperlight_C",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "HottaWaterSoundActor": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/HottaFramework.HottaWaterSoundActor",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "DirectionalLight": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.DirectionalLight",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "SkyLight": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.SkyLight",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "LightmassImportanceVolume": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.LightmassImportanceVolume",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "Tree_Room_Light": {
+        "RemoveClass": {
+          "AssetPathName": "/Game/Resources/FB/XunShuFB/Room/Tree_Room_Light_BP.Tree_Room_Light_BP_C",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "LevelBounds": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/Engine.LevelBounds",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      },
+      "CineCameraActor": {
+        "RemoveClass": {
+          "AssetPathName": "/Script/CinematicCamera.CineCameraActor",
+          "SubPathString": ""
+        },
+        "bFindByName": false,
+        "ActorNameArray": []
+      }
+    }
+  }
+]

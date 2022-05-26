@@ -1,0 +1,5582 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "MakeupFaceShapeDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct MakeupPresetFaceShape",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "FaceShape_1_0": {
+        "FaceShapeData": {
+          "RoleIndex": 1,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 16,
+          "UsePartHair": false,
+          "ForeHairIndex": 15,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 14,
+          "HairColor": {
+            "R": 0.638441,
+            "G": 0.656861,
+            "B": 0.798844,
+            "A": 1.0,
+            "Hex": "FFD1D4E7"
+          },
+          "HairColor2": {
+            "R": 0.120078,
+            "G": 0.176456,
+            "B": 0.486818,
+            "A": 1.0,
+            "Hex": "FF6175BA"
+          },
+          "HairSpecColor": {
+            "R": 0.5,
+            "G": 0.5,
+            "B": 0.5,
+            "A": 1.0,
+            "Hex": "FFBCBCBC"
+          },
+          "HairColor3": {
+            "R": 0.958333,
+            "G": 0.87569,
+            "B": 0.654723,
+            "A": 1.0,
+            "Hex": "FFFBF1D4"
+          },
+          "HairBlendScale": 0.360076,
+          "HatIndex": 0,
+          "EyeIndex": 3,
+          "UseEyeTwo": false,
+          "EyeballIndex": 14,
+          "RightEyeballIndex": 14,
+          "EyeColor": {
+            "R": 0.109654,
+            "G": 0.063706,
+            "B": 0.064472,
+            "A": 1.0,
+            "Hex": "FF5D4748"
+          },
+          "EyeColor2": {
+            "R": 0.081352,
+            "G": 0.261391,
+            "B": 0.387389,
+            "A": 1.0,
+            "Hex": "FF508CA7"
+          },
+          "EyeColor3": {
+            "R": 1.0,
+            "G": 0.968493,
+            "B": 0.610853,
+            "A": 1.0,
+            "Hex": "FFFFFCCD"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.109654,
+            "G": 0.063706,
+            "B": 0.064472,
+            "A": 1.0,
+            "Hex": "FF5D4748"
+          },
+          "RightEyeColor2": {
+            "R": 0.081352,
+            "G": 0.261391,
+            "B": 0.387389,
+            "A": 1.0,
+            "Hex": "FF508CA7"
+          },
+          "RightEyeColor3": {
+            "R": 1.0,
+            "G": 0.968493,
+            "B": 0.610853,
+            "A": 1.0,
+            "Hex": "FFFFFCCD"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 14,
+          "EyebrowIndex": 10,
+          "EyebrowColor": {
+            "R": 0.12472,
+            "G": 0.100829,
+            "B": 0.076937,
+            "A": 1.0,
+            "Hex": "FF63594E"
+          },
+          "FaceIndex": 0,
+          "FaceColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "FaceMarkOffset": {
+            "R": -0.19341,
+            "G": 0.055254,
+            "B": 0.0,
+            "A": 0.1,
+            "Hex": "19004200"
+          },
+          "FaceMirror": 0.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "None",
+          "SkinIndex": 0,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.903146
+            },
+            {
+              "MorphName": "taiyangxue_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_jian_old",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": -0.030201
+            },
+            {
+              "MorphName": "xiaba_zuo",
+              "MorphValue": -0.467662
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_kuan",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyejiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyexia_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyeneishang_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "a",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "o",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "shangyanpi_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiayanpi_xia",
+              "MorphValue": 0.3
+            },
+            {
+              "MorphName": "neiyanjiao_shang",
+              "MorphValue": 0.5
+            },
+            {
+              "MorphName": "neiyanjiao_xia",
+              "MorphValue": 0.3
+            },
+            {
+              "MorphName": "waiyanjiao_shang",
+              "MorphValue": -0.1
+            },
+            {
+              "MorphName": "waiyanjiao_xia",
+              "MorphValue": 0.3
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_huxing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughingsmall",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_surprise",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_yujie",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": 0.415509
+            },
+            {
+              "MorphName": "face_kuan",
+              "MorphValue": 0.223107
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 0.92,
+              "Y": 0.92,
+              "Z": 0.92
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": -0.215
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.527,
+              "Z": 1.186
+            },
+            "EyeBallRotate": {
+              "X": -2.59,
+              "Y": 1.05,
+              "Z": 0.0
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 0,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_1.Face_preset_1",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_1_1": {
+        "FaceShapeData": {
+          "RoleIndex": 1,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 16,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 6,
+          "UseEyeTwo": false,
+          "EyeballIndex": 14,
+          "RightEyeballIndex": 14,
+          "EyeColor": {
+            "R": 0.068744,
+            "G": 0.101823,
+            "B": 0.201061,
+            "A": 1.0,
+            "Hex": "FF4A5A7C"
+          },
+          "EyeColor2": {
+            "R": 0.216209,
+            "G": 0.316913,
+            "B": 0.387389,
+            "A": 1.0,
+            "Hex": "FF8099A7"
+          },
+          "EyeColor3": {
+            "R": 0.228633,
+            "G": 0.578184,
+            "B": 0.672155,
+            "A": 1.0,
+            "Hex": "FF83C8D6"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.068744,
+            "G": 0.101823,
+            "B": 0.201061,
+            "A": 1.0,
+            "Hex": "FF4A5A7C"
+          },
+          "RightEyeColor2": {
+            "R": 0.216209,
+            "G": 0.316913,
+            "B": 0.387389,
+            "A": 1.0,
+            "Hex": "FF8099A7"
+          },
+          "RightEyeColor3": {
+            "R": 0.228633,
+            "G": 0.578184,
+            "B": 0.672155,
+            "A": 1.0,
+            "Hex": "FF83C8D6"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 0,
+          "EyebrowIndex": 7,
+          "EyebrowColor": {
+            "R": 0.15718,
+            "G": 0.193488,
+            "B": 0.254799,
+            "A": 1.0,
+            "Hex": "FF6E7A8A"
+          },
+          "FaceIndex": 12,
+          "FaceColor": {
+            "R": 0.994944,
+            "G": 0.250802,
+            "B": 0.263205,
+            "A": 1.0,
+            "Hex": "FFFF898C"
+          },
+          "FaceMarkOffset": {
+            "R": 0.161528,
+            "G": 0.095762,
+            "B": 0.412766,
+            "A": 0.354017,
+            "Hex": "5A7057AC"
+          },
+          "FaceMirror": 1.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "None",
+          "SkinIndex": 0,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.903146
+            },
+            {
+              "MorphName": "taiyangxue_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_jian_old",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": -0.030201
+            },
+            {
+              "MorphName": "xiaba_zuo",
+              "MorphValue": -0.467662
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_xia",
+              "MorphValue": 0.210213
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.165102
+            },
+            {
+              "MorphName": "zuiba_kuan",
+              "MorphValue": 0.243294
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.56508
+            },
+            {
+              "MorphName": "eye_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyejiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyexia_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyeneishang_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "a",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "o",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "shangyanpi_shang",
+              "MorphValue": 0.3
+            },
+            {
+              "MorphName": "xiayanpi_xia",
+              "MorphValue": -0.12
+            },
+            {
+              "MorphName": "neiyanjiao_shang",
+              "MorphValue": -0.46
+            },
+            {
+              "MorphName": "neiyanjiao_xia",
+              "MorphValue": 0.39
+            },
+            {
+              "MorphName": "waiyanjiao_shang",
+              "MorphValue": 0.61
+            },
+            {
+              "MorphName": "waiyanjiao_xia",
+              "MorphValue": 0.22
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_zuo",
+              "MorphValue": -0.10535
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": -0.00084
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_zuo",
+              "MorphValue": 0.005323
+            },
+            {
+              "MorphName": "xiaegu_shang",
+              "MorphValue": 0.210797
+            },
+            {
+              "MorphName": "xiaegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_huxing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughingsmall",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_surprise",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_yujie",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.23085
+            },
+            {
+              "MorphName": "face_kuan",
+              "MorphValue": 0.223107
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 0.92,
+              "Y": 0.92,
+              "Z": 0.92
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.233
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.357,
+              "Z": 0.989
+            },
+            "EyeBallRotate": {
+              "X": 1.982,
+              "Y": 1.05,
+              "Z": -0.225
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 1,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_2.Face_preset_2",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_1_2": {
+        "FaceShapeData": {
+          "RoleIndex": 1,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 5,
+          "UseEyeTwo": false,
+          "EyeballIndex": 4,
+          "RightEyeballIndex": 4,
+          "EyeColor": {
+            "R": 0.112805,
+            "G": 0.087637,
+            "B": 0.165904,
+            "A": 1.0,
+            "Hex": "FF5E5371"
+          },
+          "EyeColor2": {
+            "R": 0.164926,
+            "G": 0.149098,
+            "B": 0.317076,
+            "A": 1.0,
+            "Hex": "FF716C99"
+          },
+          "EyeColor3": {
+            "R": 0.196544,
+            "G": 0.434547,
+            "B": 0.462975,
+            "A": 1.0,
+            "Hex": "FF7BB0B5"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.112805,
+            "G": 0.087637,
+            "B": 0.165904,
+            "A": 1.0,
+            "Hex": "FF5E5371"
+          },
+          "RightEyeColor2": {
+            "R": 0.164926,
+            "G": 0.149098,
+            "B": 0.317076,
+            "A": 1.0,
+            "Hex": "FF716C99"
+          },
+          "RightEyeColor3": {
+            "R": 0.196544,
+            "G": 0.434547,
+            "B": 0.462975,
+            "A": 1.0,
+            "Hex": "FF7BB0B5"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 8,
+          "EyebrowIndex": 6,
+          "EyebrowColor": {
+            "R": 0.08429,
+            "G": 0.051108,
+            "B": 0.051108,
+            "A": 1.0,
+            "Hex": "FF524040"
+          },
+          "FaceIndex": 12,
+          "FaceColor": {
+            "R": 0.994944,
+            "G": 0.250802,
+            "B": 0.263205,
+            "A": 1.0,
+            "Hex": "FFFF898C"
+          },
+          "FaceMarkOffset": {
+            "R": -0.0,
+            "G": -0.111917,
+            "B": 0.0,
+            "A": 0.131075,
+            "Hex": "21000000"
+          },
+          "FaceMirror": 1.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "None",
+          "SkinIndex": 12,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.585066
+            },
+            {
+              "MorphName": "taiyangxue_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_zuo",
+              "MorphValue": 0.077694
+            },
+            {
+              "MorphName": "sai_shang",
+              "MorphValue": -0.109157
+            },
+            {
+              "MorphName": "sai_qian",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "sai_jian_old",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_zuo",
+              "MorphValue": 0.420351
+            },
+            {
+              "MorphName": "xiachunji_shang",
+              "MorphValue": 0.012133
+            },
+            {
+              "MorphName": "xiachunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": -0.121707
+            },
+            {
+              "MorphName": "xiaba_zuo",
+              "MorphValue": -0.971362
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_xia",
+              "MorphValue": 0.318477
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_kuan",
+              "MorphValue": 0.18443
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.645969
+            },
+            {
+              "MorphName": "eye_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyejiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyexia_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyeneishang_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "a",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "o",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "shangyanpi_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiayanpi_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "neiyanjiao_shang",
+              "MorphValue": 0.5
+            },
+            {
+              "MorphName": "neiyanjiao_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "waiyanjiao_shang",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "waiyanjiao_xia",
+              "MorphValue": 0.4
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_zuo",
+              "MorphValue": 0.834614
+            },
+            {
+              "MorphName": "xiaegu_shang",
+              "MorphValue": 0.807974
+            },
+            {
+              "MorphName": "xiaegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": -0.238184
+            },
+            {
+              "MorphName": "bizi_huxing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughingsmall",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_surprise",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_yujie",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.183555
+            },
+            {
+              "MorphName": "face_kuan",
+              "MorphValue": -0.378837
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 0.92,
+              "Y": 0.92,
+              "Z": 0.92
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.219
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.237,
+              "Z": 1.284
+            },
+            "EyeBallRotate": {
+              "X": -2.432,
+              "Y": 1.4,
+              "Z": 1.194
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 2,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_3.Face_preset_3",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_1_3": {
+        "FaceShapeData": {
+          "RoleIndex": 1,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 9,
+          "UseEyeTwo": false,
+          "EyeballIndex": 11,
+          "RightEyeballIndex": 11,
+          "EyeColor": {
+            "R": 0.051809,
+            "G": 0.076256,
+            "B": 0.052901,
+            "A": 1.0,
+            "Hex": "FF404E41"
+          },
+          "EyeColor2": {
+            "R": 0.243452,
+            "G": 0.361645,
+            "B": 0.369811,
+            "A": 1.0,
+            "Hex": "FF87A2A4"
+          },
+          "EyeColor3": {
+            "R": 0.813295,
+            "G": 0.932312,
+            "B": 0.687502,
+            "A": 1.0,
+            "Hex": "FFE9F8D8"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.051809,
+            "G": 0.076256,
+            "B": 0.052901,
+            "A": 1.0,
+            "Hex": "FF404E41"
+          },
+          "RightEyeColor2": {
+            "R": 0.243452,
+            "G": 0.361645,
+            "B": 0.369811,
+            "A": 1.0,
+            "Hex": "FF87A2A4"
+          },
+          "RightEyeColor3": {
+            "R": 0.813295,
+            "G": 0.932312,
+            "B": 0.687502,
+            "A": 1.0,
+            "Hex": "FFE9F8D8"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 5,
+          "EyebrowIndex": 5,
+          "EyebrowColor": {
+            "R": 0.08429,
+            "G": 0.051108,
+            "B": 0.051108,
+            "A": 1.0,
+            "Hex": "FF524040"
+          },
+          "FaceIndex": 12,
+          "FaceColor": {
+            "R": 0.205667,
+            "G": 0.032249,
+            "B": 0.028519,
+            "A": 1.0,
+            "Hex": "FF7D322F"
+          },
+          "FaceMarkOffset": {
+            "R": 0.193126,
+            "G": 0.088345,
+            "B": 0.424316,
+            "A": 0.262534,
+            "Hex": "437A54AE"
+          },
+          "FaceMirror": 1.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "None",
+          "SkinIndex": 12,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.895022
+            },
+            {
+              "MorphName": "taiyangxue_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_zuo",
+              "MorphValue": -0.032637
+            },
+            {
+              "MorphName": "sai_shang",
+              "MorphValue": -0.084541
+            },
+            {
+              "MorphName": "sai_qian",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "sai_jian_old",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_zuo",
+              "MorphValue": 0.420351
+            },
+            {
+              "MorphName": "xiachunji_shang",
+              "MorphValue": 0.012133
+            },
+            {
+              "MorphName": "xiachunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": -0.020351
+            },
+            {
+              "MorphName": "xiaba_zuo",
+              "MorphValue": -0.967001
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_xia",
+              "MorphValue": -0.147662
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.201191
+            },
+            {
+              "MorphName": "zuiba_kuan",
+              "MorphValue": 0.18443
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": -0.427345
+            },
+            {
+              "MorphName": "eye_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyejiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyexia_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyeneishang_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "a",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "o",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "shangyanpi_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiayanpi_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "neiyanjiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "neiyanjiao_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "waiyanjiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "waiyanjiao_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_zuo",
+              "MorphValue": 0.834614
+            },
+            {
+              "MorphName": "xiaegu_shang",
+              "MorphValue": 0.807974
+            },
+            {
+              "MorphName": "xiaegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": -0.238184
+            },
+            {
+              "MorphName": "bizi_huxing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughingsmall",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_surprise",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_yujie",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.065319
+            },
+            {
+              "MorphName": "face_kuan",
+              "MorphValue": -0.366681
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 0.92,
+              "Y": 0.92,
+              "Z": 0.92
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.138,
+              "Z": 0.004
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.171,
+              "Z": 1.133
+            },
+            "EyeBallRotate": {
+              "X": 0.0,
+              "Y": 1.4,
+              "Z": 0.0
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 3,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_4.Face_preset_4",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_1_4": {
+        "FaceShapeData": {
+          "RoleIndex": 0,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 0,
+          "UseEyeTwo": false,
+          "EyeballIndex": 12,
+          "RightEyeballIndex": 12,
+          "EyeColor": {
+            "R": 0.097349,
+            "G": 0.073211,
+            "B": 0.067851,
+            "A": 1.0,
+            "Hex": "FF584C49"
+          },
+          "EyeColor2": {
+            "R": 0.16942,
+            "G": 0.096162,
+            "B": 0.068051,
+            "A": 1.0,
+            "Hex": "FF72574A"
+          },
+          "EyeColor3": {
+            "R": 0.234459,
+            "G": 0.218165,
+            "B": 0.21452,
+            "A": 1.0,
+            "Hex": "FF858180"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.097349,
+            "G": 0.073211,
+            "B": 0.067851,
+            "A": 1.0,
+            "Hex": "FF584C49"
+          },
+          "RightEyeColor2": {
+            "R": 0.16942,
+            "G": 0.096162,
+            "B": 0.068051,
+            "A": 1.0,
+            "Hex": "FF72574A"
+          },
+          "RightEyeColor3": {
+            "R": 0.234459,
+            "G": 0.218165,
+            "B": 0.21452,
+            "A": 1.0,
+            "Hex": "FF858180"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 20,
+          "EyebrowIndex": 3,
+          "EyebrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceIndex": 19,
+          "FaceColor": {
+            "R": 0.45352,
+            "G": 0.051727,
+            "B": 0.051727,
+            "A": 1.0,
+            "Hex": "FFB44040"
+          },
+          "FaceMarkOffset": {
+            "R": 0.194915,
+            "G": 0.088345,
+            "B": 0.172139,
+            "A": 0.211027,
+            "Hex": "367A5473"
+          },
+          "FaceMirror": 1.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "None",
+          "SkinIndex": 12,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.999999
+            },
+            {
+              "MorphName": "taiyangxue_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_qian",
+              "MorphValue": 0.174089
+            },
+            {
+              "MorphName": "quangu_zuo",
+              "MorphValue": 0.51743
+            },
+            {
+              "MorphName": "quangu_shang",
+              "MorphValue": 0.068084
+            },
+            {
+              "MorphName": "quangu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_zuo",
+              "MorphValue": 0.628715
+            },
+            {
+              "MorphName": "sai_shang",
+              "MorphValue": -0.436985
+            },
+            {
+              "MorphName": "sai_qian",
+              "MorphValue": 0.6
+            },
+            {
+              "MorphName": "sai_jian_old",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_zuo",
+              "MorphValue": 0.323852
+            },
+            {
+              "MorphName": "xiachunji_shang",
+              "MorphValue": -0.133161
+            },
+            {
+              "MorphName": "xiachunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": 0.345647
+            },
+            {
+              "MorphName": "xiaba_zuo",
+              "MorphValue": -0.865905
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_xia",
+              "MorphValue": 0.754543
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.468845
+            },
+            {
+              "MorphName": "zuiba_kuan",
+              "MorphValue": 0.321485
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.529193
+            },
+            {
+              "MorphName": "eye_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyejiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyexia_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyeneishang_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "a",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "o",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "shangyanpi_shang",
+              "MorphValue": 0.95
+            },
+            {
+              "MorphName": "xiayanpi_xia",
+              "MorphValue": 0.01
+            },
+            {
+              "MorphName": "neiyanjiao_shang",
+              "MorphValue": 0.13
+            },
+            {
+              "MorphName": "neiyanjiao_xia",
+              "MorphValue": 0.39
+            },
+            {
+              "MorphName": "waiyanjiao_shang",
+              "MorphValue": 0.1
+            },
+            {
+              "MorphName": "waiyanjiao_xia",
+              "MorphValue": 0.44
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_zuo",
+              "MorphValue": -0.858099
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.041515
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_zuo",
+              "MorphValue": 0.074423
+            },
+            {
+              "MorphName": "xiaegu_shang",
+              "MorphValue": -0.010713
+            },
+            {
+              "MorphName": "xiaegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_huxing",
+              "MorphValue": -0.006317
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": -0.009324
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughingsmall",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_surprise",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_yujie",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.002259
+            },
+            {
+              "MorphName": "face_kuan",
+              "MorphValue": -0.001589
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 0.92,
+              "Y": 0.92,
+              "Z": 0.92
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": -0.002,
+              "Y": -0.144,
+              "Z": -0.158
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.612,
+              "Z": 1.177
+            },
+            "EyeBallRotate": {
+              "X": -2.984,
+              "Y": 1.4,
+              "Z": -2.038
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 4,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_5.Face_preset_5",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_1_5": {
+        "FaceShapeData": {
+          "RoleIndex": 1,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 3,
+          "UseEyeTwo": false,
+          "EyeballIndex": 1,
+          "RightEyeballIndex": 1,
+          "EyeColor": {
+            "R": 0.037738,
+            "G": 0.266928,
+            "B": 0.373327,
+            "A": 1.0,
+            "Hex": "FF368DA5"
+          },
+          "EyeColor2": {
+            "R": 0.228421,
+            "G": 0.669631,
+            "B": 0.819812,
+            "A": 1.0,
+            "Hex": "FF83D6EA"
+          },
+          "EyeColor3": {
+            "R": 0.875,
+            "G": 0.909095,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFF1F5FF"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.037738,
+            "G": 0.266928,
+            "B": 0.373327,
+            "A": 1.0,
+            "Hex": "FF368DA5"
+          },
+          "RightEyeColor2": {
+            "R": 0.228421,
+            "G": 0.669631,
+            "B": 0.819812,
+            "A": 1.0,
+            "Hex": "FF83D6EA"
+          },
+          "RightEyeColor3": {
+            "R": 0.875,
+            "G": 0.909095,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFF1F5FF"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 2,
+          "EyebrowIndex": 8,
+          "EyebrowColor": {
+            "R": 0.247767,
+            "G": 0.104064,
+            "B": 0.104064,
+            "A": 1.0,
+            "Hex": "FF885B5B"
+          },
+          "FaceIndex": 12,
+          "FaceColor": {
+            "R": 1.0,
+            "G": 0.231034,
+            "B": 0.098237,
+            "A": 1.0,
+            "Hex": "FFFF8458"
+          },
+          "FaceMarkOffset": {
+            "R": 0.19253,
+            "G": 0.067577,
+            "B": 0.0,
+            "A": 0.343254,
+            "Hex": "57794900"
+          },
+          "FaceMirror": 1.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "None",
+          "SkinIndex": 12,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.630863
+            },
+            {
+              "MorphName": "taiyangxue_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "taiyangxue_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "quangu_zuo",
+              "MorphValue": 0.606046
+            },
+            {
+              "MorphName": "quangu_shang",
+              "MorphValue": 0.135939
+            },
+            {
+              "MorphName": "quangu_qian",
+              "MorphValue": 0.114169
+            },
+            {
+              "MorphName": "sai_zuo",
+              "MorphValue": 0.453416
+            },
+            {
+              "MorphName": "sai_shang",
+              "MorphValue": -0.043362
+            },
+            {
+              "MorphName": "sai_qian",
+              "MorphValue": 0.442105
+            },
+            {
+              "MorphName": "sai_jian_old",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "sai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiachunji_zuo",
+              "MorphValue": -0.280668
+            },
+            {
+              "MorphName": "xiachunji_shang",
+              "MorphValue": -0.20745
+            },
+            {
+              "MorphName": "xiachunji_qian",
+              "MorphValue": 0.565991
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": 0.150906
+            },
+            {
+              "MorphName": "xiaba_zuo",
+              "MorphValue": -0.988548
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_xia",
+              "MorphValue": 0.772587
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.406858
+            },
+            {
+              "MorphName": "zuiba_kuan",
+              "MorphValue": 0.634249
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.670337
+            },
+            {
+              "MorphName": "eye_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyejiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyexia_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyeneishang_kai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "a",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "o",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "shangyanpi_shang",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "xiayanpi_xia",
+              "MorphValue": -0.3
+            },
+            {
+              "MorphName": "neiyanjiao_shang",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "neiyanjiao_xia",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "waiyanjiao_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "waiyanjiao_xia",
+              "MorphValue": 0.7
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_huxing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_ertong1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughingsmall",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_surprise",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "animation_laughing",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "cartoonhead0051_yujie",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": 0.328802
+            },
+            {
+              "MorphName": "face_kuan",
+              "MorphValue": -0.010957
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 0.92,
+              "Y": 0.92,
+              "Z": 0.92
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.079,
+              "Z": -0.293
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.574,
+              "Z": 1.218
+            },
+            "EyeBallRotate": {
+              "X": -3.378,
+              "Y": 1.4,
+              "Z": 0.0
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 1,
+        "PresetIndex": 5,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_6.Face_preset_6",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_2_0": {
+        "FaceShapeData": {
+          "RoleIndex": 0,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 0,
+          "UseEyeTwo": true,
+          "EyeballIndex": 0,
+          "RightEyeballIndex": 0,
+          "EyeColor": {
+            "R": 0.229167,
+            "G": 0.041637,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF843900"
+          },
+          "EyeColor2": {
+            "R": 0.385417,
+            "G": 0.121963,
+            "B": 0.020869,
+            "A": 1.0,
+            "Hex": "FFA76227"
+          },
+          "EyeColor3": {
+            "R": 0.791667,
+            "G": 0.55626,
+            "B": 0.465929,
+            "A": 1.0,
+            "Hex": "FFE6C5B6"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.229167,
+            "G": 0.041637,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF843900"
+          },
+          "RightEyeColor2": {
+            "R": 0.385417,
+            "G": 0.121963,
+            "B": 0.020869,
+            "A": 1.0,
+            "Hex": "FFA76227"
+          },
+          "RightEyeColor3": {
+            "R": 0.791667,
+            "G": 0.55626,
+            "B": 0.465929,
+            "A": 1.0,
+            "Hex": "FFE6C5B6"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 0,
+          "EyebrowIndex": 0,
+          "EyebrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceIndex": 0,
+          "FaceColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "FaceMarkOffset": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "FaceMirror": 0.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "fashion_decoration_0",
+          "SkinIndex": 0,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbian_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangugu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_zai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "biliang_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_yuan",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_chang_change",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangushang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quanguqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_zhai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianshang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianyou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_ping",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_dabo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuijiao_hou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "tutu_1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "001",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "002",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "003",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "004",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "005",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "006",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "007",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "008",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "009",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "010",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_nei",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_zhong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_wai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_x_nei",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_x_zhong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_x_wai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.9
+            },
+            {
+              "MorphName": "biaozhun_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "tutu_ertong",
+              "MorphValue": 0.0
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 0.943,
+              "Z": 0.988
+            },
+            "EyeBallRotate": {
+              "X": -2.977,
+              "Y": 0.0,
+              "Z": 4.34
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 0.93,
+              "Z": 0.93
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 2,
+        "PresetIndex": 0,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_1.Face_preset_1",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_2_1": {
+        "FaceShapeData": {
+          "RoleIndex": 0,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 0,
+          "UseEyeTwo": true,
+          "EyeballIndex": 4,
+          "RightEyeballIndex": 4,
+          "EyeColor": {
+            "R": 0.019501,
+            "G": 0.014874,
+            "B": 0.017187,
+            "A": 1.0,
+            "Hex": "FF262023"
+          },
+          "EyeColor2": {
+            "R": 0.041652,
+            "G": 0.028064,
+            "B": 0.172264,
+            "A": 1.0,
+            "Hex": "FF392E73"
+          },
+          "EyeColor3": {
+            "R": 0.26129,
+            "G": 0.689057,
+            "B": 0.628643,
+            "A": 1.0,
+            "Hex": "FF8CD9D0"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.019501,
+            "G": 0.014874,
+            "B": 0.017187,
+            "A": 1.0,
+            "Hex": "FF262023"
+          },
+          "RightEyeColor2": {
+            "R": 0.041652,
+            "G": 0.028064,
+            "B": 0.172264,
+            "A": 1.0,
+            "Hex": "FF392E73"
+          },
+          "RightEyeColor3": {
+            "R": 0.26129,
+            "G": 0.689057,
+            "B": 0.628643,
+            "A": 1.0,
+            "Hex": "FF8CD9D0"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 15,
+          "EyebrowIndex": 0,
+          "EyebrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceIndex": 0,
+          "FaceColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "FaceMarkOffset": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "FaceMirror": 0.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "fashion_decoration_2",
+          "SkinIndex": 0,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": 0.236864
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": -0.240486
+            },
+            {
+              "MorphName": "face_yanbian_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangugu",
+              "MorphValue": 0.948683
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.32351
+            },
+            {
+              "MorphName": "bizi_shang",
+              "MorphValue": -0.544023
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": -0.232623
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": -0.125809
+            },
+            {
+              "MorphName": "xiahegu_shang",
+              "MorphValue": 0.197404
+            },
+            {
+              "MorphName": "zuiba_zai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "biliang_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_yuan",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_you",
+              "MorphValue": 0.65801
+            },
+            {
+              "MorphName": "face_chang_change",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangushang",
+              "MorphValue": 0.316228
+            },
+            {
+              "MorphName": "face_quanguqian",
+              "MorphValue": 0.145748
+            },
+            {
+              "MorphName": "xiasai_shang",
+              "MorphValue": 0.284835
+            },
+            {
+              "MorphName": "xiasai_zuo",
+              "MorphValue": 0.958577
+            },
+            {
+              "MorphName": "xiahegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_zhai",
+              "MorphValue": 0.601482
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianshang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianyou",
+              "MorphValue": -0.971543
+            },
+            {
+              "MorphName": "face_yanbianqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_ping",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_dabo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuijiao_hou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "tutu_1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "001",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "002",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "003",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "004",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "005",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "006",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "007",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "008",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "009",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "010",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_nei",
+              "MorphValue": 0.31
+            },
+            {
+              "MorphName": "eye_s_zhong",
+              "MorphValue": 0.05
+            },
+            {
+              "MorphName": "eye_s_wai",
+              "MorphValue": 0.66
+            },
+            {
+              "MorphName": "eye_x_nei",
+              "MorphValue": -0.05
+            },
+            {
+              "MorphName": "eye_x_zhong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_x_wai",
+              "MorphValue": -0.03
+            },
+            {
+              "MorphName": "chunji_shang",
+              "MorphValue": -0.485265
+            },
+            {
+              "MorphName": "chunji_you",
+              "MorphValue": -0.035946
+            },
+            {
+              "MorphName": "chunji_qian",
+              "MorphValue": 0.123886
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": -0.852632
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.347474
+            },
+            {
+              "MorphName": "pingguoji_you",
+              "MorphValue": 0.539182
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.812147
+            },
+            {
+              "MorphName": "biaozhun_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "tutu_ertong",
+              "MorphValue": 0.0
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": -0.188,
+              "Y": 0.0,
+              "Z": 0.143
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.013,
+              "Z": 1.048
+            },
+            "EyeBallRotate": {
+              "X": -3.14,
+              "Y": 0.0,
+              "Z": 2.936
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 0.93,
+              "Z": 0.93
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 2,
+        "PresetIndex": 1,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_2.Face_preset_2",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_2_2": {
+        "FaceShapeData": {
+          "RoleIndex": 0,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 0,
+          "UseEyeTwo": true,
+          "EyeballIndex": 12,
+          "RightEyeballIndex": 12,
+          "EyeColor": {
+            "R": 0.583333,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFC90000"
+          },
+          "EyeColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "EyeColor3": {
+            "R": 0.484375,
+            "G": 0.0,
+            "B": 0.009068,
+            "A": 1.0,
+            "Hex": "FFB90017"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.583333,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFC90000"
+          },
+          "RightEyeColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "RightEyeColor3": {
+            "R": 0.489583,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFBA0000"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 14,
+          "EyebrowIndex": 7,
+          "EyebrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceIndex": 2,
+          "FaceColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceMarkOffset": {
+            "R": 0.140887,
+            "G": 0.0,
+            "B": 0.119043,
+            "A": 0.3,
+            "Hex": "4C690061"
+          },
+          "FaceMirror": 0.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "fashion_decoration_28",
+          "SkinIndex": 17,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": 0.269178
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.196761
+            },
+            {
+              "MorphName": "face_yanbian_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangugu",
+              "MorphValue": -0.843426
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.574154
+            },
+            {
+              "MorphName": "bizi_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": 0.07775
+            },
+            {
+              "MorphName": "xiahegu_shang",
+              "MorphValue": 0.472558
+            },
+            {
+              "MorphName": "zuiba_zai",
+              "MorphValue": -0.28267
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.240036
+            },
+            {
+              "MorphName": "biliang_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_yuan",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_you",
+              "MorphValue": 0.364886
+            },
+            {
+              "MorphName": "face_chang_change",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangushang",
+              "MorphValue": 0.095708
+            },
+            {
+              "MorphName": "face_quanguqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_shang",
+              "MorphValue": 0.287124
+            },
+            {
+              "MorphName": "xiasai_zuo",
+              "MorphValue": 0.388813
+            },
+            {
+              "MorphName": "xiahegu_qian",
+              "MorphValue": 0.772469
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_zhai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianshang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianyou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_ping",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_dabo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuijiao_hou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "tutu_1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "001",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "002",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "003",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "004",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "005",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "006",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "007",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "008",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "009",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "010",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_nei",
+              "MorphValue": 0.41
+            },
+            {
+              "MorphName": "eye_s_zhong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_wai",
+              "MorphValue": -0.1
+            },
+            {
+              "MorphName": "eye_x_nei",
+              "MorphValue": -0.25
+            },
+            {
+              "MorphName": "eye_x_zhong",
+              "MorphValue": -0.29
+            },
+            {
+              "MorphName": "eye_x_wai",
+              "MorphValue": -0.08
+            },
+            {
+              "MorphName": "chunji_shang",
+              "MorphValue": -0.005981
+            },
+            {
+              "MorphName": "chunji_you",
+              "MorphValue": 0.071769
+            },
+            {
+              "MorphName": "chunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.221325
+            },
+            {
+              "MorphName": "pingguoji_you",
+              "MorphValue": 0.263196
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.790284
+            },
+            {
+              "MorphName": "biaozhun_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "tutu_ertong",
+              "MorphValue": 0.0
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 0.943,
+              "Z": 0.988
+            },
+            "EyeBallRotate": {
+              "X": -4.421,
+              "Y": 0.0,
+              "Z": 4.34
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 0.93,
+              "Z": 0.93
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 2,
+        "PresetIndex": 2,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_3.Face_preset_3",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_2_3": {
+        "FaceShapeData": {
+          "RoleIndex": 0,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 1,
+          "UseEyeTwo": true,
+          "EyeballIndex": 7,
+          "RightEyeballIndex": 7,
+          "EyeColor": {
+            "R": 0.03681,
+            "G": 0.168252,
+            "B": 0.318526,
+            "A": 1.0,
+            "Hex": "FF367299"
+          },
+          "EyeColor2": {
+            "R": 0.031971,
+            "G": 0.008201,
+            "B": 0.084506,
+            "A": 1.0,
+            "Hex": "FF321652"
+          },
+          "EyeColor3": {
+            "R": 0.0,
+            "G": 2.221031,
+            "B": 2.5,
+            "A": 1.0,
+            "Hex": "FF00FFFF"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.03681,
+            "G": 0.168252,
+            "B": 0.318526,
+            "A": 1.0,
+            "Hex": "FF367299"
+          },
+          "RightEyeColor2": {
+            "R": 0.031971,
+            "G": 0.008201,
+            "B": 0.084506,
+            "A": 1.0,
+            "Hex": "FF321652"
+          },
+          "RightEyeColor3": {
+            "R": 0.0,
+            "G": 2.221031,
+            "B": 2.5,
+            "A": 1.0,
+            "Hex": "FF00FFFF"
+          },
+          "RightEyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyelashIndex": 20,
+          "EyebrowIndex": 8,
+          "EyebrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceIndex": 7,
+          "FaceColor": {
+            "R": 1.0,
+            "G": 0.0,
+            "B": 0.061807,
+            "A": 1.0,
+            "Hex": "FFFF0046"
+          },
+          "FaceMarkOffset": {
+            "R": 0.158526,
+            "G": -0.151792,
+            "B": 0.0,
+            "A": 0.2,
+            "Hex": "336F0000"
+          },
+          "FaceMirror": 0.5,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "fashion_decoration_0",
+          "SkinIndex": 0,
+          "NoseIndex": 2,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.58797
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": -0.357085
+            },
+            {
+              "MorphName": "face_yanbian_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangugu",
+              "MorphValue": 0.840039
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": -0.7255
+            },
+            {
+              "MorphName": "bizi_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.223354
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": 0.223354
+            },
+            {
+              "MorphName": "xiahegu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_zai",
+              "MorphValue": 0.128823
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": -0.60519
+            },
+            {
+              "MorphName": "biliang_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_yuan",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_chang_change",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangushang",
+              "MorphValue": 0.542526
+            },
+            {
+              "MorphName": "face_quanguqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_shang",
+              "MorphValue": 0.047863
+            },
+            {
+              "MorphName": "xiasai_zuo",
+              "MorphValue": 0.64614
+            },
+            {
+              "MorphName": "xiahegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.295644
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": -0.320648
+            },
+            {
+              "MorphName": "bizi_zhai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianshang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianyou",
+              "MorphValue": 0.808883
+            },
+            {
+              "MorphName": "face_yanbianqian",
+              "MorphValue": 0.590283
+            },
+            {
+              "MorphName": "xiaba_ping",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_dabo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuijiao_hou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "tutu_1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "001",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "002",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "003",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "004",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "005",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "006",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "007",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "008",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "009",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "010",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_nei",
+              "MorphValue": 0.8
+            },
+            {
+              "MorphName": "eye_s_zhong",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "eye_s_wai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_x_nei",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "eye_x_zhong",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "eye_x_wai",
+              "MorphValue": 0.6
+            },
+            {
+              "MorphName": "chunji_shang",
+              "MorphValue": -0.628008
+            },
+            {
+              "MorphName": "chunji_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": 0.572468
+            },
+            {
+              "MorphName": "biaozhun_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "tutu_ertong",
+              "MorphValue": 1.0
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.5,
+              "Z": -0.317
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 1.458,
+              "Z": 1.41
+            },
+            "EyeBallRotate": {
+              "X": -0.939,
+              "Y": 0.0,
+              "Z": 6.508
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 0.93,
+              "Z": 0.93
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 2,
+        "PresetIndex": 3,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_4.Face_preset_4",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_2_4": {
+        "FaceShapeData": {
+          "RoleIndex": 0,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 3,
+          "UseEyeTwo": true,
+          "EyeballIndex": 12,
+          "RightEyeballIndex": 0,
+          "EyeColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "EyeColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "EyeColor3": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "EyeColor4": {
+            "R": 1.0,
+            "G": 1.0,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FFFFFFFF"
+          },
+          "RightEyeColor": {
+            "R": 0.734561,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFDF0000"
+          },
+          "RightEyeColor2": {
+            "R": 1.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFFF0000"
+          },
+          "RightEyeColor3": {
+            "R": 1.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FFFF0000"
+          },
+          "RightEyeColor4": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "EyelashIndex": 15,
+          "EyebrowIndex": 13,
+          "EyebrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceIndex": 0,
+          "FaceColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "FaceMarkOffset": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "FaceMirror": 0.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "fashion_decoration_0",
+          "SkinIndex": 5,
+          "NoseIndex": 1,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": -0.077734
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.160323
+            },
+            {
+              "MorphName": "face_yanbian_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangugu",
+              "MorphValue": -0.389023
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": -0.173407
+            },
+            {
+              "MorphName": "bizi_shang",
+              "MorphValue": -0.688601
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": -0.28823
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": -0.322895
+            },
+            {
+              "MorphName": "xiahegu_shang",
+              "MorphValue": -0.741658
+            },
+            {
+              "MorphName": "zuiba_zai",
+              "MorphValue": 0.006487
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "biliang_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_yuan",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_you",
+              "MorphValue": 0.113641
+            },
+            {
+              "MorphName": "face_chang_change",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangushang",
+              "MorphValue": 0.077805
+            },
+            {
+              "MorphName": "face_quanguqian",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "xiasai_shang",
+              "MorphValue": 0.298978
+            },
+            {
+              "MorphName": "xiasai_zuo",
+              "MorphValue": 0.089693
+            },
+            {
+              "MorphName": "xiahegu_qian",
+              "MorphValue": 0.145748
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.084337
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": -0.422673
+            },
+            {
+              "MorphName": "bizi_zhai",
+              "MorphValue": 0.056534
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianshang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianyou",
+              "MorphValue": -0.346814
+            },
+            {
+              "MorphName": "face_yanbianqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_ping",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_dabo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuijiao_hou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "tutu_1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "001",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "002",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "003",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "004",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "005",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "006",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "007",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "008",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "009",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "010",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_nei",
+              "MorphValue": 0.31
+            },
+            {
+              "MorphName": "eye_s_zhong",
+              "MorphValue": 0.05
+            },
+            {
+              "MorphName": "eye_s_wai",
+              "MorphValue": 0.66
+            },
+            {
+              "MorphName": "eye_x_nei",
+              "MorphValue": -0.05
+            },
+            {
+              "MorphName": "eye_x_zhong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_x_wai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_shang",
+              "MorphValue": -0.376711
+            },
+            {
+              "MorphName": "chunji_you",
+              "MorphValue": -0.095674
+            },
+            {
+              "MorphName": "chunji_qian",
+              "MorphValue": 0.065586
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.036437
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.125571
+            },
+            {
+              "MorphName": "pingguoji_you",
+              "MorphValue": 0.621872
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.848585
+            },
+            {
+              "MorphName": "biaozhun_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "tutu_ertong",
+              "MorphValue": 0.0
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": -0.171
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 0.906,
+              "Z": 0.951
+            },
+            "EyeBallRotate": {
+              "X": -1.317,
+              "Y": 0.0,
+              "Z": 4.34
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 0.93,
+              "Z": 0.93
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 2,
+        "PresetIndex": 4,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_5.Face_preset_5",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      },
+      "FaceShape_2_5": {
+        "FaceShapeData": {
+          "RoleIndex": 0,
+          "Icon": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "HairIndex": 0,
+          "UsePartHair": false,
+          "ForeHairIndex": 0,
+          "CenterHairIndex": 0,
+          "BackHairIndex": 0,
+          "HairColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor2": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairSpecColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 0.0,
+            "Hex": "000000"
+          },
+          "HairBlendScale": 0.0,
+          "HatIndex": 0,
+          "EyeIndex": 0,
+          "UseEyeTwo": true,
+          "EyeballIndex": 12,
+          "RightEyeballIndex": 12,
+          "EyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.333691,
+            "A": 1.0,
+            "Hex": "FF00FF9C"
+          },
+          "EyeColor2": {
+            "R": 0.0,
+            "G": 0.204766,
+            "B": 0.024525,
+            "A": 1.0,
+            "Hex": "FF007D2B"
+          },
+          "EyeColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "EyeColor4": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "RightEyeColor": {
+            "R": 0.0,
+            "G": 1.0,
+            "B": 0.333691,
+            "A": 1.0,
+            "Hex": "FF00FF9C"
+          },
+          "RightEyeColor2": {
+            "R": 0.0,
+            "G": 0.204766,
+            "B": 0.024525,
+            "A": 1.0,
+            "Hex": "FF007D2B"
+          },
+          "RightEyeColor3": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "RightEyeColor4": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "EyelashIndex": 13,
+          "EyebrowIndex": 13,
+          "EyebrowColor": {
+            "R": 0.0,
+            "G": 0.0,
+            "B": 0.0,
+            "A": 1.0,
+            "Hex": "FF000000"
+          },
+          "FaceIndex": 0,
+          "FaceColor": {
+            "R": 0.020813,
+            "G": 0.026165,
+            "B": 0.097869,
+            "A": 1.0,
+            "Hex": "FF272D58"
+          },
+          "FaceMarkOffset": {
+            "R": 0.116855,
+            "G": -0.043173,
+            "B": 0.738382,
+            "A": 0.393652,
+            "Hex": "646000DF"
+          },
+          "FaceMirror": 1.0,
+          "DressFashionId": "None",
+          "DressPartColor": [],
+          "HeadwearFashionId": "fashion_decoration_24",
+          "SkinIndex": 0,
+          "NoseIndex": 0,
+          "BodyValue": 0.0,
+          "NeckValue": 0.0,
+          "ChestValue": 0.0,
+          "ChestOpenValue": 0.0,
+          "HeadValue": 0.0,
+          "LegValue": 0.0,
+          "PlayerMorphData": [
+            {
+              "MorphName": "face_chang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbian_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangugu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_jian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_zai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_weixiao",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "biliang_gu",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_yuan",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_chang_change",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quangushang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_quanguqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiasai_zuo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiahegu_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuiba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_zhai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "bizi_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianshang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianyou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_yanbianqian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "xiaba_ping",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "face_dabo",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "zuijiao_hou",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "tutu_1",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "001",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "002",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "003",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "004",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "005",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "006",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "007",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "008",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "009",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "010",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_nei",
+              "MorphValue": 0.6
+            },
+            {
+              "MorphName": "eye_s_zhong",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eye_s_wai",
+              "MorphValue": -0.1
+            },
+            {
+              "MorphName": "eye_x_nei",
+              "MorphValue": -0.2
+            },
+            {
+              "MorphName": "eye_x_zhong",
+              "MorphValue": -0.35
+            },
+            {
+              "MorphName": "eye_x_wai",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "chunji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_qian",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_shang",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "pingguoji_you",
+              "MorphValue": 0.0
+            },
+            {
+              "MorphName": "eyebrow_h",
+              "MorphValue": -0.127126
+            },
+            {
+              "MorphName": "biaozhun_ZB",
+              "MorphValue": 1.0
+            },
+            {
+              "MorphName": "tutu_ertong",
+              "MorphValue": 0.0
+            }
+          ],
+          "HeadBonesData": {
+            "HeadScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyeScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "EyePos": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "EyeBallScale": {
+              "X": 1.0,
+              "Y": 0.943,
+              "Z": 0.988
+            },
+            "EyeBallRotate": {
+              "X": -2.977,
+              "Y": 0.0,
+              "Z": 4.34
+            },
+            "NeckScale": {
+              "X": 1.0,
+              "Y": 0.93,
+              "Z": 0.93
+            },
+            "ChestScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "ChestTransition": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "LegScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine1": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Spine2": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "Bip001Clavicle": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            },
+            "RibbonScale": {
+              "X": 1.0,
+              "Y": 1.0,
+              "Z": 1.0
+            }
+          }
+        },
+        "RoleIndex": 2,
+        "PresetIndex": 5,
+        "Name": {
+          "CultureInvariantString": null
+        },
+        "bLocked": false,
+        "bDontNeedCost": false,
+        "CharmValue": 0,
+        "ActiveSource": {
+          "CultureInvariantString": null
+        },
+        "OutputSourceID": "None",
+        "bHasHat": false,
+        "PresetIcon": {
+          "AssetPathName": "/Game/Resources/UI/makeup/yushe_icon/Face_preset_6.Face_preset_6",
+          "SubPathString": ""
+        },
+        "SkeletalMesh": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DefaultColor": {
+          "R": 0.0,
+          "G": 0.0,
+          "B": 0.0,
+          "A": 0.0,
+          "Hex": "000000"
+        }
+      }
+    }
+  }
+]

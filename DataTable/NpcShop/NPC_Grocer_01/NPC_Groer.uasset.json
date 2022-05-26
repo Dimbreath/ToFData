@@ -1,0 +1,198 @@
+﻿[
+  {
+    "Type": "DlgDialogue",
+    "Name": "NPC_Groer",
+    "Properties": {
+      "Name": "NPC_Groer",
+      "GUID": "9FDDBC72-481B3C07-96D0E584-365183A9",
+      "ParticipantsData": {
+        "Grocer_001": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "OpenShop:Grocer_bangis"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      },
+      "StartNode": {
+        "ObjectName": "DlgNode_Speech NPC_Groer:DlgNode_Speech_0",
+        "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Grocer_01/NPC_Groer.2"
+      },
+      "Nodes": [
+        {
+          "ObjectName": "DlgNode_Speech NPC_Groer:DlgNode_Speech_1",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Grocer_01/NPC_Groer.3"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Groer:DlgNode_Speech_2",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Grocer_01/NPC_Groer.4"
+        },
+        {
+          "ObjectName": "DlgNode_Speech NPC_Groer:DlgNode_Speech_3",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Grocer_01/NPC_Groer.5"
+        },
+        {
+          "ObjectName": "DlgNode_End NPC_Groer:DlgNode_End_0",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Grocer_01/NPC_Groer.1"
+        }
+      ],
+      "NodesGUIDToIndexMap": null
+    }
+  },
+  {
+    "Type": "DlgNode_End",
+    "Name": "DlgNode_End_0",
+    "Outer": "NPC_Groer",
+    "Properties": {
+      "OwnerName": "Grocer_001",
+      "NodeGUID": "217BA75B-4E3C8B7A-A6DBE69C-7F53F38D"
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_0",
+    "Outer": "NPC_Groer",
+    "Properties": {
+      "NodeGUID": "2C9BB3DD-4CBFE335-66418087-E177623C",
+      "Children": [
+        {
+          "TargetIndex": 0,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Next"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_1",
+    "Outer": "NPC_Groer",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "grocer_talk1"
+      },
+      "OwnerName": "Grocer_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "NodeGUID": "C8CEFCDB-47A237D3-074B25BC-54D8927E",
+      "Children": [
+        {
+          "TargetIndex": 1,
+          "EdgeIndex": 2,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+            "Key": "playerequip01-1"
+          },
+          "TextArguments": []
+        },
+        {
+          "TargetIndex": 2,
+          "EdgeIndex": 1,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+            "Key": "playerequip01-2"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_2",
+    "Outer": "NPC_Groer",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "grocer_talk2"
+      },
+      "OwnerName": "Grocer_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "EnterEvents": [
+        {
+          "ParticipantName": "Grocer_001",
+          "EventType": "EDlgEventType::Event",
+          "EventName": "OpenShop:Grocer_bangis",
+          "IntValue": 0,
+          "FloatValue": 0.0,
+          "NameValue": "None",
+          "bDelta": false,
+          "bValue": false,
+          "CustomEvent": null
+        }
+      ],
+      "NodeGUID": "30E18D22-4EF597A6-6A25418B-1BACA844",
+      "Children": [
+        {
+          "TargetIndex": 3,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  },
+  {
+    "Type": "DlgNode_Speech",
+    "Name": "DlgNode_Speech_3",
+    "Outer": "NPC_Groer",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Resources/Dialogues/Quests/ST_fenweiNPC.ST_fenweiNPC",
+        "Key": "grocer_talk3"
+      },
+      "OwnerName": "Grocer_001",
+      "bCanSkip": false,
+      "bCanAutoContinue": false,
+      "NodeGUID": "7FBB3753-46EDA1B0-8BB4EAAA-03232EB1",
+      "Children": [
+        {
+          "TargetIndex": 3,
+          "EdgeIndex": 0,
+          "Conditions": [],
+          "SpeakerState": "None",
+          "bIncludeInAllOptionListIfUnsatisfied": true,
+          "bForceShow": false,
+          "Text": {
+            "CultureInvariantString": "Finish"
+          },
+          "TextArguments": []
+        }
+      ]
+    }
+  }
+]

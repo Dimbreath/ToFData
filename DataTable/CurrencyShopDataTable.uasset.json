@@ -1,0 +1,86 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "CurrencyShopDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct CurrencyShopData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "CurrencyCategory": "CC_COM",
+        "PathFindID": "Shop",
+        "UnlockID": "None"
+      },
+      "2": {
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "CurrencyCategory": "CC_COM",
+        "PathFindID": "Shop",
+        "UnlockID": "None"
+      },
+      "3": {
+        "CurrencyType": "EHottaCurrencyType::PrimaryEnergy2",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_Energy",
+        "UnlockID": "Shop_Energy"
+      },
+      "4": {
+        "CurrencyType": "EHottaCurrencyType::PrimaryEnergy3",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_Energy",
+        "UnlockID": "Currency_Energy_purple"
+      },
+      "5": {
+        "CurrencyType": "EHottaCurrencyType::PrimaryEnergy4",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_Energy",
+        "UnlockID": "Currency_Energy_orange"
+      },
+      "6": {
+        "CurrencyType": "EHottaCurrencyType::WeaponFragment",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_WeaponFragment",
+        "UnlockID": "Shop_WeaponFragment"
+      },
+      "7": {
+        "CurrencyType": "EHottaCurrencyType::EquipFragment",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_MatrixFragment",
+        "UnlockID": "Shop_MatrixFragment"
+      },
+      "8": {
+        "CurrencyType": "EHottaCurrencyType::GuildMeritorious",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_Guild",
+        "UnlockID": "zuzhi"
+      },
+      "9": {
+        "CurrencyType": "EHottaCurrencyType::MiniGameCoin",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_Minigame",
+        "UnlockID": "Shop_Minigame"
+      },
+      "10": {
+        "CurrencyType": "EHottaCurrencyType::HookCloneAssistContribution",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "AwardShop_Assistance",
+        "UnlockID": "Shop_Assistance"
+      },
+      "11": {
+        "CurrencyType": "EHottaCurrencyType::AchievementScore",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "Achievement",
+        "UnlockID": "Achievement"
+      },
+      "12": {
+        "CurrencyType": "EHottaCurrencyType::SharePhotoCoin",
+        "CurrencyCategory": "CC_ACTIVITY",
+        "PathFindID": "Exchange_CetusIsland",
+        "UnlockID": "None"
+      }
+    }
+  }
+]

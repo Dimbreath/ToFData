@@ -1,0 +1,1815 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "TeamConfigDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaTeamConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "AllTeam": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": false,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "NoTarget": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": false,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "WorldExploration": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 5
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": false,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "YewaiBoss": {
+        "bIsMenu": false,
+        "OwnerMenuId": "WorldExploration",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "sys_team_target_worldexploration_1"
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 5
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "DuoRenXieTong": {
+        "bIsMenu": false,
+        "OwnerMenuId": "WorldExploration",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "sys_team_target_worldexploration_1"
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 5
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "DuoRenFuBen": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 23
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": false,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IntruderTeam": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 23
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": false,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "Namespace": "",
+          "Key": "DEEAA09A4F3DD228D7523D85316F0EF7",
+          "SourceString": "Aberrant Invasion"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team02_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team02_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 20
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team02_1"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team02_KN_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team02_KN_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 25
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team02_2"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team02_SY_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team02_SY_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 31
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team02_3"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team02_D_IV": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team02_D_IV"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 37
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team02_4"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team02_D_V": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team02_D_V"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 43
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team02_5"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team02_D_VI": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team02_D_VI"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 50
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team02_6"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team02_D_VII": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team02_D_VII"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 60
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team02_7"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team03_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team03_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 20
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team03_1"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team03_KN_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team03_KN_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 25
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team03_2"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team03_SY_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team03_SY_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 31
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team03_3"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team03_D_IV": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team03_D_IV"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 37
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team03_4"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team03_D_V": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team03_D_V"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 43
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team03_5"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team03_D_VI": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team03_D_VI"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 50
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team03_6"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team03_D_VII": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team03_D_VII"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 60
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team03_7"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team04_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team04_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 20
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team04_1"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team04_KN_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team04_KN_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 25
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team04_2"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team04_SY_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team04_SY_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 31
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team04_3"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team04_D_IV": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team04_D_IV"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 37
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team04_4"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team04_D_V": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team04_D_V"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 43
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team04_5"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team04_D_VI": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team04_D_VI"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 50
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team04_6"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team04_D_VII": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team04_D_VII"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 60
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team04_7"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team05_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team05_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 20
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team05_1"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team05_KN_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team05_KN_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 25
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team05_2"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team05_SY_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team05_SY_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 31
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team05_3"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team05_D_IV": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team05_D_IV"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 37
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team05_4"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team05_D_V": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team05_D_V"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 43
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team05_5"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team05_D_VI": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team05_D_VI"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 50
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team05_6"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team05_D_VII": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team05_D_VII"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 60
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team05_7"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team06_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team06_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 20
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team06_1"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team06_D_II": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team06_D_II"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 25
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team06_2"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team06_D_III": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team06_D_III"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 31
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team06_3"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team06_D_IV": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team06_D_IV"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 37
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team06_4"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team06_D_V": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team06_D_V"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 43
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team06_5"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team06_D_VI": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team06_D_VI"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 50
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team06_6"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Team06_D_VII": {
+        "bIsMenu": false,
+        "OwnerMenuId": "DuoRenFuBen",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Team06_D_VII"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 60
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ui_fb_team06_7"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AstralPlane": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 21
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": false,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ServerAstralPlane": {
+        "bIsMenu": false,
+        "OwnerMenuId": "AstralPlane",
+        "TargetType": "ETeamTargetType::TeamTarget_APClone",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "AstralPlane_CanNotDirectlyInvolved"
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 21
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "Namespace": "",
+          "Key": "6E7B878644922CEE877BBE99E349CAE4",
+          "SourceString": "Interstellar Exploration"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ServerWorldBoss": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_APClone",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 33
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": false,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB32_WorldBoss": {
+        "bIsMenu": false,
+        "OwnerMenuId": "ServerWorldBoss",
+        "TargetType": "ETeamTargetType::TeamTarget_WorldBoss",
+        "bEnterClone": false,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "Namespace": "",
+          "Key": "FEEF88F44C77569A244F48B25B924775",
+          "SourceString": "Find (Frontier Clash) on the map to participate"
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 33
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "Namespace": "",
+          "Key": "E06EACDF46F1E4C96C372BBCE9FF4524",
+          "SourceString": "Frontier Clash"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HookClone": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": true,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 23
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ServerHookClone": {
+        "bIsMenu": false,
+        "OwnerMenuId": "HookClone",
+        "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_HookClone_02_D",
+          "FB_HookClone_02_D_A",
+          "FB_HookClone_02_D_B",
+          "FB_HookClone_03_D",
+          "FB_HookClone_03_D_A",
+          "FB_HookClone_03_D_B",
+          "FB_HookClone_04_D",
+          "FB_HookClone_04_D_A",
+          "FB_HookClone_04_D_B",
+          "ServerHookClone"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 23
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 20,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "ActivityEntrance_37_1"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "void": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_VoidClone",
+        "bEnterClone": true,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 37
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "void_team": {
+        "bIsMenu": false,
+        "OwnerMenuId": "void",
+        "TargetType": "ETeamTargetType::TeamTarget_VoidClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "void001_D",
+          "void002_D",
+          "void003_D"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 37
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "void"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "WorldEventMenu": {
+        "bIsMenu": true,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_None",
+        "bEnterClone": true,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 999
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 999
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "WorldEvent": {
+        "bIsMenu": false,
+        "OwnerMenuId": "WorldEventMenu",
+        "TargetType": "ETeamTargetType::TeamTarget_WorldEvent",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB01_Event",
+          "FB02_Event",
+          "FB03_Event",
+          "FB04_Event",
+          "FB05_Event",
+          "FB06_Event",
+          "FB10_Event",
+          "FB13_Event",
+          "FB14_Event"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 999
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 999
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": false,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_PVP_2V2_D": {
+        "bIsMenu": false,
+        "OwnerMenuId": "None",
+        "TargetType": "ETeamTargetType::TeamTarget_2V2",
+        "bEnterClone": true,
+        "CloneNameList": [],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 1
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Exclusive",
+            "Value": 99
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "CultureInvariantString": null
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Intruder": {
+        "bIsMenu": false,
+        "OwnerMenuId": "IntruderTeam",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Intruder"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 18
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "Namespace": "",
+          "Key": "E2C4B49E421B370F48D006BBF889CB25",
+          "SourceString": "Aberrant Invasion (Normal)"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FB_Intruder_Hard": {
+        "bIsMenu": false,
+        "OwnerMenuId": "IntruderTeam",
+        "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+        "bEnterClone": true,
+        "CloneNameList": [
+          "FB_Intruder_Hard"
+        ],
+        "CannotEnterCloneDescription": {
+          "CultureInvariantString": null
+        },
+        "CharacterLevelLimit": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 18
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 70
+          }
+        },
+        "bMatchOtherPlayer": true,
+        "TimeoutForAddRobot": 0,
+        "bEnterCloneWhileMatchSuccess": true,
+        "ShowName": {
+          "Namespace": "",
+          "Key": "00B3B09F44BE2D60CDAFE6AFCF33BE49",
+          "SourceString": "Aberrant Invasion (Challenge)"
+        },
+        "ShowDifficultyImage": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

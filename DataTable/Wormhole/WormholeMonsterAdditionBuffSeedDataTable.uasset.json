@@ -1,0 +1,951 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "WormholeMonsterAdditionBuffSeedDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct WormholeMonsterAdditionBuffSeedData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "1001_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_buff_smallfire_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallfire.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "1001_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass Wormhole_BuffPoint_IceDefAdded_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_IceDefAdded.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "1001_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass Wormhole_BuffPoint_ThunderDefAdded_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_ThunderDefAdded.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "1002_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass Wormhole_BuffPoint_FireDefAdded_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_FireDefAdded.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "1002_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_buff_smallfire_ice_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallfire_ice.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "1999_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_014_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Thunder",
+        "Weight": 1
+      },
+      "10001_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_012_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Flame",
+        "Weight": 1
+      },
+      "10001_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_013_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Ice",
+        "Weight": 1
+      },
+      "10001_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_014_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Thunder",
+        "Weight": 0
+      },
+      "10001_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_015_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Physics",
+        "Weight": 1
+      },
+      "10002_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_016_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_016.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10002_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_017_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_017.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10002_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_018_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_018.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 0
+      },
+      "10002_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_019_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_019.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_001_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_001.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_002_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_002.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_003_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_003.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_004_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_004.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_5": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_005_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_005.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_6": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_006_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_006.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_7": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_008_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_008.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_8": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_009_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_009.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_9": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_010_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_010.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10003_10": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_011_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_011.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10004_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_001_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_001.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10004_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_002_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_002.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10004_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_003_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_003.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10004_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_004_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_004.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10004_5": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_009_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_009.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10004_6": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_010_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_010.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10004_7": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_011_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_011.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10005_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_014_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Thunder",
+        "Weight": 1
+      },
+      "10006_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_013_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Ice",
+        "Weight": 1
+      },
+      "10006_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_012_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Flame",
+        "Weight": 1
+      },
+      "10006_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_015_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::Physics",
+        "Weight": 1
+      },
+      "10007_1": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_009_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_009.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10007_2": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_003_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_003.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10007_3": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_004_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_004.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 0
+      },
+      "10007_4": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_005_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_005.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 0
+      },
+      "10007_5": {
+        "BuffData": {
+          "BuffClass": {
+            "ObjectName": "BlueprintGeneratedClass wormhole_monsterbuff_006_C",
+            "ObjectPath": "Hotta/Content/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_006.0"
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 0
+      },
+      "10008_1": {
+        "BuffData": {
+          "BuffClass": null,
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10008_2": {
+        "BuffData": {
+          "BuffClass": null,
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      },
+      "10008_3": {
+        "BuffData": {
+          "BuffClass": null,
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0.0,
+            "fModifyDuration": 0.0,
+            "fPeriod": 0.0,
+            "nStackCount": 0,
+            "fStrengthMult": 1.0,
+            "fStrengthAdd": 0.0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        },
+        "WeaknessElement": "EWeaponElementType::None",
+        "Weight": 1
+      }
+    }
+  }
+]

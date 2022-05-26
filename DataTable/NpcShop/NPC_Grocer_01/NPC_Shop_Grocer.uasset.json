@@ -1,0 +1,80 @@
+﻿[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "NPC_Shop_Grocer_C",
+    "Super": "IdleStatePatrolBP_Base_C",
+    "SuperStruct": {
+      "ObjectName": "BlueprintGeneratedClass IdleStatePatrolBP_Base_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/AI/AIState/IdleStatePatrolBP_Base.0"
+    },
+    "ClassFlags": 264208,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "NPC_Shop_Grocer_C Default__NPC_Shop_Grocer_C",
+      "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/DataTable/NpcShop/NPC_Grocer_01/NPC_Shop_Grocer.1"
+    }
+  },
+  {
+    "Type": "NPC_Shop_Grocer_C",
+    "Name": "Default__NPC_Shop_Grocer_C",
+    "Template": "Default__IdleStatePatrolBP_Base_C",
+    "Properties": {
+      "PatrolType": "EAIPatrolType::InSitu",
+      "bUseRandomAnim": true,
+      "RandomAnimList": [
+        {
+          "Anim": null,
+          "Weight": 1.0,
+          "NPCMsg": {
+            "NPCMsgEntries": [
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": {
+                      "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+                      "Key": "atmosphere_grocer_1"
+                    },
+                    "MsgDuration": 5.0,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1.0,
+                "MessageType": "ENPCMessageShowType::Bubble"
+              }
+            ]
+          }
+        },
+        {
+          "Anim": null,
+          "Weight": 1.0,
+          "NPCMsg": {
+            "NPCMsgEntries": [
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": {
+                      "TableId": "/Game/Resources/Dialogues/Quests/QRSLGuideMsg_ST.QRSLGuideMsg_ST",
+                      "Key": "atmosphere_grocer_2"
+                    },
+                    "MsgDuration": 5.0,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1.0,
+                "MessageType": "ENPCMessageShowType::Bubble"
+              }
+            ]
+          }
+        }
+      ],
+      "RandomAnimIntervalMin": 15.0,
+      "RandomAnimIntervalMax": 15.0,
+      "bExecuteRandomAnimImmediatelyWhenStateBegin": true
+    }
+  }
+]

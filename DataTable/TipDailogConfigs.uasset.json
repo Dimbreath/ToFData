@@ -1,0 +1,35 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "TipDailogConfigs",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct TipDialogData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "test1": {
+        "TipDialogMessage": {
+          "Namespace": "",
+          "Key": "8EE1EFA54F263EA059DE5FA7BCBBE119",
+          "SourceString": "测试场景提示界面功能.................."
+        }
+      },
+      "EnergyNotEnough": {
+        "TipDialogMessage": {
+          "Namespace": "",
+          "Key": "31B787A64B3298DC6A2B3594902BF6F0",
+          "SourceString": "Insufficient Endurance"
+        }
+      },
+      "EnergyIsExhausted": {
+        "TipDialogMessage": {
+          "Namespace": "",
+          "Key": "86FEF87243C25ABE24D64797ABEDC086",
+          "SourceString": "Currently exhausted"
+        }
+      }
+    }
+  }
+]

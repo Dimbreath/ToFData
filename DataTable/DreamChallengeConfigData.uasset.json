@@ -1,0 +1,1094 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DreamChallengeConfigData",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct DreamChallengeConfigRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "DC01_Activity": {
+        "DescriptionID": "DC01_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "5FE8A4004ABBC60D291C5BB0B5F0AEA4",
+          "SourceString": "Maze Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing01.mengjing01",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 490.0,
+        "GoalList": [
+          {
+            "GoalId": "DC01_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "5D67BAFB4D6875F77DF5118DAB7D06DF",
+              "SourceString": "Get out of the maze"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC01_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "FA6E7FEF4B87C5B8B2861A934C944C87",
+              "SourceString": "Complete in less than 4 minutes"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC01_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "90A167BD47D44F2644465EB29B1FCDF1",
+              "SourceString": "Complete in less than 3 minutes"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC01_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "284DC6724E0EE92E3B7B01AC3BE2989C",
+              "SourceString": "Complete in less than 2 minutes"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "7507343B41910F9CA0117B937F9C981B",
+          "SourceString": "Maze Challenge - Get out of the maze within the time limit"
+        }
+      },
+      "DC02_Activity": {
+        "DescriptionID": "DC02_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "5715041B447A850F221EBF82CE0C3D63",
+          "SourceString": "Power Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing02.mengjing02",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 310.0,
+        "GoalList": [
+          {
+            "GoalId": "DC02_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "636B879544AD14FB46FBEB83931E3E2C",
+              "SourceString": "Defeat enemies on the field"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC02_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "25459BCF48003AA093446D8F2A709D3A",
+              "SourceString": "Complete in less than 4 minutes"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC02_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "190741EC4C0AEE199F267DB2CE5316C3",
+              "SourceString": "Complete in less than 3 minutes"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC02_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "D8F8DDE34A98442B1A70BCB78A28A77E",
+              "SourceString": "Complete in less than 2 minutes"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "2392EBC84F20093ADE6061912CEAFEC7",
+          "SourceString": "Power Challenge: Defeat enemies on the field within the time limit"
+        }
+      },
+      "DC03_Activity": {
+        "DescriptionID": "DC03_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "0CBE11CA438AF4EAA5D384B046B6C058",
+          "SourceString": "Defense Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing03.mengjing03",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 490.0,
+        "GoalList": [
+          {
+            "GoalId": "DC03_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "22C3FE2B4AED4C8F7F64A399C13D89A5",
+              "SourceString": "Stop the enemies from entering the transmission portal"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC03_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "679DB4BA44443A9D89B859867D9D809A",
+              "SourceString": "No enemies entering"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC03_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "E68B4B2A4B0A72A6676C6E9382642DDF",
+              "SourceString": "Less than 2 enemies entering"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC03_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "EC573F5E44F5AD843D6983A202BDE0ED",
+              "SourceString": "Less than 4 enemies entering"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "01F9796845C5F6B1552065993456915F",
+          "SourceString": "Defense Challenge - Stop the enemies from entering the transmission portal (less than 5 enemies entering)"
+        }
+      },
+      "DC04_Activity": {
+        "DescriptionID": "DC04_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "D131C45848AF989DFDA7D79AE3BDCDBC",
+          "SourceString": "Control Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing04.mengjing04",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 45.0,
+        "GoalList": [
+          {
+            "GoalId": "DC04_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "8D96CBB641B722BD9A65928AAD6374B3",
+              "SourceString": "Reach the destination"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC04_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "3FF1017348D8A3A335D39BBBD210D8D0",
+              "SourceString": "More than 10 seconds remaining"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC04_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "2E1C5C7E416C92B04F6D7A8A20C3FB6F",
+              "SourceString": "More than 20 seconds remaining"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC04_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "E25D600F4F1B663A037182B545984832",
+              "SourceString": "More than 30 seconds remaining"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "BD1BD60F42A74E82821BEC9B8D872B33",
+          "SourceString": "Control Challenge - Reach the destination within the time limit"
+        }
+      },
+      "DC05_Activity": {
+        "DescriptionID": "DC05_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "6CE6B3684B99DD96B77CAF801ED01BA7",
+          "SourceString": "Control Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing05.mengjing05",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 45.0,
+        "GoalList": [
+          {
+            "GoalId": "DC05_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "5B0C0EA94431389E717C26BF0A89DFA9",
+              "SourceString": "Reach the destination"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC05_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "36FCBAC149F52E77DC8B52A91B5B5B0D",
+              "SourceString": "More than 10 seconds remaining"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC05_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "C5BDED5244DA3261AE22E6A31F69E7A3",
+              "SourceString": "More than 20 seconds remaining"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC05_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "45854EF341C1FA32B978DC836FAEC5FE",
+              "SourceString": "More than 30 seconds remaining"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "350FCBDB4DE54582C5100686D0BE438D",
+          "SourceString": "Control Challenge - Reach the destination within the time limit"
+        }
+      },
+      "DC06_Activity": {
+        "DescriptionID": "DC06_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "5C6070C24875BC2F3555BA98D848BB2D",
+          "SourceString": "Survival Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing06.mengjing06",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 190.0,
+        "GoalList": [
+          {
+            "GoalId": "DC06_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "FE080E6E4D705D682B8ADC871B8B9BC4",
+              "SourceString": "Stay alive for 3 minutes on the field"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC06_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "DF60AA75407EAE8818228ABA8CEEAAB5",
+              "SourceString": "Defeat 30 enemies"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC06_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "59103320470D2CDC6DCFE4A634C7AF99",
+              "SourceString": "Defeat 50 enemies"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC06_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "E10D4D5944585233AD3277969AB67E97",
+              "SourceString": "Defeat 70 enemies"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "937C46D7491C1884BF1CA99DC414BA2C",
+          "SourceString": "Survival Challenge: Stay alive for a set amount of time"
+        }
+      },
+      "DC08_Activity": {
+        "DescriptionID": "DC08_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "EE989C634EFB3CA3A2224CB21782924B",
+          "SourceString": "Lucky Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing08.mengjing08",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 310.0,
+        "GoalList": [
+          {
+            "GoalId": "DC08_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "3147305E45A5A159880F4F84E6557E55",
+              "SourceString": "Reach the destination"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC08_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "F1B3D3564F37CFFA4CD7B1AC9CA77011",
+              "SourceString": "Complete in less than 4 minutes"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC08_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "F9250A274ABECE3A81111E9997A06C26",
+              "SourceString": "Complete in less than 3 minutes"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC08_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "0C22F4D84356C542A5D20C86FD07091F",
+              "SourceString": "Complete in less than 2 minutes"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "58DED5F2425329C2DD789D9B28339490",
+          "SourceString": "Lucky Challenge - Reach the destination within the time limit"
+        }
+      },
+      "DC09_Activity": {
+        "DescriptionID": "DC09_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "B51890B54EFEAB4B8662DE8AAADA19EE",
+          "SourceString": "Maze Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing09.mengjing09",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 310.0,
+        "GoalList": [
+          {
+            "GoalId": "DC09_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "09736D0A4C1EAEBC6C9CD1ABCDAFB4A2",
+              "SourceString": "Collect rift energy ×8"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC09_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "512EF04F4B37CF35338A8E99F727E70E",
+              "SourceString": "Collect rift energy ×11"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC09_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "F8DCE5B64E7BC99A24F2EF8197308936",
+              "SourceString": "Collect rift energy ×13"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC09_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "582EA8064B6D196816EB489B1730017B",
+              "SourceString": "Collect rift energy ×15"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "A0C4A54B4CF671502AD1ACBECE263BC4",
+          "SourceString": "Maze Challenge - Collect rift energy within the time limit"
+        }
+      },
+      "DC10_Activity": {
+        "DescriptionID": "DC10_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "B0BF87554561087D4408CF97B147545E",
+          "SourceString": "Shooting Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing10.mengjing10",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 110.0,
+        "GoalList": [
+          {
+            "GoalId": "DC10_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "58E453204A0F7B708A1AFB8AF14E7880",
+              "SourceString": "Obtain 500 points"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC10_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "B72517A34FC8184A87C60BBF6B10719B",
+              "SourceString": "Obtain 800 points"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC10_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "2548425C43213F24F87F2DABB7D870EF",
+              "SourceString": "Obtain 1200 points"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC10_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "47601B234BCA1B98E54342B68C84EAC5",
+              "SourceString": "Obtain 1600 points"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "9356A63E44D13D36F9B4288107F99FB7",
+          "SourceString": "Shooting Challenge - Shoot the targets to obtain points within the time limit"
+        }
+      },
+      "DC11_Activity": {
+        "DescriptionID": "DC11_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "2202E252472C4E27F23E65812F952B08",
+          "SourceString": "Collecting Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing11.mengjing11",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 150.0,
+        "GoalList": [
+          {
+            "GoalId": "DC11_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "DB94FF8D457E85E0428227A89E9CB75D",
+              "SourceString": "Collect 300 points of energy"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC11_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "77F001F24AEE15F8FEC9B6B2BF508FCD",
+              "SourceString": "Complete in no more than 240 seconds"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC11_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "DC31F69449D95C147EFCC384E1C1C395",
+              "SourceString": "Complete in no more than 180 seconds"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC11_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "AE1B0E3D4A1077D37B73D7A10732D368",
+              "SourceString": "Complete in no more than 120 seconds"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "9C0319674964F355E2A3258084D05C3B",
+          "SourceString": "Energy Collection: Gather 300 points of energy within the allotted time"
+        }
+      },
+      "DC12_Activity": {
+        "DescriptionID": "DC12_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "1F10778345039D76D6A4DE967092356F",
+          "SourceString": "Collecting Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing12.mengjing12",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 190.0,
+        "GoalList": [
+          {
+            "GoalId": "DC12_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "F94393A1463E8CC938B5D7A709A952F5",
+              "SourceString": "Reach the destination"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC12_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "AA56FACF4D1CF149A2395387579EB3BD",
+              "SourceString": "Collect rift energy ×80"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC12_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "3F144BE943FBF0BBD99321907CEAE169",
+              "SourceString": "Collect rift energy ×100"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC12_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "0103763A4D6E7E6415E635ABF3EF71FF",
+              "SourceString": "Collect rift energy ×120"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "6795DA104D3EE55018859CAEE0D82141",
+          "SourceString": "Collecting Challenge: Complete within the time limit"
+        }
+      },
+      "DC13_Activity": {
+        "DescriptionID": "DC13_Activity",
+        "CloneName": {
+          "Namespace": "",
+          "Key": "042E45DC4C6C14EFC48C598EC37D0823",
+          "SourceString": "Memory Challenge"
+        },
+        "CloneImage": {
+          "AssetPathName": "/Game/Resources/UI/Activity/Hopkins/mengjing13.mengjing13",
+          "SubPathString": ""
+        },
+        "AwardList": [
+          {
+            "ItemID": "item_Gold",
+            "Amount": 1,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 2,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 3,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          },
+          {
+            "ItemID": "item_Gold",
+            "Amount": 4,
+            "ExpLimitIndex": 0,
+            "MustDrop": true,
+            "IsBind": true,
+            "ExtraParamsStr": ""
+          }
+        ],
+        "TimeLimit": 120.0,
+        "GoalList": [
+          {
+            "GoalId": "DC13_0",
+            "Description": {
+              "Namespace": "",
+              "Key": "A6D33B0C4853A991E784F488131C54E8",
+              "SourceString": "Matched"
+            },
+            "bIsMainGoal": true
+          },
+          {
+            "GoalId": "DC13_1",
+            "Description": {
+              "Namespace": "",
+              "Key": "96B8F07B4EC6D3A1F635B18338FD3B36",
+              "SourceString": "Complete in less than 240 seconds"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC13_2",
+            "Description": {
+              "Namespace": "",
+              "Key": "321E106C4DADE4D994178CA020824BBD",
+              "SourceString": "Complete in less than 160 seconds"
+            },
+            "bIsMainGoal": false
+          },
+          {
+            "GoalId": "DC13_3",
+            "Description": {
+              "Namespace": "",
+              "Key": "A937C6534818B51A409A8D95694942E7",
+              "SourceString": "Complete in less than 80 seconds"
+            },
+            "bIsMainGoal": false
+          }
+        ],
+        "GoalDesc": {
+          "Namespace": "",
+          "Key": "6D65A6B34DA7E7D4B637EF90CD8DFA6F",
+          "SourceString": "Memory Challenge - Match all the holograms within the time limit"
+        }
+      }
+    }
+  }
+]

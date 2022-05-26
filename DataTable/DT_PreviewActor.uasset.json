@@ -1,0 +1,1161 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_PreviewActor",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PreviewActorData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "preview_gun": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.25881815,
+            "Y": -9.256067E-08,
+            "Z": -0.965926,
+            "W": 3.454421E-07,
+            "IsNormalized": true,
+            "Size": 0.99999994,
+            "SizeSquared": 0.9999999
+          },
+          "Translation": {
+            "X": -5.0,
+            "Y": 0.0,
+            "Z": 12.0
+          },
+          "Scale3D": {
+            "X": 1.1,
+            "Y": 1.1,
+            "Z": 1.1
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_stick": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 15.0
+          },
+          "Scale3D": {
+            "X": 1.7,
+            "Y": 1.7,
+            "Z": 1.7
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_sword": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 1.6,
+            "Y": 0.0,
+            "Z": 10.0
+          },
+          "Scale3D": {
+            "X": 1.2,
+            "Y": 1.2,
+            "Z": 1.2
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "/Game/Resources/Effect/Particles/FX_UI/FX_Common/P_Common_001.P_Common_001",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_spear": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -9.0,
+            "Y": 0.0,
+            "Z": 33.0
+          },
+          "Scale3D": {
+            "X": 0.85,
+            "Y": 0.85,
+            "Z": 0.85
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_bow": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.7071069,
+            "Y": 0.0,
+            "Z": 0.0,
+            "W": 0.7071067,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0000001
+          },
+          "Translation": {
+            "X": -18.0,
+            "Y": 0.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Transforms": [
+          {
+            "Rotation": {
+              "X": 0.7071069,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.7071067,
+              "IsNormalized": true,
+              "Size": 1.0,
+              "SizeSquared": 1.0000001
+            },
+            "Translation": {
+              "X": -20.0,
+              "Y": 0.0,
+              "Z": 50.0
+            },
+            "Scale3D": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            }
+          }
+        ],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_hammer": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -18.0,
+            "Y": 0.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_bigsword": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 8.0,
+            "Y": 0.0,
+            "Z": 10.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "/Game/Resources/Effect/Particles/FX_UI/FX_Common/P_Common_001.P_Common_001",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_cloth": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.029469,
+            "Y": -0.03216,
+            "Z": 0.736576,
+            "W": 0.674947,
+            "IsNormalized": true,
+            "Size": 1.0000002,
+            "SizeSquared": 1.0000005
+          },
+          "Translation": {
+            "X": 174.0,
+            "Y": 1.0,
+            "Z": -93.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_pants": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.737277,
+            "W": 0.67559,
+            "IsNormalized": true,
+            "Size": 0.9999996,
+            "SizeSquared": 0.99999917
+          },
+          "Translation": {
+            "X": 140.0,
+            "Y": -2.0,
+            "Z": -82.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "preview_shoes": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.760406,
+            "W": 0.649448,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": 152.0,
+            "Y": -2.5,
+            "Z": -30.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "Preview_cannon": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -25.0,
+            "Y": 0.0,
+            "Z": 20.0
+          },
+          "Scale3D": {
+            "X": 0.85,
+            "Y": 0.85,
+            "Z": 0.85
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "Preview_digger": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -10.0,
+            "Y": 0.0,
+            "Z": 20.0
+          },
+          "Scale3D": {
+            "X": 1.5,
+            "Y": 1.5,
+            "Z": 1.5
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "Preview_staves": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -22.0,
+            "Y": 0.0,
+            "Z": 57.0
+          },
+          "Scale3D": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "Preview_sickle": {
+        "Transform": {
+          "Rotation": {
+            "X": 0.0,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 1.0,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -20.0,
+            "Y": 0.0,
+            "Z": 50.0
+          },
+          "Scale3D": {
+            "X": 0.8,
+            "Y": 0.8,
+            "Z": 0.8
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      },
+      "Preview_darts": {
+        "Transform": {
+          "Rotation": {
+            "X": -0.70710653,
+            "Y": -0.0,
+            "Z": 0.0,
+            "W": 0.70710707,
+            "IsNormalized": true,
+            "Size": 1.0,
+            "SizeSquared": 1.0
+          },
+          "Translation": {
+            "X": -33.0,
+            "Y": 0.0,
+            "Z": 78.0
+          },
+          "Scale3D": {
+            "X": 1.25,
+            "Y": 1.25,
+            "Z": 1.25
+          }
+        },
+        "Transforms": [],
+        "IdleAnimation": null,
+        "CurveVector": {
+          "ObjectName": "CurveVector WeaponCurve",
+          "ObjectPath": "Hotta/Content/Resources/CoreBlueprints/Weapons/Player/WeaponCurve.0"
+        },
+        "Particle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        },
+        "DynamicParticle": {
+          "Particle": {
+            "AssetPathName": "None",
+            "SubPathString": ""
+          },
+          "ParticleLocation": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "ParticleRotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          },
+          "ParticleScale": {
+            "X": 1.0,
+            "Y": 1.0,
+            "Z": 1.0
+          },
+          "BindSocketName": "None",
+          "ImitationElementEffectName": "None"
+        }
+      }
+    }
+  }
+]

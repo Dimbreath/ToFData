@@ -1,0 +1,352 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_TowerExplore",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct TowerExploreConfig",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "Tower1": {
+        "UnlockMapRegionID": 0,
+        "ReachEnergyGoal": 0,
+        "FinishMinigameID": "None",
+        "CloseCostItem": {
+          "ItemID": "Tower_xingyuan1",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        "RelateQuestID": "q1010601",
+        "RelateQuestObjID": "1",
+        "NameTips": {
+          "Namespace": "",
+          "Key": "0C70CED4481B6219C252B599DC2876A2",
+          "SourceString": "Astra Omnium Tower"
+        },
+        "LocationTips": {
+          "Namespace": "",
+          "Key": "74D3E246423CDDD48AA299AF2F736D22",
+          "SourceString": "Astra"
+        },
+        "TowerMatInst": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "FullEnergy": 1750,
+        "EnergyInfo": [
+          {
+            "EnergyValue": 90,
+            "AwardDropID": "tower1_award_sp"
+          },
+          {
+            "EnergyValue": 265,
+            "AwardDropID": "tower1_award1"
+          },
+          {
+            "EnergyValue": 440,
+            "AwardDropID": "tower1_award2"
+          },
+          {
+            "EnergyValue": 700,
+            "AwardDropID": "tower1_award3"
+          },
+          {
+            "EnergyValue": 965,
+            "AwardDropID": "tower1_award4"
+          },
+          {
+            "EnergyValue": 1225,
+            "AwardDropID": "tower1_award5"
+          },
+          {
+            "EnergyValue": 1490,
+            "AwardDropID": "tower1_award6"
+          },
+          {
+            "EnergyValue": 1750,
+            "AwardDropID": "tower1_award7"
+          }
+        ],
+        "RelateTreasureBoxNum": 48,
+        "RelateSpotPhotoNum": 5,
+        "RelateYahahaNum": 114,
+        "RelateTransferPointNum": 6,
+        "RelateSingleCloneNum": 3,
+        "RelateTowerPointNum": 1
+      },
+      "Tower2": {
+        "UnlockMapRegionID": 1,
+        "ReachEnergyGoal": 0,
+        "FinishMinigameID": "None",
+        "CloseCostItem": {
+          "ItemID": "Tower_xingyuan1",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        "RelateQuestID": "q102139",
+        "RelateQuestObjID": "1",
+        "NameTips": {
+          "Namespace": "",
+          "Key": "E9E11B7846618C1A0CED29A5A40E4D4B",
+          "SourceString": "Banges Omnium Tower"
+        },
+        "LocationTips": {
+          "Namespace": "",
+          "Key": "FBE4638B43A3934384735483F7F572AA",
+          "SourceString": "Banges"
+        },
+        "TowerMatInst": {
+          "AssetPathName": "/Game/Resources/UI/Tower/M_tower_2.M_tower_2",
+          "SubPathString": ""
+        },
+        "FullEnergy": 1990,
+        "EnergyInfo": [
+          {
+            "EnergyValue": 100,
+            "AwardDropID": "tower2_award_sp"
+          },
+          {
+            "EnergyValue": 300,
+            "AwardDropID": "tower2_award1"
+          },
+          {
+            "EnergyValue": 500,
+            "AwardDropID": "tower2_award2"
+          },
+          {
+            "EnergyValue": 800,
+            "AwardDropID": "tower2_award3"
+          },
+          {
+            "EnergyValue": 1095,
+            "AwardDropID": "tower2_award4"
+          },
+          {
+            "EnergyValue": 1395,
+            "AwardDropID": "tower2_award5"
+          },
+          {
+            "EnergyValue": 1695,
+            "AwardDropID": "tower2_award6"
+          },
+          {
+            "EnergyValue": 1990,
+            "AwardDropID": "tower2_award7"
+          }
+        ],
+        "RelateTreasureBoxNum": 58,
+        "RelateSpotPhotoNum": 6,
+        "RelateYahahaNum": 128,
+        "RelateTransferPointNum": 8,
+        "RelateSingleCloneNum": 3,
+        "RelateTowerPointNum": 1
+      },
+      "Tower3": {
+        "UnlockMapRegionID": 2,
+        "ReachEnergyGoal": 0,
+        "FinishMinigameID": "None",
+        "CloseCostItem": {
+          "ItemID": "Tower_xingyuan1",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        "RelateQuestID": "q103071",
+        "RelateQuestObjID": "1",
+        "NameTips": {
+          "Namespace": "",
+          "Key": "6D58AAD04E8E7B7D91351CAE94F8A220",
+          "SourceString": "Navia Omnium Tower"
+        },
+        "LocationTips": {
+          "Namespace": "",
+          "Key": "073C8A8B48A3BEE7CC397D82EE600F92",
+          "SourceString": "Navia"
+        },
+        "TowerMatInst": {
+          "AssetPathName": "/Game/Resources/UI/Tower/M_tower_3.M_tower_3",
+          "SubPathString": ""
+        },
+        "FullEnergy": 1645,
+        "EnergyInfo": [
+          {
+            "EnergyValue": 250,
+            "AwardDropID": "tower3_award1"
+          },
+          {
+            "EnergyValue": 415,
+            "AwardDropID": "tower3_award2"
+          },
+          {
+            "EnergyValue": 660,
+            "AwardDropID": "tower3_award3"
+          },
+          {
+            "EnergyValue": 905,
+            "AwardDropID": "tower3_award4"
+          },
+          {
+            "EnergyValue": 1155,
+            "AwardDropID": "tower3_award5"
+          },
+          {
+            "EnergyValue": 1400,
+            "AwardDropID": "tower3_award6"
+          },
+          {
+            "EnergyValue": 1645,
+            "AwardDropID": "tower3_award7"
+          }
+        ],
+        "RelateTreasureBoxNum": 54,
+        "RelateSpotPhotoNum": 4,
+        "RelateYahahaNum": 98,
+        "RelateTransferPointNum": 4,
+        "RelateSingleCloneNum": 3,
+        "RelateTowerPointNum": 1
+      },
+      "Tower4": {
+        "UnlockMapRegionID": 3,
+        "ReachEnergyGoal": 0,
+        "FinishMinigameID": "None",
+        "CloseCostItem": {
+          "ItemID": "Tower_xingyuan1",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        "RelateQuestID": "q104048",
+        "RelateQuestObjID": "1",
+        "NameTips": {
+          "Namespace": "",
+          "Key": "DB9294764361848BC45A0EBC06D6F531",
+          "SourceString": "Crown Omnium Tower"
+        },
+        "LocationTips": {
+          "Namespace": "",
+          "Key": "EE0170624F507AD25CBC658CE2B2EA26",
+          "SourceString": "Crown"
+        },
+        "TowerMatInst": {
+          "AssetPathName": "/Game/Resources/UI/Tower/M_tower_4.M_tower_4",
+          "SubPathString": ""
+        },
+        "FullEnergy": 1905,
+        "EnergyInfo": [
+          {
+            "EnergyValue": 290,
+            "AwardDropID": "tower4_award1"
+          },
+          {
+            "EnergyValue": 480,
+            "AwardDropID": "tower4_award2"
+          },
+          {
+            "EnergyValue": 765,
+            "AwardDropID": "tower4_award3"
+          },
+          {
+            "EnergyValue": 1050,
+            "AwardDropID": "tower4_award4"
+          },
+          {
+            "EnergyValue": 1335,
+            "AwardDropID": "tower4_award5"
+          },
+          {
+            "EnergyValue": 1620,
+            "AwardDropID": "tower4_award6"
+          },
+          {
+            "EnergyValue": 1905,
+            "AwardDropID": "tower4_award7"
+          }
+        ],
+        "RelateTreasureBoxNum": 52,
+        "RelateSpotPhotoNum": 4,
+        "RelateYahahaNum": 125,
+        "RelateTransferPointNum": 6,
+        "RelateSingleCloneNum": 3,
+        "RelateTowerPointNum": 1
+      },
+      "Tower5": {
+        "UnlockMapRegionID": 4,
+        "ReachEnergyGoal": 0,
+        "FinishMinigameID": "None",
+        "CloseCostItem": {
+          "ItemID": "Tower_xingyuan1",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        "RelateQuestID": "q105019",
+        "RelateQuestObjID": "2",
+        "NameTips": {
+          "Namespace": "",
+          "Key": "6695181149C5C57F44F19FBE5DEA7F4F",
+          "SourceString": "Warren Omnium Tower"
+        },
+        "LocationTips": {
+          "Namespace": "",
+          "Key": "282C56F348E981FC8F27EE94421A6BE6",
+          "SourceString": "Warren"
+        },
+        "TowerMatInst": {
+          "AssetPathName": "/Game/Resources/UI/Tower/M_tower_5.M_tower_5",
+          "SubPathString": ""
+        },
+        "FullEnergy": 1875,
+        "EnergyInfo": [
+          {
+            "EnergyValue": 285,
+            "AwardDropID": "tower5_award1"
+          },
+          {
+            "EnergyValue": 470,
+            "AwardDropID": "tower5_award2"
+          },
+          {
+            "EnergyValue": 750,
+            "AwardDropID": "tower5_award3"
+          },
+          {
+            "EnergyValue": 1035,
+            "AwardDropID": "tower5_award4"
+          },
+          {
+            "EnergyValue": 1315,
+            "AwardDropID": "tower5_award5"
+          },
+          {
+            "EnergyValue": 1595,
+            "AwardDropID": "tower5_award6"
+          },
+          {
+            "EnergyValue": 1875,
+            "AwardDropID": "tower5_award7"
+          }
+        ],
+        "RelateTreasureBoxNum": 50,
+        "RelateSpotPhotoNum": 4,
+        "RelateYahahaNum": 129,
+        "RelateTransferPointNum": 6,
+        "RelateSingleCloneNum": 3,
+        "RelateTowerPointNum": 1
+      }
+    }
+  }
+]

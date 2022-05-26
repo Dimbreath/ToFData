@@ -1,0 +1,643 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "FootStepSoundDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct AnimSoundRowData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "h_sprint": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Run_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Run_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "run": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Normal_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Normal_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "walk": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Squat_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Squat_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 0.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_down": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbFt_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbFt_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedleft_u1": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJump_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJump_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedleft_u2": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJumpEnd_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "walk_down": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Normal_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Normal_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "jump_fall": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_into": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbFt_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbFt_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_jump": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbFt_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbFt_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_left": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbFt_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbFt_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_over": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbFt_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbFt_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_right": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbFt_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbFt_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedright_u1": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJump_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJump_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedright_u2": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJumpEnd_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedup_l1": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJump_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJump_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedup_l2": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJumpEnd_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedupleft1": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJump_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJump_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedupleft2": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJumpEnd_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedupright1": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJump_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJump_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_speedupright2": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJumpEnd_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_stop": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbJumpEnd_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "climb_up": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_ClimbFt_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_ClimbFt_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "push": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Normal_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Normal_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "step": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Normal_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Normal_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_down": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_downlow": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_downlowrun": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_fall": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_fallsprint": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_roll": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_rollrun": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_rollsprint": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_situ": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "roll": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_loop": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      },
+      "char_h_jump_downcommon": {
+        "AnimSound": {
+          "ObjectName": "AkAudioEvent Play_Sfx_Player_Fts_Jump_End_Switch",
+          "ObjectPath": "Hotta/Content/WwiseAudio/Events/SFX/Player_Move/Play_Sfx_Player_Fts_Jump_End_Switch.0"
+        },
+        "Noise": {
+          "NoiseLocation": {
+            "X": 3.4028235E+38,
+            "Y": 3.4028235E+38,
+            "Z": 3.4028235E+38
+          },
+          "Loudness": 1.0,
+          "MaxRange": 0.0,
+          "Instigator": null,
+          "Tag": "None"
+        }
+      }
+    }
+  }
+]

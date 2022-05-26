@@ -1,0 +1,28 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PlayerSkillMontageDataTable_16",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PlayerSkillMontageData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "GA_FPlayerStavesSkillThu": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/staves/imitation14/FPlayerStavesSkill_imitation14.FPlayerStavesSkill_imitation14",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      },
+      "GA_FPlayerStavesChangeSkillThu": {
+        "MontageToPlay": {
+          "AssetPathName": "/Game/Resources/Characters/Player/female_01/Animation/staves/imitation14/FPlayerStavesChangeSkill_imitation14.FPlayerStavesChangeSkill_imitation14",
+          "SubPathString": ""
+        },
+        "OverLapActorStop": true
+      }
+    }
+  }
+]

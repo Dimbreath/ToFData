@@ -1,0 +1,4162 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "AttributeStaticDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct AttributeStaticData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "FightPower": {
+        "Value": 1.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FightPower"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CommonAtkBase": {
+        "Value": 2.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CommonAtkBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CommonAtkAdded": {
+        "Value": 2.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CommonAtkAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 96,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "F89B10524020559FBFB1518C935550B5",
+          "SourceString": "Adaptive Attack"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CommonAtkMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CommonAtkMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 93,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "6319207B4615CCF3DF0E57A9FF8E38AA",
+          "SourceString": "Base Physical ATK"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "4F8D571446B15CFC4399EAA6B40F60A0",
+          "SourceString": "Physical ATK Boost Percentage"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkFixedAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "492E4ADC43E3E012C6C654A65889DCBF",
+          "SourceString": "Unaffected by DEF"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkBeExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkBeExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkBeExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkBeExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyDefAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyDefAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def.icon_def",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 89,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyDefMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyDefMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyDefFixedAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyDefFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyDefIgnoreMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyDefIgnoreMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyDefIgnore": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyDefIgnore"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+wswf.+wswf",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-wswf.-wswf",
+          "SubPathString": ""
+        },
+        "AttributePriority": 95,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "PhyDefIgnore_des"
+        },
+        "AttributeDescFunction": "GetActualPhyDefIgnore",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk_bing.icon_atk_bing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 91,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkFixedAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkBeExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkBeExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkBeExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkBeExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceDefAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceDefAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def_bing.icon_def_bing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 86,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceDefMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceDefMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceDefFixedAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceDefFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceDefIgnoreMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceDefIgnoreMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceDefIgnore": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceDefIgnore"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_breach_bing.icon_breach_bing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+wsbk.+wsbk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-wsbk.-wsbk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 89,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "IceDefIgnore_des"
+        },
+        "AttributeDescFunction": "GetActualIceDefIgnore",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk_huo.icon_atk_huo",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 92,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkFixedAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkBeExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkBeExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkBeExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkBeExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireDefAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireDefAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def_huo.icon_def_huo",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 87,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireDefMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireDefMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireDefFixedAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireDefFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireDefIgnoreMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireDefIgnoreMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireDefIgnore": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireDefIgnore"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_breach_huo.icon_breach_huo",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+wshk.+wshk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-wshk.-wshk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 92,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "FireDefIgnore_des"
+        },
+        "AttributeDescFunction": "GetActualFireDefIgnore",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk_dian.icon_atk_dian",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 90,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkFixedAdded": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkBeExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkBeExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkBeExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkBeExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderDefAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderDefAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def_dian.icon_def_dian",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 85,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderDefMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderDefMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderDefFixedAdded": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderDefFixedAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderDefIgnoreMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderDefIgnoreMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderDefIgnore": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderDefIgnore"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_breach_lei.icon_breach_lei",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+wslk.+wslk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-wslk.-wslk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 86,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "ThunderDefIgnore_des"
+        },
+        "AttributeDescFunction": "GetActualThunderDefIgnore",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ElementDef": {
+        "Value": 1.6,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ElementDef"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_resist_all.icon_resist_all",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ElementDefMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ElementDefMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 88,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxHealth": {
+        "Value": 0.025,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxHealth"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_Item_max.icon_Item_max",
+          "SubPathString": ""
+        }
+      },
+      "MaxHealthAdded": {
+        "Value": 0.025,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxHealthAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 96,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxHealthMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxHealthMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Mana": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Mana"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxManaAdded": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxManaAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxManaMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxManaMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Energy": {
+        "Value": 5.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Energy"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 93,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxEnergyAdded": {
+        "Value": 5.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxEnergyAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_energy.icon_energy",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+nl.+nl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-nl.-nl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 93,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "MaxEnergyAdded_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxEnergyMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxEnergyMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Rage": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Rage"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxRageAdded": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxRageAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxRageMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxRageMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CritAdded": {
+        "Value": 0.4,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CritAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baoji.icon_baoji",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bj.+bj",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bj.-bj",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "CritAdded_des"
+        },
+        "AttributeDescFunction": "GetActualCritMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CritMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CritMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "CritAdded_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CritDam": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CritDam"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baoshang.icon_baoshang",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bjsh.+bjsh",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bjsh.-bjsh",
+          "SubPathString": ""
+        },
+        "AttributePriority": 91,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "CritDam_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CritDefAdded": {
+        "Value": 0.4,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CritDefAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baokang.icon_baokang",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+kbj.+kbj",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-kbj.-kbj",
+          "SubPathString": ""
+        },
+        "AttributePriority": 87,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "CritDefAdded_des"
+        },
+        "AttributeDescFunction": "GetActualCritDefMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CritDefMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CritDefMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "CritDefAdded_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalDamageExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalDamageExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalDamageExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalDamageExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalDamageBeExtraUpMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalDamageBeExtraUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalDamageBeExtraDownMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalDamageBeExtraDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "EnergyRecoverMult": {
+        "Value": 5.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "EnergyRecoverMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_energy_huifu.icon_energy_huifu",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+nlhf.+nlhf",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-nlhf.-nlhf",
+          "SubPathString": ""
+        },
+        "AttributePriority": 92,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "EnergyRecoverMult_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "SkillLevel": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "SkillLevel"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FirePowerPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FirePowerPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_acceptUp_huo.icon_acceptUp_huo",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+dr.+dr",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-dr.-dr",
+          "SubPathString": ""
+        },
+        "AttributePriority": 94,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "FirePowerPro_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IcePowerPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IcePowerPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_acceptUp_bing.icon_acceptUp_bing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bd.+bd",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bd.-bd",
+          "SubPathString": ""
+        },
+        "AttributePriority": 91,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "IcePowerPro_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderPowerPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderPowerPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_acceptUp_lei.icon_acceptUp_lei",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+gd.+gd",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-gd.-gd",
+          "SubPathString": ""
+        },
+        "AttributePriority": 88,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "ThunderPowerPro_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ElementPowerPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ElementPowerPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FirePowerDefPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FirePowerDefPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_resistUp_huo.icon_resistUp_huo",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+drdk.+drdk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-drdk.-drdk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 93,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "FirePowerDefPro_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IcePowerDefPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IcePowerDefPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_resistUp_bing.icon_resistUp_bing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bddk.+bddk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bddk.-bddk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 90,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "IcePowerDefPro_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderPowerDefPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderPowerDefPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_resistUp_lei.icon_resistUp_lei",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+gddk.+gddk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-gddk.-gddk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 87,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "ThunderPowerDefPro_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ElementPowerDefPro": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ElementPowerDefPro"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Tenacity": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Tenacity"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HealUpMult": {
+        "Value": 19.87288,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "HealUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_zhiliaoUP.icon_zhiliaoUP",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+zlts.+zlts",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-zlts.-zlts",
+          "SubPathString": ""
+        },
+        "AttributePriority": 85,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "HealUpMult_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HealDownMult": {
+        "Value": 19.87288,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "HealDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HealedUpMult": {
+        "Value": 100.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "HealedUpMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_beizhiliaoUP.icon_beizhiliaoUP",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bzlts.+bzlts",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bzlts.-bzlts",
+          "SubPathString": ""
+        },
+        "AttributePriority": 82,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "HealedUpMult_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HealedDownMult": {
+        "Value": 100.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "HealedDownMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HealCritAdded": {
+        "Value": 0.4,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "HealCritAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_zhiliaobaoji.icon_zhiliaobaoji",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+zlbj.+zlbj",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-zlbj.-zlbj",
+          "SubPathString": ""
+        },
+        "AttributePriority": 84,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "HealCritAdded_des"
+        },
+        "AttributeDescFunction": "GetHeadCrit",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "HealCritDam": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "HealCritDam"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_zhiliaobaojibeilv.icon_zhiliaobaojibeilv",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+zlbjbl.+zlbjbl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-zlbjbl.-zlbjbl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 83,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "HealCritDam_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AbnormalState": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "AbnormalState"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/Icon_abnormalstate.Icon_abnormalstate",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+ycqh.+ycqh",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-ycqh.-ycqh",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "Vertigo_des"
+        },
+        "AttributeDescFunction": "GetActualAbnormalStateMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "AbnormalStateResistance": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "AbnormalStateResistance"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/Icon_abnormalResistance.Icon_abnormalResistance",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+ycdk.+ycdk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-ycdk.-ycdk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 98,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "VertigoResistance_des"
+        },
+        "AttributeDescFunction": "GetActualAbnormalStateResistanceMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Rigidity": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Rigidity"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_yingzhiatk.icon_yingzhiatk",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+yzqh.+yzqh",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-yzqh.-yzqh",
+          "SubPathString": ""
+        },
+        "AttributePriority": 97,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "Rigidity_des"
+        },
+        "AttributeDescFunction": "GetActualRigidityMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "RigidityResistance": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "RigidityResistance"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_renxing.icon_renxing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+yzdk.+yzdk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-yzdk.-yzdk",
+          "SubPathString": ""
+        },
+        "AttributePriority": 96,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "RigidityResistance_des"
+        },
+        "AttributeDescFunction": "GetActualRigidityResistanceMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ElementDefIgnore": {
+        "Value": 1.6,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ElementDefIgnore"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/Icon_EleDefIgnore.Icon_EleDefIgnore",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+wsqk.+wsqk",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-wskx.-wskx",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalCrit": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalCrit"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baoji.icon_baoji",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bjl.+bjl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bjl.-bjl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 98,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "F3CDD7EC4BD5E4544863DE9243FAD9D0",
+          "SourceString": "Increase the overall chance of triggering a crit."
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalCritDef": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalCritDef"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baokang.icon_baokang",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+kbl.+kbl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-kbl.-kbl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "52A261EE4C61BCBB8BE06C940DE8CE29",
+          "SourceString": "Reduce the overall chance of receiving a crit."
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalAbnormalState": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalAbnormalState"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/Icon_abnormalstateMul.Icon_abnormalstateMul",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+ycqhl.+ycqhl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-ycqhl.-ycqhl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "9251BD8E4F9CF87085EF1CAC96FE132D",
+          "SourceString": "Increase the overall chance of triggering a debuff."
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalAbnormalStateResistance": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalAbnormalStateResistance"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/Icon_abnormalstateResistanceMul.Icon_abnormalstateResistanceMul",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+ycdkl.+ycdkl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-ycdkl.-ycdkl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "C00B1CEE4E67CC8D99B1B1BF88AAE34F",
+          "SourceString": "Increase the overall chance of resisting a debuff."
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalRigidity": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalRigidity"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_yingzhiatk.icon_yingzhiatk",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+yzqhl.+yzqhl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-yzqhl.-yzqhl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "B10DA6BF409CC433BBC5C18B0B95D77E",
+          "SourceString": "Increase the overall chance of triggering hitstun."
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalRigidityResistance": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FinalRigidityResistance"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_renxing.icon_renxing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+yzdkl.+yzdkl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-yzdkl.-yzdkl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "Namespace": "",
+          "Key": "3819DB04426E7D30A8ECA7B0CC73EE9D",
+          "SourceString": "Increase the overall chance of resisting hitstun."
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Health": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Health"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MoveSpeed": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MoveSpeed"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_speed.icon_speed",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxHP": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxHP"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+sm.+sm",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-sm.-sm",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "MaxHP_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_Item_max.icon_Item_max",
+          "SubPathString": ""
+        }
+      },
+      "MaxEnergy": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxEnergy"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_energy.icon_energy",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+nl.+nl",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-nl.-nl",
+          "SubPathString": ""
+        },
+        "AttributePriority": 93,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "MaxEnergyAdded_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhysicalAttack": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhysicalAttack"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+wg.+wg",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-wg.-wg",
+          "SubPathString": ""
+        },
+        "AttributePriority": 97,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "PhysicalAttack_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhysicalDef": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhysicalDef"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def.icon_def",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+wf.+wf",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-wf.-wf",
+          "SubPathString": ""
+        },
+        "AttributePriority": 90,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "PhysicalDef_des"
+        },
+        "AttributeDescFunction": "GetActualDefDamReduction",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtk": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtk"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk_huo.icon_atk_huo",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+hg.+hg",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-hg.-hg",
+          "SubPathString": ""
+        },
+        "AttributePriority": 96,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "FireAtk_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireDefense": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireDefense"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def_huo.icon_def_huo",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+hf.+hf",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-hf.-hf",
+          "SubPathString": ""
+        },
+        "AttributePriority": 88,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "FireDefense_des"
+        },
+        "AttributeDescFunction": "GetActualFireDefDamReduction",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtk": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtk"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk_bing.icon_atk_bing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bg.+bg",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bg.-bg",
+          "SubPathString": ""
+        },
+        "AttributePriority": 95,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "IceAtk_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceDefense": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceDefense"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def_bing.icon_def_bing",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bf.+bf",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bf.-bf",
+          "SubPathString": ""
+        },
+        "AttributePriority": 87,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "IceDefense_des"
+        },
+        "AttributeDescFunction": "GetActualIceDefDamReduction",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtk": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtk"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_atk_dian.icon_atk_dian",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+lg.+lg",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-lg.-lg",
+          "SubPathString": ""
+        },
+        "AttributePriority": 94,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "ThunderAtk_des"
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderDefense": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderDefense"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_def_dian.icon_def_dian",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+lf.+lf",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-lf.-lf",
+          "SubPathString": ""
+        },
+        "AttributePriority": 86,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "ThunderDefense_des"
+        },
+        "AttributeDescFunction": "GetActualThunderDefDamReduction",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "VirusAtk": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "VirusAtk"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "VirusDefense": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "VirusDefense"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Crit": {
+        "Value": 0.4,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Crit"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baoji.icon_baoji",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+bj.+bj",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-bj.-bj",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "CritAdded_des"
+        },
+        "AttributeDescFunction": "GetActualCritMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CritDef": {
+        "Value": 0.4,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CritDef"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baokang.icon_baokang",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+kbj.+kbj",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-kbj.-kbj",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "TableId": "/Game/Resources/Text/ST_Equipment.ST_Equipment",
+          "Key": "CritDefAdded_des"
+        },
+        "AttributeDescFunction": "GetActualCritDefMult",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "CritDamPercentage": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "CritDamPercentage"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_baoshang.icon_baoshang",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Treat": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Treat"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_energy_huifu.icon_energy_huifu",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MoveSpeedMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MoveSpeedMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_speed.icon_speed",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 95,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "TreatAdded": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "TreatAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 98,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "TreatMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "TreatMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 99,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "BreakDef": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "BreakDef"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/+pf.+pf",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "/Game/Resources/UI/shuxingpiaozi/-pf.-pf",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+          "SubPathString": ""
+        }
+      },
+      "BreakDefMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "BreakDefMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+          "SubPathString": ""
+        }
+      },
+      "ArmorBase": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ArmorBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ArmorAdded": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ArmorAdded"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ArmorMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ArmorMult"
+        },
+        "bShowPercent": true,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Satiety": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "Satiety"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "MaxSatiety": {
+        "Value": 0.0,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "MaxSatiety"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyAtkBase": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyAtkBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireAtkBase": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireAtkBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderAtkBase": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderAtkBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceAtkBase": {
+        "Value": 1.5,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceAtkBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "PhyDefBase": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "PhyDefBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FireDefBase": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "FireDefBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "ThunderDefBase": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "ThunderDefBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "IceDefBase": {
+        "Value": 0.48,
+        "AttributeText": {
+          "TableId": "/Game/Resources/Text/QRSLCommon_ST.QRSLCommon_ST",
+          "Key": "IceDefBase"
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalArtifactDamageExtraMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "Namespace": "",
+          "Key": "9B152F5B4A37E521842778A54891F9A5",
+          "SourceString": "Increase Relic damage."
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "FinalArtifactDamageBeExtraMult": {
+        "Value": 0.0,
+        "AttributeText": {
+          "Namespace": "",
+          "Key": "7B8E83654C535715B147E5BC84F13FFE",
+          "SourceString": "Reduce damage taken from Relics."
+        },
+        "bShowPercent": false,
+        "AttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AddAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "DecAttributeNamePhoto": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "AttributePriority": 0,
+        "AttributeDescription": {
+          "CultureInvariantString": null
+        },
+        "AttributeDescFunction": "None",
+        "ItemAttributeIcon": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

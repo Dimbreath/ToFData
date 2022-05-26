@@ -1,0 +1,80 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "GuildShopLevelDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct GuildShopLevelData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GoodsDiscount": 1.0,
+        "GoodsDiscountText": {
+          "CultureInvariantString": null
+        },
+        "UpgradeCost": 12900,
+        "EffectText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_shop_01"
+        }
+      },
+      "2": {
+        "GoodsDiscount": 1.0,
+        "GoodsDiscountText": {
+          "CultureInvariantString": null
+        },
+        "UpgradeCost": 23500,
+        "EffectText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_shop_02"
+        }
+      },
+      "3": {
+        "GoodsDiscount": 1.0,
+        "GoodsDiscountText": {
+          "CultureInvariantString": null
+        },
+        "UpgradeCost": 42900,
+        "EffectText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_shop_03"
+        }
+      },
+      "4": {
+        "GoodsDiscount": 1.0,
+        "GoodsDiscountText": {
+          "CultureInvariantString": null
+        },
+        "UpgradeCost": 69000,
+        "EffectText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_shop_04"
+        }
+      },
+      "5": {
+        "GoodsDiscount": 1.0,
+        "GoodsDiscountText": {
+          "CultureInvariantString": null
+        },
+        "UpgradeCost": 87400,
+        "EffectText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_shop_05"
+        }
+      },
+      "6": {
+        "GoodsDiscount": 1.0,
+        "GoodsDiscountText": {
+          "CultureInvariantString": null
+        },
+        "UpgradeCost": 0,
+        "EffectText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "guild_shop_06"
+        }
+      }
+    }
+  }
+]

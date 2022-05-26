@@ -1,0 +1,442 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "PersonalityTypeDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct PersonalityTypeData",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Reason": {
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.158961,
+            "G": 0.686686,
+            "B": 1.0,
+            "A": 1.0,
+            "Hex": "FF6FD8FF"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "MeshRotation": {
+          "Pitch": -3.03,
+          "Yaw": 152.47,
+          "Roll": -4.15
+        },
+        "PersonalityTypeText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "Personality_45"
+        },
+        "PersonalityTitleConditions": [
+          {
+            "Score": 1,
+            "PersonalityTitleID": "Reason_1"
+          },
+          {
+            "Score": 30,
+            "PersonalityTitleID": "Reason_2"
+          },
+          {
+            "Score": 60,
+            "PersonalityTitleID": "Reason_3"
+          },
+          {
+            "Score": 90,
+            "PersonalityTitleID": "Reason_4"
+          }
+        ],
+        "UnlockPersonalityConditions": [
+          {
+            "Score": 1,
+            "PersonalityID": "Reason_1_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Reason_1_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Reason_1_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Reason_1_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Reason_1_5"
+          },
+          {
+            "Score": 85,
+            "PersonalityID": "Reason_1_6"
+          },
+          {
+            "Score": 1,
+            "PersonalityID": "Reason_2_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Reason_2_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Reason_2_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Reason_2_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Reason_2_5"
+          }
+        ],
+        "IconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_lizhi.xingge_icon_lizhi",
+          "SubPathString": ""
+        },
+        "CheckIconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_lizhi.xingge_icon_lizhi",
+          "SubPathString": ""
+        },
+        "TagIconTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Self": {
+        "Color": {
+          "SpecifiedColor": {
+            "R": 1.0,
+            "G": 0.283149,
+            "B": 0.323143,
+            "A": 1.0,
+            "Hex": "FFFF919A"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "MeshRotation": {
+          "Pitch": -4.56,
+          "Yaw": 31.65,
+          "Roll": 8.82
+        },
+        "PersonalityTypeText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "personality_46"
+        },
+        "PersonalityTitleConditions": [
+          {
+            "Score": 1,
+            "PersonalityTitleID": "Self_1"
+          },
+          {
+            "Score": 30,
+            "PersonalityTitleID": "Self_2"
+          },
+          {
+            "Score": 60,
+            "PersonalityTitleID": "Self_3"
+          },
+          {
+            "Score": 90,
+            "PersonalityTitleID": "Self_4"
+          }
+        ],
+        "UnlockPersonalityConditions": [
+          {
+            "Score": 1,
+            "PersonalityID": "Self_1_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Self_1_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Self_1_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Self_1_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Self_1_5"
+          },
+          {
+            "Score": 85,
+            "PersonalityID": "Self_1_6"
+          },
+          {
+            "Score": 1,
+            "PersonalityID": "Self_2_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Self_2_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Self_2_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Self_2_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Self_2_5"
+          }
+        ],
+        "IconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_ziwo.xingge_icon_ziwo",
+          "SubPathString": ""
+        },
+        "CheckIconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_ziwo.xingge_icon_ziwo",
+          "SubPathString": ""
+        },
+        "TagIconTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Brisk": {
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.078187,
+            "G": 0.879623,
+            "B": 0.423268,
+            "A": 1.0,
+            "Hex": "FF4FF1AE"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "MeshRotation": {
+          "Pitch": 28.0,
+          "Yaw": -179.26,
+          "Roll": 98.32
+        },
+        "PersonalityTypeText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "personality_47"
+        },
+        "PersonalityTitleConditions": [
+          {
+            "Score": 1,
+            "PersonalityTitleID": "Brisk_1"
+          },
+          {
+            "Score": 30,
+            "PersonalityTitleID": "Brisk_2"
+          },
+          {
+            "Score": 60,
+            "PersonalityTitleID": "Brisk_3"
+          },
+          {
+            "Score": 90,
+            "PersonalityTitleID": "Brisk_4"
+          }
+        ],
+        "UnlockPersonalityConditions": [
+          {
+            "Score": 1,
+            "PersonalityID": "Brisk_1_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Brisk_1_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Brisk_1_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Brisk_1_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Brisk_1_5"
+          },
+          {
+            "Score": 85,
+            "PersonalityID": "Brisk_1_6"
+          },
+          {
+            "Score": 1,
+            "PersonalityID": "Brisk_2_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Brisk_2_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Brisk_2_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Brisk_2_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Brisk_2_5"
+          }
+        ],
+        "IconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_huoyue.xingge_icon_huoyue",
+          "SubPathString": ""
+        },
+        "CheckIconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_huoyue.xingge_icon_huoyue",
+          "SubPathString": ""
+        },
+        "TagIconTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Leader": {
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.760525,
+            "G": 0.775822,
+            "B": 0.219526,
+            "A": 1.0,
+            "Hex": "FFE2E481"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "MeshRotation": {
+          "Pitch": 6.88,
+          "Yaw": -89.77,
+          "Roll": 0.95
+        },
+        "PersonalityTypeText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "personality_48"
+        },
+        "PersonalityTitleConditions": [
+          {
+            "Score": 1,
+            "PersonalityTitleID": "Leader_1"
+          },
+          {
+            "Score": 30,
+            "PersonalityTitleID": "Leader_2"
+          },
+          {
+            "Score": 60,
+            "PersonalityTitleID": "Leader_3"
+          },
+          {
+            "Score": 90,
+            "PersonalityTitleID": "Leader_4"
+          }
+        ],
+        "UnlockPersonalityConditions": [
+          {
+            "Score": 1,
+            "PersonalityID": "Leader_1_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Leader_1_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Leader_1_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Leader_1_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Leader_1_5"
+          },
+          {
+            "Score": 85,
+            "PersonalityID": "Leader_1_6"
+          },
+          {
+            "Score": 1,
+            "PersonalityID": "Leader_2_1"
+          },
+          {
+            "Score": 25,
+            "PersonalityID": "Leader_2_2"
+          },
+          {
+            "Score": 40,
+            "PersonalityID": "Leader_2_3"
+          },
+          {
+            "Score": 55,
+            "PersonalityID": "Leader_2_4"
+          },
+          {
+            "Score": 70,
+            "PersonalityID": "Leader_2_5"
+          }
+        ],
+        "IconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_lingxiu.xingge_icon_lingxiu",
+          "SubPathString": ""
+        },
+        "CheckIconTexture": {
+          "AssetPathName": "/Game/Resources/UI/xingge/xingge_icon_lingxiu.xingge_icon_lingxiu",
+          "SubPathString": ""
+        },
+        "TagIconTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      },
+      "Other": {
+        "Color": {
+          "SpecifiedColor": {
+            "R": 0.438685,
+            "G": 0.484375,
+            "B": 0.479547,
+            "A": 1.0,
+            "Hex": "FFB1B9B8"
+          },
+          "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+        },
+        "MeshRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "PersonalityTypeText": {
+          "TableId": "/Game/Resources/Text/UI.UI",
+          "Key": "personality_49"
+        },
+        "PersonalityTitleConditions": [
+          {
+            "Score": 0,
+            "PersonalityTitleID": "None"
+          }
+        ],
+        "UnlockPersonalityConditions": [],
+        "IconTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "CheckIconTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        },
+        "TagIconTexture": {
+          "AssetPathName": "None",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

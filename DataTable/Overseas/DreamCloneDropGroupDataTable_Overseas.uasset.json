@@ -1,0 +1,223 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DreamCloneDropGroupDataTable_Overseas",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct DreamCloneDropGroupConfigData",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "dream_gem": {
+        "DropAwards": {
+          "0": "drop_dream_gem_1",
+          "1": "drop_dream_gem_2",
+          "2": "drop_dream_gem_3",
+          "3": "drop_dream_gem_4"
+        },
+        "DropWeight": 40.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 200
+          }
+        }
+      },
+      "dream_artifact": {
+        "DropAwards": {
+          "0": "drop_dream_artifact_1",
+          "1": "drop_dream_artifact_2",
+          "2": "drop_dream_artifact_3",
+          "3": "drop_dream_artifact_4"
+        },
+        "DropWeight": 50.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 200
+          }
+        }
+      },
+      "dream_strength": {
+        "DropAwards": {
+          "0": "drop_dream_strength_1",
+          "1": "drop_dream_strength_2",
+          "2": "drop_dream_strength_3",
+          "3": "drop_dream_strength_4"
+        },
+        "DropWeight": 30.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 200
+          }
+        }
+      },
+      "dream_matrix_stage1": {
+        "DropAwards": {
+          "0": "drop_dream_matrix_stage1_1",
+          "1": "drop_dream_matrix_stage1_2",
+          "2": "drop_dream_matrix_stage1_3",
+          "3": "drop_dream_matrix_stage1_4"
+        },
+        "DropWeight": 50.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 30
+          }
+        }
+      },
+      "dream_matrix_stage2": {
+        "DropAwards": {
+          "0": "drop_dream_matrix_stage2_1",
+          "1": "drop_dream_matrix_stage2_2",
+          "2": "drop_dream_matrix_stage2_3",
+          "3": "drop_dream_matrix_stage2_4"
+        },
+        "DropWeight": 20.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 31
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 200
+          }
+        }
+      },
+      "dream_matrix_stage3": {
+        "DropAwards": {
+          "0": "drop_dream_matrix_stage3_1",
+          "1": "drop_dream_matrix_stage3_2",
+          "2": "drop_dream_matrix_stage3_3",
+          "3": "drop_dream_matrix_stage3_4"
+        },
+        "DropWeight": 30.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 31
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 200
+          }
+        }
+      },
+      "dream_equip_stage1": {
+        "DropAwards": {
+          "0": "drop_dream_equip_stage1_1",
+          "1": "drop_dream_equip_stage1_2",
+          "2": "drop_dream_equip_stage1_3",
+          "3": "drop_dream_equip_stage1_4"
+        },
+        "DropWeight": 30.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 40
+          }
+        }
+      },
+      "dream_equip_stage2": {
+        "DropAwards": {
+          "0": "drop_dream_equip_stage2_1",
+          "1": "drop_dream_equip_stage2_2",
+          "2": "drop_dream_equip_stage2_3",
+          "3": "drop_dream_equip_stage2_4"
+        },
+        "DropWeight": 25.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 41
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 50
+          }
+        }
+      },
+      "dream_equip_stage3": {
+        "DropAwards": {
+          "0": "drop_dream_equip_stage3_1",
+          "1": "drop_dream_equip_stage3_2",
+          "2": "drop_dream_equip_stage3_3",
+          "3": "drop_dream_equip_stage3_4"
+        },
+        "DropWeight": 5.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 41
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 50
+          }
+        }
+      },
+      "dream_equip_stage4": {
+        "DropAwards": {
+          "0": "drop_dream_equip_stage4_1",
+          "1": "drop_dream_equip_stage4_2",
+          "2": "drop_dream_equip_stage4_3",
+          "3": "drop_dream_equip_stage4_4"
+        },
+        "DropWeight": 20.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 51
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 200
+          }
+        }
+      },
+      "dream_equip_stage5": {
+        "DropAwards": {
+          "0": "drop_dream_equip_stage5_1",
+          "1": "drop_dream_equip_stage5_2",
+          "2": "drop_dream_equip_stage5_3",
+          "3": "drop_dream_equip_stage5_4"
+        },
+        "DropWeight": 10.0,
+        "DropLevelRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 51
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Inclusive",
+            "Value": 200
+          }
+        }
+      }
+    }
+  }
+]

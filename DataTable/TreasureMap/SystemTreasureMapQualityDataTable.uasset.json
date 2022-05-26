@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "SystemTreasureMapQualityDataTable",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct SystemTreasureMapQualityInfo",
+        "ObjectPath": "/Script/QRSL"
+      }
+    },
+    "Rows": {
+      "Normal": {
+        "ItemID": "SystemTreasureMap",
+        "Weight": 6,
+        "DigSuccessAwardsDropID": "drop_chip_1",
+        "DigFailedAwardsDropID": "drop_gem_001"
+      },
+      "ExceedsExpectations": {
+        "ItemID": "SystemTreasureMap2",
+        "Weight": 3,
+        "DigSuccessAwardsDropID": "drop_chip_2",
+        "DigFailedAwardsDropID": "drop_gem_002"
+      },
+      "Outstanding": {
+        "ItemID": "SystemTreasureMap3",
+        "Weight": 1,
+        "DigSuccessAwardsDropID": "drop_chip_3",
+        "DigFailedAwardsDropID": "drop_gem_003"
+      }
+    }
+  }
+]

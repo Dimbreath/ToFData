@@ -1,0 +1,1814 @@
+﻿[
+  {
+    "Type": "DataTable",
+    "Name": "DT_Illustration",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct HottaIllustrationRow",
+        "ObjectPath": "/Script/HottaFramework"
+      }
+    },
+    "Rows": {
+      "npc_shu_001_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "5A4B06394DE0A14993E54EA2D3FF3E5D",
+          "SourceString": "Zeke"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "C4964DE542828C13F6C4E2A894633EBF",
+          "SourceString": "Zeke is the leader of Astra Shelter."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_xiazuo.npc_xiazuo",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "82574624433274B33DA69C8449F32A85",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q101010",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "62335F26419ECC41D2067281041A09AF",
+              "SourceString": "Serious, but not scary. Probably a nice person."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "658B6875460068EA16D856B4AA158D42",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "7743ADC541295642F0FA55B60791D858",
+              "SourceString": "Apocalypse"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q10100793",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "25E2FC8140658809BF1B9EB37A56CD48",
+              "SourceString": "Zeke might be too serious sometimes, but I can understand his worries."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "971D03554EB41AB8A0FDAF832A443CE6",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "BA07A1674C7E3783701118B8C5B7ADF7",
+              "SourceString": "Apocalypse"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q101021",
+            "ObjectiveID": "6",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "30A7144F4FDD9B614CF3C0B6F6031F3A",
+              "SourceString": "I never expected Zeke to betray us. What's going on?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "E242C0804B3CCF8BC8268C82AA488879",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "46C361FF42F86DC1324CB2AE5A07CF01",
+              "SourceString": "Apocalypse"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q102014",
+            "ObjectiveID": "6",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "C7A3612942ED9301BE9D1AB4FE9F2162",
+              "SourceString": "What happened when Zeke suddenly appeared in Banges with that strange woman?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "3E3DD6A943E9E239075876818624FE32",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "68A213D341E626AE86B5FD95494C62DB",
+              "SourceString": "Apocalypse"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q103024",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "2B679581438006FED72483814E7CA16E",
+              "SourceString": "Some things happened later on. I understand why Zeke did what he did, and I should trust him. But the people that are with him..."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "8F6DD1CD4DA946960FE230950930427C",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "49BD3E0D43A329702A724799F98079E5",
+              "SourceString": "Apocalypse"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q105054",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "36AF79BB440E31D2075DF3B839C237DA",
+              "SourceString": "Ultimately, Zeke just wants to save Shirli, and that might be why he decided to leave the shelter and join the Heirs. He'll probably be back with her once everything is over, though."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "4D6B74A94FA3306D301001A1551E48D5",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "F134A3314A22D68DB202A0B4E891052C",
+              "SourceString": "Apocalypse"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          }
+        ]
+      },
+      "npc_shu_010_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "99E6894F469EAC0750C5068E06FF226B",
+          "SourceString": "Shirli"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "5403162842B4EF009EA0B6AD44166AB9",
+          "SourceString": "Shirli is a nurse trainee at Astra Shelter."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_shali.npc_shali",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "A8BC8AB341621A1EDE91F18E148D5D6F",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q101010",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "CDE14A6D4490145B8049AE81BA879024",
+              "SourceString": "Being lively and cute, she is approachable, like a little sun that gives warmth to people."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "A202115E41CE59E37BE20C8633AEE337",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "CC16994446893C618790BEA55226D708",
+              "SourceString": "Red Dragonfly"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q1010077",
+            "ObjectiveID": "3",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "0FD101BC461FB0176F4851A0EDC43CF9",
+              "SourceString": "Unlike others, she's helpful and kind. People like her are rare these days."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "837F4E32458E5380C169AAA3C2626B33",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "EA037942479453805156E891706F44C1",
+              "SourceString": "Red Dragonfly"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q101021",
+            "ObjectiveID": "6",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "DE6180074C0E8DD64D4BE0804A09FAD3",
+              "SourceString": "Shirli was wounded and in critical condition. But she was taken away by Zeke, so maybe that woman really has ways to save her?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "D7232730409D39EC0358998E29389B11",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "8D36B07B48055AD0418DA5A40596A3FF",
+              "SourceString": "Red Dragonfly"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q103026",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "AA3A263A4619B7F34AA9B580FF72ED72",
+              "SourceString": "What is happening these days? How did Shirli become like this? Can this really save Shirli? Is it still Shirli who is saved?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "DC4D0FCD4DA42335C0E610A4089737C5",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "0CBE5F2047802DB3C8F59AA8B7CF2AD8",
+              "SourceString": "Red Dragonfly"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q105054",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "2F7B76084D900AC2E0FB2FBE56C3A0C2",
+              "SourceString": "This Shirli is both a stranger and a friend. Should we call her Shirli, or Nemesis?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "945F8DC344BB7464E25A5B9747F0D04A",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "59732AD64058FED7C3E970AAE5A19451",
+              "SourceString": "Red Dragonfly"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          },
+          {
+            "QuestID": "q105092",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "B4FB776B4D8445DAAB3597A04A9AE070",
+              "SourceString": "—Good morning, Shirli.\r\n—Look, the sun is still up as usual.\r\n—Let's go outside the shelter together!"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "8DB1877340F87D71A0BEBC98A02A80B9",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "608D487645384EDFAB98E6A59B245FE2",
+              "SourceString": "Red Dragonfly"
+            },
+            "AwardDropId": "drop_weapon_sr_first"
+          }
+        ]
+      },
+      "npc_shu_013_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "0772BB9140DCDA883A4F5C8D188DBEFD",
+          "SourceString": "Celine"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "02D8EC4043F32011FF51D0B2C50817B2",
+          "SourceString": "Celine is an officer in charge of purchasing supplies for Astra Shelter."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_sailin.npc_sailin",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "3419812D44A2A221E661BC8FB681850B",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q101012",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "5025686349C7A316C74E849B671B3B92",
+              "SourceString": "She's always smiling, but... I feel like we shouldn't get on her bad side."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "505B19624CEBD2D244C914A477F64E46",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "A4E413F4445D11D4877AFC83BA9EACC2",
+              "SourceString": "Red Rose"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q101021",
+            "ObjectiveID": "4",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "F3150E964DA0F76EA3DB729A75D15DDA",
+              "SourceString": "I can see that what happened to Shirli was a big blow to Celine. After all, she was everyone's beloved little girl."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "371AC55C4E6B2F60503A6BA0722F3287",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "1B505B63433EADD1886B8CA13D5FF6EF",
+              "SourceString": "Red Rose"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q101061",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "0ABA636647FBA86B898653A10417C911",
+              "SourceString": "Celine hopes that I can find Zeke. No one wanted to see something so traumatic happen to Astra."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "768D12CC492E9C6C355B2FA9C72B3481",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "BA18B6F24B3E22269710FDAC6BA5E94D",
+              "SourceString": "Red Rose"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_003_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "C93F25034B06B0F525F24E9BA431A6E4",
+          "SourceString": "Palu"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "DA7B7BA746B6969607D0BAAC4A1008C1",
+          "SourceString": "Palu is the mechanician of Astra Shelter."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_paer.npc_paer",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "FB6460234FF472BDEA8A2F8134DCA7AC",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q101012",
+            "ObjectiveID": "4",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "BAA2AA594EF0C64A9C9941B7985A18C4",
+              "SourceString": "He looks like a big, honest fellow who would be quite reliable if he could get over his drinking habit."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "942CEE82483C261283537F9ED8C2AD2E",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "184E77BE4F263D2F349B73B5BBCE0883",
+              "SourceString": "Lighthouse"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q101021",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "CFB71C8146491FBB01753B879C8DF9D3",
+              "SourceString": "After the shelter suffered a heavy loss and Zeke left with Shirli, the person who was able to grasp the overall situation turned out to be Palu! He had stopped drinking and radiated a brilliant sense of reason that anyone could trust."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "E679CCAD4263DB2B92551190C2AF1B60",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "1B71BE834EAFBF721B9B39924DAD11B6",
+              "SourceString": "Lighthouse"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_002_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "A0C642AC4271D84E6A699CAD72A562F3",
+          "SourceString": "Franz"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "23A8C838457AC653FD7415B3D3AA26FC",
+          "SourceString": "Franz is mysterious and very hard to read."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_fulanci.npc_fulanci",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "5A10F8AD468EC68528BBA1AFBDA78624",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q1010077",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "3850D01A43668583EE00F7A143DCB9C8",
+              "SourceString": "Doesn't look like a bad person, but nothing's for certain. Time will tell."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "2EFE861F40F2DB3DDAE76589C0D25477",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "6C4B6C574B2DAF83FA80538F81C30171",
+              "SourceString": "Hakujitsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q101021",
+            "ObjectiveID": "7",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "EED0B29B4A79E74609D1BFA4AD51B95A",
+              "SourceString": "Franz seems to know the woman who took Zeke."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "D798EE6B4E68664B98632D93EF35C960",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "613E5B8D445D07DE2023AE9E35B9F17E",
+              "SourceString": "Hakujitsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q101043",
+            "ObjectiveID": "5",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "40F4C4C84B6B6D0F2984E580F0AF22A5",
+              "SourceString": "Franz sounds like he's deeply connected to Hykros. What exactly does he do?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "71038CD247109979C9F16184058A9810",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "F43AD9FD4256C87D9643EEB8D44A2775",
+              "SourceString": "Hakujitsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q101052",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "3ED103964FC66C93D685C696884F7829",
+              "SourceString": "He's familiar with both Hykros and the Heirs of Aida. He doesn't sound serious at all, but casually gives away shocking information. His identity is questionable, but he appears trustworthy so far."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "B4555762473AFB385B7F5B8F4DEB0629",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "FE78E8B14BFB3D9730817FB80F495043",
+              "SourceString": "Hakujitsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q102103",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "074E4E0C439C42523832D2B61E175CAA",
+              "SourceString": "Franz's presence is reassuring. He has information that I urgently need to help me discover the truth. If I ignore his questionable identity, he might be the most trustworthy person for now."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "69B7AEFD438D1F1A333ED19607F6B8AD",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "7B0BCA7547F162BA1809CD87A4178840",
+              "SourceString": "Hakujitsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q103068",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "0B3A0B4B42DC99540A92758B70668B86",
+              "SourceString": "He knows Dr. Claire. From the way he talks, it's clear that he is not bound by time. As long as he can keep helping me, it's not really that important."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "4CB9818743754E75D651F89EA727AECB",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "9084C7BD488AB61A9B1564A8EB692262",
+              "SourceString": "Hakujitsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_101_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "E5F879FD45420E57DA161E8B68821C47",
+          "SourceString": "Dr. Henry"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "4B114245447AB4882F126E94262B10BD",
+          "SourceString": "Dr. Henry is the leader of the think tank at Hykros."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_hengliboshi.npc_hengliboshi",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "4EA924D44A07C05C68F3C8B1F12F8391",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q101050",
+            "ObjectiveID": "3",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "AB3DC34A41682F0717E4D188C7B7DB04",
+              "SourceString": "As one of the founders of Hykros, he is a heavyweight in the world of technology. People admire him for his calmness and wisdom."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "B1D048DF4CE20CAE94C37B8DFE5B91AA",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "7153432B44F3D9251E12DEBFF7B8DE14",
+              "SourceString": "Sage"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_102_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "66410C9941F714630A1CEFB4972F85E5",
+          "SourceString": "Klema"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "975FFB5845AA9357B788C5A18BBACEA0",
+          "SourceString": "Klema is the Inquisitor of Hykros."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_kalama.npc_kalama",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "ACC04FE54B82D7B8B2820C8C383A43BF",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q101050",
+            "ObjectiveID": "3",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "6752269B48A9BDF4B647EA8ABBB1AAD6",
+              "SourceString": "He is a very stern Inquisitor with a formidable presence."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "806C668D4C784A72776825847C35F156",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "55F060E54D54C15245FB8990BD1F7389",
+              "SourceString": "Blazing Sun"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_104_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "B419286348E6654D5380FBAA65DA18F8",
+          "SourceString": "Elric"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "BFC7F4884EDD1871CC1599A964FEA567",
+          "SourceString": "Elric is the Archon of Hykros."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_aiwensi.npc_aiwensi",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "762FEEB845D9B8C8A673C8A8A2EA46D7",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q101051",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "08CADD154D1E26966CBF65A2CB7CDDA6",
+              "SourceString": "A serious person, but not a scary person. One can tell that he understands and sees through everything, and is worthy of respect."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "00ACC96842B0EA97DC2CDA9109F754C9",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "064330784BC9CE3AD05FCCAF8A7862C8",
+              "SourceString": "Stars"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q104000",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "6DD2BEAB41E0C4C336ECC3ABB77F0D67",
+              "SourceString": "Perhaps the path he insisted on was wrong, but after the various experiments he carried out, he proved himself that this path might be the only path for human beings and Hykros.\r\nTo seize the best possible outcome for the future, he has to try again no matter how many times he fails. Move forward, even with endless regret."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "F4F8B490468EF0B10A2C73B0A3AE0012",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "5ACC0E334BD3A1CBC89633A389AAAA2B",
+              "SourceString": "Stars"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_0024_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "DFCF455B4D942C40BAF3BD9D854B87C5",
+          "SourceString": "Digsby"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "03B5581F459A823EE9FDF8A86B8577D8",
+          "SourceString": "迪克吉是星岛擂台的老板。"
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_dikeji.npc_dikeji",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "AD06A62149076677B2E28F836FD05542",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q201050",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "F7DEDB6D46EC6D5930A33E8992FE593F",
+              "SourceString": "In the beginning, this person creates a sense of detachment for me but then gives all kinds of caring tips when I participate in the competition. Maybe it's all his business strategy. It's hard to figure out what a businessman is thinking about."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "99F74DDB441192B94CDA719AD9E9F370",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "F59B74804759E84F3B8978873684AD27",
+              "SourceString": "Dice"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_203_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "A82E32BB4949EB233B11158C64F434CC",
+          "SourceString": "Hilda"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "B3E2E61340016CBADDB9DD8CB40EE563",
+          "SourceString": "Hilda is a girl full of enthusiasm."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_xierda.npc_xierda",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "05D4A4114CB041FC378B19BE55B975F1",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q102010",
+            "ObjectiveID": "3",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "66F3D521453CEA0BAED5F181AF19891D",
+              "SourceString": "She was saved on the beach of Banges and became the first person I met in Banges. Hilda's enthusiasm gave some relief to me who suffered from various things."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "506DD37D41B49DA1FF458687C6E85F62",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "828C88154995F60F2BE9A0AF9517B446",
+              "SourceString": "Firework"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q102116",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "BEFBBDF04E921F971B3A338B209DE73A",
+              "SourceString": "She seems the only one outside the incident in Banges, yet she's involved. While Banges suffered in great pain, she also lost her best friend. Sometimes people grow up in a swift moment rather than taking a lot of time."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "1AC086C748F15D3A7E841499A7CBEC9A",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "FE1BC12641450FE65EE65CA3A246C61E",
+              "SourceString": "Firework"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_216_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "95F9E6BC42EAF7C12BA5D2845E5413BA",
+          "SourceString": "Theo"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "78136F444259815DF6DE6DB57BCF287A",
+          "SourceString": "Theo is the only son of Kolador, the President of Banges."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_diao.npc_diao",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "4B6411BC4401DA1760E7F68FEBCF1CBE",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q1020101",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "92A686F1425067631CB8378235B85886",
+              "SourceString": "Through Hilda's introduction, I learned about his frailty as well as his kindness and gentleness. No matter how bright his life is, his body seems to be stuck in the dark winter forever. What a pity."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "7632A5EC49AA4CECFE54B39035BC85E5",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "7DC7D4AF4E9656AE6C851CB38A5F9A61",
+              "SourceString": "Parallel Lines"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q102115",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "3CBE686C4D9E927AE795F08A7FC1AAFB",
+              "SourceString": "He didn't leave anything behind, because he has put his life in perspective for as long as he could remember. He was weak, and it was difficult just to stay alive. If this didn't happen, maybe he would have been able to see the world tomorrow and say hi to Hilda."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "9F0ABB5A4577206CB27BCE921F366562",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "5B28E40B4C3A814A545B65A8966264B6",
+              "SourceString": "Parallel Lines"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_207_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "7F46FF6F4660C4EA48BA3F8E6E77825B",
+          "SourceString": "Kolador"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "1A672AD644250EA04E808BB16BFBE979",
+          "SourceString": "Kolador is the owner of Banges Industries."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_keleite.npc_keleite",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "794522BB45A2DA5B750757996601E408",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q102011",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "926C40944E2523E50BA4ACB60D1885AF",
+              "SourceString": "I can feel that President Kolador is a very approachable person, and I can also feel that he is not only a businessman, but also a father who cares deeply about his only son Theo."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "89C2AA65437C87962A0F4C9F69BD5202",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "C43D41DC428FCD7EBBE4EE8591E1E11E",
+              "SourceString": "Maze"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q102118",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "FA0B62CD455B7B1C928D70A76A238D88",
+              "SourceString": "I didn't expect President Kolador to join Heirs of Aida for the sake of saving Theo from his illness. For his selfishness, he harmed people while the evil deed back to bite himself. Now Theo is out of control and killed, and he is seriously injured, too.\r\nThe path he has chosen only led him to endless dark. Even if he realizes his error, he can never change what has happened to make him regret it for the rest of his life."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "47F5A333456463F09DDAA289FDAB859C",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "AEAC851747934AB95E2341A4B6A7D51E",
+              "SourceString": "Maze"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_2006": {
+        "Name": {
+          "Namespace": "",
+          "Key": "FB020BDA411678810D98858C93F31121",
+          "SourceString": "Hopkins"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "9AFA073E4F3CE0163CA85BB97A9ED1E1",
+          "SourceString": "Hopkins is the master of Black Market."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_huopujinsi.npc_huopujinsi",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "8FF194A1469C7B47002B43A6F0343518",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q102110",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "6AF974A442716690408F738783397F10",
+              "SourceString": "He seems to have reached some sort of tacit understanding with President Kolador."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "559EAA01400C9D1628C3D9B816B3815B",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "906D96224BEB767C803700B8F19927B3",
+              "SourceString": "Ledger"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q1021114",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "E9E76B7444D19CD40BE707B5412475F1",
+              "SourceString": "Anyway, a profiteer that is knowing the time of day is not that annoying."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "0789F64A4A0563A9AB281BAF3D38BDF3",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "2F7511F441027D064D6F608D60B990A8",
+              "SourceString": "Ledger"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_311_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "5CF0D73A4B8A94466EFE7A9F592B065F",
+          "SourceString": "Black Dog"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "6D21A2654A24753452418BB83593A837",
+          "SourceString": "Black Dog is the Hyenas' subchief."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_heiquan.npc_heiquan",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "A2F8746A427E770BC868EEBE13698C00",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q1030021",
+            "ObjectiveID": "5",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "D3800DB44A1A0A49395D4A83D11ACBEE",
+              "SourceString": "The greedy Hyenas is so full of nonsense. I can't even tell which one is the truth. But he will not tell me the truth unless I'm tough on him."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "4BE16C7E4C3BD0DC14CEBB8F32874126",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "A1BBA5FD4FC914E797D4D789AB361E58",
+              "SourceString": "Bristlegrass"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q103068",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "7FBD99D540409DCB042F9CA55E6A24C4",
+              "SourceString": "He is so annoying. Although I've regretted saving him, I couldn't just leave him for so many reasons. I hope he will learn to behave well after all these."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "3CB2E4BD4B36BE830E471584050CE0B2",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "E9B181A4403AC1ED24320E873516FC97",
+              "SourceString": "Bristlegrass"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_301_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "FB2B85CF448E5C15099D2683A398497C",
+          "SourceString": "Melo"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "0DF1436149B689A022F4ACA64B5EFB49",
+          "SourceString": "Melo is a figure on Cetus Island."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_meiluo.npc_meiluo",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "3A1EC0664E477CF8AE1165809ECB5C66",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q103003",
+            "ObjectiveID": "6",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "62131DE847F49BDED3591B831DF5E07D",
+              "SourceString": "A stuttering figuring with a simple brain. Maybe it was built using nothing but leftover scraps."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "6C81FCBD4CA343EF9731FDA49FCD7620",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "1888FFC34B4A951EA9DF90AB6CC1DC80",
+              "SourceString": "Customized"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q105037",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "0EB3E0DF4A1279D4A13D05BE86A099A0",
+              "SourceString": "It didn't occur to me that he was a one-off made by Dr. Claire. No wonder the electromagnetic waves from Heirs of Aida don't trouble him."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "086D076440E9FFA2C77C769003C33397",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "401D0CFC4CB2BA9BC2D7E28374A200A0",
+              "SourceString": "Customized"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_302_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "78824170489A77BC13ED42956F00C7AC",
+          "SourceString": "Hanna"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "B604AF8D487EAC6851FB23AF3471BD11",
+          "SourceString": "Hanna is a Pyxie in Cetus Island."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_hana.npc_hana",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "FD15385C4EDB3B9E22722FBCF077B4AA",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q103010",
+            "ObjectiveID": "3",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "DE44E3F54CB33F2E0E849C86A468D647",
+              "SourceString": "A very cute little doll with a good personality that makes people happy. She is very familiar with the Navia region. I absolutely will not get lost as long as she shows me the way."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "896241D7438D6B5526376DBDC58B477C",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "95D54CF64D7862238DA8C0819C3BDC8B",
+              "SourceString": "Guidepost"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_313_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "179D2A9A4A0717AF18D1598FD54EF25F",
+          "SourceString": "Dr. Claire"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "7225BD3544D53A6C9A55A695C273E678",
+          "SourceString": "Claire is the head of Cetus Island"
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_kelaruierboshi.npc_kelaruierboshi",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "F4A727BB4AA21EA2CB36A89CABDB0A64",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q103021",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "88E2589C47D5E364434822ACEF4F7F00",
+              "SourceString": "She seems to be a very strange woman, hiding alone on the floating Cetus Island with her creation of a bunch of little dolls. Her age cannot even be told. I hope I can stay away from her after things get done."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "D485667B4995738BD258B88EA62D3F4C",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "49C9388D46DA2F6A56CDA18F50B062C7",
+              "SourceString": "Sougetsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q1040001",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "9CCA37BA4FB5A8DF6347F19745C1907A",
+              "SourceString": "Because I can see everything, I knew there are things that cannot be changed, and also things that can be. For all the Doctor has done, I just didn't know what she had tried to do? Is it for escape or to change something?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "846B4092498011656778CEA0A6757729",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "709721824F89E04FFE0DCA96D233D036",
+              "SourceString": "Sougetsu"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_314_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "7DC57C664169C67C5B4068B28E6504F3",
+          "SourceString": "Frigg"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "C99CD383456D9DB7B8042FA69FA7C879",
+          "SourceString": "It turns out that the woman who took Zeke is called Frigg."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_fulijia.npc_fulijia",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "E4F4EEEF4E110C5E4EB1FA9D49319AA7",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q103022",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "A38B49CD4B49EEEC81611FA206C12478",
+              "SourceString": "Frigg is no simple woman, she has connection with Heirs of Aida. Did Zeke fooled by her?"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "FCA9A9914CC778E727FA77A80B4F2E51",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "E18EC7144B6108D5364948B214607ACF",
+              "SourceString": "Bai Ai"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q105072",
+            "ObjectiveID": "None",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "E4E4B3D447E83F62E8A7718CBAFA3658",
+              "SourceString": "Thinking it carefully, she is the same as Shirli, a young girl who was being modified. She may have a fate similar to Shirli's, but it can't be a reason for her to help Heirs of Aida.\r\nPerhaps this is the reality, it is enough just to survive."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "61D071AB495661F6E5C8258385F5EFEF",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "6E2CE998463F91D335BEC5AB36BDB05E",
+              "SourceString": "Bai Ai"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_304_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "A228609746C1B3F28DE9BAA9AB29D16E",
+          "SourceString": "Slayer"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "B22B563C4A8C6F40A05E3EAF7432F68A",
+          "SourceString": "Slayer is the housekeeper of Cetus Island and the right hand of Dr. Claire."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_yisileier.npc_yisileier",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "8708B5C045F3E2F1F970098AFFB266FC",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q103029",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "D8E1604949ECB5489A0D6BADC006F9D8",
+              "SourceString": "A strange cute little puppet likes to speak in a long tone."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "2EC0CF1B4395D83E54F590B37447A416",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "A68B9C8144330E5CCE41CAA456E84CD2",
+              "SourceString": "Housekeeper"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_900_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "C89DD99046A8E35181E9EE89A587D6AA",
+          "SourceString": "Sage"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "0455FC7B4F499D5B0C3A3FAA38D5B2D5",
+          "SourceString": "The Sage is the mysterious leader of the Heirs of Aida."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_xianzhe.npc_xianzhe",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "A66A818D4FCBA416A9058AA93520FBA1",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q105072",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "8737B3074A3CB0875898C98EB76E39F5",
+              "SourceString": "He is the founder of Heirs of Aida, the Terminator who has lived through many events, many worlds, waiting for the \"Final Answer.\""
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "A36D7FF84D495613A967AF828B3EAD79",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "47D300CE4B9CB8B337F17EB18C868CD6",
+              "SourceString": "Antonym"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_402_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "3C302E0B40E9E9EABE6594ACE40EBBB4",
+          "SourceString": "Giggs"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "D14488764B138B36E02F228ED5F77C84",
+          "SourceString": "Giggs is a small person in charge of Crown Mines."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_jige.npc_jige",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "E6F90EC2464F04E6C36E37BA9D344EFA",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q104011",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "DE0F52D9456B504CC07890AFA4DF3B73",
+              "SourceString": "A very mercenary and annoying bully who is greedy for money, perpetrates outrages in Mine regions under the protection of a powerful patron."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "75E685794A3C6B6490FCD3A127B80CCF",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "61123DC04FCB0CDE3DDDDB9A82176B87",
+              "SourceString": "Hover"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q1040461",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "8622C3EF4A3C9DCFA6D5368B9DF8E11B",
+              "SourceString": "Colluding with Heirs of Aida to resell drugs at a profit behind Mr. Kim's back, such behavior is really abominable. But a person like him, perhaps only Mr. Kim can pin his ear back."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "34DE0EBB4C37A39AE011A292BB2EBE74",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "2E8498A9416CFF911AC37CBA4021F9E7",
+              "SourceString": "Hover"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_401_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "7F6011874AA5444D874937ABD7FF9687",
+          "SourceString": "Mr. Kim"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "045ECCBC43901E62BBA05B9706377E0C",
+          "SourceString": "Mr. Kim oversees the entire Crown Mines, and is also the boss here."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_jinxiansheng.npc_jinxiansheng",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "4816C91C47234B9C641BC786E50A917B",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q104020",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "FD70F7CB44EBE1DC4D4394AB39072BD4",
+              "SourceString": "He kept smiling, but I could feel the unfathomable nature of this man. Behind his mask is his coldness, cruelty, ruthlessness, and scheming, while people see his intimidation and detachment.\r\nFortunately, it will only be a brief contact with him."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "1ED664F44D2F42E4D4CCA1A2DEFC8D87",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "528A25F74F271B23534143B6634B0AA2",
+              "SourceString": "Black Cat"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q104047",
+            "ObjectiveID": "2",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "D18666EF413794F253F081AF941DD728",
+              "SourceString": "I thought he was just overlooking, but then, there are things he never knew. He values rules and discipline very much, and whoever breaks the rules won't look good.\r\nYou can't do some things just because you are the person in charge, but there's something you must do as the person in charge."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "69B537B742FB2CC173C21DB7029FFD4F",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "DEA05D1A4A46B6B9B01F5D99A5D83BBD",
+              "SourceString": "Black Cat"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_224_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "7033650846CC3D76FB6608823C0327AD",
+          "SourceString": "Bai Ling"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "2A0CA58C49ADB4E93C9F3FBBC15821FD",
+          "SourceString": "Bai Ling is the leader of the Banges Shelter."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_bailing.npc_bailing",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "B85F15B54B14FCFD648B4C92C6585B1A",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q102128",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "A7926E854B0658A5F775BFB3C164905A",
+              "SourceString": "A timid young girl who's a bit lacking in self esteem. Leaving her in charge of the shelter is a little concerning."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "57A7E6EF457BA7E65F3E0E9915497131",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "66E7FE0E43E7E302B672488DE3C08034",
+              "SourceString": "Lilies"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          },
+          {
+            "QuestID": "q102132",
+            "ObjectiveID": "4",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "5709E04942801101E47019B284BD6164",
+              "SourceString": "The battle finally ended, and life returned to normal. She was a shy and timid girl, but grew into a trustworthy shelter leader. Maybe there will be lots of ups and downs ahead, but I firmly believe she can handle it all.\r\n[The sunshine is beautiful.\r\nThe sun will shine even brighter tomorrow.]"
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "AEB36E414BD5DC46C99F3EB4712D563D",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "C6E759B04E7E83A7101666A029395546",
+              "SourceString": "Lilies"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_501_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "FC4C11824A43BF4EA61BD1833A827152",
+          "SourceString": "Carlos"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "3A1725F344A620AFC483AC8DBF0AACCB",
+          "SourceString": "Carlos is the leader of the Warren Shelter."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_kaluosi.npc_kaluosi",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "66E4D6A9400FF8E51CBADFAF6925B98E",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q105010",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "7936B9094065F0393C64598D25043325",
+              "SourceString": "Being calm and gentle, she is still an ordinary person with a common presence. However, it is her existence that brings a moment of peace to the Warren Shelter."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "301D29744F4DC54FB5CDBAAEE4D4698D",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "1490BE0440CABFE2D03687A19FD10F1C",
+              "SourceString": "Yukigawa"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      },
+      "npc_shu_503_character": {
+        "Name": {
+          "Namespace": "",
+          "Key": "815B0C4440977AB18368D4919722DDDF",
+          "SourceString": "Marie"
+        },
+        "Detail": {
+          "Namespace": "",
+          "Key": "80E1B3584036C6725126F183E768868B",
+          "SourceString": "Marie is Warren Shelter's correspondent."
+        },
+        "SoftTex": {
+          "AssetPathName": "/Game/Resources/UI/yindao/npc_mali.npc_mali",
+          "SubPathString": ""
+        },
+        "SoftTexLocked": {
+          "AssetPathName": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+          "SubPathString": ""
+        },
+        "UnlockText": {
+          "Namespace": "",
+          "Key": "1213F86C46AF022DA3078C959CA64948",
+          "SourceString": "暂未解锁"
+        },
+        "AwardDropId": "Drop_Gem_a1_001",
+        "UnlockQuestObjectives": [
+          {
+            "QuestID": "q105012",
+            "ObjectiveID": "1",
+            "UnlockText": {
+              "Namespace": "",
+              "Key": "B8A8FF7D4C8FD629157A9C95AAEEBBC6",
+              "SourceString": "An innocent and lovely little girl. She's not very mature, yet she's not naive, making people love her tenderly."
+            },
+            "lockPreviewText": {
+              "Namespace": "",
+              "Key": "D5F1BE8E4D3E66B92CF1289B7F7AF590",
+              "SourceString": "暂未解锁"
+            },
+            "Feature": {
+              "Namespace": "",
+              "Key": "E60757BA460C8CAA10E584B7239FBCC4",
+              "SourceString": "Ling Lan"
+            },
+            "AwardDropId": "Drop_Gem_a1_001"
+          }
+        ]
+      }
+    }
+  }
+]
