@@ -1,0 +1,730 @@
+[
+  {
+    "Export": {
+      "Name": "StaticMatrixSuitDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "suit_SSR1": {
+      "SuitName": "Pure White Guardian",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR1_256.avatar_matrix_SSR1_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_meilier.tips_avatar_ssr_meilier",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR1.tips_icon_SSR1",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "If HP is less than 30% after being attacked, gain a shield equal to 20%/26%/32%/40% of Max HP for 10 seconds. Cooldown: 90 seconds.",
+        "Increase Whirlwind's damage by 36%/45%/54%/63% and restore HP equal to 30%/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every 0.5 seconds cannot exceed 60%/72%/81%/90% of ATK."
+      ]
+    },
+    "suit_SSR2": {
+      "SuitName": "Eye of Wind",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR2_256.avatar_matrix_SSR2_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_sifengxueyuan.tips_avatar_ssr_sifengxueyuan",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR2.tips_icon_SSR2",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt by 14%/16%/18%/20% when there are no enemies within 4 meters.",
+        "Upon a headshot or using Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/21%/25% for 8 seconds."
+      ]
+    },
+    "suit_SSR3": {
+      "SuitName": "Proof of Trust",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR3_256.avatar_matrix_SSR3_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_kekelite.tips_avatar_ssr_kekelite",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR3.tips_icon_SSR3",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase healing capability and healing received by 10%/12%/14%/16%.",
+        "When you or your teammates are healed, increase ATK by 12.5%/15%/17.5%/20% for 6 seconds. Only the highest level's effect is applied when obtained repeatedly."
+      ]
+    },
+    "suit_SSR4": {
+      "SuitName": "Advocate of Violence",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR4_256.avatar_matrix_SSR4_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_king.tips_avatar_ssr_king",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR4.tips_icon_SSR4",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "When a target is shattered, grant 8%/10%/12%/14% damage boost for 25 seconds. Only the highest level's effect is applied when obtained repeatedly.",
+        "When there are more than 2 enemies around, hit restore HP equal to 14%/18%/22%/26% of damage dealt upon attacking. The maximum HP restored every 0.5 seconds must not exceed 36%/42%/48%/54% of ATK."
+      ]
+    },
+    "suit_SSR5": {
+      "SuitName": "Intuitive Tactic",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR5_256.avatar_matrix_SSR5_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_gulan.tips_avatar_ssr_gulan",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR5.tips_icon_SSR5",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "Increase damage against debuffed targets by 10%/12.5%/15%/17.5%.",
+        "Restore 1 dodge attempt every 3 dodges. Dodges inflict burn when successful, dealing damage equal to 24%/30%/36%/42% of ATK every second for 6 seconds."
+      ]
+    },
+    "suit_SSR6": {
+      "SuitName": "Multi-directional Strike",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR6_256.avatar_matrix_SSR6_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_kelaodiya.tips_avatar_ssr_kelaodiya",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR6.tips_icon_SSR6",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "Increase damage by 13%/17%/20%/23% when hitting a target in mid-air or initiating an aerial attack. Reset double jump upon hitting the target in mid-air.",
+        "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/2/2.5/3 seconds and increases the damage of discharge skills by 36%/45%/54%/63% for 15 seconds."
+      ]
+    },
+    "suit_SSR7": {
+      "SuitName": "Poem of Departure",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR7_256.avatar_matrix_SSR7_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_xiluo.tips_avatar_ssr_xiluo",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR7.tips_icon_SSR7",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase both damage and shatter to targets with more than 50% HP by 15%/19%/22.5%/26%.",
+        "Upon entering battle, gain a 20%/25%/30%/35% damage boost for 35 seconds. Reset 5 seconds after exiting battle."
+      ]
+    },
+    "suit_SSR8": {
+      "SuitName": "Incredible Connection",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR8_256.avatar_matrix_SSR8_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_ling.tips_avatar_ssr_ling",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR8.tips_icon_SSR8",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/250%/300% of ATK for 6 seconds.",
+        "While the shield is active, you and your teammates deal 16%/20%/24%/28% more damage."
+      ]
+    },
+    "suit_SSR9": {
+      "SuitName": "Rational Liberation",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR9_256.avatar_matrix_SSR9_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_misaier.tips_avatar_ssr_misaier",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR9.tips_icon_SSR9",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage progressively by 1% upon hitting a target. Stack up to 10/13/16/20 times. Last for 1.5 seconds.",
+        "Increase Dual EM Stars' electrical explosion damage by 16%/22%/30%/40% of ATK."
+      ]
+    },
+    "suit_SSR10": {
+      "SuitName": "Slightly Awakened",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR10_256.avatar_matrix_SSR10_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_xiuma.tips_avatar_ssr_xiuma",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR10.tips_icon_SSR10",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Hitting targets with dodge skills inflicts bleed, dealing damage equal to 15%/19%/22.5%/26% of ATK every second for 5 seconds.",
+        "Reduce ATK of all targets within 8 meters that are taking damage over time by 10%/12%/13%/15%. Only the highest level's effect is applied when obtained repeatedly."
+      ]
+    },
+    "suit_SSR11": {
+      "SuitName": "Fanatical Pursuit",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR11_256.avatar_matrix_SSR11_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_wuwan.tips_avatar_ssr_wuwan",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR11.tips_icon_SSR11",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase crit damage to targets with less than 60% HP by 24%/30%/36%/42%.",
+        "Crits deal additional damage over time equal to 18%/22%/26%/30% of ATK every second for 5 seconds. Does not stack."
+      ]
+    },
+    "suit_SSR12": {
+      "SuitName": "Vanguard",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR12_256.avatar_matrix_SSR12_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_mark.tips_avatar_ssr_mark",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR12.tips_icon_SSR12",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "Upon attacking an enemy, grant a shield to all allies equal to <shuzhi>15%</> of the user's current HP. Last for 15 seconds, and reset after leaving the battle for 10 seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is an 11%/13%/15%/17% damage reduction, and lasts for 15 seconds. Not stackable. This Matrix's effect is also active in the off-hand slot. When wearing equipment from different sets, only the set with the highest star rating's effect will take effect.",
+        "After gaining an HP Shield, increase ATK by 6%/7.5%/9%/11.5% and increase the ATK of allies by 3%/3.5%/4.5%/5.75% for 15 seconds. Stack up to 3 times. This Matrix's effect is also active in the off-hand slot. When wearing equipment from different sets, only the set with the highest star rating's effect will take effect."
+      ]
+    },
+    "suit_SSR13": {
+      "SuitName": "Motive Sublimation",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR13_256.avatar_matrix_SSR13_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_immortal.tips_avatar_ssr_immortal",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR13.tips_icon_SSR13",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "Upon switching to this weapon, if weapon charge is between 200 and 999, consume 200 weapon charge to increase ATK by 15%/18%/21%/25% for 15 seconds with 5-second cooldown. This effect does not stack.",
+        "For every 0.6 seconds maintained in a dischargeable state, the next discharge skill deals extra area damage for 1 time in a 5-meter radius around the first target hit. Area damage is equal to 106%/122%/140%/160% of ATK and can stack up to 530%/610%/700%/800%. In addition, increase shatter by 7%/14%/21%/28% for 4 seconds. This effect does not stack. The set effects work with other weapons, but only the set with the highest star rating's effect takes effect."
+      ]
+    },
+    "suit_SSR14": {
+      "SuitName": "Life Bridging",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR14_256.avatar_matrix_SSR14_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_naimeixisi.tips_avatar_ssr_naimeixisi",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR14.tips_icon_SSR14",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "When a target is being healed, their volt ATK is increased by 8%/10%/12%/15% for 20 seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+        "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within 30 seconds will cast lightning upon the target, dealing volt damage equal to 240%/300%/360%/420% of volt ATK, and damage caused by Electrodes is reduced by 50%. Cannot be triggered more than once in 10 seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly."
+      ]
+    },
+    "suit_SSR15": {
+      "SuitName": "Iron Mind and Body",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR15_256.avatar_matrix_SSR15_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_fulijia.tips_avatar_ssr_fulijia",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR15.tips_icon_SSR15",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "Increase frost ATK by 8%/10%/12%/15% for 10 seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+        "When unleashing a frost domain with the weapon \"Balmung,\" enemies within the frost domain receive frost damage equal to 55%/65%/75%/85% of ATK every second."
+      ]
+    },
+    "suit_SSR16": {
+      "SuitName": "White Rabbit Dance",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR16_256.avatar_matrix_SSR16_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_leibei.tips_avatar_ssr_leibei",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR16.tips_icon_SSR16",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "After casting the weapon skill, increase flame ATK by 15%/18%/21%/25% for 25 seconds. Trigger effect differs for different star ratings. This effect does not stack.",
+        "After casting the weapon skill, grant Mastery for 15 seconds with a cooldown of 15 seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increase flame damage by 4%/5%/6%/7% every time the target is hit with a normal attack until the end of Mastery. Stack up to 6 times, adding a maximum of 1 stack every 0.2 seconds. At 6 stacks, grant a shield that can block damage for 1 time."
+      ]
+    },
+    "suit_SSR17": {
+      "SuitName": "Super Flow",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SSR17_256.avatar_matrix_SSR17_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_ssr_bupoxiao.tips_avatar_ssr_bupoxiao",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SSR17.tips_icon_SSR17",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_LEGENDRY",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "While Frost Resonance is activated: For every 3 seconds, deal damage equal to 60%/100%/150%/220% of frost ATK to enemies in a 10-meter radius and inflict the Frost effect. Frost effect: Slow the target by 5% for 3.5 seconds, and freeze the target for 3 seconds upon reaching 3 stacks, but unable to freeze the boss. Increase the frost damage the target received by 12%. Last for 18 seconds. This Matrix's effect is also active in the off-hand slot. When wearing equipment from different sets, only the set with the highest star rating's effect will take effect.",
+        "Attack the target 10 times to inflict a 12-second Flashfreeze mark. Flashfreeze: Increase frost damage dealt to the marked target by 25%/28%/31%/34%. This Matrix's effect is also active in the off-hand slot. When wearing equipment from different sets, only the set with the highest star rating's effect will take effect."
+      ]
+    },
+    "suit_SR1": {
+      "SuitName": "Devourer",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR1_256.avatar_matrix_SR1_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_SR1_256.avatar_matrix_SR1_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR1.tips_icon_SR1",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "When a target is shattered, poison the target and deal damage equal to 45%/56%/67.5% of ATK every second for 10 seconds."
+      ]
+    },
+    "suit_SR2": {
+      "SuitName": "Internal Struggle",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR2_256.avatar_matrix_SR2_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_SR2_256.avatar_matrix_SR2_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR2.tips_icon_SR2",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Deal higher damage at lower HP. Deal maximum damage when HP is 20%. The damage can be increased by up to 20%/25%/30%."
+      ]
+    },
+    "suit_SR3": {
+      "SuitName": "Extreme Zero",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR3_256.avatar_matrix_SR3_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_SR3_256.avatar_matrix_SR3_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR3.tips_icon_SR3",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "When HP is below 40%, using a discharge skill to switch to the current weapon restores HP equal to 160%/200%/240% of ATK."
+      ]
+    },
+    "suit_SR4": {
+      "SuitName": "Swamp Shadow",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR4_256.avatar_matrix_SR4_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_SR4_256.avatar_matrix_SR4_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR4.tips_icon_SR4",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt by 6%/7.5%/9% for each enemy nearby. Up to 3 stacks."
+      ]
+    },
+    "suit_SR5": {
+      "SuitName": "Double Nightmares",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR5_256.avatar_matrix_SR5_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_SR5_256.avatar_matrix_SR5_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR5.tips_icon_SR5",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Upon switching to the weapon, gain 50%/62.5%/75% damage reflection for 3 seconds. Cooldown: 30 seconds. Upon switching to another weapon, gain a 20%/25%/30% damage boost for 5 seconds. Cooldown: 30 seconds."
+      ]
+    },
+    "suit_SR6": {
+      "SuitName": "Nonstop",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR6_256.avatar_matrix_SR6_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_sr_peipei.tips_avatar_sr_peipei",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR6.tips_icon_SR6",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase speed of obtaining weapon charge by 10%/12.5%/15%."
+      ]
+    },
+    "suit_SR7": {
+      "SuitName": "Parabola",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR7_256.avatar_matrix_SR7_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_sr_xierda.tips_avatar_sr_xierda",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR7.tips_icon_SR7",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase ATK by 15%/19%/22.5% when there are no enemies within 6 meters."
+      ]
+    },
+    "suit_SR8": {
+      "SuitName": "Overload",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR8_256.avatar_matrix_SR8_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_sr_xi.tips_avatar_sr_xi",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR8.tips_icon_SR8",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "When dealing damage greater than 100% of ATK, deal additional damage equal to 60%/75%/90% of ATK. Cooldown: 3 seconds."
+      ]
+    },
+    "suit_SR9": {
+      "SuitName": "Deadly Lock",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR9_256.avatar_matrix_SR9_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_sr_bailing.tips_avatar_sr_bailing",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR9.tips_icon_SR9",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt to grievous targets by 12%/15%/18%."
+      ]
+    },
+    "suit_SR12": {
+      "SuitName": "Uproot",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_SR12_256.avatar_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/tips_avatar_sr_aige.tips_avatar_sr_aige",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_SR12.tips_icon_SR12",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_EPIC",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Using a discharge skill to switch to the current weapon grants 80/100/120 weapon charge."
+      ]
+    },
+    "suit_R1": {
+      "SuitName": "Self-explosive",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_R1_256.avatar_matrix_R1_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_R1_256.avatar_matrix_R1_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_R1.tips_icon_R1",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_RARE",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt by flame weapons by 6%."
+      ]
+    },
+    "suit_R2": {
+      "SuitName": "Functional Dash",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_R2_256.avatar_matrix_R2_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_R2_256.avatar_matrix_R2_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_R2.tips_icon_R2",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_RARE",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt by frost weapons by 6%."
+      ]
+    },
+    "suit_R3": {
+      "SuitName": "Standard Operation",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_R3_256.avatar_matrix_R3_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_R3_256.avatar_matrix_R3_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_R3.tips_icon_R3",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_RARE",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt by volt weapons by 6%."
+      ]
+    },
+    "suit_R4": {
+      "SuitName": "Plunder",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_R4_256.avatar_matrix_R4_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_R4_256.avatar_matrix_R4_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_R4.tips_icon_R4",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_RARE",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt by physical weapons by 6%."
+      ]
+    },
+    "suit_R6": {
+      "SuitName": "Wind Blade",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_R6_256.avatar_matrix_R6_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_R6_256.avatar_matrix_R6_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_R6.tips_icon_R6",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_RARE",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "Increase shatter capability by 18%."
+      ]
+    },
+    "suit_R7": {
+      "SuitName": "Obstacle Removal",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_R7_256.avatar_matrix_R7_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_R7_256.avatar_matrix_R7_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_R7.tips_icon_R7",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_RARE",
+      "IsOpened": false,
+      "SuitUnactivateDetailList": [
+        "Reduce damage received by 6%."
+      ]
+    },
+    "suit_N1": {
+      "SuitName": "Savage Bloodline",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_N1_256.avatar_matrix_N1_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_N1_256.avatar_matrix_N1_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_N1.tips_icon_N1",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_COMMON",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Increase damage dealt by 4%."
+      ]
+    },
+    "suit_N2": {
+      "SuitName": "Swipe",
+      "SuitIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/SuitAvatar/avatar_matrix_N2_256.avatar_matrix_N2_257",
+        "SubPath": ""
+      },
+      "SuitRemouldIcon": {
+        "Path": "/Game/Resources/UI/equiptips/weapon_imitation/avatar_matrix_N2_256.avatar_matrix_N2_257",
+        "SubPath": ""
+      },
+      "SuitIconTemp": {
+        "Path": "/Game/Resources/UI/yizhi/suit_icon/tips_icon_N2.tips_icon_N2",
+        "SubPath": ""
+      },
+      "MatrixSuitQuality": "ITEM_QUALITY_COMMON",
+      "IsOpened": true,
+      "SuitUnactivateDetailList": [
+        "Reduce damage received by 4%."
+      ]
+    }
+  }
+  }
+]

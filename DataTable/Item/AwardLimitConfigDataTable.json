@@ -1,0 +1,61 @@
+[
+  {
+    "Export": {
+      "Name": "AwardLimitConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Item_Enlightenment": {
+      "ActivityType": "EHottaActivityType::Enlightenment",
+      "bMustWaitActivityStarted": true,
+      "MaxCountWithEveryDay": 1200,
+      "bCumulative": true,
+      "bCalcFromActivityStartTime": true,
+      "MaxCount": 18000
+    },
+    "Item_Aida_photo_token": {
+      "ActivityType": "EHottaActivityType::HJDEvaluation_Quest",
+      "bMustWaitActivityStarted": true,
+      "MaxCountWithEveryDay": 4150,
+      "bCumulative": true,
+      "bCalcFromActivityStartTime": true,
+      "MaxCount": 4150
+    },
+    "Item_Aida_token": {
+      "ActivityType": "EHottaActivityType::HJDEvaluation_Second",
+      "bMustWaitActivityStarted": true,
+      "MaxCountWithEveryDay": 1200,
+      "bCumulative": true,
+      "bCalcFromActivityStartTime": true,
+      "MaxCount": 15600
+    },
+    "activation2": {
+      "ActivityType": "EHottaActivityType::ThemeActivityGiftBag",
+      "bMustWaitActivityStarted": true,
+      "MaxCountWithEveryDay": 1000,
+      "bCumulative": true,
+      "bCalcFromActivityStartTime": true,
+      "MaxCount": 5000
+    },
+    "Item_OrienteeringCoin_01": {
+      "ActivityType": "EHottaActivityType::Orienteering",
+      "bMustWaitActivityStarted": true,
+      "MaxCountWithEveryDay": 1500,
+      "bCumulative": true,
+      "bCalcFromActivityStartTime": true,
+      "MaxCount": 9000
+    },
+    "activation1": {
+      "ActivityType": "EHottaActivityType::ThemeActivityGiftBag",
+      "bMustWaitActivityStarted": true,
+      "MaxCountWithEveryDay": 1000,
+      "bCumulative": true,
+      "bCalcFromActivityStartTime": true,
+      "MaxCount": 7000
+    }
+  }
+  }
+]

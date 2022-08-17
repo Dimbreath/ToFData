@@ -1,0 +1,148 @@
+[
+  {
+    "Export": {
+      "Name": "ExecuteUbergraph_GeneralStateWithStoryFood001_02",
+      "Path": "GeneralStateWithStoryFood001_02_C.ExecuteUbergraph_GeneralStateWithStoryFood001_02",
+      "Class": "Function",
+      "ClassOwner": "/Script/CoreUObject",
+      "Template": "Default__Function",
+      "TemplateOwner": "/Script/CoreUObject",
+      "Outer": "GeneralStateWithStoryFood001_02_C",
+      "OuterOwner": "None"
+    }
+  },
+  {
+    "Export": {
+      "Name": "BPOnBeginState",
+      "Path": "GeneralStateWithStoryFood001_02_C.BPOnBeginState",
+      "Class": "Function",
+      "ClassOwner": "/Script/CoreUObject",
+      "Template": "Default__Function",
+      "TemplateOwner": "/Script/CoreUObject",
+      "Outer": "GeneralStateWithStoryFood001_02_C",
+      "OuterOwner": "None",
+      "Super": "BPOnBeginState",
+      "SuperOwner": "HottaAIIdleStateBase"
+    }
+  },
+  {
+    "Export": {
+      "Name": "GeneralStateWithStoryFood001_02_C",
+      "Class": "BlueprintGeneratedClass",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__BlueprintGeneratedClass",
+      "TemplateOwner": "/Script/Engine",
+      "Super": "IdleState_NPC_PatrolBP_Base_C",
+      "SuperOwner": "/Game/Resources/CoreBlueprints/Character/Npc/Npc_base/IdleState_NPC_PatrolBP_Base"
+    },
+    "UberGraphFunction": "ExecuteUbergraph_GeneralStateWithStoryFood001_02"
+  },
+  {
+    "Export": {
+      "Name": "Default__GeneralStateWithStoryFood001_02_C",
+      "Class": "GeneralStateWithStoryFood001_02_C",
+      "ClassOwner": "None",
+      "Template": "Default__IdleState_NPC_PatrolBP_Base_C",
+      "TemplateOwner": "/Game/Resources/CoreBlueprints/Character/Npc/Npc_base/IdleState_NPC_PatrolBP_Base"
+    },
+    "UberGraphFrame": {},
+    "StateName": "General",
+    "StateCondition": {
+      "ConditionConfigs": [
+        {
+          "ReturnValueOperation": "EConditionResultsOperation::AND",
+          "ConditionEntries": [
+            {
+              "ConditionType": "EAIIdleStateConditionType::Quest",
+              "CondtionParam": "q102118|2",
+              "bReverseCondition": false
+            }
+          ]
+        }
+      ]
+    },
+    "StatePriority": 255,
+    "bUseRandomAnim": true,
+    "RandomAnimList": [
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "Get yourself together, Hilda.",
+                  "MsgDuration": 5,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::Bubble"
+            }
+          ]
+        }
+      },
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "Sis has done enough for me. I must carry my own weight.",
+                  "MsgDuration": 5,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::Bubble"
+            }
+          ]
+        }
+      },
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "Boss, looking for fresh vegetables? I got'em right here!",
+                  "MsgDuration": 5,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::Bubble"
+            }
+          ]
+        }
+      },
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "I promise you won't get ripped off! You can trust me!",
+                  "MsgDuration": 5,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::Bubble"
+            }
+          ]
+        }
+      }
+    ],
+    "RandomAnimIntervalMin": 15,
+    "bUseCustomBehaviorTree": false,
+    "StateBehaviorTree": null
+  }
+]

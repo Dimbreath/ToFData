@@ -1,0 +1,931 @@
+[
+  {
+    "Export": {
+      "Name": "BreakFateRankConfigData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "RankValue": 1,
+      "RankName": "青铜V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 0,
+      "ResetScore": 0,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "2": {
+      "RankValue": 2,
+      "RankName": "青铜IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 240,
+      "ResetScore": 240,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "3": {
+      "RankValue": 3,
+      "RankName": "青铜III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 480,
+      "ResetScore": 480,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "4": {
+      "RankValue": 4,
+      "RankName": "青铜II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 720,
+      "ResetScore": 720,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "5": {
+      "RankValue": 5,
+      "RankName": "青铜I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 960,
+      "ResetScore": 960,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "6": {
+      "RankValue": 6,
+      "RankName": "白银V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 1200,
+      "ResetScore": 1200,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "7": {
+      "RankValue": 7,
+      "RankName": "白银IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 1520,
+      "ResetScore": 1520,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "8": {
+      "RankValue": 8,
+      "RankName": "白银III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 1840,
+      "ResetScore": 1840,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "9": {
+      "RankValue": 9,
+      "RankName": "白银II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 2160,
+      "ResetScore": 2160,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "10": {
+      "RankValue": 10,
+      "RankName": "白银I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 2480,
+      "ResetScore": 2480,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "11": {
+      "RankValue": 11,
+      "RankName": "黄金V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 2800,
+      "ResetScore": 2800,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "12": {
+      "RankValue": 12,
+      "RankName": "黄金IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 3200,
+      "ResetScore": 3200,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "13": {
+      "RankValue": 13,
+      "RankName": "黄金III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 3600,
+      "ResetScore": 3600,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "14": {
+      "RankValue": 14,
+      "RankName": "黄金II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 4000,
+      "ResetScore": 4000,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "15": {
+      "RankValue": 15,
+      "RankName": "黄金I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 4400,
+      "ResetScore": 4400,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "16": {
+      "RankValue": 16,
+      "RankName": "铂金V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 4800,
+      "ResetScore": 4400,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "17": {
+      "RankValue": 17,
+      "RankName": "铂金IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 5280,
+      "ResetScore": 4800,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "18": {
+      "RankValue": 18,
+      "RankName": "铂金III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 5760,
+      "ResetScore": 5280,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "19": {
+      "RankValue": 19,
+      "RankName": "铂金II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 6240,
+      "ResetScore": 5280,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "20": {
+      "RankValue": 20,
+      "RankName": "铂金I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 6720,
+      "ResetScore": 5760,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "21": {
+      "RankValue": 21,
+      "RankName": "钻石V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 7200,
+      "ResetScore": 6240,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "22": {
+      "RankValue": 22,
+      "RankName": "钻石IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 7760,
+      "ResetScore": 6720,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "23": {
+      "RankValue": 23,
+      "RankName": "钻石III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 8320,
+      "ResetScore": 6720,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "24": {
+      "RankValue": 24,
+      "RankName": "钻石II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 8880,
+      "ResetScore": 7200,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "25": {
+      "RankValue": 25,
+      "RankName": "钻石I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 9440,
+      "ResetScore": 7760,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "26": {
+      "RankValue": 26,
+      "RankName": "历战王者",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 10000,
+      "ResetScore": 7760,
+      "EntryGateScore": 60,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "27": {
+      "RankValue": 27,
+      "RankName": "至高十席",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 10000,
+      "ResetScore": 8320,
+      "EntryGateScore": 60,
+      "RankType": "EBreakFateRankType::SinglePlayer",
+      "RewardDropID": "None"
+    },
+    "28": {
+      "RankValue": 1,
+      "RankName": "青铜V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 0,
+      "ResetScore": 0,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "29": {
+      "RankValue": 2,
+      "RankName": "青铜IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 240,
+      "ResetScore": 240,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "30": {
+      "RankValue": 3,
+      "RankName": "青铜III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 480,
+      "ResetScore": 480,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "31": {
+      "RankValue": 4,
+      "RankName": "青铜II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 720,
+      "ResetScore": 720,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "32": {
+      "RankValue": 5,
+      "RankName": "青铜I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 960,
+      "ResetScore": 960,
+      "EntryGateScore": 0,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "33": {
+      "RankValue": 6,
+      "RankName": "白银V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 1200,
+      "ResetScore": 1200,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "34": {
+      "RankValue": 7,
+      "RankName": "白银IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 1520,
+      "ResetScore": 1520,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "35": {
+      "RankValue": 8,
+      "RankName": "白银III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 1840,
+      "ResetScore": 1840,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "36": {
+      "RankValue": 9,
+      "RankName": "白银II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 2160,
+      "ResetScore": 2160,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "37": {
+      "RankValue": 10,
+      "RankName": "白银I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 2480,
+      "ResetScore": 2480,
+      "EntryGateScore": 12,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "38": {
+      "RankValue": 11,
+      "RankName": "黄金V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 2800,
+      "ResetScore": 2800,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "39": {
+      "RankValue": 12,
+      "RankName": "黄金IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 3200,
+      "ResetScore": 3200,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "40": {
+      "RankValue": 13,
+      "RankName": "黄金III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 3600,
+      "ResetScore": 3600,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "41": {
+      "RankValue": 14,
+      "RankName": "黄金II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 4000,
+      "ResetScore": 4000,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "42": {
+      "RankValue": 15,
+      "RankName": "黄金I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 4400,
+      "ResetScore": 4400,
+      "EntryGateScore": 24,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "43": {
+      "RankValue": 16,
+      "RankName": "铂金V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 4800,
+      "ResetScore": 4400,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "44": {
+      "RankValue": 17,
+      "RankName": "铂金IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 5280,
+      "ResetScore": 4800,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "45": {
+      "RankValue": 18,
+      "RankName": "铂金III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 5760,
+      "ResetScore": 5280,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "46": {
+      "RankValue": 19,
+      "RankName": "铂金II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 6240,
+      "ResetScore": 5280,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "47": {
+      "RankValue": 20,
+      "RankName": "铂金I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 6720,
+      "ResetScore": 5760,
+      "EntryGateScore": 36,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "48": {
+      "RankValue": 21,
+      "RankName": "钻石V",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 7200,
+      "ResetScore": 6240,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "49": {
+      "RankValue": 22,
+      "RankName": "钻石IV",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 7760,
+      "ResetScore": 6720,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "50": {
+      "RankValue": 23,
+      "RankName": "钻石III",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 8320,
+      "ResetScore": 6720,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "51": {
+      "RankValue": 24,
+      "RankName": "钻石II",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 8880,
+      "ResetScore": 7200,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "52": {
+      "RankValue": 25,
+      "RankName": "钻石I",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 9440,
+      "ResetScore": 7760,
+      "EntryGateScore": 48,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "53": {
+      "RankValue": 26,
+      "RankName": "历战王者",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 10000,
+      "ResetScore": 7760,
+      "EntryGateScore": 60,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    },
+    "54": {
+      "RankValue": 27,
+      "RankName": "至高十席",
+      "RankTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankTextureBig": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RankScore": 10000,
+      "ResetScore": 8320,
+      "EntryGateScore": 60,
+      "RankType": "EBreakFateRankType::MultiPlayer",
+      "RewardDropID": "None"
+    }
+  }
+  }
+]

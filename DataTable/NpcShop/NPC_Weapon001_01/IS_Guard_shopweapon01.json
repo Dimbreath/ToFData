@@ -1,0 +1,223 @@
+[
+  {
+    "Export": {
+      "Name": "IS_Guard_shopweapon01_C",
+      "Class": "BlueprintGeneratedClass",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__BlueprintGeneratedClass",
+      "TemplateOwner": "/Script/Engine",
+      "Super": "IdleStateGuardBP_Base_C",
+      "SuperOwner": "/Game/Resources/CoreBlueprints/AI/AIState/IdleStateGuardBP_Base"
+    }
+  },
+  {
+    "Export": {
+      "Name": "Default__IS_Guard_shopweapon01_C",
+      "Class": "IS_Guard_shopweapon01_C",
+      "ClassOwner": "None",
+      "Template": "Default__IdleStateGuardBP_Base_C",
+      "TemplateOwner": "/Game/Resources/CoreBlueprints/AI/AIState/IdleStateGuardBP_Base"
+    },
+    "FurnitureIDs": [
+      "10018"
+    ],
+    "DetectNumDecreaseInterval": 30,
+    "GuardReactions": [
+      {
+        "NumMin": 1,
+        "AnimEntry": {
+          "Anim": "npc021_talk3",
+          "Weight": 1,
+          "NPCMsg": {
+            "NPCMsgEntries": [
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": "This is private property!",
+                    "MsgDuration": 3,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1,
+                "MessageType": "ENPCMessageShowType::UI"
+              },
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": "Stop messing around!",
+                    "MsgDuration": 5,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1,
+                "MessageType": "ENPCMessageShowType::UI"
+              }
+            ]
+          }
+        },
+        "Buffs": [],
+        "bTeleportPlayer": false,
+        "TeleportDelayTime": 4,
+        "TeleportTrans": {
+          "Rotation": {
+            "X": 0,
+            "Y": -0,
+            "Z": 0.6427876949310303,
+            "W": 0.7660443782806396
+          },
+          "Translation": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "Scale3D": {
+            "X": 1,
+            "Y": 1,
+            "Z": 1
+          }
+        },
+        "BlackScreenTxt": "None",
+        "BlackScreenDuration": 3
+      },
+      {
+        "NumMin": 3,
+        "AnimEntry": {
+          "Anim": "npc_mn_pe_talk2_Montage",
+          "Weight": 1,
+          "NPCMsg": {
+            "NPCMsgEntries": [
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": "Thief!",
+                    "MsgDuration": 5,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1,
+                "MessageType": "ENPCMessageShowType::UI"
+              },
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": "Shameless scoundrel!",
+                    "MsgDuration": 5,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1,
+                "MessageType": "ENPCMessageShowType::UI"
+              }
+            ]
+          }
+        },
+        "Buffs": [],
+        "bTeleportPlayer": false,
+        "TeleportDelayTime": 4,
+        "TeleportTrans": {
+          "Rotation": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0,
+            "W": 1
+          },
+          "Translation": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          },
+          "Scale3D": {
+            "X": 1,
+            "Y": 1,
+            "Z": 1
+          }
+        },
+        "BlackScreenTxt": "None",
+        "BlackScreenDuration": 3
+      },
+      {
+        "NumMin": 5,
+        "AnimEntry": {
+          "Anim": "npc_mn_pe_talk2_Montage",
+          "Weight": 1,
+          "NPCMsg": {
+            "NPCMsgEntries": [
+              {
+                "MsgSequence": [
+                  {
+                    "MsgText": "Get out of here!",
+                    "MsgDuration": 5,
+                    "bIsPlayerMsg": false
+                  }
+                ],
+                "Weight": 1,
+                "MessageType": "ENPCMessageShowType::UI"
+              }
+            ]
+          }
+        },
+        "Buffs": [
+          "buff_speedreduce25_15s_C"
+        ],
+        "bTeleportPlayer": true,
+        "TeleportDelayTime": 4,
+        "TeleportTrans": {
+          "Rotation": {
+            "X": 0,
+            "Y": -0,
+            "Z": 0,
+            "W": 1
+          },
+          "Translation": {
+            "X": -87820,
+            "Y": 84490,
+            "Z": -7000
+          },
+          "Scale3D": {
+            "X": 1,
+            "Y": 1,
+            "Z": 1
+          }
+        },
+        "BlackScreenTxt": "You're kicked out of the store...",
+        "BlackScreenDuration": 3
+      }
+    ],
+    "StateCondition": {
+      "ConditionConfigs": [
+        {
+          "ReturnValueOperation": "EConditionResultsOperation::AND",
+          "ConditionEntries": [
+            {
+              "ConditionType": "EAIIdleStateConditionType::DistanceToPlayer",
+              "CondtionParam": "<|1000|<|90",
+              "bReverseCondition": false
+            }
+          ]
+        }
+      ]
+    },
+    "RandomAnimList": [
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "Stop!",
+                  "MsgDuration": 2,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::UI"
+            }
+          ]
+        }
+      }
+    ],
+    "MovementSpeedOverride": 450
+  }
+]

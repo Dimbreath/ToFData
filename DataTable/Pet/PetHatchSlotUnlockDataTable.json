@@ -1,0 +1,37 @@
+[
+  {
+    "Export": {
+      "Name": "PetHatchSlotUnlockDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "NeedCurrency": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      }
+    },
+    "2": {
+      "NeedCurrency": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 10
+      }
+    },
+    "3": {
+      "NeedCurrency": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 20
+      }
+    },
+    "4": {
+      "NeedCurrency": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 200
+      }
+    }
+  }
+  }
+]

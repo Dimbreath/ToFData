@@ -1,0 +1,62 @@
+[
+  {
+    "Export": {
+      "Name": "WeatherInfoDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "WeatherState": "EWeatherState::Sunny",
+      "WeatherTextures": {
+        "Path": "/Game/Resources/UI/main/weather_sun2.weather_sun2",
+        "SubPath": ""
+      }
+    },
+    "NewRow": {
+      "WeatherState": "EWeatherState::Rain",
+      "WeatherTextures": {
+        "Path": "/Game/Resources/UI/main/weather_rain2.weather_rain2",
+        "SubPath": ""
+      }
+    },
+    "NewRow": {
+      "WeatherState": "EWeatherState::StormRain",
+      "WeatherTextures": {
+        "Path": "/Game/Resources/UI/main/weather_rain1.weather_rain1",
+        "SubPath": ""
+      }
+    },
+    "NewRow_2": {
+      "WeatherState": "EWeatherState::Snow",
+      "WeatherTextures": {
+        "Path": "/Game/Resources/UI/main/weather_cloud2.weather_cloud2",
+        "SubPath": ""
+      }
+    },
+    "NewRow_3": {
+      "WeatherState": "EWeatherState::Fog",
+      "WeatherTextures": {
+        "Path": "/Game/Resources/UI/main/weather_cloud2.weather_cloud2",
+        "SubPath": ""
+      }
+    },
+    "NewRow_4": {
+      "WeatherState": "EWeatherState::EWeatherState_MAX",
+      "WeatherTextures": {
+        "Path": "/Game/Resources/UI/main/weather_cloud1.weather_cloud1",
+        "SubPath": ""
+      }
+    },
+    "NewRow_5": {
+      "WeatherState": "EWeatherState::HotSunny",
+      "WeatherTextures": {
+        "Path": "/Game/Resources/UI/main/weather_sun1.weather_sun1",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

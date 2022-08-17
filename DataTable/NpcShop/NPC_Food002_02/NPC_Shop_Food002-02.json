@@ -1,0 +1,67 @@
+[
+  {
+    "Export": {
+      "Name": "NPC_Shop_Food002-02_C",
+      "Class": "BlueprintGeneratedClass",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__BlueprintGeneratedClass",
+      "TemplateOwner": "/Script/Engine",
+      "Super": "IdleStatePatrolBP_Base_C",
+      "SuperOwner": "/Game/Resources/CoreBlueprints/AI/AIState/IdleStatePatrolBP_Base"
+    }
+  },
+  {
+    "Export": {
+      "Name": "Default__NPC_Shop_Food002-02_C",
+      "Class": "NPC_Shop_Food002-02_C",
+      "ClassOwner": "None",
+      "Template": "Default__IdleStatePatrolBP_Base_C",
+      "TemplateOwner": "/Game/Resources/CoreBlueprints/AI/AIState/IdleStatePatrolBP_Base"
+    },
+    "PatrolType": "EAIPatrolType::InSitu",
+    "bUseRandomAnim": true,
+    "RandomAnimList": [
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "Everything's freshly made! Come and try them!",
+                  "MsgDuration": 5,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::Bubble"
+            }
+          ]
+        }
+      },
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "Feel safe and eat safe here at my restaurant! No worries!",
+                  "MsgDuration": 5,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::Bubble"
+            }
+          ]
+        }
+      }
+    ],
+    "RandomAnimIntervalMin": 15,
+    "RandomAnimIntervalMax": 15,
+    "bExecuteRandomAnimImmediatelyWhenStateBegin": true
+  }
+]

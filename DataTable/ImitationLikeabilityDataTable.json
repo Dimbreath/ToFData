@@ -1,0 +1,2365 @@
+[
+  {
+    "Export": {
+      "Name": "ImitationLikeabilityDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "imitation_2": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "ling",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Baffling Conversation",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_zero_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/zero/buff_zero_level1.buff_zero_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Rules",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: \"Zero\"",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_zero_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/zero/buff_zero_level2.buff_zero_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_3": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "xi",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Taking Over the Liability",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_xi_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/xi/buff_xi_level1.buff_xi_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Want for Power",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Future of Machines",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_xi_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/xi/buff_xi_level2.buff_xi_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_4": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "meilier",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Cold Conversation",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_meryl_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/meryl/buff_meryl_level1.buff_meryl_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Freezing Days",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Snow Melting",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_meryl_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/meryl/buff_meryl_level2.buff_meryl_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_5": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "aige",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Song of the Road",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Manaka_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/manaka/buff_manaka_level1.buff_manaka_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Why We Fight",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Quo Vadis",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Manaka_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/manaka/buff_manaka_level2.buff_manaka_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_6": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "saimier",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Dance Alone",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Samir_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/samir/level1/buff_samir_level1.buff_samir_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Resonance",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Concerto",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Samir_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/samir/level2/buff_samir_level2.buff_samir_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_7": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "xiuma",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Acquaintance",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Huma_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/huma/level1/buff_huma_level1.buff_huma_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Echo",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Symphony",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Huma_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/huma/level2/buff_huma_level2.buff_huma_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_8": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "sifengyuanyu",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Natural Warmth",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Hane_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/hane/buff_hane_level1.buff_hane_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Freeze Warning",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: You Know Best",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Hane_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/hane/buff_hane_level2.buff_hane_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_9": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "xiluo",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Passive Partnership",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Shiro_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/shiro/level1/buff_shiro_level1.buff_shiro_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Waves of the Sea",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Song of Secrets",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Shiro_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/shiro/level2/buff_shiro_level2.buff_shiro_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_10": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "king",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Eventful Deal",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_King_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/king/level1/buff_king_level1.buff_king_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Equal Contract",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Bet",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_King_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/king/level2/buff_king_level2.buff_king_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_11": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "gulan",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Respect",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_cobalt_b_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/cobalt_b/buff_cobalt_b_level1.buff_cobalt_b_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Good Partnership",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Friends and Weapons",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_cobalt_b_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/cobalt_b/buff_cobalt_b_level2.buff_cobalt_b_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_12": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "kekelite",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Memories",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Cocoritter_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/cocoritter/buff_cocoritter_level1.buff_cocoritter_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Obsessions",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Companionship",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Cocoritter_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/cocoritter/buff_cocoritter_level2.buff_cocoritter_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_13": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "kelaodiya",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Nice to Meet You",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Claudia_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/claudia/buff_claudia_level1.buff_claudia_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Helpful Soul",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Promises",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Claudia_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/claudia/buff_claudia_level2.buff_claudia_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_14": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "wuwan",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Friend Identified",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Karasuma_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/karasuma/buff_karasuma_level1.buff_karasuma_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Optimist Romance",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Joking",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Karasuma_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/karasuma/buff_karasuma_level2.buff_karasuma_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_15": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "peipei",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Job List",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Peppa_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/peppa/buff_peppa_level1.buff_peppa_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Not Very Healthy",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Aberrants' Dream",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Peppa_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/peppa/buff_peppa_level2.buff_peppa_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_16": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "hida",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Salty Sea Breeze",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Hilda_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/hilda/buff_hilda_level1.buff_hilda_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Enjoyable Journey",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Toward the Future",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_Hilda_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/hilda/buff_hilda_level2.buff_hilda_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_17": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "bailing",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: A Title",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_bailing_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/bailing/buff_bailing_level1.buff_bailing_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Bridging Hearts",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Your True Self",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_bailing_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/bailing/buff_bailing_level2.buff_bailing_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_18": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "Avatar06",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Rebirth and Coexistence",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "Buff_Sally_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/Sally/Buff_Sally_level1.Buff_Sally_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Experimental Operations",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: In Front of the Bionic Eye",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "Buff_Sally_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/Sally/Buff_Sally_level2.Buff_Sally_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_19": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "baiyuekui",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: I am Bai Yuekui",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_whitemoon_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/whitemoon/level1/buff_whitemoon_level1.buff_whitemoon_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Explore a New World",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: I Have Many Stories",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_whitemoon_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/whitemoon/level2/buff_whitemoon_level2.buff_whitemoon_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_21": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "make",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Communication: Doomsday Hunters",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_mark_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/mark/buff_mark_level1.buff_mark_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Rules and Reality",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Thoughts about the Present",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "buff_mark_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/mark/buff_mark_level2.buff_mark_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_22": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "leibei",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Dolly's New Friend",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "Buff_Rabbit_Level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/rabbit/Buff_Rabbit_Level1.Buff_Rabbit_Level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: The Unknown",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Post-Dream",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "Buff_Rabbit_Level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/rabbit/Buff_Rabbit_Level2.Buff_Rabbit_Level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "imitation_29": {
+      "UpgradeLikeabilityArray": [
+        {
+          "Condition": {
+            "LikeabilityValue": 200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Award",
+              "Configid": "Avatar12",
+              "Value": 1,
+              "AwardContext": "Avatar: *",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 600,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_2",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Swords and Crossbows",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 1200,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "Buff_Frigg_level1",
+              "Value": 0,
+              "AwardContext": "Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/Frigg/Buff_Frigg_level1.Buff_Frigg_level1_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 2000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_3",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: So-called Justice",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 3000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::Story_4",
+              "Configid": "None",
+              "Value": 0,
+              "AwardContext": "Log: Not a Demon After All",
+              "BuffClass": {
+                "Path": "None",
+                "SubPath": ""
+              }
+            }
+          ]
+        },
+        {
+          "Condition": {
+            "LikeabilityValue": 4000,
+            "StarLevel": 0
+          },
+          "Awards": [
+            {
+              "AwardType": "ELikeabilityAwardType::ImitationBuff",
+              "Configid": "Buff_Frigg_level2",
+              "Value": 0,
+              "AwardContext": " Trait (*)",
+              "BuffClass": {
+                "Path": "/Game/Resources/Abilities/Buff/Imitation/Frigg/Buff_Frigg_level2.Buff_Frigg_level2_C",
+                "SubPath": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+  }
+]

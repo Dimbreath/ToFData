@@ -1,0 +1,364 @@
+[
+  {
+    "Export": {
+      "Name": "WormholeInsideEffectBuffDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "fire": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_FireDefAdded.Wormhole_BuffPoint_FireDefAdded_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Reduce flame damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_firehujia_001.buff_firehujia_001",
+        "SubPath": ""
+      }
+    },
+    "ice": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_IceDefAdded.Wormhole_BuffPoint_IceDefAdded_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Reduce Frost damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_icehujia_001.buff_icehujia_001",
+        "SubPath": ""
+      }
+    },
+    "Thunder": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_ThunderDefAdded.Wormhole_BuffPoint_ThunderDefAdded_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Reduce volt damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_elehujia_001.buff_elehujia_001",
+        "SubPath": ""
+      }
+    },
+    "small_fire": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallfire.wormhole_buff_smallfire_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase flame damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_fire.element_fire",
+        "SubPath": ""
+      }
+    },
+    "small_ice": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallice.wormhole_buff_smallice_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase frost damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_ice.element_ice",
+        "SubPath": ""
+      }
+    },
+    "small_thunder": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallthunder.wormhole_buff_smallthunder_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase volt damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_thunder.element_thunder",
+        "SubPath": ""
+      }
+    },
+    "small_phy": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallphy.wormhole_buff_smallphy_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase physical damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_phy.element_phy",
+        "SubPath": ""
+      }
+    },
+    "small_thunder_fire": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallthunder_fire.wormhole_buff_smallthunder_fire_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase volt damage and flame damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_fire-thu.element_fire-thu",
+        "SubPath": ""
+      }
+    },
+    "small_thunder_ice": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallthunder_ice.wormhole_buff_smallthunder_ice_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase volt damage and frost damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_ice-thu.element_ice-thu",
+        "SubPath": ""
+      }
+    },
+    "small_thunder_phy": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallthunder_phy.wormhole_buff_smallthunder_phy_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase volt damage and physical damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_phy-thu.element_phy-thu",
+        "SubPath": ""
+      }
+    },
+    "small_fire_ice": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallfire_ice.wormhole_buff_smallfire_ice_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase flame damage and frost damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_ice-fire.element_ice-fire",
+        "SubPath": ""
+      }
+    },
+    "small_fire_phy": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallfire_phy.wormhole_buff_smallfire_phy_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase flame damage and physical damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_phy-fire.element_phy-fire",
+        "SubPath": ""
+      }
+    },
+    "small_ice_phy": {
+      "AddedBuffs": [
+        {
+          "BuffClass": {
+            "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallphy_ice.wormhole_buff_smallphy_ice_C",
+            "SubPath": ""
+          },
+          "ModifyData": {
+            "nLevel": 1,
+            "fDuration": 0,
+            "fModifyDuration": 0,
+            "fPeriod": 0,
+            "nStackCount": 0,
+            "fStrengthMult": 1,
+            "fStrengthAdd": 0,
+            "nStartTime": 0,
+            "CalcOfflineTime": true
+          },
+          "bNotShowInTips": false
+        }
+      ],
+      "Description": "Increase physical damage and frost damage to enemies by <shuzhi>50%</>.",
+      "EffectIcon": {
+        "Path": "/Game/Resources/Icon/wormhole/monster/element_phy-ice.element_phy-ice",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

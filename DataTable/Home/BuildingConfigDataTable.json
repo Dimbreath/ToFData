@@ -1,0 +1,121 @@
+[
+  {
+    "Export": {
+      "Name": "BuildingConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "development_center": {
+      "Name": "Development Center",
+      "Icon": {
+        "Path": "/Game/Resources/UI/jiayuan/house/UI_homeland_01.UI_homeland_01",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/jiayuan/house_new/UI_homeland_jianzhu.UI_homeland_jianzhu",
+        "SubPath": ""
+      },
+      "Description": "The core building of the Artificial Island is where all the development plans start. Its level determines the level cap of other camp constructions. The building looks like an aircraft, which signifies the best wishes for the Artificial Island to grow and thrive.",
+      "MaxLevel": 9,
+      "HarvestDuration": 3600,
+      "HarvestAwardMaxCount": 24,
+      "ShopID": "None",
+      "ShopRequiredMinBuildingLevel": 1,
+      "EquipForgingRequiredMinBuildingLevel": -1
+    },
+    "pet_house_2": {
+      "Name": "Mechanical Pod",
+      "Icon": {
+        "Path": "/Game/Resources/UI/jiayuan/house/UI_homeland_02.UI_homeland_02",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/jiayuan/house_new/UI_homeland_jianzhu.UI_homeland_jianzhu",
+        "SubPath": ""
+      },
+      "Description": "A sturdy mechanical pod for investigating, digging, gathering, and analyzing metal ores. It cannot be damaged by any geological disasters. The system is taken care of by Peanut, which is why the mining work is carried out smoothly.",
+      "MaxLevel": 9,
+      "HarvestDuration": 3600,
+      "HarvestAwardMaxCount": 24,
+      "ShopID": "None",
+      "ShopRequiredMinBuildingLevel": 1,
+      "EquipForgingRequiredMinBuildingLevel": -1
+    },
+    "pet_house_3": {
+      "Name": "Pumpkin House",
+      "Icon": {
+        "Path": "/Game/Resources/UI/jiayuan/house/UI_homeland_06.UI_homeland_06",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/jiayuan/house_new/UI_homeland_jianzhu.UI_homeland_jianzhu",
+        "SubPath": ""
+      },
+      "Description": "A dreamy Pumpkin House, has a very advanced gardening data analysis system under its adorable appearance. It is mainly used to analyze the soil, air, water, nutrient solutions, and other indicators for growing vegetables. It was once a project prototype for the post-Omnium Plague world, hoping to produce vegetables free of radiation contamination.",
+      "MaxLevel": 9,
+      "HarvestDuration": 3600,
+      "HarvestAwardMaxCount": 24,
+      "ShopID": "None",
+      "ShopRequiredMinBuildingLevel": 1,
+      "EquipForgingRequiredMinBuildingLevel": -1
+    },
+    "pet_house_5": {
+      "Name": "Pawpaw House",
+      "Icon": {
+        "Path": "/Game/Resources/UI/jiayuan/house/UI_homeland_05.UI_homeland_05",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/jiayuan/house_new/UI_homeland_jianzhu.UI_homeland_jianzhu",
+        "SubPath": ""
+      },
+      "Description": "A small cabin with a warehouse, is capable of storing large amounts of food. Currently owned by Smarty, the cabin is big enough for the food Smarty collected. Its comprehensive home system creates a comfortable living environment for Smarty.",
+      "MaxLevel": 9,
+      "HarvestDuration": 3600,
+      "HarvestAwardMaxCount": 24,
+      "ShopID": "None",
+      "ShopRequiredMinBuildingLevel": 1,
+      "EquipForgingRequiredMinBuildingLevel": -1
+    },
+    "pet_house_6": {
+      "Name": "Kitty House",
+      "Icon": {
+        "Path": "/Game/Resources/UI/jiayuan/house/UI_homeland_03.UI_homeland_03",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/jiayuan/house_new/UI_homeland_jianzhu.UI_homeland_jianzhu",
+        "SubPath": ""
+      },
+      "Description": "A peaceful hut where Alf starts a comfortable lifestyle—a nice bed, a place to laze in the sun, cat furniture, and fishing poles. Everything here feels Alf.",
+      "MaxLevel": 9,
+      "HarvestDuration": 3600,
+      "HarvestAwardMaxCount": 24,
+      "ShopID": "None",
+      "ShopRequiredMinBuildingLevel": 1,
+      "EquipForgingRequiredMinBuildingLevel": -1
+    },
+    "pet_house_7": {
+      "Name": "Turtle House",
+      "Icon": {
+        "Path": "/Game/Resources/UI/jiayuan/house/UI_homeland_04.UI_homeland_04",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/jiayuan/house_new/UI_homeland_jianzhu.UI_homeland_jianzhu",
+        "SubPath": ""
+      },
+      "Description": "An igloo-like hut. Looks like a turtle shell that provides you with a sense of security. Contains a special system that keeps aquatic products fresh and complete after being caught.",
+      "MaxLevel": 9,
+      "HarvestDuration": 3600,
+      "HarvestAwardMaxCount": 24,
+      "ShopID": "None",
+      "ShopRequiredMinBuildingLevel": 1,
+      "EquipForgingRequiredMinBuildingLevel": -1
+    }
+  }
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "Export": {
+      "Name": "VoidCloneBuffConfigDataDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "voidclonebuff_2": {
+      "NameText": "Flame Attack",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>10%</> flame damage.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase final damage by <VoidCloneBuffUI>25%</>. Effects of the same type cannot be stacked.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_fire_001.buff_fire_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_001.buff_void_player_001_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_3": {
+      "NameText": "Frost Attack",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>10%</> frost damage.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase final damage by <VoidCloneBuffUI>25%</>. Effects of the same type cannot be stacked.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_ice_001.buff_ice_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_002.buff_void_player_002_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_4": {
+      "NameText": "Volt Attack",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>10%</> volt damage.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase final damage by <VoidCloneBuffUI>25%</>. Effects of the same type cannot be stacked.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_bigthu_001.buff_bigthu_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_003.buff_void_player_003_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_5": {
+      "NameText": "Poet",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>5%</> healing effect.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase allies' ATK by <VoidCloneBuffUI>20%</>.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/Buff_WeaponPas_001.Buff_WeaponPas_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_004.buff_void_player_004_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_6": {
+      "NameText": "Attack",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>5%</> ATK.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase ATK by <VoidCloneBuffUI>25%</>.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_005.buff_void_player_005_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_7": {
+      "NameText": "Mighty Power",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>5%</> Crit.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase Crit by <VoidCloneBuffUI>25%</>.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_damageadd_001.buff_damageadd_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_006.buff_void_player_006_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_8": {
+      "NameText": "Physical Attack",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>10%</> physical ATK.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase final damage by <VoidCloneBuffUI>25%</>. Effects of the same type cannot be stacked.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_behit_001.buff_behit_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_007.buff_void_player_007_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_9": {
+      "NameText": "Warrior",
+      "BuffEffectDes": "Effect: Each stack adds <VoidCloneBuffUI>25%</> aggro against Boss.",
+      "BuffLayerDes": "Quirk: After 3 stacks, increase HP by <VoidCloneBuffUI>25%</>.",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_physical_down_001.buff_physical_down_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_008.buff_void_player_008_C",
+        "SubPath": ""
+      }
+    },
+    "voidclonebuff_1000": {
+      "NameText": "Wish",
+      "BuffEffectDes": "Increase all allies' <VoidCloneBuffUI>HP</> and <VoidCloneBuffUI>ATK</> by <VoidCloneBuffUI>25%</>.",
+      "BuffLayerDes": "None",
+      "HighlightLayers": 3,
+      "BuffImage": {
+        "Path": "/Game/Resources/Icon/buff/buff_powerup_001.buff_powerup_001",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/player/buff_void_player_1001.buff_void_player_1001_C",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

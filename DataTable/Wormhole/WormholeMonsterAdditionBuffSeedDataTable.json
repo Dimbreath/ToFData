@@ -1,0 +1,1597 @@
+[
+  {
+    "Export": {
+      "Name": "WormholeMonsterAdditionBuffSeedDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1001_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallfire.wormhole_buff_smallfire_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "1001_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_IceDefAdded.Wormhole_BuffPoint_IceDefAdded_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "1001_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_ThunderDefAdded.Wormhole_BuffPoint_ThunderDefAdded_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "1002_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Wormhole_BuffPoint_FireDefAdded.Wormhole_BuffPoint_FireDefAdded_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "1002_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/wormhole_buff_smallfire_ice.wormhole_buff_smallfire_ice_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "1999_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.wormhole_monsterbuff_015_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Physics",
+      "Weight": 1
+    },
+    "wormholeUpPhy_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.wormhole_monsterbuff_015_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Physics",
+      "Weight": 1
+    },
+    "wormholeUpIce_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.wormhole_monsterbuff_013_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Ice",
+      "Weight": 1
+    },
+    "wormholeUpthunder_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.wormhole_monsterbuff_014_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Thunder",
+      "Weight": 1
+    },
+    "wormholeUpFire_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.wormhole_monsterbuff_012_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Flame",
+      "Weight": 1
+    },
+    "wormholeUpPhy2_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.wormhole_monsterbuff_013_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Ice",
+      "Weight": 1
+    },
+    "wormholeUpPhy2_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.wormhole_monsterbuff_014_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Thunder",
+      "Weight": 1
+    },
+    "wormholeUpPhy2_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.wormhole_monsterbuff_012_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Flame",
+      "Weight": 1
+    },
+    "wormholeUpIce2_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.wormhole_monsterbuff_015_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Physics",
+      "Weight": 1
+    },
+    "wormholeUpIce2_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.wormhole_monsterbuff_014_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Thunder",
+      "Weight": 1
+    },
+    "wormholeUpIce2_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.wormhole_monsterbuff_012_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Flame",
+      "Weight": 1
+    },
+    "wormholeUpthunder2_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.wormhole_monsterbuff_015_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Physics",
+      "Weight": 1
+    },
+    "wormholeUpthunder2_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.wormhole_monsterbuff_013_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Ice",
+      "Weight": 1
+    },
+    "wormholeUpthunder2_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.wormhole_monsterbuff_012_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Flame",
+      "Weight": 1
+    },
+    "wormholeUpFire2_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.wormhole_monsterbuff_015_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Physics",
+      "Weight": 1
+    },
+    "wormholeUpFire2_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.wormhole_monsterbuff_013_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Ice",
+      "Weight": 1
+    },
+    "wormholeUpFire2_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.wormhole_monsterbuff_014_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Thunder",
+      "Weight": 1
+    },
+    "wormholeUpPhy3_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_016.wormhole_monsterbuff_016_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpPhy3_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_017.wormhole_monsterbuff_017_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpPhy3_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_018.wormhole_monsterbuff_018_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpIce3_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_016.wormhole_monsterbuff_016_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpIce3_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_018.wormhole_monsterbuff_018_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpIce3_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_019.wormhole_monsterbuff_019_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpthunder3_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_016.wormhole_monsterbuff_016_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpthunder3_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_017.wormhole_monsterbuff_017_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpthunder3_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_019.wormhole_monsterbuff_019_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpFire3_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_017.wormhole_monsterbuff_017_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpFire3_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_018.wormhole_monsterbuff_018_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "wormholeUpFire3_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_019.wormhole_monsterbuff_019_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10001_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.wormhole_monsterbuff_012_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Flame",
+      "Weight": 1
+    },
+    "10001_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.wormhole_monsterbuff_013_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Ice",
+      "Weight": 1
+    },
+    "10001_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.wormhole_monsterbuff_015_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Physics",
+      "Weight": 0
+    },
+    "10001_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.wormhole_monsterbuff_014_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Thunder",
+      "Weight": 1
+    },
+    "10002_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_016.wormhole_monsterbuff_016_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10002_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_017.wormhole_monsterbuff_017_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10002_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_019.wormhole_monsterbuff_019_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 0
+    },
+    "10002_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_018.wormhole_monsterbuff_018_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_001.wormhole_monsterbuff_001_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_002.wormhole_monsterbuff_002_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_003.wormhole_monsterbuff_003_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_004.wormhole_monsterbuff_004_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_6": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_005.wormhole_monsterbuff_005_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_7": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_006.wormhole_monsterbuff_006_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_8": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_008.wormhole_monsterbuff_008_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_9": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_009.wormhole_monsterbuff_009_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_10": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_010.wormhole_monsterbuff_010_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10003_11": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_011.wormhole_monsterbuff_011_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10004_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_001.wormhole_monsterbuff_001_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10004_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_002.wormhole_monsterbuff_002_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10004_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_003.wormhole_monsterbuff_003_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10004_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_004.wormhole_monsterbuff_004_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10004_6": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_009.wormhole_monsterbuff_009_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10004_7": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_010.wormhole_monsterbuff_010_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10004_8": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_011.wormhole_monsterbuff_011_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10005_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_015.wormhole_monsterbuff_015_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Physics",
+      "Weight": 1
+    },
+    "10006_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_013.wormhole_monsterbuff_013_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Ice",
+      "Weight": 1
+    },
+    "10006_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_012.wormhole_monsterbuff_012_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Flame",
+      "Weight": 1
+    },
+    "10006_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_014.wormhole_monsterbuff_014_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::Thunder",
+      "Weight": 1
+    },
+    "10007_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_009.wormhole_monsterbuff_009_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10007_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_003.wormhole_monsterbuff_003_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10007_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_004.wormhole_monsterbuff_004_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 0
+    },
+    "10007_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_005.wormhole_monsterbuff_005_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 0
+    },
+    "10007_6": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_006.wormhole_monsterbuff_006_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 0
+    },
+    "10008_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10008_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "10008_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    },
+    "Randres2_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/NEW/wormhole_monsterbuff_Rand.wormhole_monsterbuff_Rand_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "WeaknessElement": "EWeaponElementType::None",
+      "Weight": 1
+    }
+  }
+  }
+]

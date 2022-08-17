@@ -1,0 +1,1135 @@
+[
+  {
+    "Export": {
+      "Name": "DreamChallengeConfigData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "DC01_Activity": {
+      "DescriptionID": "DC01_Activity",
+      "CloneName": "Maze Challenge I",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing01.mengjing01",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 490,
+      "GoalList": [
+        {
+          "GoalId": "DC01",
+          "Description": "Get out of the maze: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC01_2",
+          "Description": "Less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC01_3",
+          "Description": "Less than 3 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC01_4",
+          "Description": "Less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Maze Challenge - Get out of the maze within the time limit"
+    },
+    "DC02_Activity": {
+      "DescriptionID": "DC02_Activity",
+      "CloneName": "Power Challenge I",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing02.mengjing02",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Power Challenge: Defeat enemies on the field within the time limit"
+    },
+    "DC03_Activity": {
+      "DescriptionID": "DC03_Activity",
+      "CloneName": "Defense Challenge",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing03.mengjing03",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 490,
+      "GoalList": [
+        {
+          "GoalId": "DC03",
+          "Description": "Stop enemies from entering the transmission portal: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC03_2",
+          "Description": "No enemies entering: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC03_3",
+          "Description": "Less than 2 enemies entering: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC03_4",
+          "Description": "Less than 4 enemies entering: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Defense Challenge - Stop the enemies from entering the transmission portal (less than 5 enemies entering)"
+    },
+    "DC04_Activity": {
+      "DescriptionID": "DC04_Activity",
+      "CloneName": "Control Challenge I",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing04.mengjing04",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 45,
+      "GoalList": [
+        {
+          "GoalId": "DC04",
+          "Description": "Reach the destination: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC04_2",
+          "Description": "More than 10 seconds remaining: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC04_3",
+          "Description": "More than 20 seconds remaining: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC04_4",
+          "Description": "More than 30 seconds remaining: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Control Challenge - Reach the destination within the time limit"
+    },
+    "DC05_Activity": {
+      "DescriptionID": "DC05_Activity",
+      "CloneName": "Control Challenge II",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing05.mengjing05",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 45,
+      "GoalList": [
+        {
+          "GoalId": "DC05",
+          "Description": "Reach the destination: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC05_2",
+          "Description": "More than 10 seconds remaining: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC05_3",
+          "Description": "More than 20 seconds remaining: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC05_4",
+          "Description": "More than 30 seconds remaining: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Control Challenge - Reach the destination within the time limit"
+    },
+    "DC06_Activity": {
+      "DescriptionID": "DC06_Activity",
+      "CloneName": "Survival Challenge",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing06.mengjing06",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 190,
+      "GoalList": [
+        {
+          "GoalId": "DC06",
+          "Description": "Stay alive for 3 minutes on the field: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC06_2",
+          "Description": "Defeat 30 enemies: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_3",
+          "Description": "Defeat 50 enemies: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_4",
+          "Description": "Defeat 70 enemies: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Survival Challenge: Stay alive for a set amount of time"
+    },
+    "DC08_Activity": {
+      "DescriptionID": "DC08_Activity",
+      "CloneName": "Lucky Challenge",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing08.mengjing08",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC08",
+          "Description": "Reach the destination: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC08_2",
+          "Description": "Complete in less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC08_3",
+          "Description": "Complete in less than 3 minutes: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC08_4",
+          "Description": "Complete in less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Lucky Challenge - Reach the destination within the time limit"
+    },
+    "DC09_Activity": {
+      "DescriptionID": "DC09_Activity",
+      "CloneName": "Maze Challenge II",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing09.mengjing09",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC09",
+          "Description": "Collect energy ×8: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC09_2",
+          "Description": "Collect energy ×11: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC09_3",
+          "Description": "Collect energy ×13: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC09_4",
+          "Description": "Collect energy ×15: +15 proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Maze Challenge - Collect rift energy within the time limit"
+    },
+    "DC10_Activity": {
+      "DescriptionID": "DC10_Activity",
+      "CloneName": "Shooting Challenge",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing10.mengjing10",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 110,
+      "GoalList": [
+        {
+          "GoalId": "DC10",
+          "Description": "Obtain 500 points: 165 proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC10_2",
+          "Description": "Obtain 800 points: 15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC10_3",
+          "Description": "Obtain 1200 points: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC10_4",
+          "Description": "Obtain 1,600 points: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Shooting Challenge - Shoot the targets to obtain points within the time limit"
+    },
+    "DC11_Activity": {
+      "DescriptionID": "DC11_Activity",
+      "CloneName": "Collecting Challenge I",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing11.mengjing11",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 150,
+      "GoalList": [
+        {
+          "GoalId": "DC11",
+          "Description": "Collect 300 points of energy: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC11_2",
+          "Description": "Complete in no more than 240 seconds: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC11_3",
+          "Description": "Complete in no more than 180 seconds: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC11_4",
+          "Description": "Complete in no more than 120 seconds: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Energy Collection: Gather 300 points of energy within the allotted time"
+    },
+    "DC12_Activity": {
+      "DescriptionID": "DC12_Activity",
+      "CloneName": "Collecting Challenge II",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing12.mengjing12",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 190,
+      "GoalList": [
+        {
+          "GoalId": "DC12",
+          "Description": "Reach the destination: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC12_2",
+          "Description": "Collect energy ×80: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC12_3",
+          "Description": "Collect energy ×100: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC12_4",
+          "Description": "Collect energy ×120: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Collecting Challenge: Complete within the time limit"
+    },
+    "DC13_Activity": {
+      "DescriptionID": "DC13_Activity",
+      "CloneName": "Memory Challenge",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing13.mengjing13",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 120,
+      "GoalList": [
+        {
+          "GoalId": "DC13",
+          "Description": "Match Complete: 165 proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC13_2",
+          "Description": "Complete in less than 240 seconds: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC13_3",
+          "Description": "Complete in less than 160 seconds: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC13_4",
+          "Description": "Complete in less than 80 seconds: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Memory Challenge - Match all the holograms within the time limit"
+    },
+    "DC14_Activity": {
+      "DescriptionID": "DC14_Activity",
+      "CloneName": "Power Challenge II",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing02.mengjing02",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Power Challenge: Defeat enemies on the field within the time limit"
+    },
+    "DC15_Activity": {
+      "DescriptionID": "DC15_Activity",
+      "CloneName": "Power Challenge III",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing02.mengjing02",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Power Challenge: Defeat enemies on the field within the time limit"
+    },
+    "DC16_Activity": {
+      "DescriptionID": "DC16_Activity",
+      "CloneName": "Power Challenge IV",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing02.mengjing02",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Power Challenge: Defeat enemies on the field within the time limit"
+    },
+    "DC17_Activity": {
+      "DescriptionID": "DC17_Activity",
+      "CloneName": "Power Challenge V",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing02.mengjing02",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Power Challenge: Defeat enemies on the field within the time limit"
+    },
+    "DC18_Activity": {
+      "DescriptionID": "DC18_Activity",
+      "CloneName": "Power Challenge VI",
+      "CloneImage": {
+        "Path": "/Game/Resources/UI/Hopkins/mengjing02.mengjing02",
+        "SubPath": ""
+      },
+      "AwardList": [
+        {
+          "ItemID": "hopkins2",
+          "Amount": 165,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 180,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 195,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "hopkins2",
+          "Amount": 210,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "TimeLimit": 310,
+      "GoalList": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field: 165 Proof",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes: +15 Proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes: +15 proof",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes: +15 Proof",
+          "bIsMainGoal": false
+        }
+      ],
+      "GoalDesc": "Power Challenge: Defeat enemies on the field within the time limit"
+    }
+  }
+  }
+]

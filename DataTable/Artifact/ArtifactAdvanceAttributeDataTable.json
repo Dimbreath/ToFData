@@ -1,0 +1,4365 @@
+[
+  {
+    "Export": {
+      "Name": "ArtifactAdvanceAttributeDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1002": {
+      "AttributeID": "artifact_adv_030",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_001/SC3/GA_Artifact_SSR_001SC3.GA_Artifact_SSR_001SC3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Fire <shuzhi>2</> missiles with each attack, dealing damage to the target. Each missile deals damage equal to <shuzhi>34.8%</> of ATK."
+    },
+    "1004": {
+      "AttributeID": "artifact_adv_030",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_001/SC4/GA_Artifact_SSR_001SC4.GA_Artifact_SSR_001SC4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to <shuzhi>200</> seconds.     "
+    },
+    "1005": {
+      "AttributeID": "artifact_adv_030",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_001/SC5/GA_Artifact_SSR_001SC5.GA_Artifact_SSR_001SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Fire <shuzhi>4</> missiles with each attack, dealing damage to the target. Each missile deals damage equal to <shuzhi>34.8%</> of ATK."
+    },
+    "1006": {
+      "AttributeID": "artifact_adv_030",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_001/SC5/GA_Artifact_SSR_001SC5.GA_Artifact_SSR_001SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BePhyDown20.Artifact_BePhyDown20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce physical damage received by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1007": {
+      "AttributeID": "artifact_adv_030",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_001/SC7/GA_Artifact_SSR_001SC7.GA_Artifact_SSR_001SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Colossus Arm lasts for <shuzhi>30</> seconds. All damage taken for this duration is reduced by <shuzhi>20%</>."
+    },
+    "1008": {
+      "AttributeID": "artifact_adv_029",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_002/SC2/GA_Artifact_SSR_002SC2.GA_Artifact_SSR_002SC2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Slow enemies that pass through the shield by <shuzhi>50%</> for <shuzhi>2</> seconds."
+    },
+    "1011": {
+      "AttributeID": "artifact_adv_029",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_002/SC4/GA_Artifact_SSR_002SC4.GA_Artifact_SSR_002SC4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to <shuzhi>60</> seconds.     "
+    },
+    "1012": {
+      "AttributeID": "artifact_adv_029",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_002/SC5/GA_Artifact_SSR_002SC5.GA_Artifact_SSR_002SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Extend duration to <shuzhi>20</> seconds.     "
+    },
+    "1013": {
+      "AttributeID": "artifact_adv_029",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_002/SC5/GA_Artifact_SSR_002SC5.GA_Artifact_SSR_002SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeIceDown20.Artifact_BeIceDown20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce frost damage received by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1014": {
+      "AttributeID": "artifact_adv_029",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_002/SC7/GA_Artifact_SSR_002SC7.GA_Artifact_SSR_002SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "When Wanderers or allies pass through the Omnium Shield, damage dealt increases by <shuzhi>25%</> for <shuzhi>7</> seconds."
+    },
+    "1015": {
+      "AttributeID": "artifact_adv_028",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_1.Artifact_SSR_003_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1016": {
+      "AttributeID": "artifact_adv_028",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_2.Artifact_SSR_003_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1017": {
+      "AttributeID": "artifact_adv_028",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_003New/SC1/GA_FPlayer_Artifact_SSR_003SC1New.GA_FPlayer_Artifact_SSR_003SC1New_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1018": {
+      "AttributeID": "artifact_adv_028",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_4.Artifact_SSR_003_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1019": {
+      "AttributeID": "artifact_adv_028",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_5.Artifact_SSR_003_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1020": {
+      "AttributeID": "artifact_adv_028",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_003_6.Artifact_SSR_003_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1021": {
+      "AttributeID": "artifact_adv_028",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_003New/SC2/GA_FPlayer_Artifact_SSR_003SC2New.GA_FPlayer_Artifact_SSR_003SC2New_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1022": {
+      "AttributeID": "artifact_adv_027",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_004/SC2/GA_Artifact_SSR_004SC2.GA_Artifact_SSR_004SC2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "When piloting mecha, gain immunity to flame damage and control effects.    "
+    },
+    "1023": {
+      "AttributeID": "artifact_adv_027",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_004/SC3/GA_Artifact_SSR_004SC3.GA_Artifact_SSR_004SC3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Gain the <yellow_lbl_14_1>Artillery Fire</> skill.\r\n<yellow_lbl_14_1>Artillery Fire</>: Fire <shuzhi>6</> times at the locked-on target. Each hit deals damage equal to <shuzhi>155.2%</> of ATK."
+    },
+    "1026": {
+      "AttributeID": "artifact_adv_027",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_004/SC5/GA_Artifact_SSR_004SC5.GA_Artifact_SSR_004SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "When piloting the armor, dealing damage also inflicts burn.     "
+    },
+    "1027": {
+      "AttributeID": "artifact_adv_027",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_004/SC5/GA_Artifact_SSR_004SC5.GA_Artifact_SSR_004SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp20.Artifact_FireUp20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase flame damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1028": {
+      "AttributeID": "artifact_adv_027",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_004/SC7/GA_Artifact_SSR_004SC7.GA_Artifact_SSR_004SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Gain the <yellow_lbl_14_1>Flame Domain</> skill.\r\n<yellow_lbl_14_1>Flame Domain</>: Erect a wide-range Flame Domain at the current location, dealing damage equal to a maximum of <shuzhi>1,146.8%</> of ATK."
+    },
+    "1029": {
+      "AttributeID": "artifact_adv_026",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_005/SC2/GA_Artifact_SSR_005SC2.GA_Artifact_SSR_005SC2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Enemies caught within the rift who are close to the ground are unable to dodge, and the vacuum duration is increased to <shuzhi>15</> seconds. "
+    },
+    "1030": {
+      "AttributeID": "artifact_adv_026",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_005/SC3/GA_Artifact_SSR_005SC3.GA_Artifact_SSR_005SC3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase the target area by <shuzhi>100%</>.     "
+    },
+    "1032": {
+      "AttributeID": "artifact_adv_026",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_005/SC4/GA_Artifact_SSR_005SC4.GA_Artifact_SSR_005SC4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase damage dealt to targets in the area by <shuzhi>20%</>.  "
+    },
+    "1034": {
+      "AttributeID": "artifact_adv_026",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_005/SC5/GA_Artifact_SSR_005SC5.GA_Artifact_SSR_005SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeFireDown20.Artifact_BeFireDown20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce flame damage received by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1035": {
+      "AttributeID": "artifact_adv_026",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_005/SC7/GA_Artifact_SSR_005SC7.GA_Artifact_SSR_005SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Enemies within the rift are unable to receive any healing.  "
+    },
+    "1036": {
+      "AttributeID": "artifact_adv_025",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_006/Level2/GA_Artifact_SSR_006_Level2.GA_Artifact_SSR_006_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Now stun targets for <shuzhi>3</> seconds and have a <shuzhi>180</>-second cooldown. "
+    },
+    "1037": {
+      "AttributeID": "artifact_adv_025",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_006/Level3/GA_Artifact_SSR_006_Level3.GA_Artifact_SSR_006_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase damage dealt by energy pulses by <shuzhi>30%</>. "
+    },
+    "1039": {
+      "AttributeID": "artifact_adv_025",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_006/Level4/GA_Artifact_SSR_006_Level4.GA_Artifact_SSR_006_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to <shuzhi>120</> seconds.     "
+    },
+    "1041": {
+      "AttributeID": "artifact_adv_025",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_006/Level5/GA_Artifact_SSR_006_Level5.GA_Artifact_SSR_006_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_PhyUp20.Artifact_PhyUp20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase physical damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1042": {
+      "AttributeID": "artifact_adv_025",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_006/Level7/GA_Artifact_SSR_006_Level7.GA_Artifact_SSR_006_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Trigger an earthquake every <shuzhi>3</> seconds, <shuzhi>suspending targets</>. The waves can be dodged by jumping."
+    },
+    "1043": {
+      "AttributeID": "artifact_adv_024",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_1.Artifact_SSR_007_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1044": {
+      "AttributeID": "artifact_adv_024",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_2.Artifact_SSR_007_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1045": {
+      "AttributeID": "artifact_adv_024",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_3.Artifact_SSR_007_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1046": {
+      "AttributeID": "artifact_adv_024",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_4.Artifact_SSR_007_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1047": {
+      "AttributeID": "artifact_adv_024",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_5.Artifact_SSR_007_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1048": {
+      "AttributeID": "artifact_adv_024",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_6.Artifact_SSR_007_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1049": {
+      "AttributeID": "artifact_adv_024",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_007_7.Artifact_SSR_007_7_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1050": {
+      "AttributeID": "artifact_adv_023",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_008/Level2/GA_Artifact_SSR_008_Level2.GA_Artifact_SSR_008_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Grant immunity to control effects for the next <shuzhi>5</> seconds. "
+    },
+    "1053": {
+      "AttributeID": "artifact_adv_023",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_008/Level4/GA_Artifact_SSR_008_Level4.GA_Artifact_SSR_008_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Extend duration to <shuzhi>25</> seconds.   "
+    },
+    "1054": {
+      "AttributeID": "artifact_adv_023",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_008/Level5/GA_Artifact_SSR_008_Level5.GA_Artifact_SSR_008_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Every <shuzhi>5</> seconds, additionally grant Wanderers one stack of inspiration, increasing damage dealt by <shuzhi>5%</> per stack."
+    },
+    "1055": {
+      "AttributeID": "artifact_adv_023",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_008/Level5/GA_Artifact_SSR_008_Level5.GA_Artifact_SSR_008_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeThunderDown20.Artifact_BeThunderDown20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce volt damage received by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1056": {
+      "AttributeID": "artifact_adv_023",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_008/Level7/GA_Artifact_SSR_008_Level7.GA_Artifact_SSR_008_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Within Drone's duration, Wanderers gain an attack recovery effect that converts <shuzhi>20%</> of damage dealt into HP."
+    },
+    "1057": {
+      "AttributeID": "artifact_adv_022",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_1.Artifact_SSR_009_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1058": {
+      "AttributeID": "artifact_adv_022",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 2
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_2.Artifact_SSR_009_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1059": {
+      "AttributeID": "artifact_adv_022",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1060": {
+      "AttributeID": "artifact_adv_022",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 4
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_4.Artifact_SSR_009_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1061": {
+      "AttributeID": "artifact_adv_022",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_5.Artifact_SSR_009_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1062": {
+      "AttributeID": "artifact_adv_022",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_009_6.Artifact_SSR_009_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1063": {
+      "AttributeID": "artifact_adv_022",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1064": {
+      "AttributeID": "artifact_adv_021",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Level2/GA_Artifact_SSR_010_Level2.GA_Artifact_SSR_010_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Extend duration to <shuzhi>20</> seconds.     "
+    },
+    "1067": {
+      "AttributeID": "artifact_adv_021",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Level4/GA_Artifact_SSR_010_Level4.GA_Artifact_SSR_010_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase damage dealt by holograms to <shuzhi>75%</> of the Wanderer's damage."
+    },
+    "1068": {
+      "AttributeID": "artifact_adv_021",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Level5/GA_Artifact_SSR_010_Level5.GA_Artifact_SSR_010_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Tap again to transpose to the hologram's position."
+    },
+    "1069": {
+      "AttributeID": "artifact_adv_021",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Level5/GA_Artifact_SSR_010_Level5.GA_Artifact_SSR_010_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp20.Artifact_ThunderUp20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase volt damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1070": {
+      "AttributeID": "artifact_adv_021",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Level7/GA_Artifact_SSR_010_Level7.GA_Artifact_SSR_010_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase damage dealt by holograms to <shuzhi>100%</> of the Wanderer's damage. Transposing removes control effects."
+    },
+    "1071": {
+      "AttributeID": "artifact_adv_020",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_1.Artifact_SSR_011_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1072": {
+      "AttributeID": "artifact_adv_020",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_2.Artifact_SSR_011_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1073": {
+      "AttributeID": "artifact_adv_020",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_3.Artifact_SSR_011_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1074": {
+      "AttributeID": "artifact_adv_020",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_4.Artifact_SSR_011_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1075": {
+      "AttributeID": "artifact_adv_020",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_5.Artifact_SSR_011_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1076": {
+      "AttributeID": "artifact_adv_020",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_6.Artifact_SSR_011_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1077": {
+      "AttributeID": "artifact_adv_020",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_011_7.Artifact_SSR_011_7_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1078": {
+      "AttributeID": "artifact_adv_019",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1079": {
+      "AttributeID": "artifact_adv_019",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_2.Artifact_SSR_012_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1080": {
+      "AttributeID": "artifact_adv_019",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_3.Artifact_SSR_012_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1081": {
+      "AttributeID": "artifact_adv_019",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_4.Artifact_SSR_012_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1082": {
+      "AttributeID": "artifact_adv_019",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_5.Artifact_SSR_012_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1083": {
+      "AttributeID": "artifact_adv_019",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_6.Artifact_SSR_012_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1084": {
+      "AttributeID": "artifact_adv_019",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/Artifact_SSR_012_7.Artifact_SSR_012_7_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1085": {
+      "AttributeID": "artifact_adv_018",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_001/SC2/GA_Artifact_SR_001SC2.GA_Artifact_SR_001SC2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Hovering Cannon lasts for <shuzhi>24</> seconds.   "
+    },
+    "1088": {
+      "AttributeID": "artifact_adv_018",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_001/SC4/GA_Artifact_SR_001SC4.GA_Artifact_SR_001SC4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Gain the <yellow_lbl_14_1>Laser Array</> skill: Freeze targets after dealing damage to them <shuzhi>4</> times in a row and deal damage equal to a maximum of <shuzhi>93.2%</> of ATK."
+    },
+    "1089": {
+      "AttributeID": "artifact_adv_018",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_001/SC5/GA_Artifact_SR_001SC5.GA_Artifact_SR_001SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to <shuzhi>150</> seconds.     "
+    },
+    "1090": {
+      "AttributeID": "artifact_adv_018",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_001/SC5/GA_Artifact_SR_001SC5.GA_Artifact_SR_001SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_IceUp15.Artifact_IceUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase frost damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1091": {
+      "AttributeID": "artifact_adv_018",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_001/SC7/GA_Artifact_SR_001SC7.GA_Artifact_SR_001SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Gain the <yellow_lbl_14_1>Crash</> skill: Deal damage to the target equal to <shuzhi>55.9%</> of ATK and stun them for <shuzhi>0.5</> seconds."
+    },
+    "1092": {
+      "AttributeID": "artifact_adv_017",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_1.Artifact_SR_002_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1093": {
+      "AttributeID": "artifact_adv_017",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_2.Artifact_SR_002_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1094": {
+      "AttributeID": "artifact_adv_017",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_3.Artifact_SR_002_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1095": {
+      "AttributeID": "artifact_adv_017",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_4.Artifact_SR_002_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1096": {
+      "AttributeID": "artifact_adv_017",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_5.Artifact_SR_002_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1097": {
+      "AttributeID": "artifact_adv_017",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_6.Artifact_SR_002_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1098": {
+      "AttributeID": "artifact_adv_017",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_002_7.Artifact_SR_002_7_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1099": {
+      "AttributeID": "artifact_adv_016",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_1.Artifact_SR_003_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1100": {
+      "AttributeID": "artifact_adv_016",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_2.Artifact_SR_003_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1101": {
+      "AttributeID": "artifact_adv_016",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_3.Artifact_SR_003_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1102": {
+      "AttributeID": "artifact_adv_016",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_4.Artifact_SR_003_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1103": {
+      "AttributeID": "artifact_adv_016",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_5.Artifact_SR_003_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1104": {
+      "AttributeID": "artifact_adv_016",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_6.Artifact_SR_003_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1105": {
+      "AttributeID": "artifact_adv_016",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_003_7.Artifact_SR_003_7_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1107": {
+      "AttributeID": "artifact_adv_015",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_004/SC3/GA_Artifact_SR_004SC3.GA_Artifact_SR_004SC3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Replenish 1 charge every <shuzhi>100</> seconds. Gliding no longer expends endurance."
+    },
+    "1109": {
+      "AttributeID": "artifact_adv_015",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_004/SC4/GA_Artifact_SR_004SC4.GA_Artifact_SR_004SC4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Gliding for longer than 3 seconds empowers the user's next pummel attack to stun the target for 2 seconds."
+    },
+    "1110": {
+      "AttributeID": "artifact_adv_015",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_004/SC5/GA_Artifact_SR_004SC5.GA_Artifact_SR_004SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Replenish <shuzhi>1</> charge every 60 seconds."
+    },
+    "1111": {
+      "AttributeID": "artifact_adv_015",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_004/SC5/GA_Artifact_SR_004SC5.GA_Artifact_SR_004SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BePhyDown15.Artifact_BePhyDown15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce physical damage received by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1112": {
+      "AttributeID": "artifact_adv_015",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_004/SC7/GA_Artifact_SR_004SC7.GA_Artifact_SR_004SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Store up to <shuzhi>3</> charges.   "
+    },
+    "1114": {
+      "AttributeID": "artifact_adv_014",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/Level3/GA_Artifact_SR_005_ChangeWeapon_Level3.GA_Artifact_SR_005_ChangeWeapon_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "<shuzhi>Stun</> targets for <shuzhi>2</> seconds on hit, and burn them.  "
+    },
+    "1116": {
+      "AttributeID": "artifact_adv_014",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/Level4/GA_Artifact_SR_005_ChangeWeapon_Level4.GA_Artifact_SR_005_ChangeWeapon_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase blast radius by <shuzhi>50%</>.     "
+    },
+    "1117": {
+      "AttributeID": "artifact_adv_014",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5.GA_Artifact_SR_005_ChangeWeapon_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to <shuzhi>30</> seconds.     "
+    },
+    "1118": {
+      "AttributeID": "artifact_adv_014",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5.GA_Artifact_SR_005_ChangeWeapon_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp15.Artifact_FireUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase flame damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1119": {
+      "AttributeID": "artifact_adv_014",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/Level7/GA_Artifact_SR_005_ChangeWeapon_Level7.GA_Artifact_SR_005_ChangeWeapon_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "<shuzhi>Stun</> targets for <shuzhi>3</> seconds on hit and burn their endurance for <shuzhi>10</> seconds, causing targets to lose <shuzhi>100</> endurance after every ability use."
+    },
+    "1121": {
+      "AttributeID": "artifact_adv_013",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_006/SC3/GA_Artifact_SR_006SC3.GA_Artifact_SR_006SC3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Artifact/Artifact_SR_006/SC3/buff_artifact_sr006_skateControl.buff_artifact_sr006_skateControl_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Gain <shuzhi>10</> weapon charge points every second while gliding."
+    },
+    "1123": {
+      "AttributeID": "artifact_adv_013",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_006/SC4/GA_Artifact_SR_006SC4.GA_Artifact_SR_006SC4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce charge time to <shuzhi>60</> seconds.     "
+    },
+    "1124": {
+      "AttributeID": "artifact_adv_013",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_006/SC5/GA_Artifact_SR_006SC5.GA_Artifact_SR_006SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Jetboard collision damage is increased by <shuzhi>100%</>, and charge time is reduced to <shuzhi>45</> seconds.     "
+    },
+    "1125": {
+      "AttributeID": "artifact_adv_013",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_006/SC5/GA_Artifact_SR_006SC5.GA_Artifact_SR_006SC5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeIceDown15.Artifact_BeIceDown15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce frost damage received by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1126": {
+      "AttributeID": "artifact_adv_013",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_006/SC7/GA_Artifact_SR_006SC7.GA_Artifact_SR_006SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Immune to control effects while using Jetboard. Using the Jetboard to attack and hit targets <shuzhi>stuns</> them for <shuzhi>5</> seconds. Charge time is reduced to <shuzhi>30</> seconds."
+    },
+    "1127": {
+      "AttributeID": "artifact_adv_012",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level2/GA_Artifact_SR_007_Level2.GA_Artifact_SR_007_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Unleash <shuzhi>2</> electric tornadoes.   "
+    },
+    "1128": {
+      "AttributeID": "artifact_adv_012",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level3/GA_Artifact_SR_007_Level3.GA_Artifact_SR_007_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase tornado damage by <shuzhi>20%</>.     "
+    },
+    "1131": {
+      "AttributeID": "artifact_adv_012",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Unleash <shuzhi>3</> electric tornadoes.  "
+    },
+    "1132": {
+      "AttributeID": "artifact_adv_012",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase volt damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1133": {
+      "AttributeID": "artifact_adv_012",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level7/GA_Artifact_SR_007Level7.GA_Artifact_SR_007Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Those caught in tornadoes have a <shuzhi>50%</> chance to be disoriented for <shuzhi>3</> seconds each time they take damage. Movement direction inputs will also be swapped."
+    },
+    "1134": {
+      "AttributeID": "artifact_adv_011",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_1.Artifact_SR_008_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1135": {
+      "AttributeID": "artifact_adv_011",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_2.Artifact_SR_008_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1136": {
+      "AttributeID": "artifact_adv_011",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1137": {
+      "AttributeID": "artifact_adv_011",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_4.Artifact_SR_008_4_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1138": {
+      "AttributeID": "artifact_adv_011",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_5.Artifact_SR_008_5_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1139": {
+      "AttributeID": "artifact_adv_011",
+      "CardStar": 5,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SR/Artifact_SR_008_6.Artifact_SR_008_6_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1140": {
+      "AttributeID": "artifact_adv_011",
+      "CardStar": 6,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1141": {
+      "AttributeID": "artifact_adv_010",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_009/Level2/GA_Artifact_SR_009_Level2.GA_Artifact_SR_009_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Quantum state lasts for <shuzhi>20</> seconds.         "
+    },
+    "1142": {
+      "AttributeID": "artifact_adv_010",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_009/Level3/GA_Artifact_SR_009_Level3.GA_Artifact_SR_009_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to <shuzhi>80</> seconds.          "
+    },
+    "1144": {
+      "AttributeID": "artifact_adv_010",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_009/Level4/GA_Artifact_SR_009Level4.GA_Artifact_SR_009Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "+<shuzhi>100%</> damage in Quantum state, negated after <shuzhi>1</> successful attack"
+    },
+    "1146": {
+      "AttributeID": "artifact_adv_010",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_009/Level5/GA_Artifact_SR_009Level5.GA_Artifact_SR_009Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase volt damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1147": {
+      "AttributeID": "artifact_adv_010",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_009/Level7/GA_Artifact_SR_009_Level7.GA_Artifact_SR_009_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "+<shuzhi>100%</> damage for <shuzhi>3</> successful attacks in Quantum state   "
+    },
+    "1148": {
+      "AttributeID": "artifact_adv_009",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_010/Level2/GA_FPlayer_Artifact_SR010_Level2.GA_FPlayer_Artifact_SR010_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Fire more missiles every second.    "
+    },
+    "1151": {
+      "AttributeID": "artifact_adv_009",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_010/Level4/GA_FPlayer_Artifact_SR010_Level4.GA_FPlayer_Artifact_SR010_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase Missile Barrage damage by <shuzhi>20%</>.     "
+    },
+    "1152": {
+      "AttributeID": "artifact_adv_009",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_010/Level5/GA_FPlayer_Artifact_SR010_Level5.GA_FPlayer_Artifact_SR010_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Missile Barrage lasts for <shuzhi>12</> seconds.     "
+    },
+    "1153": {
+      "AttributeID": "artifact_adv_009",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_010/Level5/GA_FPlayer_Artifact_SR010_Level5.GA_FPlayer_Artifact_SR010_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_PhyUp15.Artifact_PhyUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase physical damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1154": {
+      "AttributeID": "artifact_adv_009",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_010/Level7/GA_FPlayer_Artifact_SR010_Level7.GA_FPlayer_Artifact_SR010_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Launch more missiles after every second.      "
+    },
+    "1155": {
+      "AttributeID": "artifact_adv_008",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_011/Level3/GA_Artifact_SR_011_Level3.GA_Artifact_SR_011_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Produce an EM shield that reduces damage taken by <shuzhi>20%</> for <shuzhi>7</> seconds."
+    },
+    "1156": {
+      "AttributeID": "artifact_adv_008",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_011/Level4/GA_Artifact_SR_011_Level4.GA_Artifact_SR_011_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Regain <shuzhi>1</> charge every <shuzhi>15</> seconds.  "
+    },
+    "1159": {
+      "AttributeID": "artifact_adv_008",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_011/Level5/GA_Artifact_SR_011_Level5.GA_Artifact_SR_011_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Store up to <shuzhi>3</> charges."
+    },
+    "1160": {
+      "AttributeID": "artifact_adv_008",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_011/Level5/GA_Artifact_SR_011_Level5.GA_Artifact_SR_011_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_IceUp15.Artifact_IceUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase frost damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1161": {
+      "AttributeID": "artifact_adv_008",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_011/Level7/GA_Artifact_SR_011_Level7.GA_Artifact_SR_011_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce final damage of targets hit by <shuzhi>30%</> for <shuzhi>7</> seconds."
+    },
+    "1162": {
+      "AttributeID": "artifact_adv_007",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_002/Level2/GA_Artifact_R_002_Level2.GA_Artifact_R_002_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Can be used while under control effects."
+    },
+    "1165": {
+      "AttributeID": "artifact_adv_007",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_002/Level4/GA_Artifact_R_002_Level4.GA_Artifact_R_002_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Grant immunity to control effects for the next <shuzhi>5</> seconds."
+    },
+    "1166": {
+      "AttributeID": "artifact_adv_007",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_002/Level5/GA_Artifact_R_002_Level5.GA_Artifact_R_002_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Upon hitting the target, plant a <shuzhi>7</>-second Magnetic Bomb that detonates if the target uses normal attacks/dodges/skills, causing <shuzhi>40%</> Slow for  <shuzhi>5</> seconds, and disappears after detonation."
+    },
+    "1167": {
+      "AttributeID": "artifact_adv_007",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_002/Level5/GA_Artifact_R_002_Level5.GA_Artifact_R_002_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeThunderDown15.Artifact_BeThunderDown15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce volt damage received by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1168": {
+      "AttributeID": "artifact_adv_007",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_002/Level7/GA_Artifact_R_002_Level7.GA_Artifact_R_002_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Detonating the Magnetic Bomb removes all current buffs from the target."
+    },
+    "1169": {
+      "AttributeID": "artifact_adv_006",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_001_1.Artifact_R_001_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1170": {
+      "AttributeID": "artifact_adv_006",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_001_2.Artifact_R_001_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1171": {
+      "AttributeID": "artifact_adv_006",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_001_3.Artifact_R_001_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1172": {
+      "AttributeID": "artifact_adv_005",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_002_1.Artifact_R_002_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1173": {
+      "AttributeID": "artifact_adv_005",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_002_2.Artifact_R_002_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1174": {
+      "AttributeID": "artifact_adv_005",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_002_3.Artifact_R_002_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1175": {
+      "AttributeID": "artifact_adv_004",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_003_1.Artifact_R_003_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1176": {
+      "AttributeID": "artifact_adv_004",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_003_2.Artifact_R_003_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1177": {
+      "AttributeID": "artifact_adv_004",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_003_3.Artifact_R_003_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1178": {
+      "AttributeID": "artifact_adv_003",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_004_1.Artifact_R_004_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1179": {
+      "AttributeID": "artifact_adv_003",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_004_2.Artifact_R_004_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1180": {
+      "AttributeID": "artifact_adv_003",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_004_3.Artifact_R_004_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1181": {
+      "AttributeID": "artifact_adv_002",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_005_1.Artifact_R_005_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1182": {
+      "AttributeID": "artifact_adv_002",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_005_2.Artifact_R_005_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1183": {
+      "AttributeID": "artifact_adv_002",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_005_3.Artifact_R_005_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1184": {
+      "AttributeID": "artifact_adv_001",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_006_1.Artifact_R_006_1_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1185": {
+      "AttributeID": "artifact_adv_001",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_006_2.Artifact_R_006_2_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1186": {
+      "AttributeID": "artifact_adv_001",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/R/Artifact_R_006_3.Artifact_R_006_3_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1188": {
+      "AttributeID": "artifact_adv_031",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/level2/GA_Spawn_Artifact_SR_012_2star.GA_Spawn_Artifact_SR_012_2star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "When the shield is broken, reduce the speed of the attacker by <shuzhi>35%</> for <shuzhi>6</> seconds."
+    },
+    "1190": {
+      "AttributeID": "artifact_adv_031",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/level4/GA_Spawn_Artifact_SR_012_4star.GA_Spawn_Artifact_SR_012_4star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "After shield breaks, increase final damage by an amount equal to the percentage of HP lost. This lasts for <shuzhi>10</> seconds. Increase damage by a minimum of <shuzhi>30%</>."
+    },
+    "1191": {
+      "AttributeID": "artifact_adv_031",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/level7/GA_Spawn_Artifact_SR_012_7star.GA_Spawn_Artifact_SR_012_7star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "After shield breaks, increase speed by <shuzhi>30%</> for <shuzhi>6</> seconds."
+    },
+    "1192": {
+      "AttributeID": "artifact_adv_031",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/level7/GA_Spawn_Artifact_SR_012_7star.GA_Spawn_Artifact_SR_012_7star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeFireDown15.Artifact_BeFireDown15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce flame damage received by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1193": {
+      "AttributeID": "artifact_adv_031",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/level5/GA_Spawn_Artifact_SR_012_5star.GA_Spawn_Artifact_SR_012_5star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "If the shield breaks, gain a <shuzhi>5</>-second damage reflection effect, reflecting <shuzhi>0.6</>× damage taken back at the attacker."
+    },
+    "1195": {
+      "AttributeID": "artifact_adv_032",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_011/level1/GA_Spawn_Artifact_SSR_011_1star.GA_Spawn_Artifact_SSR_011_1star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Allied Wanderers in the dimension recovers <shuzhi>15%</> HP <shuzhi>8</> seconds later."
+    },
+    "1196": {
+      "AttributeID": "artifact_adv_032",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_011/level2/GA_Spawn_Artifact_SSR_011_2star.GA_Spawn_Artifact_SSR_011_2star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Friendly units in the dimension gain <shuzhi>25%</> lifesteal."
+    },
+    "1199": {
+      "AttributeID": "artifact_adv_032",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_011/level5/GA_Spawn_Artifact_SSR_011_5star.GA_Spawn_Artifact_SSR_011_5star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Allied Wanderers in the dimension gain immunity to all mind control."
+    },
+    "1200": {
+      "AttributeID": "artifact_adv_032",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_011/level5/GA_Spawn_Artifact_SSR_011_5star.GA_Spawn_Artifact_SSR_011_5star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_IceUp20.Artifact_IceUp20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase frost damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1201": {
+      "AttributeID": "artifact_adv_032",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_011/level7/GA_Spawn_Artifact_SSR_011_7star.GA_Spawn_Artifact_SSR_011_7star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Until the Relic disappears, allied Wanderers in the dimension double all lifesteal effects when HP drops to <shuzhi>40%</> or below."
+    },
+    "1202": {
+      "AttributeID": "artifact_adv_033",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_08/level1/GA_Artifact_R_008_level1.GA_Artifact_R_008_level1_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Activating the Strange Cube increases damage dealt by <shuzhi>10%</> for <shuzhi>10</> seconds."
+    },
+    "1205": {
+      "AttributeID": "artifact_adv_033",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_08/level4/GA_Artifact_R_008_level4.GA_Artifact_R_008_level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "After activating an Enchanted Cube, reduce weapon charge of nearby enemies by <shuzhi>200</>."
+    },
+    "1206": {
+      "AttributeID": "artifact_adv_033",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_08/level5/GA_Artifact_R_008_level5.GA_Artifact_R_008_level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase Enchanted Cube's uses to <shuzhi>2</>."
+    },
+    "1207": {
+      "AttributeID": "artifact_adv_033",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_08/level5/GA_Artifact_R_008_level5.GA_Artifact_R_008_level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase volt damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1208": {
+      "AttributeID": "artifact_adv_033",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_08/level7/GA_Artifact_R_008_level7.GA_Artifact_R_008_level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "After activating the Strange Cube, gain weapon charge based on HP lost. For every <shuzhi>1%</> of HP lost, gain <shuzhi>10</> weapon charge."
+    },
+    "1209": {
+      "AttributeID": "artifact_adv_035",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_07/Level1/GA_Artifact_SR_014_Level1.GA_Artifact_SR_014_Level1_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase duration of energy pillars to <shuzhi>30</> seconds."
+    },
+    "1212": {
+      "AttributeID": "artifact_adv_035",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_07/Level4/GA_Artifact_SR_014_Level4.GA_Artifact_SR_014_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase endurance regen speed by 30% for <shuzhi>20</> seconds after switching to the Omnium Handcannon."
+    },
+    "1213": {
+      "AttributeID": "artifact_adv_035",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_07/Level5/GA_Artifact_SR_014_Level5.GA_Artifact_SR_014_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Stores up to <shuzhi>3</> charges"
+    },
+    "1214": {
+      "AttributeID": "artifact_adv_035",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_07/Level5/GA_Artifact_SR_014_Level5.GA_Artifact_SR_014_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp15.Artifact_FireUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase flame damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1215": {
+      "AttributeID": "artifact_adv_035",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_07/Level7/GA_Artifact_SR_014_Level7.GA_Artifact_SR_014_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce charge time to <shuzhi>40</> seconds."
+    },
+    "1216": {
+      "AttributeID": "breakfate_artifact_ssr_001_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_001/SC7/GA_Artifact_SSR_001SC7.GA_Artifact_SSR_001SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1217": {
+      "AttributeID": "breakfate_artifact_ssr_002_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_002/BreakFate/GA_Artifact_SSR_002SC7_BreakFate.GA_Artifact_SSR_002SC7_BreakFate_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1218": {
+      "AttributeID": "breakfate_artifact_ssr_004_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_004/SC7/GA_Artifact_SSR_004SC7.GA_Artifact_SSR_004SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1219": {
+      "AttributeID": "breakfate_artifact_ssr_005_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_005/SC7/GA_Artifact_SSR_005SC7.GA_Artifact_SSR_005SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1220": {
+      "AttributeID": "breakfate_artifact_ssr_006_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_006/Level7/GA_Artifact_SSR_006_Level7.GA_Artifact_SSR_006_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1221": {
+      "AttributeID": "breakfate_artifact_ssr_008_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_008/Level7/GA_Artifact_SSR_008_Level7.GA_Artifact_SSR_008_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1222": {
+      "AttributeID": "breakfate_artifact_ssr_010_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Level7/GA_Artifact_SSR_010_Level7.GA_Artifact_SSR_010_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1223": {
+      "AttributeID": "breakfate_artifact_ssr_011_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_011/level7/GA_Spawn_Artifact_SSR_011_7star.GA_Spawn_Artifact_SSR_011_7star_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1224": {
+      "AttributeID": "breakfate_artifact_sr_001_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_001/SC7/GA_Artifact_SR_001SC7.GA_Artifact_SR_001SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1225": {
+      "AttributeID": "breakfate_artifact_sr_004_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_004/SC7/GA_Artifact_SR_004SC7.GA_Artifact_SR_004SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1226": {
+      "AttributeID": "breakfate_artifact_sr_005_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/Level7/GA_Artifact_SR_005_ChangeWeapon_Level7.GA_Artifact_SR_005_ChangeWeapon_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1227": {
+      "AttributeID": "breakfate_artifact_sr_006_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_006/SC7/GA_Artifact_SR_006SC7.GA_Artifact_SR_006SC7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1228": {
+      "AttributeID": "breakfate_artifact_sr_007_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level7/GA_Artifact_SR_007Level7.GA_Artifact_SR_007Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1229": {
+      "AttributeID": "breakfate_artifact_sr_009_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_009/Level7/GA_Artifact_SR_009_Level7.GA_Artifact_SR_009_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1230": {
+      "AttributeID": "breakfate_artifact_sr_010_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_010/Level7/GA_FPlayer_Artifact_SR010_Level7.GA_FPlayer_Artifact_SR010_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1231": {
+      "AttributeID": "breakfate_artifact_sr_011_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_011/BreakFate/GA_Artifact_SR_011_Level7_BreakFate.GA_Artifact_SR_011_Level7_BreakFate_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1232": {
+      "AttributeID": "breakfate_artifact_sr_012_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/BreakFate/GA_Spawn_Artifact_SR_012_7star_BreakFate.GA_Spawn_Artifact_SR_012_7star_BreakFate_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1233": {
+      "AttributeID": "breakfate_artifact_sr_013_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_08/level7/GA_Artifact_R_008_level7.GA_Artifact_R_008_level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1234": {
+      "AttributeID": "breakfate_artifact_sr_014_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_07/Level7/GA_Artifact_SR_014_Level7.GA_Artifact_SR_014_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1235": {
+      "AttributeID": "breakfate_artifact_sr_015_star",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_R_002/Level7/GA_Artifact_R_002_Level7.GA_Artifact_R_002_Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "None"
+    },
+    "1236": {
+      "AttributeID": "artifact_adv_036",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_012/Level1/GA_Artifact_SSR012_Level1.GA_Artifact_SSR012_Level1_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Grant <shuzhi>100</> energy immediately upon use if HP is greater than <shuzhi>90%</>. If HP is less than <shuzhi>90%</>, immediately grant <shuzhi>50</> energy, then <shuzhi>50</> more energy once the damage increase expires."
+    },
+    "1237": {
+      "AttributeID": "artifact_adv_036",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_012/Level2/GA_Artifact_SSR012_Level2.GA_Artifact_SSR012_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase the duration of Type II Couant's damage boost to <shuzhi>12</> seconds."
+    },
+    "1238": {
+      "AttributeID": "artifact_adv_036",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_012/Level3/GA_Artifact_SSR012_Level3.GA_Artifact_SSR012_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase Type II Couant's damage boost limit to <shuzhi>70%</>."
+    },
+    "1239": {
+      "AttributeID": "artifact_adv_036",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_012/Level3/GA_Artifact_SSR012_Level3.GA_Artifact_SSR012_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp20.Artifact_FireUp20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase flame damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1240": {
+      "AttributeID": "artifact_adv_036",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_012/Level5/GA_Artifact_SSR012_Level5.GA_Artifact_SSR012_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "If the amount of missing HP is greater than the current HP, grant a damage boost based on a percentage of missing HP (up to <shuzhi>70%</>)."
+    },
+    "1241": {
+      "AttributeID": "artifact_adv_031_OS",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level2/GA_Spawn_Artifact_SR_012_2star_OS.GA_Spawn_Artifact_SR_012_2star_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "When the shield is broken, reduce the speed of the attacker by <shuzhi>35%</> for <shuzhi>6</> seconds."
+    },
+    "1242": {
+      "AttributeID": "artifact_adv_031_OS",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level4/GA_Spawn_Artifact_SR_012_4star_OS.GA_Spawn_Artifact_SR_012_4star_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "After shield breaks, increase final damage by <shuzhi>20%</> for <shuzhi>10</> seconds."
+    },
+    "1243": {
+      "AttributeID": "artifact_adv_031_OS",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level7/GA_Spawn_Artifact_SR_012_7star_OS.GA_Spawn_Artifact_SR_012_7star_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "After shield breaks, increase speed by <shuzhi>30%</> for <shuzhi>6</> seconds."
+    },
+    "1244": {
+      "AttributeID": "artifact_adv_031_OS",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level7/GA_Spawn_Artifact_SR_012_7star_OS.GA_Spawn_Artifact_SR_012_7star_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_BeFireDown15.Artifact_BeFireDown15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce flame damage received by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1245": {
+      "AttributeID": "artifact_adv_031_OS",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_012/OverSeas/Level5/GA_Spawn_Artifact_SR_012_5star_OS.GA_Spawn_Artifact_SR_012_5star_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "If the shield breaks, gain a <shuzhi>5</>-second damage reflection effect, reflecting <shuzhi>0.6</>× damage taken back at the attacker."
+    },
+    "1246": {
+      "AttributeID": "artifact_adv_012_OS",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level2/GA_Artifact_SR_007_Level2.GA_Artifact_SR_007_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Unleash <shuzhi>2</> electric tornadoes.   "
+    },
+    "1247": {
+      "AttributeID": "artifact_adv_012_OS",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level3/GA_Artifact_SR_007_Level3.GA_Artifact_SR_007_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase tornado damage by <shuzhi>20%</>.     "
+    },
+    "1248": {
+      "AttributeID": "artifact_adv_012_OS",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Unleash <shuzhi>3</> electric tornadoes.  "
+    },
+    "1249": {
+      "AttributeID": "artifact_adv_012_OS",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level5/GA_Artifact_SR_007Level5.GA_Artifact_SR_007Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp15.Artifact_ThunderUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase volt damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1250": {
+      "AttributeID": "artifact_adv_012_OS",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_007/Level7/GA_Artifact_SR_007Level7.GA_Artifact_SR_007Level7_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Those caught in tornadoes have a <shuzhi>50%</> chance to be disoriented for <shuzhi>3</> seconds each time they take damage. Movement direction inputs will also be swapped."
+    },
+    "1251": {
+      "AttributeID": "artifact_adv_014_OS",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level3/GA_Artifact_SR_005_ChangeWeapon_Level3_OS.GA_Artifact_SR_005_ChangeWeapon_Level3_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "<shuzhi>Stun</> targets for <shuzhi>2</> seconds on hit, and burn them.  "
+    },
+    "1252": {
+      "AttributeID": "artifact_adv_014_OS",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level4/GA_Artifact_SR_005_ChangeWeapon_Level4_OS.GA_Artifact_SR_005_ChangeWeapon_Level4_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase blast radius by <shuzhi>50%</>.     "
+    },
+    "1253": {
+      "AttributeID": "artifact_adv_014_OS",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5_OS.GA_Artifact_SR_005_ChangeWeapon_Level5_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to <shuzhi>30</> seconds.     "
+    },
+    "1254": {
+      "AttributeID": "artifact_adv_014_OS",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level5/GA_Artifact_SR_005_ChangeWeapon_Level5_OS.GA_Artifact_SR_005_ChangeWeapon_Level5_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_FireUp15.Artifact_FireUp15_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase flame damage by <shuzhi>1.5%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1255": {
+      "AttributeID": "artifact_adv_014_OS",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_005/OverSeas/Level7/GA_Artifact_SR_005_ChangeWeapon_Level7_OS.GA_Artifact_SR_005_ChangeWeapon_Level7_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "<shuzhi>Stun</> targets for <shuzhi>3</> seconds on hit and burn their endurance for <shuzhi>10</> seconds, causing targets to lose <shuzhi>100</> endurance after every ability use."
+    },
+    "1256": {
+      "AttributeID": "artifact_adv_037",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_016/Level1/GA_Artifact_SR_016_Level1.GA_Artifact_SR_016_Level1_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to 60 seconds."
+    },
+    "1257": {
+      "AttributeID": "artifact_adv_037",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_016/Level2/GA_Artifact_SR_016_Level2.GA_Artifact_SR_016_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Endurance cost is halved on the ground, no cost in the water."
+    },
+    "1258": {
+      "AttributeID": "artifact_adv_037",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_016/Level3/GA_Artifact_SR_016_Level3.GA_Artifact_SR_016_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Ignore cooldown when swimming."
+    },
+    "1259": {
+      "AttributeID": "artifact_adv_037",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_016/Level3/GA_Artifact_SR_016_Level3.GA_Artifact_SR_016_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase flame damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1260": {
+      "AttributeID": "artifact_adv_037",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_016/Level5/GA_Artifact_SR_016_Level5.GA_Artifact_SR_016_Level5_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to 30 seconds."
+    },
+    "1261": {
+      "AttributeID": "breakfate_artifact_sr_017_star",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SR_017/GA_Artifact_SR017.GA_Artifact_SR017_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce cooldown to 30 seconds."
+    },
+    "1262": {
+      "AttributeID": "artifact_adv_038",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_014/Level2/GA_Artifact_SSR_014_Level2.GA_Artifact_SSR_014_Level2_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes_GA_Artifact_SSR_014_Level1_des"
+    },
+    "1263": {
+      "AttributeID": "artifact_adv_038",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_014/Level3/GA_Artifact_SSR_014_Level3.GA_Artifact_SSR_014_Level3_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes_GA_Artifact_SSR_014_Level2_des"
+    },
+    "1264": {
+      "AttributeID": "artifact_adv_038",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_014/Level4/GA_Artifact_SSR_014_Level4.GA_Artifact_SSR_014_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes_GA_Artifact_SSR_014_Level3_des"
+    },
+    "1265": {
+      "AttributeID": "artifact_adv_038",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_014/Level4/GA_Artifact_SSR_014_Level4.GA_Artifact_SSR_014_Level4_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_IceUp20.Artifact_IceUp20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase frost damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1266": {
+      "AttributeID": "artifact_adv_038",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_014/Level6/GA_Artifact_SSR_014_Level6.GA_Artifact_SSR_014_Level6_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "/Game/Resources/CoreBlueprints/DataTable/Skill/SkillDes.SkillDes_GA_Artifact_SSR_014_Level5_des"
+    },
+    "1267": {
+      "AttributeID": "artifact_adv_021_OS",
+      "CardStar": 0,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Overseas/GA_Artifact_SSR_010_Level2_OS.GA_Artifact_SSR_010_Level2_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Extend duration to <shuzhi>20</> seconds.     "
+    },
+    "1268": {
+      "AttributeID": "artifact_adv_021_OS",
+      "CardStar": 1,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Overseas/GA_Artifact_SSR_010_Level4_OS.GA_Artifact_SSR_010_Level4_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Reduce skill cooldown to <shuzhi>120</> seconds."
+    },
+    "1269": {
+      "AttributeID": "artifact_adv_021_OS",
+      "CardStar": 2,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Overseas/GA_Artifact_SSR_010_Level5_OS.GA_Artifact_SSR_010_Level5_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Tap again to transpose to the hologram's position."
+    },
+    "1270": {
+      "AttributeID": "artifact_adv_021_OS",
+      "CardStar": 3,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Overseas/GA_Artifact_SSR_010_Level5_OS.GA_Artifact_SSR_010_Level5_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [
+        {
+          "SkillTemplate": {
+            "Path": "/Game/Resources/Abilities/Buff/Player/Artifact/passivity/SSR/UpStar4/Artifact_ThunderUp20.Artifact_ThunderUp20_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase volt damage by <shuzhi>2%</>, even if not deployed. Unavailable in Apex League."
+    },
+    "1271": {
+      "AttributeID": "artifact_adv_021_OS",
+      "CardStar": 4,
+      "InsteadSkill": {
+        "SkillTemplate": {
+          "Path": "/Game/Resources/Artifact/Artifact_SSR_010/Overseas/GA_Artifact_SSR_010_Level7_OS.GA_Artifact_SSR_010_Level7_OS_C",
+          "SubPath": ""
+        },
+        "SkillLevel": 1
+      },
+      "IncreasePassiveSkills": [],
+      "ModifyAttributes": "None",
+      "InvisibleModifyAttributes": "None",
+      "UnlockLevel": 0,
+      "Desc": "Increase damage dealt by holograms to <shuzhi>50%</> of the Wanderer's damage. Transposing removes control effects."
+    }
+  }
+  }
+]

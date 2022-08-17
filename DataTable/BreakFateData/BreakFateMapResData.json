@@ -1,0 +1,60 @@
+[
+  {
+    "Export": {
+      "Name": "BreakFateMapResData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Res": {
+      "BreakFateMapBg": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/map_chiji_1.map_chiji_2",
+        "SubPath": ""
+      },
+      "BgMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BreakFateMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/map_chiji_2.map_chiji_3",
+        "SubPath": ""
+      },
+      "SafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "IndicatorActors": [
+        {
+          "Path": "/Game/Resources/CoreBlueprints/BreakFate/Actor/BreakFateIndicator.BreakFateIndicator_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/CoreBlueprints/BreakFate/Actor/BreakFateIndicator_1.BreakFateIndicator_1_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/CoreBlueprints/BreakFate/Actor/BreakFateIndicator_2.BreakFateIndicator_2_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/CoreBlueprints/BreakFate/Actor/BreakFateIndicator_3.BreakFateIndicator_3_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/CoreBlueprints/BreakFate/Actor/BreakFateIndicator_4.BreakFateIndicator_4_C",
+          "SubPath": ""
+        }
+      ],
+      "Thickness": 1,
+      "LineColor": {
+        "R": 1,
+        "G": 1,
+        "B": 1,
+        "A": 1
+      }
+    }
+  }
+  }
+]

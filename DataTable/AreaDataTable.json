@@ -1,0 +1,4721 @@
+[
+  {
+    "Export": {
+      "Name": "AreaDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "10000": {
+      "AreaTitle": "Astra",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_021.P_Text_021",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "10100",
+        "10200",
+        "10300",
+        "10400",
+        "10500",
+        "10600",
+        "10700",
+        "10800",
+        "10900",
+        "11000",
+        "11200",
+        "11300",
+        "11400",
+        "11500",
+        "11600"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10100": {
+      "AreaTitle": "Crimson Pillars",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_002.P_Text_002",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10200": {
+      "AreaTitle": "Astra Omnium Tower",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_034.P_Text_034",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10300": {
+      "AreaTitle": "Mega Arena",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_016.P_Text_016",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10400": {
+      "AreaTitle": "Dragon Bone Ring",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_005.P_Text_005",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10500": {
+      "AreaTitle": "Astra Shelter",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_033.P_Text_033",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10600": {
+      "AreaTitle": "Southern Ring Ranges",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_007.P_Text_007",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10700": {
+      "AreaTitle": "Northern Ring Ranges",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_006.P_Text_006",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10800": {
+      "AreaTitle": "Ruin A-01",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_018.P_Text_018",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10900": {
+      "AreaTitle": "Ruin A-02",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_019.P_Text_019",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "11000": {
+      "AreaTitle": "Ruin A-03",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_020.P_Text_020",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "11200": {
+      "AreaTitle": "Rusty Belt",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_045.P_Text_045",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "11300": {
+      "AreaTitle": "Football Field",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_046.P_Text_046",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "11400": {
+      "AreaTitle": "Barrenstown",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_047.P_Text_047",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "11500": {
+      "AreaTitle": "Astra Cemetery",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_048.P_Text_048",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "11600": {
+      "AreaTitle": "Tomb of Thorns",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_049.P_Text_049",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "10010": {
+      "AreaTitle": "Hykros",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_022.P_Text_022",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20000": {
+      "AreaTitle": "Banges",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_031.P_Text_031",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "20100",
+        "20200",
+        "20300",
+        "20400",
+        "20500",
+        "20600",
+        "20700",
+        "20800",
+        "20900",
+        "21000",
+        "21100",
+        "21200",
+        "21300",
+        "21400",
+        "21500",
+        "21600",
+        "21700",
+        "21800",
+        "21900"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20100": {
+      "AreaTitle": "Banges Omnium Tower",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_035.P_Text_035",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20200": {
+      "AreaTitle": "Rosen",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_036.P_Text_036",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "21000",
+        "21200"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20300": {
+      "AreaTitle": "Banges Industrial Zone",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_037.P_Text_037",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "20600",
+        "20700",
+        "20800",
+        "20900"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20400": {
+      "AreaTitle": "Mt. Targus",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_038.P_Text_038",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "21300",
+        "21900"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20500": {
+      "AreaTitle": "Mt. Woochu",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_039.P_Text_039",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "21500",
+        "21600"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20600": {
+      "AreaTitle": "Banges Factories",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_050.P_Text_050",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20700": {
+      "AreaTitle": "Banges Tech",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_051.P_Text_051",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20800": {
+      "AreaTitle": "Banges Dock",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_052.P_Text_052",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "20900": {
+      "AreaTitle": "Bennar's Corridor",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_053.P_Text_053",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21000": {
+      "AreaTitle": "Loen Dock",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_054.P_Text_054",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21100": {
+      "AreaTitle": "Black Market",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_055.P_Text_055",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21200": {
+      "AreaTitle": "Signal Station Ruins",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_056.P_Text_056",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21300": {
+      "AreaTitle": "Banges Farms",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_057.P_Text_057",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21400": {
+      "AreaTitle": "Anchorville",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_058.P_Text_058",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21500": {
+      "AreaTitle": "The Maen",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_059.P_Text_059",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21600": {
+      "AreaTitle": "HT201 Shelter",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_060.P_Text_060",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21700": {
+      "AreaTitle": "Ruin B-01",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_062.P_Text_062",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21800": {
+      "AreaTitle": "Ruin B-02",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_063.P_Text_063",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "21900": {
+      "AreaTitle": "Ruin B-03",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_064.P_Text_064",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30000": {
+      "AreaTitle": "Navia",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_032.P_Text_032",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "30100",
+        "30200",
+        "30300",
+        "30400",
+        "30600",
+        "30700",
+        "30800",
+        "30900"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30100": {
+      "AreaTitle": "Navia Omnium Tower",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_040.P_Text_040",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30200": {
+      "AreaTitle": "Raincaller Island",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_041.P_Text_041",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "30900"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30300": {
+      "AreaTitle": "Navia Bay",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_042.P_Text_042",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30400": {
+      "AreaTitle": "Seventh Day Forest",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_043.P_Text_043",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30500": {
+      "AreaTitle": "Cetus Island",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_044.P_Text_044",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": [
+        "EAreaType::AREA_WHALE_ISLE"
+      ]
+    },
+    "30600": {
+      "AreaTitle": "The Selga",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_061.P_Text_061",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30700": {
+      "AreaTitle": "Ruin C-01",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_065.P_Text_065",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30800": {
+      "AreaTitle": "Ruin C-02",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_066.P_Text_066",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "30900": {
+      "AreaTitle": "Ruin C-03",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_067.P_Text_067",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40000": {
+      "AreaTitle": "Crown Mines",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_082.P_Text_082",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "40100",
+        "40200",
+        "40300",
+        "40500",
+        "40600",
+        "40700",
+        "40800",
+        "40900",
+        "41700",
+        "41800",
+        "41900",
+        "42000",
+        "42100",
+        "42200",
+        "42300",
+        "40400"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40100": {
+      "AreaTitle": "Ruin D-01",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_070.P_Text_070",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40200": {
+      "AreaTitle": "Ruin D-02",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_071.P_Text_071",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40300": {
+      "AreaTitle": "Ruin D-03",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_072.P_Text_072",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40400": {
+      "AreaTitle": "Crown Omnium Tower",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_083.P_Text_083",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40500": {
+      "AreaTitle": "Parliament",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_087.P_Text_087",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40600": {
+      "AreaTitle": "Research Lab (Area 4)",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_086.P_Text_086",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40700": {
+      "AreaTitle": "Crescent Shores",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_085.P_Text_085",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40800": {
+      "AreaTitle": "The Lumina",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_084.P_Text_084",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "40900": {
+      "AreaTitle": "Forgotten Land",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_088.P_Text_088",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "41700": {
+      "AreaTitle": "Hyena Outpost",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_089.P_Text_089",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "41800": {
+      "AreaTitle": "Miners' Camp",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_090.P_Text_090",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "41900": {
+      "AreaTitle": "Transport Hub",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_091.P_Text_091",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "42000": {
+      "AreaTitle": "Research Lab Outpost (Goldrush Mountain)",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_092.P_Text_092",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "42100": {
+      "AreaTitle": "Fiendish Swamp",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_093.P_Text_093",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "42200": {
+      "AreaTitle": "Seaforth Dock",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_094.P_Text_094",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "42300": {
+      "AreaTitle": "Rose Garden",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_095.P_Text_095",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50000": {
+      "AreaTitle": "Warren Snowfield",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_076.P_Text_076",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "50100",
+        "50300",
+        "50400",
+        "50500",
+        "50600",
+        "50700",
+        "50800"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50100": {
+      "AreaTitle": "Warren Omnium Tower",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_078.P_Text_078",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50200": {
+      "AreaTitle": "Warren Shelter",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_077.P_Text_077",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50300": {
+      "AreaTitle": "Saag Passage",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_079.P_Text_079",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50400": {
+      "AreaTitle": "Aarniel Fortress",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_080.P_Text_080",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50500": {
+      "AreaTitle": "Southern Naa Fjords",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_081.P_Text_081",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50600": {
+      "AreaTitle": "Ruin E-01",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_073.P_Text_073",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50700": {
+      "AreaTitle": "Ruin E-02",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_074.P_Text_074",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "50800": {
+      "AreaTitle": "Ruin E-03",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_075.P_Text_075",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "11700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level1_01",
+      "AreaTypes": []
+    },
+    "11800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level1_02",
+      "AreaTypes": []
+    },
+    "22000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level2_01",
+      "AreaTypes": []
+    },
+    "22100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_01",
+      "AreaTypes": []
+    },
+    "22200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_02",
+      "AreaTypes": []
+    },
+    "22300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_03",
+      "AreaTypes": []
+    },
+    "22400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_04",
+      "AreaTypes": []
+    },
+    "22500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level2_02",
+      "AreaTypes": []
+    },
+    "22600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_05",
+      "AreaTypes": []
+    },
+    "22700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_06",
+      "AreaTypes": []
+    },
+    "22800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_07",
+      "AreaTypes": []
+    },
+    "22900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_08",
+      "AreaTypes": []
+    },
+    "23000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level2_04",
+      "AreaTypes": []
+    },
+    "23100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level2_03",
+      "AreaTypes": []
+    },
+    "31000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_01",
+      "AreaTypes": []
+    },
+    "31100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level3_01",
+      "AreaTypes": []
+    },
+    "31200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level3_02",
+      "AreaTypes": []
+    },
+    "31300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_02",
+      "AreaTypes": []
+    },
+    "31400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level3_03",
+      "AreaTypes": []
+    },
+    "31500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level3_04",
+      "AreaTypes": []
+    },
+    "31600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_03",
+      "AreaTypes": []
+    },
+    "31700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_04",
+      "AreaTypes": []
+    },
+    "31800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_05",
+      "AreaTypes": []
+    },
+    "23200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_09",
+      "AreaTypes": []
+    },
+    "23300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_11",
+      "AreaTypes": []
+    },
+    "11900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level1_03",
+      "AreaTypes": []
+    },
+    "12000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_01",
+      "AreaTypes": []
+    },
+    "12100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_02",
+      "AreaTypes": []
+    },
+    "12200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_03",
+      "AreaTypes": []
+    },
+    "12300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level1_04",
+      "AreaTypes": []
+    },
+    "12400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_04",
+      "AreaTypes": []
+    },
+    "12500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_05",
+      "AreaTypes": []
+    },
+    "12600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_06",
+      "AreaTypes": []
+    },
+    "12700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_07",
+      "AreaTypes": []
+    },
+    "12800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_08",
+      "AreaTypes": []
+    },
+    "12900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_09",
+      "AreaTypes": []
+    },
+    "13000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_11",
+      "AreaTypes": []
+    },
+    "31900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_06",
+      "AreaTypes": []
+    },
+    "32000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_07",
+      "AreaTypes": []
+    },
+    "32100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_08",
+      "AreaTypes": []
+    },
+    "32200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_09",
+      "AreaTypes": []
+    },
+    "32300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_11",
+      "AreaTypes": []
+    },
+    "13100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_12",
+      "AreaTypes": []
+    },
+    "13200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_13",
+      "AreaTypes": []
+    },
+    "13300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_14",
+      "AreaTypes": []
+    },
+    "13400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_15",
+      "AreaTypes": []
+    },
+    "13500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_16",
+      "AreaTypes": []
+    },
+    "13600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_17",
+      "AreaTypes": []
+    },
+    "13700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_18",
+      "AreaTypes": []
+    },
+    "13800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_19",
+      "AreaTypes": []
+    },
+    "13900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_20",
+      "AreaTypes": []
+    },
+    "14000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level1_21",
+      "AreaTypes": []
+    },
+    "41000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_01",
+      "AreaTypes": []
+    },
+    "41100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_02",
+      "AreaTypes": []
+    },
+    "41200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_03",
+      "AreaTypes": []
+    },
+    "41300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_04",
+      "AreaTypes": []
+    },
+    "41400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level4_01",
+      "AreaTypes": []
+    },
+    "41500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_05",
+      "AreaTypes": []
+    },
+    "41600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_06",
+      "AreaTypes": []
+    },
+    "23400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_12",
+      "AreaTypes": []
+    },
+    "23500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_13",
+      "AreaTypes": []
+    },
+    "23600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_14",
+      "AreaTypes": []
+    },
+    "23700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_15",
+      "AreaTypes": []
+    },
+    "23800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level2_16",
+      "AreaTypes": []
+    },
+    "32400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_12",
+      "AreaTypes": []
+    },
+    "32500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_13",
+      "AreaTypes": []
+    },
+    "32600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_14",
+      "AreaTypes": []
+    },
+    "32700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_15",
+      "AreaTypes": []
+    },
+    "32800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level3_16",
+      "AreaTypes": []
+    },
+    "14100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Boss_2",
+      "AreaTypes": []
+    },
+    "23900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Boss_3",
+      "AreaTypes": []
+    },
+    "32900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Boss_4",
+      "AreaTypes": []
+    },
+    "42400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_07",
+      "AreaTypes": []
+    },
+    "42500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_08",
+      "AreaTypes": []
+    },
+    "42600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Boss_5",
+      "AreaTypes": []
+    },
+    "42700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_09",
+      "AreaTypes": []
+    },
+    "42800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_11",
+      "AreaTypes": []
+    },
+    "42900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_12",
+      "AreaTypes": []
+    },
+    "43000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_13",
+      "AreaTypes": []
+    },
+    "43100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_14",
+      "AreaTypes": []
+    },
+    "43300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_16",
+      "AreaTypes": []
+    },
+    "43400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_17",
+      "AreaTypes": []
+    },
+    "43500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_18",
+      "AreaTypes": []
+    },
+    "43600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_19",
+      "AreaTypes": []
+    },
+    "43700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_20",
+      "AreaTypes": []
+    },
+    "43800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_21",
+      "AreaTypes": []
+    },
+    "43900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level4_22",
+      "AreaTypes": []
+    },
+    "50900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level5_01",
+      "AreaTypes": []
+    },
+    "51000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_01",
+      "AreaTypes": []
+    },
+    "51100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_02",
+      "AreaTypes": []
+    },
+    "51200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_03",
+      "AreaTypes": []
+    },
+    "51300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_04",
+      "AreaTypes": []
+    },
+    "51400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_05",
+      "AreaTypes": []
+    },
+    "51500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_06",
+      "AreaTypes": []
+    },
+    "51600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_07",
+      "AreaTypes": []
+    },
+    "51700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level5_02",
+      "AreaTypes": []
+    },
+    "51800": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_08",
+      "AreaTypes": []
+    },
+    "51900": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_09",
+      "AreaTypes": []
+    },
+    "52000": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_11",
+      "AreaTypes": []
+    },
+    "52100": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_12",
+      "AreaTypes": []
+    },
+    "52200": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "B_AreaVolume_Spawn_Level5_03",
+      "AreaTypes": []
+    },
+    "52300": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_13",
+      "AreaTypes": []
+    },
+    "52400": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_14",
+      "AreaTypes": []
+    },
+    "52500": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_15",
+      "AreaTypes": []
+    },
+    "52600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_16",
+      "AreaTypes": []
+    },
+    "52700": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "S_AreaVolume_Spawn_Level5_17",
+      "AreaTypes": []
+    },
+    "24000": {
+      "AreaTitle": "Rig FC-21",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_131.P_Text_132",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "34000": {
+      "AreaTitle": "Rig FC-11",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_132.P_Text_133",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "54000": {
+      "AreaTitle": "Dawn Frontier",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_133.P_Text_134",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "34100": {
+      "AreaTitle": "Navia Ecological Park",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_138.P_Text_139",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "SemirHome": {
+      "AreaTitle": "Samir's Safehouse",
+      "AreaPriority": -1,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_136.P_Text_137",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "SemirLab": {
+      "AreaTitle": "Lab X-7",
+      "AreaPriority": -1,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_135.P_Text_136",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "16000": {
+      "AreaTitle": "Astra Ecological Station",
+      "AreaPriority": 7,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_137.P_Text_138",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "44600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "TeamBoss_10",
+      "AreaTypes": []
+    },
+    "53600": {
+      "AreaTitle": "Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Boss_6",
+      "AreaTypes": []
+    },
+    "60000": {
+      "AreaTitle": "Aesperia Tower of Fantasy",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_143.P_Text_144",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_2": {
+      "AreaTitle": "Base Zero",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_158.P_Text_159",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_3": {
+      "AreaTitle": "Simple Pier",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_159.P_Text_160",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_4": {
+      "AreaTitle": "Ring Arena",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_160.P_Text_161",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_5": {
+      "AreaTitle": "Rusty Iron Camp",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_161.P_Text_162",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_6": {
+      "AreaTitle": "Mine Base",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_162.P_Text_163",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_7": {
+      "AreaTitle": "Sea Gate Passage",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_163.P_Text_164",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_8": {
+      "AreaTitle": "Puddled Lake",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_164.P_Text_165",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_9": {
+      "AreaTitle": "Eyrie",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_165.P_Text_166",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_2": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_2",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_3": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_3",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_4": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_4",
+      "AreaTypes": []
+    },
+    "Homeland_Boss_3": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_Boss_3",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_5": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_5",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_6": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_6",
+      "AreaTypes": []
+    },
+    "Homeland_Boss_2": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_Boss_2",
+      "AreaTypes": []
+    },
+    "Homeland_fukong_2": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_fuong_2",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_7": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_7",
+      "AreaTypes": []
+    },
+    "Homeland_fukong_3": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_fuong_3",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_8": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_8",
+      "AreaTypes": []
+    },
+    "Homeland_fukong_4": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_fuong_4",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_9": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_9",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_10": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_10",
+      "AreaTypes": []
+    },
+    "Homeland_fukong_5": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_fuong_5",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_11": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_11",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_12": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_12",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_13": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_13",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_14": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_14",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_15": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_15",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_16": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_16",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_17": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_17",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_18": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_18",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_19": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_19",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_20": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_20",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_21": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_21",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_22": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_22",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_23": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_23",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_24": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_24",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_25": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_25",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_26": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_26",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_27": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_27",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_28": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_28",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_29": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_29",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_30": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_30",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_31": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_31",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_32": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_32",
+      "AreaTypes": []
+    },
+    "Homeland_Monster_33": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_AreaVolume_Spawn_33",
+      "AreaTypes": []
+    },
+    "Homeland_10": {
+      "AreaTitle": "North Gemini Island",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_166.P_Text_167",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_11": {
+      "AreaTitle": "South Gemini Island",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_167.P_Text_168",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_12": {
+      "AreaTitle": "Sea Horizon Stand",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_168.P_Text_169",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_13": {
+      "AreaTitle": "Listen to Earwyn",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_169.P_Text_170",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_14": {
+      "AreaTitle": "Island of Pins",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_170.P_Text_171",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_15": {
+      "AreaTitle": "Diurnal Islet",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_171.P_Text_172",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_16": {
+      "AreaTitle": "Introduction to the Station",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_172.P_Text_173",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_17": {
+      "AreaTitle": "Broken Tooth Island",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_173.P_Text_174",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_18": {
+      "AreaTitle": "Drift Island",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_174.P_Text_175",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_19": {
+      "AreaTitle": "Stone Moss Island",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_175.P_Text_176",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_20": {
+      "AreaTitle": "Natural Dragon Tumulus",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_176.P_Text_177",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_21": {
+      "AreaTitle": "Mount Sandy",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_177.P_Text_178",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_22": {
+      "AreaTitle": "Stone Mountain",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_178.P_Text_179",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_23": {
+      "AreaTitle": "Deserted Water Treatment Plant",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_179.P_Text_180",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_24": {
+      "AreaTitle": "Feiyun Mountain",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_180.P_Text_181",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_25": {
+      "AreaTitle": "Stranded Remains",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_181.P_Text_182",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_26": {
+      "AreaTitle": "Pavilion Beach",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_182.P_Text_183",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_27": {
+      "AreaTitle": "Estuary",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_183.P_Text_184",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_28": {
+      "AreaTitle": "Ruins",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_184.P_Text_185",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Homeland_Boss_4": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_Boss_4",
+      "AreaTypes": []
+    },
+    "Homeland_Boss_5": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_Boss_5",
+      "AreaTypes": []
+    },
+    "Homeland_Boss_6": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_Boss_6",
+      "AreaTypes": []
+    },
+    "Homeland_Boss_7": {
+      "AreaTitle": "Artificial Island: Stronghold",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Homeland_Boss_7",
+      "AreaTypes": []
+    },
+    "Vera_10001": {
+      "AreaTitle": "None",
+      "AreaPriority": 2,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [
+        "Vera_10101",
+        "Vera_10201",
+        "Vera_10301",
+        "Vera_10401",
+        "Vera_10501",
+        "Vera_10601",
+        "Vera_10701",
+        "Vera_10801",
+        "Vera_10901",
+        "Vera_11001",
+        "Vera_11201"
+      ],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10101": {
+      "AreaTitle": "Silvercoast Lab",
+      "AreaPriority": 10,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_147.P_Text_148",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10201": {
+      "AreaTitle": "Crimson rock",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_148.P_Text_149",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10301": {
+      "AreaTitle": "Mirroria",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_149.P_Text_150",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10401": {
+      "AreaTitle": "Mirror's End",
+      "AreaPriority": 8,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_150.P_Text_151",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10501": {
+      "AreaTitle": "Quicksand Belt",
+      "AreaPriority": 4,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_198.P_Text_199",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10601": {
+      "AreaTitle": "Old Mirroria City Grounds",
+      "AreaPriority": 4,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_192.P_Text_193",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10701": {
+      "AreaTitle": "Karst Cave",
+      "AreaPriority": 4,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_153.P_Text_154",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10801": {
+      "AreaTitle": "Evil's Clutch Oasis",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_196.P_Text_197",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_10901": {
+      "AreaTitle": "Saltwater Oasis",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_195.P_Text_196",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11001": {
+      "AreaTitle": "Slater Canyon",
+      "AreaPriority": 8,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_156.P_Text_157",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11201": {
+      "AreaTitle": "Billows Valley",
+      "AreaPriority": 8,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_157.P_Text_158",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11301": {
+      "AreaTitle": "Silent Oasis",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_190.P_Text_191",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11401": {
+      "AreaTitle": "Mirroria Outpost",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_191.P_Text_192",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11501": {
+      "AreaTitle": "Old Mirroria City Grounds",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_192.P_Text_193",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11601": {
+      "AreaTitle": "Artificial Greens",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_193.P_Text_194",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11701": {
+      "AreaTitle": "Listener Testing Ground",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_194.P_Text_195",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11801": {
+      "AreaTitle": "Saltwater Oasis",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_195.P_Text_196",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_11901": {
+      "AreaTitle": "Evil's Clutch Oasis",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_196.P_Text_197",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12001": {
+      "AreaTitle": "Magma Lair",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_197.P_Text_198",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12101": {
+      "AreaTitle": "Quicksand Belt",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_198.P_Text_199",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12201": {
+      "AreaTitle": "Sandstorm Grounds",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_199.P_Text_200",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12301": {
+      "AreaTitle": "Rock Pillar Gobby",
+      "AreaPriority": 5,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_200.P_Text_201",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_Boss_2": {
+      "AreaTitle": "Vera World Boss_1",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Vera_Boss_2",
+      "AreaTypes": []
+    },
+    "Vera_Boss_3": {
+      "AreaTitle": "Vera World Boss_2",
+      "AreaPriority": 0,
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "Vera_Boss_3",
+      "AreaTypes": []
+    },
+    "Vera_FB01_D": {
+      "AreaTitle": "Conference Hall",
+      "AreaPriority": -1,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_209.P_Text_210",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12401": {
+      "AreaTitle": "Mirroria Outpost",
+      "AreaPriority": 4,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_191.P_Text_192",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12501": {
+      "AreaTitle": "Silent Oasis",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_190.P_Text_191",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12601": {
+      "AreaTitle": "Listener Testing Ground",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_194.P_Text_195",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    },
+    "Vera_12701": {
+      "AreaTitle": "Magma Lair",
+      "AreaPriority": 6,
+      "AreaParticleAsset": {
+        "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Texts/P_Text_197.P_Text_198",
+        "SubPath": ""
+      },
+      "SubAreas": [],
+      "FieldOfViewSize": {
+        "X": 0,
+        "Y": 0
+      },
+      "TowerType": "ETowerType::TOWER_UNKNOWN",
+      "PointID": "None",
+      "AreaTypes": []
+    }
+  }
+  }
+]

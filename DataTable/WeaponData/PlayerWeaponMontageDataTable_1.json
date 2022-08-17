@@ -1,0 +1,5029 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerWeaponMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Weaponbow01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapongun01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_half_Montage.char_gun_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_show_Montage.char_gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunEntryAttack.GunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunAirEntryAttack.GunAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunChangeBullet.GunChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_2sw01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_Montage.char_2sw_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_2sw01BPFire": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_Montage.char_2sw_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_2sw01BPIce": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_Montage.char_2sw_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_ham01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_half_Montage.char_ham_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_Montage.char_ham_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_ham01BPIce": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_half_Montage.char_ham_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_Montage.char_ham_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_ham01BPThu": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_half_Montage.char_ham_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_Montage.char_ham_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_handBP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_sp01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_half_Montage.char_sp_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_show_Montage.char_sp_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_sp01BPPoi": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_half_Montage.char_sp_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_show_Montage.char_sp_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_sp01BPThu": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_half_Montage.char_sp_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_show_Montage.char_sp_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_st02BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_torch_light_up_Montage.char_h_torch_light_up_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_torch_light_down_Montage.char_h_torch_light_down_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_sw01BP2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_sw02BPFire": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_sw02BPIce": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weaponcannon01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannonXSYD": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_ds01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_show_Montage.char_ds_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponbowNewBP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_sickle01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_half_Montage.char_sickle_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_show_Montage.char_sickle_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannonXSYD2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/FloatingGun/FloatingGunEntryAttack.FloatingGunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/FloatingGun/FloatingGunEntryAttack.FloatingGunEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapongun02BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_half_Montage.char_gun_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_show_Montage.char_gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunEntryAttack.GunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunAirEntryAttack.GunAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact11": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_008": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008EntryAttack.ArtifactSR008EntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008AirEntryAttack.ArtifactSR008AirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_staves01BP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_Staves_receive_half_Montage.char_Staves_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_receive_Montage.char_staves_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_R_03": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_R_03SC1": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_R_03SC2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponbowBPThu": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_Montage.char_bow_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_ds01BPFire": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_show_Montage.char_ds_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "TestBowThu": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_Montage.char_bow_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "TestDsFire": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_show_Montage.char_ds_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponbowBPFire": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_Montage.char_bow_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponbowBPIce": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_Montage.char_bow_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_008SC1": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008EntryAttack.ArtifactSR008EntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008AirEntryAttack.ArtifactSR008AirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_008SC2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008EntryAttack.ArtifactSR008EntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008AirEntryAttack.ArtifactSR008AirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Wepon_ArtifactSSR001": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Wepon_ArtifactSSR001SC1": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Wepon_ArtifactSSR001SC2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "WeaponSwordXSYD": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weaponcannon01BPFire": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weaponcannon01BPThu": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon2Sw_Fire_R": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_show_Montage.char_2sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponBow_Phy_R": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponDs_Phy_R": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_show_Montage.char_ds_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSpear_Ice_R": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_half_Montage.char_sp_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_show_Montage.char_sp_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSword_Thu_R": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_show_Montage.char_sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon2Sw_Phy_SR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_show_Montage.char_2sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponBow_Fire_SR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannon_Ice_SR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponHammer_Ice_SR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_half_Montage.char_ham_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_hammer_receive_show_Montage.char_hammer_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSpear_Phy_SR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_half_Montage.char_sp_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_show_Montage.char_sp_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponStaves_Thu_SR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_Staves_receive_half_Montage.char_Staves_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_receive_show_Montage.char_staves_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSword_Fire_SR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_show_Montage.char_sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_BigSword_Ice_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_show_Montage.char_2sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponBow_Ice_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponDs_Thu_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_show_Montage.char_ds_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponGun_Fire_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_half_Montage.char_gun_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_show_Montage.char_gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunEntryAttack.GunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunAirEntryAttack.GunAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunChangeBullet.GunChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponHammer_Thu_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_half_Montage.char_ham_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_hammer_receive_show_Montage.char_hammer_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSickle_Fire_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_half_Montage.char_sickle_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_show_Montage.char_sickle_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSickle_Phy_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_half_Montage.char_sickle_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_show_Montage.char_sickle_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponStaves_Ice_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_Staves_receive_half_Montage.char_Staves_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_receive_show_Montage.char_staves_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSword_Phy_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_show_Montage.char_sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSpear_Thu_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_half_Montage.char_sp_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_show_Montage.char_sp_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_RideAttack": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_Montage.char_ds_receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannon_Ice_SR_level2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannon_Ice_SR_level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannon_Ice_SR_level4": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_R_007": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008EntryAttack.ArtifactSR008EntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008AirEntryAttack.ArtifactSR008AirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_011": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_011_Level2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_011_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_011_Level4": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_011_Level5": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_011_Level7": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_darts_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Darts/char_darts_receive_show_Montage.char_darts_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCubeFire_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cube/char_cube_receive_show_Montage.char_cube_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_2gunBP": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_receive_show_Montage.char_2gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/DgunEntryAttack.DgunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Dgun_Thu_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_receive_show_Montage.char_2gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Shield_Fire_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Shield_receive_show_Montage.char_Shield_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Axe_Fire_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Axe_receive_show_Montage.char_Axe_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannon_Ice_SR_level1": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannon_Ice_SR_level5": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponKaiGe2": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonAirEntryAttack.CannonAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Dgun_Thu_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_receive_show_Montage.char_2gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/DgunEntryAttack.DgunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Weapon_BigSword_Ice_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_show_Montage.char_2sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Artifact_SR_014Level1": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008EntryAttack.ArtifactSR008EntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Artifact/Artifact_SR008/female_01/ArtifactSR008AirEntryAttack.ArtifactSR008AirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Axe_Fire_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Axe_receive_show_Montage.char_Axe_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_darts_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Darts/char_darts_receive_show_Montage.char_darts_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Shield_Fire_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Shield_receive_show_Montage.char_Shield_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponBow_Ice_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCubeFire_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cube/char_cube_receive_show_Montage.char_cube_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponDs_Thu_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_show_Montage.char_ds_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponGun_Fire_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_half_Montage.char_gun_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_show_Montage.char_gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunEntryAttack.GunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunAirEntryAttack.GunAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunChangeBullet.GunChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSickle_Fire_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_half_Montage.char_sickle_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_show_Montage.char_sickle_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponStaves_Ice_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_Staves_receive_half_Montage.char_Staves_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_receive_show_Montage.char_staves_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSword_Phy_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_show_Montage.char_sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponImmortal_Thu_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Immortal/char_Immortal_Receive_Montage.char_Immortal_Receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponImmortal_Thu_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Immortal/char_Immortal_Receive_Montage.char_Immortal_Receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponMark_Phy_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Mark/char_mark_receive_show_Montage.char_mark_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Mark/char_mark_aim_begin_Montage.char_mark_aim_begin_Montage",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Mark/char_mark_airaim_begin_Montage.char_mark_airaim_begin_Montage",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "WeaponMarkRobot_Phy_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "WeaponMarkRobot_Phy_SSR_ChangeSkill": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "WeaponFrigg_Ice_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Frigg/char_Frigg_receive_show_Montage.char_Frigg_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponFrigg_Ice_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Frigg/char_Frigg_receive_show_Montage.char_Frigg_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Suspension_Thu_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/char_Suspension_Receive_Montage.char_Suspension_Receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Suspension_Thu_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/char_Suspension_Receive_Montage.char_Suspension_Receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponFunnel_Fire_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/char_funnel_receive_show_Montage.char_funnel_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/FunnelEntryAttack.FunnelEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "WeaponDkatana_Ice_SSR": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters_Vera/player/female_01/animation/2katana/char_Dkatana_receive_show_Montage.char_Dkatana_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponDkatana_Ice_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters_Vera/player/female_01/animation/2katana/char_Dkatana_receive_show_Montage.char_Dkatana_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponBow_Phy_R_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCannon_Ice_SR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_half_Montage.char_cannon_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_receive_show_Montage.char_cannon_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonEntryAttack.CannonEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/CannonChangeBullet.CannonChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponHammer_Ice_SR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_receive_half_Montage.char_ham_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_hammer_receive_show_Montage.char_hammer_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSpear_Thu_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_half_Montage.char_sp_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_receive_show_Montage.char_sp_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponStaves_Thu_SR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_Staves_receive_half_Montage.char_Staves_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_receive_show_Montage.char_staves_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Axe_Fire_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Axe_receive_show_Montage.char_Axe_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_BigSword_Ice_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_half_Montage.char_2sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_receive_show_Montage.char_2sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_darts_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Darts/char_darts_receive_show_Montage.char_darts_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Dgun_Thu_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_receive_show_Montage.char_2gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Shield_Fire_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Shield_receive_show_Montage.char_Shield_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "Weapon_Suspension_Thu_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/char_Suspension_Receive_Montage.char_Suspension_Receive_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponBow_Ice_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_half_Montage.char_bow_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_receive_show_Montage.char_bow_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowEntryAttack.BowEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/BowAirEntryAttack.BowAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_aim_firedown_Montage.char_bow_aim_firedown_Montage",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponCubeFire_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cube/char_cube_receive_show_Montage.char_cube_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponDs_Thu_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_half_Montage.char_ds_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Ds/char_ds_receive_show_Montage.char_ds_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponGun_Fire_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_half_Montage.char_gun_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_receive_show_Montage.char_gun_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunEntryAttack.GunEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunAirEntryAttack.GunAirEntryAttack",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/GunChangeBullet.GunChangeBullet",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponFrigg_Ice_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Frigg/char_Frigg_receive_show_Montage.char_Frigg_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSickle_Fire_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_half_Montage.char_sickle_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sickle/char_sickle_receive_show_Montage.char_sickle_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponStaves_Ice_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_Staves_receive_half_Montage.char_Staves_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_receive_show_Montage.char_staves_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponSword_Phy_SSR_OS": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_half_Montage.char_sw_receive_half_Montage",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_receive_show_Montage.char_sw_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_Charge_Montage.char_h_Charge_Montage",
+        "SubPath": ""
+      }
+    },
+    "WeaponFunnel_Fire_SSR_Level3": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/char_funnel_receive_show_Montage.char_funnel_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/FunnelEntryAttack.FunnelEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "WeaponFunnel_Fire_SSR_Level6": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/char_funnel_receive_show_Montage.char_funnel_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/FunnelEntryAttack.FunnelEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "WeaponFunnel_Fire_SSR_Level1": {
+      "WeaponEquipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponUnequipIdleAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/char_funnel_receive_show_Montage.char_funnel_receive_show_Montage",
+        "SubPath": ""
+      },
+      "EnterAimmingAnim": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Funnel/FunnelEntryAttack.FunnelEntryAttack",
+        "SubPath": ""
+      },
+      "AirEnterAimmingAnim": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GunChangeBullet": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnUpAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BurnDownAnimation": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WeaponPickupChargeAnim": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

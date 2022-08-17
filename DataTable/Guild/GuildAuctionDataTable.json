@@ -1,0 +1,25 @@
+[
+  {
+    "Export": {
+      "Name": "GuildAuctionDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "WorldBoss": {
+      "AuctionTexture": {
+        "Path": "/Game/Resources/UI/paimai/card_worldboss.card_worldboss",
+        "SubPath": ""
+      },
+      "OpenConditionText": "<miaoshu>Defeat Frontier Clash</>",
+      "JoinConditionText": "All Wanderers in the Crew who participate in the event",
+      "BonusConditionText": "All Wanderers in the Crew who participate in the event",
+      "OpenTimeText": "Daily 20:40",
+      "PreviewAwardsDropID": "WorldBoss_Auction_show",
+      "BaseBonus": 100
+    }
+  }
+  }
+]

@@ -1,0 +1,325 @@
+[
+  {
+    "Export": {
+      "Name": "DT_NewWeaponTypeTip",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "17": {
+      "WeaponId": "spear_ice",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Melee / DPS / Frost",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Spear_Ice01.item_Weapon_R_Spear_Ice01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "18": {
+      "WeaponId": "digger_physic",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Melee / DPS / Physical",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Ds_Phy01.item_Weapon_R_Ds_Phy01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "19": {
+      "WeaponId": "bow_physic",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Physical",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Bow_Phy01.item_Weapon_R_Bow_Phy01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "20": {
+      "WeaponId": "sword_thunder",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Volt",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_R_Sword_Thunder01.item_Weapon_R_Sword_Thunder01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "21": {
+      "WeaponId": "stave_thunder",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Support Ice Shell",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Stave_Thunder01.item_Weapon_SR_Stave_Thunder01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "22": {
+      "WeaponId": "cannon_ice",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Frost",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Cannon_Ice01.item_Weapon_SR_Cannon_Ice01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "23": {
+      "WeaponId": "hammer_ice",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Defense/Frost",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Hammer_Ice01.item_Weapon_SR_Hammer_Ice01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "26": {
+      "WeaponId": "sword_fire",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Melee / DPS / Flame",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01.item_Weapon_SR_Sword_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "27": {
+      "WeaponId": "bow_fire",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Flame",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Bow_Fire01.item_Weapon_SR_Bow_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "28": {
+      "WeaponId": "bigsword_ice",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Defense/Frost",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_BigSword_Ice01.item_Weapon_SSR_BigSword_Ice01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "29": {
+      "WeaponId": "bow_ice",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Frost",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Bow_Ice01.item_Weapon_SSR_Bow_Ice01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "30": {
+      "WeaponId": "stave_ice",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Support Ice Shell",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Stave_Ice01.item_Weapon_SSR_Stave_Ice01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "32": {
+      "WeaponId": "spear_thunder",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Volt",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Spear_Thunder01.item_Weapon_SSR_Spear_Thunder01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "33": {
+      "WeaponId": "digger_thunder",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Volt",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Ds_Thunder01.item_Weapon_SSR_Ds_Thunder01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "34": {
+      "WeaponId": "sickle_fire",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Flame",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Sickle_Fire01.item_Weapon_SSR_Sickle_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "35": {
+      "WeaponId": "gun_fire",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Flame/Ranged",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Gun_Fire01.item_Weapon_SSR_Gun_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "36": {
+      "WeaponId": "sword_physic",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Physical",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SR_Sword_Fire01.item_Weapon_SR_Sword_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "37": {
+      "WeaponId": "darts_physic",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Physical/Ranged",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Darts_Phy01.item_Weapon_SSR_Darts_Phy01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "39": {
+      "WeaponId": "cube_fire",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Support/Flame",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Cube_Fire01.item_Weapon_SSR_Cube_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "41": {
+      "WeaponId": "dgun_thunder",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Volt/Ranged",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_DGun_Thunder.item_Weapon_SSR_DGun_Thunder",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "42": {
+      "WeaponId": "ShieldAxe_Fire",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Defense/Flame",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_ShieldAxe_Fire01.item_Weapon_SSR_ShieldAxe_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "43": {
+      "WeaponId": "Mark_physic",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Defense/Physical",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Mark_Physic01.item_Weapon_SSR_Mark_Physic01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "44": {
+      "WeaponId": "Immortal_thunder",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Volt/Ranged",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_Immortal_Thunder01.item_Weapon_SSR_Immortal_Thunder01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "45": {
+      "WeaponId": "Suspension_thunder",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "Support/Volt",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_naimxs_Thunder01.item_Weapon_SSR_naimxs_Thunder01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "46": {
+      "WeaponId": "Frigg_ice",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Frost",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_frigg_Ice01.item_Weapon_SSR_frigg_Ice01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    },
+    "47": {
+      "WeaponId": "funnel_fire",
+      "WeaponType": "EWeaponType::None",
+      "MatchWeapon": "Darts/One-Handed Sword/Dual Blades",
+      "WeaponCombo": "Target: Bleed",
+      "Trait": "DPS/Flame",
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/weapon/Icon/item_Weapon_SSR_funnel_Fire01.item_Weapon_SSR_funnel_Fire01",
+        "SubPath": ""
+      },
+      "ItemTypeName": "Chakram"
+    }
+  }
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "Export": {
+      "Name": "GuildAuctionStateDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GUILD_AUCTION_STATE_PREPARE": {
+      "Comment": "公会拍卖准备阶段",
+      "SpanTime": 60,
+      "TipsTexts": []
+    },
+    "GUILD_AUCTION_STATE_PUBLICITY": {
+      "Comment": "公会拍卖公示期",
+      "SpanTime": 180,
+      "TipsTexts": [
+        "Display Period:",
+        "Being set by Crew Commander:"
+      ]
+    },
+    "GUILD_AUCTION_STATE_PRIORITY": {
+      "Comment": "公会拍卖优先竞拍环节",
+      "SpanTime": 180,
+      "TipsTexts": [
+        "In Priority Bidding:"
+      ]
+    },
+    "GUILD_AUCTION_STATE_GUILD": {
+      "Comment": "公会拍卖阶段",
+      "SpanTime": 600,
+      "TipsTexts": [
+        "Crew Auction:"
+      ]
+    },
+    "GUILD_AUCTION_STATE_WAIT_WORLD": {
+      "Comment": "公会拍卖结束，等待世界拍卖开启",
+      "SpanTime": 60,
+      "TipsTexts": []
+    },
+    "GUILD_AUCTION_STATE_WORLD_PREPARE": {
+      "Comment": "世界拍卖准备阶段",
+      "SpanTime": 60,
+      "TipsTexts": []
+    },
+    "GUILD_AUCTION_STATE_WORLD_PUBLICITY": {
+      "Comment": "世界拍卖公示期",
+      "SpanTime": 60,
+      "TipsTexts": [
+        "On Display:"
+      ]
+    },
+    "GUILD_AUCTION_STATE_WORLD": {
+      "Comment": "世界拍卖阶段",
+      "SpanTime": 600,
+      "TipsTexts": [
+        "World Public Auction:"
+      ]
+    },
+    "GUILD_AUCTION_STATE_END": {
+      "Comment": "世界拍卖结束",
+      "SpanTime": 300,
+      "TipsTexts": []
+    }
+  }
+  }
+]

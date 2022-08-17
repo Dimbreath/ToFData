@@ -1,0 +1,83 @@
+[
+  {
+    "Export": {
+      "Name": "QuestChapterDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "MainChapterPhoto": {
+        "Path": "/Game/Resources/UI/chapter/shilian_icon.shilian_icon",
+        "SubPath": ""
+      },
+      "ChapterList": [
+        {
+          "QuestID": "q101013",
+          "ChapterPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_zhihui1.sl_icon_zhihui1",
+            "SubPath": ""
+          },
+          "ChapterCompletedPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_zhihui2.sl_icon_zhihui2",
+            "SubPath": ""
+          }
+        },
+        {
+          "QuestID": "q101015",
+          "ChapterPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_jingzhun1.sl_icon_jingzhun1",
+            "SubPath": ""
+          },
+          "ChapterCompletedPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_jingzhun2.sl_icon_jingzhun2",
+            "SubPath": ""
+          }
+        },
+        {
+          "QuestID": "q101017",
+          "ChapterPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_xunjie1.sl_icon_xunjie1",
+            "SubPath": ""
+          },
+          "ChapterCompletedPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_xunjie2.sl_icon_xunjie2",
+            "SubPath": ""
+          }
+        },
+        {
+          "QuestID": "q101018",
+          "ChapterPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_yongqi1.sl_icon_yongqi1",
+            "SubPath": ""
+          },
+          "ChapterCompletedPhoto": {
+            "Path": "/Game/Resources/UI/chapter/sl_icon_yongqi2.sl_icon_yongqi2",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ChapterAwards": [
+        {
+          "ItemID": "Item_Plant002",
+          "Amount": 10,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "Item_Fruit_001",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    }
+  }
+  }
+]

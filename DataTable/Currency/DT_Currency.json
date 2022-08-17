@@ -1,0 +1,1759 @@
+[
+  {
+    "Export": {
+      "Name": "DT_Currency",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "0": {
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "CurrencyName": "Gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/jinbi.jinbi",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Gold",
+      "CurrencyDescription": "Coin minted from tin and gold. Currently the most popular currency across the land.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "1": {
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "CurrencyName": "Dark crystal",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/fakediamonds.fakediamonds",
+        "SubPath": ""
+      },
+      "ItemID": "Item_FakeDiamond",
+      "CurrencyDescription": "Contains unstable energy and is sometimes used as a power source. One of the currencies redeemable for items in the Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "2": {
+      "CurrencyType": "EHottaCurrencyType::Diamond",
+      "CurrencyName": "Tanium",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/diamonds.diamonds",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Diamond",
+      "CurrencyDescription": "Stable crystals, most commonly used for energy supply. One of the currencies redeemable for items in the Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "3": {
+      "CurrencyType": "EHottaCurrencyType::AchievementScore",
+      "CurrencyName": "Achievement",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/chengjiudian.chengjiudian",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Achievement",
+      "CurrencyDescription": "Points gained after accomplishing an achievement. Accumulate achievement and claim rewards on the achievement page.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "4": {
+      "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+      "CurrencyName": "Mira",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/vera_coin1.vera_coin1",
+        "SubPath": ""
+      },
+      "ItemID": "Item_VeraCoin",
+      "CurrencyDescription": "The currency issued by and circulates in Mirroria. Can be used on vending machines, service stations, restaurants, and other facilities across Mirroria.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "5": {
+      "CurrencyType": "EHottaCurrencyType::Gem",
+      "CurrencyName": "Activation Core I",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/yongzhehuodong01.yongzhehuodong01",
+        "SubPath": ""
+      },
+      "ItemID": "None",
+      "CurrencyDescription": "A rare live bio-sample, with great research value.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "6": {
+      "CurrencyType": "EHottaCurrencyType::GuildContribution",
+      "CurrencyName": "Crew contribution",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/gongxian.gongxian",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Guildcontribution",
+      "CurrencyDescription": "    For record purposes only.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "7": {
+      "CurrencyType": "EHottaCurrencyType::ArtifactCoin",
+      "CurrencyName": "Activation Core II",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/yongzhehuodong02.yongzhehuodong02",
+        "SubPath": ""
+      },
+      "ItemID": "None",
+      "CurrencyDescription": "A rare live bio-sample, with great research value.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "8": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragment",
+      "CurrencyName": "Base chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment.matrixfragment",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment",
+      "CurrencyDescription": "Raw material processed through complex procedures for chip production. Redeemable for Matrix chips.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "9": {
+      "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+      "CurrencyName": "Proof of Stellarway",
+      "Icon": {
+        "Path": "/Game/Resources/UI/regression/30/UI_30Day_Icon.UI_30Day_Icon",
+        "SubPath": ""
+      },
+      "ItemID": "item_GreatRegression_coin",
+      "CurrencyDescription": "Executors returning from the break, I hope all of you haven't forgotten how to fight, and better believe that all efforts shall be rewarded.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "10": {
+      "CurrencyType": "EHottaCurrencyType::SoloLeagueCoin",
+      "CurrencyName": "Veron",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/vera_coin2.vera_coin2",
+        "SubPath": ""
+      },
+      "ItemID": "Item_VeraCoinRare",
+      "CurrencyDescription": "Old Mirroria currency that is already out of circulation. It's said that you can still use these coins on some gachapon machines.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "11": {
+      "CurrencyType": "EHottaCurrencyType::Gem2",
+      "CurrencyName": "Spring Stamp",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/Blindbox_coin_01.Blindbox_coin_01",
+        "SubPath": ""
+      },
+      "ItemID": "Blindbox_coin_01",
+      "CurrencyDescription": "Stamps come with the apricity giftbox. It's always a ritual to collect the stamps and apply them.",
+      "EndLiftTime": {
+        "year": 2022,
+        "month": 3,
+        "day": 4,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "12": {
+      "CurrencyType": "EHottaCurrencyType::Gem3",
+      "CurrencyName": "Star Grit",
+      "Icon": {
+        "Path": "/Game/Resources/UI/Activity/AstralPortal/UI_icon_huobi_xingli.UI_icon_huobi_xingli",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Enlightenment",
+      "CurrencyDescription": "Scattered debris that fell along with the other planet from above. Reflects the luster of the stars.",
+      "EndLiftTime": {
+        "year": 2022,
+        "month": 9,
+        "day": 20,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "13": {
+      "CurrencyType": "EHottaCurrencyType::LocalReputation1",
+      "CurrencyName": "Astra bounty coin",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/shangjin_1.shangjin_2",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Reputation1",
+      "CurrencyDescription": "Minted with unique craftsmanship, featuring a relief of a crashed airship. Can be used to exchange for special items.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "14": {
+      "CurrencyType": "EHottaCurrencyType::LocalReputation2",
+      "CurrencyName": "Purple Fox Doll",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/CatchDoll_P4.CatchDoll_P4",
+        "SubPath": ""
+      },
+      "ItemID": "Item_toy_2",
+      "CurrencyDescription": "Prize from the Skill Crane.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "15": {
+      "CurrencyType": "EHottaCurrencyType::LocalReputation3",
+      "CurrencyName": "Robo Monkey Doll",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/CatchDoll_P3.CatchDoll_P3",
+        "SubPath": ""
+      },
+      "ItemID": "Item_toy_3",
+      "CurrencyDescription": "Prize from the Skill Crane.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "16": {
+      "CurrencyType": "EHottaCurrencyType::LocalReputation4",
+      "CurrencyName": "Raccoon Dog Doll",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/CatchDoll_P2.CatchDoll_P2",
+        "SubPath": ""
+      },
+      "ItemID": "Item_toy_4",
+      "CurrencyDescription": "Prize from the Skill Crane.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "17": {
+      "CurrencyType": "EHottaCurrencyType::LocalReputation5",
+      "CurrencyName": "Black Cat Doll",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/CatchDoll_P1.CatchDoll_P1",
+        "SubPath": ""
+      },
+      "ItemID": "Item_toy_5",
+      "CurrencyDescription": "Prize from the Skill Crane.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "18": {
+      "CurrencyType": "EHottaCurrencyType::HookCloneAssistContribution",
+      "CurrencyName": "Support points",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/zhulidian.zhulidian",
+        "SubPath": ""
+      },
+      "ItemID": "Item_AssistContribution",
+      "CurrencyDescription": "Awarded to those who helped new Wanderers. Imprinted with an image for mutual support. Join Team Support System to get.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "19": {
+      "CurrencyType": "EHottaCurrencyType::Stamina",
+      "CurrencyName": "Vitality",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/huoli.huoli",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Static_01",
+      "CurrencyDescription": "None",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "20": {
+      "CurrencyType": "EHottaCurrencyType::PrimaryEnergy",
+      "CurrencyName": "Composite Energy",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/juhe.juhe",
+        "SubPath": ""
+      },
+      "ItemID": "Item_PrimaryEnergy_2",
+      "CurrencyDescription": "Primary products of the energy collector, construction material in the Artificial Island region",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "21": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragment",
+      "CurrencyName": "Black gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment.weaponfragment",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment",
+      "CurrencyDescription": "Token forged by smiths from old Omnium weapons. Circulated only in special markets. Redeemable for weapons.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "22": {
+      "CurrencyType": "EHottaCurrencyType::GenePointAttack",
+      "CurrencyName": "Originum (Attack)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/jysicon.jysicon",
+        "SubPath": ""
+      },
+      "ItemID": "GenePointItem_Attack",
+      "CurrencyDescription": "A mysterious byproduct of Omnium radiation research that affects the evolution of creatures with a purpose. After years of research and optimization, it can now be safely used on the human body.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "23": {
+      "CurrencyType": "EHottaCurrencyType::GuildCaption",
+      "CurrencyName": "Crew fund",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/gonghui.gonghui",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Guildcapital",
+      "CurrencyDescription": "For upgrading Crew structures.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "24": {
+      "CurrencyType": "EHottaCurrencyType::PrimaryEnergy2",
+      "CurrencyName": "Energy crystal dust",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/Energy.Energy",
+        "SubPath": ""
+      },
+      "ItemID": "Item_PrimaryEnergy_3",
+      "CurrencyDescription": "Miniature energy crystals generated when using a suppressor. Possesses slight recovery value. Use them to exchange for resources at the Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "25": {
+      "CurrencyType": "EHottaCurrencyType::GuildMeritorious",
+      "CurrencyName": "Merit",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/gongxian.gongxian",
+        "SubPath": ""
+      },
+      "ItemID": "item_GuildMeritorious",
+      "CurrencyDescription": "Obtained from Crew events to redeem items in the Crew Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "26": {
+      "CurrencyType": "EHottaCurrencyType::LifeCrystal",
+      "CurrencyName": "Life Crystal",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/shengming.shengming",
+        "SubPath": ""
+      },
+      "ItemID": "Item_LifeCrystal",
+      "CurrencyDescription": "Dropped by creatures on the Artificial Island. Use them to exchange for items from vending machines.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "27": {
+      "CurrencyType": "EHottaCurrencyType::HomeOre",
+      "CurrencyName": "Metal Material",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeOre.HomeOre",
+        "SubPath": ""
+      },
+      "ItemID": "HomeOre",
+      "CurrencyDescription": "Collected from machine pods or dropped by Artificial Island Building Mode creatures (Ravagers, Apophis, Robarg, Barbarossa). Can be used for Exchange Store Workshop and building upgrades.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "28": {
+      "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+      "CurrencyName": "Fiber Material",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomePumpkin.HomePumpkin",
+        "SubPath": ""
+      },
+      "ItemID": "HomePumpkin",
+      "CurrencyDescription": "Collected from the Pumpkin House or dropped by Artificial Island Building Mode creatures (The Hyenas, Apophis, Robarg, Barbarossa, Devourer). Can be used for Exchange Store, Workshop, and building upgrades.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "29": {
+      "CurrencyType": "EHottaCurrencyType::HomeRattan",
+      "CurrencyName": "Energy Material",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeMeat.HomeMeat",
+        "SubPath": ""
+      },
+      "ItemID": "HomeRattan",
+      "CurrencyDescription": "Collected from the Pawpaw House or dropped by Artificial Island Building Mode creatures (Ravagers, Apophis, Robarg, Barbarossa). Can be used for Exchange Store, Workshop, and building upgrades.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "30": {
+      "CurrencyType": "EHottaCurrencyType::HomeMeat",
+      "CurrencyName": "Supply Materials",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeFishBones.HomeFishBones",
+        "SubPath": ""
+      },
+      "ItemID": "HomeMeat",
+      "CurrencyDescription": "Collected from the Kitty House or dropped by Artificial Island Building Mode creatures (Ravagers, Apophis, Robarg, Barbarossa). Can be used for Exchange Store, Workshop, and building upgrades.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "31": {
+      "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+      "CurrencyName": "Renovation Materials",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeShell.HomeShell",
+        "SubPath": ""
+      },
+      "ItemID": "HomeTwigs",
+      "CurrencyDescription": "Collected from the Turtle House or dropped by Artificial Island Building Mode creatures (The Hyenas, Apophis, Robarg, Barbarossa, Devourer). Can be used for Exchange Store, Workshop, and building upgrades.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "32": {
+      "CurrencyType": "EHottaCurrencyType::HomeFish",
+      "CurrencyName": "Excellent Construction Materials",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeTwigs.HomeTwigs",
+        "SubPath": ""
+      },
+      "ItemID": "HomeFish",
+      "CurrencyDescription": "Dropped by creatures (Ravagers, Apophis, Robarg, Barbarossa) in buildings of Artificial Island and can be used to upgrade the Exchange Store, Workshop, and buildings.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "33": {
+      "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+      "CurrencyName": "Composite Materials",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeRattan.HomeRattan",
+        "SubPath": ""
+      },
+      "ItemID": "HomeFishBones",
+      "CurrencyDescription": "Dropped by creatures (Ravagers, Apophis, Robarg, Barbarossa) in buildings of Artificial Island and can be used to upgrade the Exchange Store, Workshop, and buildings.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "34": {
+      "CurrencyType": "EHottaCurrencyType::HomeShellfish",
+      "CurrencyName": "Tech Token",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeShellfish.HomeShellfish",
+        "SubPath": ""
+      },
+      "ItemID": "HomeShellfish",
+      "CurrencyDescription": "A universal token of Banges Tech. Can be exchanged and used in the Exchange Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "35": {
+      "CurrencyType": "EHottaCurrencyType::HomeShell",
+      "CurrencyName": "Home reserve currency 2",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/HomeShell.HomeShell",
+        "SubPath": ""
+      },
+      "ItemID": "HomeShell",
+      "CurrencyDescription": "None",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "36": {
+      "CurrencyType": "EHottaCurrencyType::GenePointAssist",
+      "CurrencyName": "Originum (Support)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/jysicon.jysicon",
+        "SubPath": ""
+      },
+      "ItemID": "GenePointItem_Assist",
+      "CurrencyDescription": "A mysterious byproduct of Omnium radiation research that affects the evolution of creatures with a purpose. After years of research and optimization, it can now be safely used on the human body.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "37": {
+      "CurrencyType": "EHottaCurrencyType::GenePointDef",
+      "CurrencyName": "Originum (Feature)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/jysicon.jysicon",
+        "SubPath": ""
+      },
+      "ItemID": "GenePointItem_Def",
+      "CurrencyDescription": "A mysterious byproduct of Omnium radiation research that affects the evolution of creatures with a purpose. After years of research and optimization, it can now be safely used on the human body.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "38": {
+      "CurrencyType": "EHottaCurrencyType::RegressionCoin",
+      "CurrencyName": "Raid coin",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/shangjin_3.shangjin_4",
+        "SubPath": ""
+      },
+      "ItemID": "Item_RegressionCoin",
+      "CurrencyDescription": " Minted with unique craftsmanship, featuring a mechanical windmill relief. Use them to exchange for resources at the Return Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "39": {
+      "CurrencyType": "EHottaCurrencyType::PrimaryEnergy3",
+      "CurrencyName": "Energy crystal dust",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/Energy_2.Energy_3",
+        "SubPath": ""
+      },
+      "ItemID": "Item_PrimaryEnergy_4",
+      "CurrencyDescription": "Miniature energy crystals generated when using a suppressor. Possesses slight recovery value. Use them to exchange for resources at the Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "40": {
+      "CurrencyType": "EHottaCurrencyType::PrimaryEnergy4",
+      "CurrencyName": "Energy crystal dust",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/Energy_3.Energy_4",
+        "SubPath": ""
+      },
+      "ItemID": "Item_PrimaryEnergy_5",
+      "CurrencyDescription": "Miniature energy crystals generated when using a suppressor. Possesses slight recovery value. Use them to exchange for resources at the Store.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "41": {
+      "CurrencyType": "EHottaCurrencyType::MiniGameCoin",
+      "CurrencyName": "Training points",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/xunliandu.xunliandu",
+        "SubPath": ""
+      },
+      "ItemID": "item_minigamecoin",
+      "CurrencyDescription": "Universal points for training.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "42": {
+      "CurrencyType": "EHottaCurrencyType::HopkinsOrder1",
+      "CurrencyName": "Gold-backed card",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/huohuahexin2.huohuahexin2",
+        "SubPath": ""
+      },
+      "ItemID": "Hopkins1",
+      "CurrencyDescription": "Apparently accepted as currency at the Banges Black Market.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "43": {
+      "CurrencyType": "EHottaCurrencyType::SharePhotoCoin",
+      "CurrencyName": "Amusement park",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/park/Item_ticket_baijingdao.Item_ticket_baijingdao",
+        "SubPath": ""
+      },
+      "ItemID": "item_sharephotocoin",
+      "CurrencyDescription": "Obtained by playing amusement facilities on the Cetus Island. Use them to exchange for Cetus Island exclusive rewards at Enfi on the island.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "44": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP1",
+      "CurrencyName": "Flame gold (Red Lotus)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP1",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "45": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP2",
+      "CurrencyName": "Flame gold (Flame)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP2",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "46": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP1",
+      "CurrencyName": "Overclocking chip (Red Lotus)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP1",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "47": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP2",
+      "CurrencyName": "Overclocking chip (Flame)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP2",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "48": {
+      "CurrencyType": "EHottaCurrencyType::HopkinsOrder2",
+      "CurrencyName": "Proof of credit",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/icon_hopkins.icon_hopkins",
+        "SubPath": ""
+      },
+      "ItemID": "Hopkins2",
+      "CurrencyDescription": "You've got to win Hopkins' trust if you want the best goods from his Black Market. Prove yourself a worthy customer.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "49": {
+      "CurrencyType": "EHottaCurrencyType::IncarnationCoin",
+      "CurrencyName": "Offering points",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/Incarnation_01.Incarnation_01",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Incarnation_01",
+      "CurrencyDescription": "Special tokens minted by Hykros to encourage collecting mana bio samples.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "50": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP3",
+      "CurrencyName": "Flame gold (White Moon)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP3",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "51": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP4",
+      "CurrencyName": "Flame gold (Dawn)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP4",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "52": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP5",
+      "CurrencyName": "Flame gold (Rebirth)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP5",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "53": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP6",
+      "CurrencyName": "Flame gold (Ironheart)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP6",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "54": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP7",
+      "CurrencyName": "Flame gold (Sun)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP7",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "55": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP8",
+      "CurrencyName": "Flame gold (Flow)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP8",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "56": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP9",
+      "CurrencyName": "Flame Gold (Shadow)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP9",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel. Redeemable for limited weapons.\r\nDazzling lights refracted endlessly yet frighteningly never fade away.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "57": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP10",
+      "CurrencyName": "Flame Gold (Trickery)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP10",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "58": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP11",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP11",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "59": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP12",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP12",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "60": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP13",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP13",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "61": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP14",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP14",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "62": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP15",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP15",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "63": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP16",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP16",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "64": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP17",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP17",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "65": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP18",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP18",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "66": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP19",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP19",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "67": {
+      "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP20",
+      "CurrencyName": "Flame gold",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/weaponfragment_up.weaponfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "WeaponFragment_UP20",
+      "CurrencyDescription": "Token forged by smiths from specific recycled Omnium weapons. More like an artifact than a currency that circulates in a special channel.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "68": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP3",
+      "CurrencyName": "Overclocking chip (White Moon)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP3",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "69": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP4",
+      "CurrencyName": "Overclocking chip (Dawn)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP4",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "70": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP5",
+      "CurrencyName": "Overclocking chip (Rebirth)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP5",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "71": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP6",
+      "CurrencyName": "Overclocking chip (Ironheart)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP6",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "72": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP7",
+      "CurrencyName": "Overclocking chip (Sun)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP7",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "73": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP8",
+      "CurrencyName": "Overclocking chip (Flow)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP8",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "74": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP9",
+      "CurrencyName": "Overclocking chip (Shadow)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP9",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production. Redeemable for limited Matrix chips.\r\n—So I can share all the clear night full of stars with everyone...",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "75": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP10",
+      "CurrencyName": "Overclocking chip (Trickery)",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP10",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "76": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP11",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP11",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "77": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP12",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP12",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "78": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP13",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP13",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "79": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP14",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP14",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "80": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP15",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP15",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "81": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP16",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP16",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "82": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP17",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP17",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "83": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP18",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP18",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "84": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP19",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP19",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "85": {
+      "CurrencyType": "EHottaCurrencyType::EquipFragmentUP20",
+      "CurrencyName": "Overclocking chip",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/matrixfragment_up.matrixfragment_up",
+        "SubPath": ""
+      },
+      "ItemID": "EquipFragment_UP20",
+      "CurrencyDescription": "Raw material processed through complex procedures for specific chip production.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "86": {
+      "CurrencyType": "EHottaCurrencyType::IncarnationCoin1",
+      "CurrencyName": "Token From Aida",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/Aida_token.Aida_token",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Aida_token",
+      "CurrencyDescription": "Judgement is nigh. A new day shall dawn in fire.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "87": {
+      "CurrencyType": "EHottaCurrencyType::IncarnationCoin2",
+      "CurrencyName": "Encrypted Disk",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/Aida_photo_token.Aida_photo_token",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Aida_photo_token",
+      "CurrencyDescription": "A heavily encrypted disk with critical data. Maybe someone in Hykros can crack it...?",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "88": {
+      "CurrencyType": "EHottaCurrencyType::IncarnationCoin3",
+      "CurrencyName": "Proof of Contribution",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/item/Item_Incarnation_02.Item_Incarnation_02",
+        "SubPath": ""
+      },
+      "ItemID": "Item_Incarnation_02",
+      "CurrencyDescription": "The certificate made by the Logistics Department of Hykros, which records the efforts and contributions of the Executor.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "91": {
+      "CurrencyType": "EHottaCurrencyType::GameActivityCoin1",
+      "CurrencyName": "Proof of Streamer",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/liuguanghuobi01.liuguanghuobi01",
+        "SubPath": ""
+      },
+      "ItemID": "Blindbox_coin_02",
+      "CurrencyDescription": "Commemorative coupons for the Liuguang Car Exhibition. Hope you can find the most desirable treasures there.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "92": {
+      "CurrencyType": "EHottaCurrencyType::GameActivityCoin2",
+      "CurrencyName": "Exhibition Coupon",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/liuguanghuobi02.liuguanghuobi02",
+        "SubPath": ""
+      },
+      "ItemID": "mount_006_coin",
+      "CurrencyDescription": "A free coupon given to visitors of the Liuguang Motorshow. All experience is worthy of being remembered.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "93": {
+      "CurrencyType": "EHottaCurrencyType::GameActivityCoin3",
+      "CurrencyName": "Spacetime Crystal Dust",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/Energy_4.Energy_5",
+        "SubPath": ""
+      },
+      "ItemID": "Item_PrimaryEnergy_6",
+      "CurrencyDescription": "Crystal dust that escaped from the trajectory of spacetime. Seems to be able to affect the stability of spacetime fragments.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "94": {
+      "CurrencyType": "EHottaCurrencyType::GameActivityCoin4",
+      "CurrencyName": "Spacetime Crystal Fragments",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/Energy_5.Energy_6",
+        "SubPath": ""
+      },
+      "ItemID": "Item_PrimaryEnergy_7",
+      "CurrencyDescription": "These fragments floating in the trajectory of spacetime operations are the products of shattered spacetime.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "95": {
+      "CurrencyType": "EHottaCurrencyType::GameActivityCoin5",
+      "CurrencyName": "Revitalized Energy Body",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/yongzhehuodong01.yongzhehuodong01",
+        "SubPath": ""
+      },
+      "ItemID": "activation1",
+      "CurrencyDescription": "A rare live bio-sample, with great research value.",
+      "EndLiftTime": {
+        "year": 2022,
+        "month": 9,
+        "day": 3,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "96": {
+      "CurrencyType": "EHottaCurrencyType::GameActivityCoin6",
+      "CurrencyName": "Revitalized Energy Body",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/yongzhehuodong02.yongzhehuodong02",
+        "SubPath": ""
+      },
+      "ItemID": "activation2",
+      "CurrencyDescription": "Revitalized energy body from the defeated raiding target. It may be of great interest to the researchers at Hykros.",
+      "EndLiftTime": {
+        "year": 2022,
+        "month": 6,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "97": {
+      "CurrencyType": "EHottaCurrencyType::GameActivityCoin7",
+      "CurrencyName": "Pacemaker Emblem",
+      "Icon": {
+        "Path": "/Game/Resources/Icon/huobi/OrienteeringCoin_01.OrienteeringCoin_01",
+        "SubPath": ""
+      },
+      "ItemID": "Item_OrienteeringCoin_01",
+      "CurrencyDescription": "The emblem is given to the HOTTA Studio's Mirroria Tour event participants. Appreciate Mirroria's beauty from a whole new perspective.",
+      "EndLiftTime": {
+        "year": 2022,
+        "month": 6,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "101": {
+      "CurrencyType": "EHottaCurrencyType::RegressionHelpCoin",
+      "CurrencyName": "Return Support Points",
+      "Icon": {
+        "Path": "/Game/Resources/UI/regression/30/huiguizhulidian.huiguizhulidian",
+        "SubPath": ""
+      },
+      "ItemID": "item_Regression_AssistContribution",
+      "CurrencyDescription": "Awarded to those who helped return Executors. Obtain by teaming up with returning Executors and participating in gameplay.",
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  }
+  }
+]

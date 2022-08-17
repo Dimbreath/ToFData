@@ -1,0 +1,387 @@
+[
+  {
+    "Export": {
+      "Name": "GashaponPoolConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Fashion02": {
+      "ActivityType": "EHottaActivityType::Gashapon1",
+      "Name": "Outfit Test Pool 3",
+      "AwardDropID": "Fashion02Jackpot",
+      "ShopName": "GameShopGift",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_02",
+          "ItemCount": 1
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_02",
+          "ItemCount": 10
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Fashion03": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Outfit Test Pool 3",
+      "AwardDropID": "Fashion03Jackpot",
+      "ShopName": "GameShopGift",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_03",
+          "ItemCount": 1
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_03",
+          "ItemCount": 10
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Fashion07": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "None",
+      "AwardDropID": "Fashion07Jackpot",
+      "ShopName": "GameShopGift",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_07",
+          "ItemCount": 1
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_07",
+          "ItemCount": 10
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Fashion07_2": {
+      "ActivityType": "EHottaActivityType::Gashapon2",
+      "Name": "None",
+      "AwardDropID": "Fashion07Jackpot_2",
+      "ShopName": "GameShopGift",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_07",
+          "ItemCount": 1
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gashapon_coin_07",
+          "ItemCount": 10
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "TestPool1": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Simulation Test Pool 1",
+      "AwardDropID": "TestJackpot1",
+      "ShopName": "GameShopNormal",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::PrevPoolSpecialAwardEmptied",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 2
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 20
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "TestPool2": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Simulation Test Pool 2",
+      "AwardDropID": "TestJackpot2",
+      "ShopName": "GameShopNormal",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::PrevPoolSpecialAwardEmptied",
+      "PrevPoolID": "TestPool1",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 2
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 20
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "TestPool3": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Simulation Test Pool 3",
+      "AwardDropID": "TestJackpot3",
+      "ShopName": "GameShopNormal",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::PrevPoolSpecialAwardEmptied",
+      "PrevPoolID": "TestPool2",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 2
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 20
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "TestPool4": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Simulation Test Pool 4",
+      "AwardDropID": "TestJackpot4",
+      "ShopName": "GameShopNormal",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::PrevPoolSpecialAwardEmptied",
+      "PrevPoolID": "TestPool3",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 2
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 20
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "TestPool5": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Simulation Test Pool 5",
+      "AwardDropID": "TestJackpot5",
+      "ShopName": "GameShopNormal",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::PrevPoolSpecialAwardEmptied",
+      "PrevPoolID": "TestPool4",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 2
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 20
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "TestPool6": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Simulation Test Pool 6",
+      "AwardDropID": "TestJackpot6",
+      "ShopName": "GameShopNormal",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::PrevPoolSpecialAwardEmptied",
+      "PrevPoolID": "TestPool5",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 2
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 20
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "TestPool7": {
+      "ActivityType": "EHottaActivityType::Gashapon4",
+      "Name": "Simulation Test Pool 7",
+      "AwardDropID": "TestJackpot7",
+      "ShopName": "GameShopNormal",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::PrevPoolAllAwardEmptied",
+      "PrevPoolID": "TestPool6",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 2
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_Gem_004",
+          "ItemCount": 20
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Vera_Pool1": {
+      "ActivityType": "EHottaActivityType::PermanentGashapon1",
+      "Name": "None",
+      "AwardDropID": "Vera01Jackpot",
+      "ShopName": "None",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 50
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 500
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Vera_Pool2": {
+      "ActivityType": "EHottaActivityType::PermanentGashapon2",
+      "Name": "None",
+      "AwardDropID": "Vera02Jackpot",
+      "ShopName": "None",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 50
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 500
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Vera_Pool3": {
+      "ActivityType": "EHottaActivityType::PermanentGashapon3",
+      "Name": "None",
+      "AwardDropID": "Vera03Jackpot",
+      "ShopName": "None",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 50
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 500
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Vera_Pool4": {
+      "ActivityType": "EHottaActivityType::PermanentGashapon4",
+      "Name": "None",
+      "AwardDropID": "Vera04Jackpot",
+      "ShopName": "None",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 50
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoin",
+          "ItemCount": 500
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Vera_Pool5": {
+      "ActivityType": "EHottaActivityType::PermanentGashapon5",
+      "Name": "None",
+      "AwardDropID": "Vera05Jackpot",
+      "ShopName": "None",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoinRare",
+          "ItemCount": 50
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoinRare",
+          "ItemCount": 500
+        },
+        "TakeAwardCount": 10
+      }
+    },
+    "Vera_Pool6": {
+      "ActivityType": "EHottaActivityType::PermanentGashapon6",
+      "Name": "None",
+      "AwardDropID": "Vera06Jackpot",
+      "ShopName": "None",
+      "UnlockConditionType": "EHottaGashaponPoolUnlockConditionType::None",
+      "PrevPoolID": "None",
+      "OneExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoinRare",
+          "ItemCount": 50
+        },
+        "TakeAwardCount": 1
+      },
+      "TenExtractConfig": {
+        "CostItem": {
+          "ItemId": "Item_VeraCoinRare",
+          "ItemCount": 500
+        },
+        "TakeAwardCount": 10
+      }
+    }
+  }
+  }
+]

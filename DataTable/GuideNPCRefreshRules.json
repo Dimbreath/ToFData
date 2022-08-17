@@ -1,0 +1,76 @@
+[
+  {
+    "Export": {
+      "Name": "GuideNPCRefreshRules",
+      "Class": "GuideNPCDataAsset",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "Default__GuideNPCDataAsset",
+      "TemplateOwner": "/Script/HottaFramework"
+    },
+    "GuideNPCTemplate": [
+      {
+        "Key": "fashion_Guidenpc_mia_2",
+        "Value": {
+          "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+          "SubPath": ""
+        }
+      },
+      {
+        "Key": "fashion_Guidenpc_mia_3",
+        "Value": {
+          "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP_2.GuideNPCCharacter_BP_2_C",
+          "SubPath": ""
+        }
+      },
+      {
+        "Key": "fashion_Guidenpc_mia_4",
+        "Value": {
+          "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP_3.GuideNPCCharacter_BP_3_C",
+          "SubPath": ""
+        }
+      }
+    ],
+    "DefaultIdleStates": [
+      {
+        "StateClass": "IdleState_NPC_GeneralBP_Base_C",
+        "StateLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    ],
+    "GuideNPCRefreshRules": [
+      {
+        "QuestID_Spawn": "q101030",
+        "ObjectiveID_Spawn": "5",
+        "QuestID_Destroy": "None",
+        "ObjectiveID_Destroy": "None"
+      },
+      {
+        "QuestID_Spawn": "q101031",
+        "ObjectiveID_Spawn": "None",
+        "QuestID_Destroy": "q101031",
+        "ObjectiveID_Destroy": "2"
+      },
+      {
+        "QuestID_Spawn": "q101043",
+        "ObjectiveID_Spawn": "None",
+        "QuestID_Destroy": "q101043",
+        "ObjectiveID_Destroy": "6"
+      },
+      {
+        "QuestID_Spawn": "q101052",
+        "ObjectiveID_Spawn": "3",
+        "QuestID_Destroy": "None",
+        "ObjectiveID_Destroy": "None"
+      },
+      {
+        "QuestID_Spawn": "q101053",
+        "ObjectiveID_Spawn": "None",
+        "QuestID_Destroy": "q101053",
+        "ObjectiveID_Destroy": "None"
+      }
+    ]
+  }
+]

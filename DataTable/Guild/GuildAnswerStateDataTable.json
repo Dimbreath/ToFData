@@ -1,0 +1,25 @@
+[
+  {
+    "Export": {
+      "Name": "GuildAnswerStateDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Prepare": {
+      "Comment": "准备时间",
+      "SpanTime": 50
+    },
+    "Answering": {
+      "Comment": "答题时间",
+      "SpanTime": 60
+    },
+    "MakingQuestion": {
+      "Comment": "出题间隔",
+      "SpanTime": 10
+    }
+  }
+  }
+]

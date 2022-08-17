@@ -1,0 +1,979 @@
+[
+  {
+    "Export": {
+      "Name": "BreakFateItemNeedReplaceGroup",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "ReplaceGroupID": 1,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_bigsword_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bigsword_ice/breakfate_weapon_n_bigsword_ice.breakfate_weapon_n_bigsword_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_bigsword_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bigsword_ice/breakfate_weapon_r_bigsword_ice.breakfate_weapon_r_bigsword_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_bigsword_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bigsword_ice/breakfate_weapon_sr_bigsword_ice.breakfate_weapon_sr_bigsword_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_bigsword_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bigsword_ice/breakfate_weapon_ssr_bigsword_ice.breakfate_weapon_ssr_bigsword_ice_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "2": {
+      "ReplaceGroupID": 2,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_bow_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_ice/breakfate_weapon_n_bow_ice.breakfate_weapon_n_bow_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_bow_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_ice/breakfate_weapon_r_bow_ice.breakfate_weapon_r_bow_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_bow_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_ice/breakfate_weapon_sr_bow_ice.breakfate_weapon_sr_bow_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_bow_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_ice/breakfate_weapon_ssr_bow_ice.breakfate_weapon_ssr_bow_ice_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "3": {
+      "ReplaceGroupID": 3,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_bow_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_physic/breakfate_weapon_n_bow_physic.breakfate_weapon_n_bow_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_bow_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_physic/breakfate_weapon_r_bow_physic.breakfate_weapon_r_bow_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_bow_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_physic/breakfate_weapon_sr_bow_physic.breakfate_weapon_sr_bow_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_bow_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/bow_physic/breakfate_weapon_ssr_bow_physic.breakfate_weapon_ssr_bow_physic_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "4": {
+      "ReplaceGroupID": 4,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_cannon_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cannon_ice/breakfate_weapon_n_cannon_ice.breakfate_weapon_n_cannon_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_cannon_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cannon_ice/breakfate_weapon_r_cannon_ice.breakfate_weapon_r_cannon_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_cannon_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cannon_ice/breakfate_weapon_sr_cannon_ice.breakfate_weapon_sr_cannon_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_cannon_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cannon_ice/breakfate_weapon_ssr_cannon_ice.breakfate_weapon_ssr_cannon_ice_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "5": {
+      "ReplaceGroupID": 5,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_cube_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cube_fire/breakfate_weapon_n_cube_fire.breakfate_weapon_n_cube_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_cube_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cube_fire/breakfate_weapon_r_cube_fire.breakfate_weapon_r_cube_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_cube_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cube_fire/breakfate_weapon_sr_cube_fire.breakfate_weapon_sr_cube_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_cube_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/cube_fire/breakfate_weapon_ssr_cube_fire.breakfate_weapon_ssr_cube_fire_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "6": {
+      "ReplaceGroupID": 6,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_darts_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/darts_physic/breakfate_weapon_n_darts_physic.breakfate_weapon_n_darts_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_darts_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/darts_physic/breakfate_weapon_r_darts_physic.breakfate_weapon_r_darts_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_darts_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/darts_physic/breakfate_weapon_sr_darts_physic.breakfate_weapon_sr_darts_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_darts_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/darts_physic/breakfate_weapon_ssr_darts_physic.breakfate_weapon_ssr_darts_physic_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "7": {
+      "ReplaceGroupID": 7,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_dgun_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/dgun_thunder/breakfate_weapon_n_dgun_thunder.breakfate_weapon_n_dgun_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_dgun_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/dgun_thunder/breakfate_weapon_r_dgun_thunder.breakfate_weapon_r_dgun_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_dgun_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/dgun_thunder/breakfate_weapon_sr_dgun_thunder.breakfate_weapon_sr_dgun_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_dgun_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/dgun_thunder/breakfate_weapon_ssr_dgun_thunder.breakfate_weapon_ssr_dgun_thunder_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "8": {
+      "ReplaceGroupID": 8,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_digger_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/digger_thunder/breakfate_weapon_n_digger_thunder.breakfate_weapon_n_digger_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_digger_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/digger_thunder/breakfate_weapon_r_digger_thunder.breakfate_weapon_r_digger_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_digger_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/digger_thunder/breakfate_weapon_sr_digger_thunder.breakfate_weapon_sr_digger_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_digger_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/digger_thunder/breakfate_weapon_ssr_digger_thunder.breakfate_weapon_ssr_digger_thunder_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "9": {
+      "ReplaceGroupID": 9,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_gun_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/gun_fire/breakfate_weapon_n_gun_fire.breakfate_weapon_n_gun_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_gun_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/gun_fire/breakfate_weapon_r_gun_fire.breakfate_weapon_r_gun_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_gun_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/gun_fire/breakfate_weapon_sr_gun_fire.breakfate_weapon_sr_gun_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_gun_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/gun_fire/breakfate_weapon_ssr_gun_fire.breakfate_weapon_ssr_gun_fire_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "10": {
+      "ReplaceGroupID": 10,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_hammer_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/hammer_ice/breakfate_weapon_n_hammer_ice.breakfate_weapon_n_hammer_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_hammer_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/hammer_ice/breakfate_weapon_r_hammer_ice.breakfate_weapon_r_hammer_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_hammer_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/hammer_ice/breakfate_weapon_sr_hammer_ice.breakfate_weapon_sr_hammer_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_hammer_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/hammer_ice/breakfate_weapon_ssr_hammer_ice.breakfate_weapon_ssr_hammer_ice_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "11": {
+      "ReplaceGroupID": 11,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_ShieldAxe_Fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/ShieldAxe_Fire/breakfate_weapon_n_ShieldAxe_Fire.breakfate_weapon_n_ShieldAxe_Fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_ShieldAxe_Fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/ShieldAxe_Fire/breakfate_weapon_r_ShieldAxe_Fire.breakfate_weapon_r_ShieldAxe_Fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_ShieldAxe_Fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/ShieldAxe_Fire/breakfate_weapon_sr_ShieldAxe_Fire.breakfate_weapon_sr_ShieldAxe_Fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_ShieldAxe_Fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/ShieldAxe_Fire/breakfate_weapon_ssr_ShieldAxe_Fire.breakfate_weapon_ssr_ShieldAxe_Fire_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "12": {
+      "ReplaceGroupID": 12,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_sickle_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sickle_fire/breakfate_weapon_n_sickle_fire.breakfate_weapon_n_sickle_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_sickle_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sickle_fire/breakfate_weapon_r_sickle_fire.breakfate_weapon_r_sickle_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_sickle_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sickle_fire/breakfate_weapon_sr_sickle_fire.breakfate_weapon_sr_sickle_fire_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_sickle_fire",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sickle_fire/breakfate_weapon_ssr_sickle_fire.breakfate_weapon_ssr_sickle_fire_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "13": {
+      "ReplaceGroupID": 13,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_spear_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/spear_thunder/breakfate_weapon_n_spear_thunder.breakfate_weapon_n_spear_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_spear_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/spear_thunder/breakfate_weapon_r_spear_thunder.breakfate_weapon_r_spear_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_spear_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/spear_thunder/breakfate_weapon_sr_spear_thunder.breakfate_weapon_sr_spear_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_spear_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/spear_thunder/breakfate_weapon_ssr_spear_thunder.breakfate_weapon_ssr_spear_thunder_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "14": {
+      "ReplaceGroupID": 14,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_stave_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_ice/breakfate_weapon_n_stave_ice.breakfate_weapon_n_stave_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_stave_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_ice/breakfate_weapon_r_stave_ice.breakfate_weapon_r_stave_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_stave_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_ice/breakfate_weapon_sr_stave_ice.breakfate_weapon_sr_stave_ice_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_stave_ice",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_ice/breakfate_weapon_ssr_stave_ice.breakfate_weapon_ssr_stave_ice_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "15": {
+      "ReplaceGroupID": 15,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_stave_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_thunder/breakfate_weapon_n_stave_thunder.breakfate_weapon_n_stave_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_stave_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_thunder/breakfate_weapon_r_stave_thunder.breakfate_weapon_r_stave_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_stave_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_thunder/breakfate_weapon_sr_stave_thunder.breakfate_weapon_sr_stave_thunder_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_stave_thunder",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/stave_thunder/breakfate_weapon_ssr_stave_thunder.breakfate_weapon_ssr_stave_thunder_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "16": {
+      "ReplaceGroupID": -1,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_weapon_n_sword_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sword_physic/breakfate_weapon_n_sword_physic.breakfate_weapon_n_sword_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_r_sword_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sword_physic/breakfate_weapon_r_sword_physic.breakfate_weapon_r_sword_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_sr_sword_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sword_physic/breakfate_weapon_sr_sword_physic.breakfate_weapon_sr_sword_physic_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_weapon_ssr_sword_physic",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/weapon/sword_physic/breakfate_weapon_ssr_sword_physic.breakfate_weapon_ssr_sword_physic_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_WEAPON",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "101": {
+      "ReplaceGroupID": 1,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_001",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_001.breakfate_artifact_sr_001_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_sr_001",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_001.breakfate_artifact_sr_001_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "102": {
+      "ReplaceGroupID": 2,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_004",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_004.breakfate_artifact_sr_004_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "103": {
+      "ReplaceGroupID": 3,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_005",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_005.breakfate_artifact_sr_005_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_sr_005",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_005.breakfate_artifact_sr_005_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "104": {
+      "ReplaceGroupID": 4,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_007",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_007.breakfate_artifact_sr_007_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_sr_007",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_007.breakfate_artifact_sr_007_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "105": {
+      "ReplaceGroupID": 5,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_009",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_009.breakfate_artifact_sr_009_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_sr_009",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_009.breakfate_artifact_sr_009_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "106": {
+      "ReplaceGroupID": -1,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_011",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_011.breakfate_artifact_sr_011_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 0
+    },
+    "107": {
+      "ReplaceGroupID": 7,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_012",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_012.breakfate_artifact_sr_012_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_sr_012",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_012.breakfate_artifact_sr_012_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "108": {
+      "ReplaceGroupID": 8,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_013",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_013.breakfate_artifact_sr_013_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_sr_013",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_013.breakfate_artifact_sr_013_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "109": {
+      "ReplaceGroupID": 9,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_014",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_014.breakfate_artifact_sr_014_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "111": {
+      "ReplaceGroupID": 11,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_001",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_001.breakfate_artifact_ssr_001_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_001",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_001.breakfate_artifact_ssr_001_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "112": {
+      "ReplaceGroupID": 12,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_002",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_002.breakfate_artifact_ssr_002_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_002",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_002.breakfate_artifact_ssr_002_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 1
+    },
+    "113": {
+      "ReplaceGroupID": 13,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_004",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_004.breakfate_artifact_ssr_004_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_004",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_004.breakfate_artifact_ssr_004_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "114": {
+      "ReplaceGroupID": 14,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_005",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_005.breakfate_artifact_ssr_005_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_005",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_005.breakfate_artifact_ssr_005_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "115": {
+      "ReplaceGroupID": 15,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_006",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_006.breakfate_artifact_ssr_006_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_006",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_006.breakfate_artifact_ssr_006_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "116": {
+      "ReplaceGroupID": 16,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_008",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_008.breakfate_artifact_ssr_008_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_008",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_008.breakfate_artifact_ssr_008_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "117": {
+      "ReplaceGroupID": 17,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_010",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_010.breakfate_artifact_ssr_010_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_010",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_010.breakfate_artifact_ssr_010_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "118": {
+      "ReplaceGroupID": 18,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_ssr_011",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_011.breakfate_artifact_ssr_011_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_ssr_011",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_ssr_011.breakfate_artifact_ssr_011_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "119": {
+      "ReplaceGroupID": 19,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_006",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_006.breakfate_artifact_sr_006_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    },
+    "120": {
+      "ReplaceGroupID": 20,
+      "ReplaceItemGroup": [
+        {
+          "ItemName": "breakfate_artifact_sr_010",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_010.breakfate_artifact_sr_010_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "ItemName": "breakfate_artifact_sr_010",
+          "VisualTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/SceneItem/BreakFate/artifact/breakfate_artifact_sr_010.breakfate_artifact_sr_010_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "EquipmentType": "EQUIPMENT_TYPE_ARTIFACT",
+      "RandomWeight": 10,
+      "GroupTypeID": 2
+    }
+  }
+  }
+]

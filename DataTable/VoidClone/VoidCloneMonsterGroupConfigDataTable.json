@@ -1,0 +1,168 @@
+[
+  {
+    "Export": {
+      "Name": "VoidCloneMonsterGroupConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "void_monster_001": {
+      "MonsterGroupName": "艾达之子",
+      "MonsterInfo": [
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ad_006.void_common_ad_006_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ad_007.void_common_ad_007_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ad_017.void_common_ad_017_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ad_018.void_common_ad_018_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        }
+      ],
+      "MonsterCount": 6
+    },
+    "void_monster_002": {
+      "MonsterGroupName": "鬣狗帮",
+      "MonsterInfo": [
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_lgb_bomb.void_common_lgb_bomb_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_lgb_bow.void_common_lgb_bow_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_lgb_stic.void_common_lgb_stic_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_lgb_torch.void_common_lgb_torch_C",
+            "SubPath": ""
+          },
+          "Weight": 25
+        }
+      ],
+      "MonsterCount": 6
+    },
+    "void_monster_003": {
+      "MonsterGroupName": "掠夺者",
+      "MonsterInfo": [
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ldz_001a.void_common_ldz_001a_C",
+            "SubPath": ""
+          },
+          "Weight": 20
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ldz_001b.void_common_ldz_001b_C",
+            "SubPath": ""
+          },
+          "Weight": 20
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ldz_005a.void_common_ldz_005a_C",
+            "SubPath": ""
+          },
+          "Weight": 20
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ldz_005b.void_common_ldz_005b_C",
+            "SubPath": ""
+          },
+          "Weight": 20
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ldz_016.void_common_ldz_016_C",
+            "SubPath": ""
+          },
+          "Weight": 20
+        }
+      ],
+      "MonsterCount": 6
+    },
+    "void_monster_004": {
+      "MonsterGroupName": "异化人",
+      "MonsterInfo": [
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_yhr_013.void_common_yhr_013_C",
+            "SubPath": ""
+          },
+          "Weight": 50
+        },
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_yhr_1.void_common_yhr_1_C",
+            "SubPath": ""
+          },
+          "Weight": 50
+        }
+      ],
+      "MonsterCount": 6
+    },
+    "void_Elite_001": {
+      "MonsterGroupName": "全精英",
+      "MonsterInfo": [
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/Elite/void_elite_gzt_019.void_elite_gzt_019_C",
+            "SubPath": ""
+          },
+          "Weight": 10
+        }
+      ],
+      "MonsterCount": 3
+    },
+    "void_test": {
+      "MonsterGroupName": "全精英",
+      "MonsterInfo": [
+        {
+          "MonsterClass": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/common/void_common_ad_018.void_common_ad_018_C",
+            "SubPath": ""
+          },
+          "Weight": 10
+        }
+      ],
+      "MonsterCount": 3
+    }
+  }
+  }
+]

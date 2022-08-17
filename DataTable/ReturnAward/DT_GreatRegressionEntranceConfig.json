@@ -1,0 +1,37 @@
+[
+  {
+    "Export": {
+      "Name": "DT_GreatRegressionEntranceConfig",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GreatRegression_1st": {
+      "StartDateTime": {
+        "year": 2022,
+        "month": 3,
+        "day": 25,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      },
+      "EndDateTime": {
+        "year": 2023,
+        "month": 4,
+        "day": 25,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      },
+      "AwardConfigPackId": "CombatAward_Regression_1st",
+      "MaxLevel": 60,
+      "OneCurrencyAddExp": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 2
+      }
+    }
+  }
+  }
+]

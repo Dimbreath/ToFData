@@ -1,0 +1,111 @@
+[
+  {
+    "Export": {
+      "Name": "GuideCloneTypeDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "TSXL": {
+      "Name": "Exploration Training",
+      "DefaultUnlocked": true,
+      "Icon": {
+        "Path": "/Game/Resources/UI/GuideClone/main/ui_xunlian_tansuo.ui_xunlian_tansuo",
+        "SubPath": ""
+      },
+      "ContainProjects": [
+        "JCXL"
+      ],
+      "DescWidget": {
+        "Path": "/Game/SevenForest/Blueprint/UI/GuideClone/UI_GuideClone_Mainform_Desc_1_BP.UI_GuideClone_Mainform_Desc_1_BP_C",
+        "SubPath": ""
+      }
+    },
+    "ZDXL": {
+      "Name": "Combat Training",
+      "DefaultUnlocked": true,
+      "Icon": {
+        "Path": "/Game/Resources/UI/GuideClone/main/ui_xunlian_zhandou.ui_xunlian_zhandou",
+        "SubPath": ""
+      },
+      "ContainProjects": [
+        "ZD_JXZD",
+        "Weapon_202",
+        "Weapon_203",
+        "Weapon_204",
+        "Weapon_205",
+        "Weapon_206",
+        "Weapon_207",
+        "Weapon_102",
+        "Weapon_103",
+        "Weapon_104",
+        "Weapon_105",
+        "Weapon_106",
+        "Weapon_107",
+        "Weapon_108",
+        "Weapon_109",
+        "Weapon_110",
+        "Weapon_2",
+        "Weapon_3",
+        "Weapon_4",
+        "Weapon_5",
+        "Weapon_6"
+      ],
+      "DescWidget": {
+        "Path": "/Game/SevenForest/Blueprint/UI/GuideClone/UI_GuideClone_Mainform_Desc_1_BP.UI_GuideClone_Mainform_Desc_1_BP_C",
+        "SubPath": ""
+      }
+    },
+    "YQXL": {
+      "Name": "Relic Training",
+      "DefaultUnlocked": true,
+      "Icon": {
+        "Path": "/Game/Resources/UI/GuideClone/main/ui_xunlian_yuanqi.ui_xunlian_yuanqi",
+        "SubPath": ""
+      },
+      "ContainProjects": [
+        "Artifact_102",
+        "Artifact_103",
+        "Artifact_104",
+        "Artifact_105",
+        "Artifact_106",
+        "Artifact_107",
+        "Artifact_108",
+        "Artifact_109",
+        "Artifact_110",
+        "Artifact_2",
+        "Artifact_3",
+        "Artifact_4",
+        "Artifact_5",
+        "Artifact_6",
+        "Artifact_7",
+        "Artifact_8",
+        "Artifact_9",
+        "Artifact_10",
+        "Artifact_11",
+        "Artifact_12",
+        "Artifact_13"
+      ],
+      "DescWidget": {
+        "Path": "/Game/SevenForest/Blueprint/UI/GuideClone/UI_GuideClone_Mainform_Desc_1_BP.UI_GuideClone_Mainform_Desc_1_BP_C",
+        "SubPath": ""
+      }
+    },
+    "JJZDXL": {
+      "Name": "Advanced battle training",
+      "DefaultUnlocked": true,
+      "Icon": {
+        "Path": "/Game/Resources/UI/GuideClone/main/ui_xunlian_zhandoujinjie.ui_xunlian_zhandoujinjie",
+        "SubPath": ""
+      },
+      "ContainProjects": [],
+      "DescWidget": {
+        "Path": "/Game/SevenForest/Blueprint/UI/GuideClone/UI_GuideClone_Mainform_Desc_1_BP.UI_GuideClone_Mainform_Desc_1_BP_C",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

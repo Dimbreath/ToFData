@@ -1,0 +1,55 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerStavesMeleeIce_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/FPlayerStavesMelee.FPlayerStavesMelee",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerStavesEvadeIce_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/FPlayerStavesEvade.FPlayerStavesEvade",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerStavesSkillIce_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/imitation11/FPlayerStavesSkill_imitation11.FPlayerStavesSkill_imitation11",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerStavesEvadeAttackIce_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/FPlayerStavesEvadeAttack.FPlayerStavesEvadeAttack",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerStavesChangeSkillIce_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/imitation11/FPlayerStavesChangeSkill_imitation11.FPlayerStavesChangeSkill_imitation11",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerStavesSkillIce_SSR_Level3": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/imitation11/FPlayerStavesSkill_imitation11.FPlayerStavesSkill_imitation11",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

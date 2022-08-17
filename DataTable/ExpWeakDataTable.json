@@ -1,0 +1,43 @@
+[
+  {
+    "Export": {
+      "Name": "ExpWeakDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Monster": {
+      "ExpWeakLevelArray": [
+        {
+          "MinLevel": 1,
+          "MaxLevel": 10,
+          "ExpWeakArray": [
+            {
+              "MinValue": 0,
+              "MaxValue": 10000,
+              "Ratio": 1
+            },
+            {
+              "MinValue": 10001,
+              "MaxValue": 80000,
+              "Ratio": 0.8
+            },
+            {
+              "MinValue": 80001,
+              "MaxValue": 200000,
+              "Ratio": 0.5
+            },
+            {
+              "MinValue": 200001,
+              "MaxValue": -1,
+              "Ratio": 0.3
+            }
+          ]
+        }
+      ]
+    }
+  }
+  }
+]

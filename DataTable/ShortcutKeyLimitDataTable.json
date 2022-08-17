@@ -1,0 +1,41 @@
+[
+  {
+    "Export": {
+      "Name": "ShortcutKeyLimitDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "NewRow": {
+      "ShortcutKeyName": "",
+      "NotLogin": false,
+      "NotTutorialMap": false,
+      "NotWormhole": false,
+      "LimitScene": [],
+      "NoFullScreen": false,
+      "CantInSequence": false,
+      "InGuideIgnoreSequenceLimit": false,
+      "IgnoreLimitMoveInput": false,
+      "OnlyMouseHide": false,
+      "NotDisableKeyboardUI": false,
+      "NotDisableKeyboardUIByCameraActor": false,
+      "NotUIShowMouse": false,
+      "HasMainForm": false,
+      "IsCurrentGuide": false,
+      "NotLadder": false,
+      "NotVines": false,
+      "NotLifting": false,
+      "NotInState": false,
+      "States": [
+        12
+      ],
+      "NeedFuncOpen": false,
+      "GameFunctions": [
+        11
+      ]
+    }
+  }
+  }
+]

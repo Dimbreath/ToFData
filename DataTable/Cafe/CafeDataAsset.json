@@ -1,0 +1,45 @@
+[
+  {
+    "Export": {
+      "Name": "CafeDataAsset",
+      "Class": "HottaCafeDataAsset",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "Default__HottaCafeDataAsset",
+      "TemplateOwner": "/Script/HottaFramework"
+    },
+    "MaxCount": 30,
+    "SatisfiedScoreRange": {
+      "LowerBound": {
+        "Type": "ERangeBoundTypes::Inclusive",
+        "Value": 40
+      },
+      "UpperBound": {
+        "Type": "ERangeBoundTypes::Inclusive",
+        "Value": 78
+      }
+    },
+    "CommonScoreRange": {
+      "LowerBound": {
+        "Type": "ERangeBoundTypes::Inclusive",
+        "Value": 15
+      },
+      "UpperBound": {
+        "Type": "ERangeBoundTypes::Inclusive",
+        "Value": 39
+      }
+    },
+    "DetestableScoreRange": {
+      "LowerBound": {
+        "Type": "ERangeBoundTypes::Exclusive"
+      },
+      "UpperBound": {
+        "Type": "ERangeBoundTypes::Exclusive",
+        "Value": 14
+      }
+    },
+    "CustomerConfigDataTable": "ImitationCustomerConfigDataTable",
+    "ActivityItemConfigDataTable": "ActivityItemConfigDataTable",
+    "RestrictedItemConfigDataTable": "RestrictedItemConfigDataTable",
+    "TurnoverAwardConfigDataTable": "TurnoverAwardConfigDataTable"
+  }
+]

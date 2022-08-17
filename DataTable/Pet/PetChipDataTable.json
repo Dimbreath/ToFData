@@ -1,0 +1,799 @@
+[
+  {
+    "Export": {
+      "Name": "PetChipDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "pet_chip_2": {
+      "MaxChipNum": 1,
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_chip_0101.pet_chip_0101",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Power",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Affix it to the smart servant to increase ATK!",
+      "UseDescription": "Usage: Smart Servant Attack <ComLblGreen>+13</>",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 100
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_CHIP",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_POOR",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 99,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "profession_PhyAtkAdded10",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [
+        {
+          "Key": "EHottaCurrencyType::Gold",
+          "Value": 100
+        }
+      ],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_chip_3": {
+      "MaxChipNum": 1,
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_chip_0102.pet_chip_0102",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Advanced power",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Affix it to the smart servant to significantly increase ATK!",
+      "UseDescription": "Usage: Smart Servant Attack <ComLblGreen>+90</>",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 100
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_CHIP",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_POOR",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 99,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "profession_PhyAtkAdded100",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [
+        {
+          "Key": "EHottaCurrencyType::Gold",
+          "Value": 100
+        }
+      ],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_chip_4": {
+      "MaxChipNum": 1,
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_chip_0101.pet_chip_0101",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fitness",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Affix it to the smart servant to significantly increase ATK!",
+      "UseDescription": "Usage: Smart Servant HP <ComLblGreen>+612</>",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 100
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_CHIP",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_POOR",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 99,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "Gene_MaxHealthAdded_2",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [
+        {
+          "Key": "EHottaCurrencyType::Gold",
+          "Value": 100
+        }
+      ],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_chip_5": {
+      "MaxChipNum": 1,
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_chip_0102.pet_chip_0102",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Advanced fitness",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Affix it to the smart servant to significantly increase ATK!",
+      "UseDescription": "Usage: Smart Servant HP <ComLblGreen>+1224</>",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 100
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_CHIP",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_POOR",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 99,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "Gene_MaxHealthAdded_3",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [
+        {
+          "Key": "EHottaCurrencyType::Gold",
+          "Value": 100
+        }
+      ],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_chip_6": {
+      "MaxChipNum": 1,
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_chip_0101.pet_chip_0101",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Defense",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Affix it to the smart servant to significantly increase ATK!",
+      "UseDescription": "Usage: Smart Servant Defense <ComLblGreen>+4</>",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 100
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_CHIP",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_POOR",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 99,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "Gene_PhyDefAdded_2",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [
+        {
+          "Key": "EHottaCurrencyType::Gold",
+          "Value": 100
+        }
+      ],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_chip_7": {
+      "MaxChipNum": 1,
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_chip_0102.pet_chip_0102",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Advanced defense",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Affix it to the smart servant to significantly increase ATK!",
+      "UseDescription": "Usage: Smart Servant Defense <ComLblGreen>+12</>",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 100
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_CHIP",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_POOR",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 99,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "Gene_PhyDefAdded_4",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [
+        {
+          "Key": "EHottaCurrencyType::Gold",
+          "Value": 100
+        }
+      ],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    }
+  }
+  }
+]

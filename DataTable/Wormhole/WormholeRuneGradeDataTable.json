@@ -1,0 +1,521 @@
+[
+  {
+    "Export": {
+      "Name": "WormholeRuneGradeDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Wormhole_Buff_CritAdded": {
+      "RuneType": "111",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_FireAtkAdded": {
+      "RuneType": "111",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_MaxEnergyAdded": {
+      "RuneType": "111",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_CritAdded1": {
+      "RuneType": "crit",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_CritAdded2": {
+      "RuneType": "crit",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_CritAdded3": {
+      "RuneType": "crit",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_MaxEnergyAdded1": {
+      "RuneType": "energy",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_MaxEnergyAdded2": {
+      "RuneType": "energy",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_MaxEnergyAdded3": {
+      "RuneType": "energy",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_MaxHealthAdded1": {
+      "RuneType": "hp",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_MaxHealthAdded2": {
+      "RuneType": "hp",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_MaxHealthAdded3": {
+      "RuneType": "hp",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_PhyAtkAdded1": {
+      "RuneType": "atk",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_PhyAtkAdded2": {
+      "RuneType": "atk",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_PhyAtkAdded3": {
+      "RuneType": "atk",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_PhyDefAdded1": {
+      "RuneType": "def",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_PhyDefAdded2": {
+      "RuneType": "def",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_PhyDefAdded3": {
+      "RuneType": "def",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_ThunderAtkAdded1": {
+      "RuneType": "thunderatk",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_ThunderAtkAdded2": {
+      "RuneType": "thunderatk",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_ThunderAtkAdded3": {
+      "RuneType": "thunderatk",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_IceAtkAdded1": {
+      "RuneType": "iceatk",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_IceAtkAdded2": {
+      "RuneType": "iceatk",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_IceAtkAdded3": {
+      "RuneType": "iceatk",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_FireAtkAdded1": {
+      "RuneType": "fireatk",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_FireAtkAdded2": {
+      "RuneType": "fireatk",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_FireAtkAdded3": {
+      "RuneType": "fireatk",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_AirAttackDamage_2": {
+      "RuneType": "AirAttackDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_AirAttackDamage_3": {
+      "RuneType": "AirAttackDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_AirAttackDamage_4": {
+      "RuneType": "AirAttackDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_AirAttackDamage_5": {
+      "RuneType": "AirAttackDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_BeastDamage_2": {
+      "RuneType": "BeastDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_BeastDamage_3": {
+      "RuneType": "BeastDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_BeastDamage_4": {
+      "RuneType": "BeastDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_BeastDamage_5": {
+      "RuneType": "BeastDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_BirdmanDamage_2": {
+      "RuneType": "BirdmanDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_BirdmanDamage_3": {
+      "RuneType": "BirdmanDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_BirdmanDamage_4": {
+      "RuneType": "BirdmanDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_BirdmanDamage_5": {
+      "RuneType": "BirdmanDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_Boom_Damage_2": {
+      "RuneType": "Boom",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_Boom_Damage_3": {
+      "RuneType": "Boom",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_Boom_Damage_4": {
+      "RuneType": "Boom",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_Boom_Damage_5": {
+      "RuneType": "Boom",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_Bullet_Damage_2": {
+      "RuneType": "Bullet_Damage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_Bullet_Damage_3": {
+      "RuneType": "Bullet_Damage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_Bullet_Damage_4": {
+      "RuneType": "Bullet_Damage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_Bullet_Damage_5": {
+      "RuneType": "Bullet_Damage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_EvadeDamage_2": {
+      "RuneType": "EvadeDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_EvadeDamage_3": {
+      "RuneType": "EvadeDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_EvadeDamage_4": {
+      "RuneType": "EvadeDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_EvadeDamage_5": {
+      "RuneType": "EvadeDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_FireDamage_2": {
+      "RuneType": "FireDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_FireDamage_3": {
+      "RuneType": "FireDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_FireDamage_4": {
+      "RuneType": "FireDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_FireDamage_5": {
+      "RuneType": "FireDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_FishmanDamage_2": {
+      "RuneType": "FishmanDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_FishmanDamage_3": {
+      "RuneType": "FishmanDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_FishmanDamage_4": {
+      "RuneType": "FishmanDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_FishmanDamage_5": {
+      "RuneType": "FishmanDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_FrozenTime_2": {
+      "RuneType": "FrozenTime",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_FrozenTime_3": {
+      "RuneType": "FrozenTime",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_FrozenTime_4": {
+      "RuneType": "FrozenTime",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_FrozenTime_5": {
+      "RuneType": "FrozenTime",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_GiantDamage_2": {
+      "RuneType": "GiantDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_GiantDamage_3": {
+      "RuneType": "GiantDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_GiantDamage_4": {
+      "RuneType": "GiantDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_GiantDamage_5": {
+      "RuneType": "GiantDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_GoblinDamage_2": {
+      "RuneType": "GoblinDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_GoblinDamage_3": {
+      "RuneType": "GoblinDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_GoblinDamage_4": {
+      "RuneType": "GoblinDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_GoblinDamage_5": {
+      "RuneType": "GoblinDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_KillShield_2": {
+      "RuneType": "KillShield",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_KillShield_3": {
+      "RuneType": "KillShield",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_KillShield_4": {
+      "RuneType": "KillShield",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_KillShield_5": {
+      "RuneType": "KillShield",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_MagicdollDamage_2": {
+      "RuneType": "MagicdollDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_MagicdollDamage_3": {
+      "RuneType": "MagicdollDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_MagicdollDamage_4": {
+      "RuneType": "MagicdollDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_MagicdollDamage_5": {
+      "RuneType": "MagicdollDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_MeleeDamage_2": {
+      "RuneType": "MeleeDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_MeleeDamage_3": {
+      "RuneType": "MeleeDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_MeleeDamage_4": {
+      "RuneType": "MeleeDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_MeleeDamage_5": {
+      "RuneType": "MeleeDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_PhysicalCostDowne_2": {
+      "RuneType": "PhysicalCostDowne",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_PhysicalCostDowne_3": {
+      "RuneType": "PhysicalCostDowne",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_PhysicalCostDowne_4": {
+      "RuneType": "PhysicalCostDowne",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_PhysicalCostDowne_5": {
+      "RuneType": "PhysicalCostDowne",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_SkillDamage_2": {
+      "RuneType": "SkillDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_SkillDamage_3": {
+      "RuneType": "SkillDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_SkillDamage_4": {
+      "RuneType": "SkillDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_SkillDamage_5": {
+      "RuneType": "SkillDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_SneakDamage_2": {
+      "RuneType": "SneakDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_SneakDamage_3": {
+      "RuneType": "SneakDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_SneakDamage_4": {
+      "RuneType": "SneakDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_SneakDamage_5": {
+      "RuneType": "SneakDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_ThuDamage_2": {
+      "RuneType": "ThuDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_ThuDamage_3": {
+      "RuneType": "ThuDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_ThuDamage_4": {
+      "RuneType": "ThuDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_ThuDamage_5": {
+      "RuneType": "ThuDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_WarningNarrow_2": {
+      "RuneType": "WarningNarrow",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_WarningNarrow_3": {
+      "RuneType": "WarningNarrow",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_WarningNarrow_4": {
+      "RuneType": "WarningNarrow",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_WarningNarrow_5": {
+      "RuneType": "WarningNarrow",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_WerewolfDamage_2": {
+      "RuneType": "WerewolfDamage",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_WerewolfDamage_3": {
+      "RuneType": "WerewolfDamage",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_WerewolfDamage_4": {
+      "RuneType": "WerewolfDamage",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_WerewolfDamage_5": {
+      "RuneType": "WerewolfDamage",
+      "RuneGrade": 4
+    },
+    "Wormhole_BUff_WormholePowerUp_2": {
+      "RuneType": "WormholePowerUp",
+      "RuneGrade": 1
+    },
+    "Wormhole_BUff_WormholePowerUp_3": {
+      "RuneType": "WormholePowerUp",
+      "RuneGrade": 2
+    },
+    "Wormhole_BUff_WormholePowerUp_4": {
+      "RuneType": "WormholePowerUp",
+      "RuneGrade": 3
+    },
+    "Wormhole_BUff_WormholePowerUp_5": {
+      "RuneType": "WormholePowerUp",
+      "RuneGrade": 4
+    },
+    "Wormhole_Buff_PhyAtkBeExtraDownMult_2": {
+      "RuneType": "PhyAtkBeExtraDownMult",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_PhyAtkBeExtraDownMult_3": {
+      "RuneType": "PhyAtkBeExtraDownMult",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_PhyAtkBeExtraDownMult_4": {
+      "RuneType": "PhyAtkBeExtraDownMult",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_PhyAtkBeExtraDownMult_5": {
+      "RuneType": "PhyAtkBeExtraDownMult",
+      "RuneGrade": 4
+    },
+    "Wormhole_Buff_IceAtkBeExtraDownMult_2": {
+      "RuneType": "IceAtkBeExtraDownMult",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_IceAtkBeExtraDownMult_3": {
+      "RuneType": "IceAtkBeExtraDownMult",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_IceAtkBeExtraDownMult_4": {
+      "RuneType": "IceAtkBeExtraDownMult",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_IceAtkBeExtraDownMult_5": {
+      "RuneType": "IceAtkBeExtraDownMult",
+      "RuneGrade": 4
+    },
+    "Wormhole_Buff_FireAtkBeExtraDownMult_2": {
+      "RuneType": "FireAtkBeExtraDownMult",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_FireAtkBeExtraDownMult_3": {
+      "RuneType": "FireAtkBeExtraDownMult",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_FireAtkBeExtraDownMult_4": {
+      "RuneType": "FireAtkBeExtraDownMult",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_FireAtkBeExtraDownMult_5": {
+      "RuneType": "FireAtkBeExtraDownMult",
+      "RuneGrade": 4
+    },
+    "Wormhole_Buff_ThunderAtkBeExtraDownMult_2": {
+      "RuneType": "ThunderAtkBeExtraDownMult",
+      "RuneGrade": 1
+    },
+    "Wormhole_Buff_ThunderAtkBeExtraDownMult_3": {
+      "RuneType": "ThunderAtkBeExtraDownMult",
+      "RuneGrade": 2
+    },
+    "Wormhole_Buff_ThunderAtkBeExtraDownMult_4": {
+      "RuneType": "ThunderAtkBeExtraDownMult",
+      "RuneGrade": 3
+    },
+    "Wormhole_Buff_ThunderAtkBeExtraDownMult_5": {
+      "RuneType": "ThunderAtkBeExtraDownMult",
+      "RuneGrade": 4
+    }
+  }
+  }
+]

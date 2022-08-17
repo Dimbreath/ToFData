@@ -1,0 +1,109 @@
+[
+  {
+    "Export": {
+      "Name": "StrongImproveExampleConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "Name": "Equipment",
+      "NameTexture": {
+        "Path": "/Game/Resources/UI/pingji/advance_hdzb.advance_hdzb",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_zhuangbei.advance_zhuangbei",
+        "SubPath": ""
+      },
+      "Description": "Equipment",
+      "RecommendValue": 6,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=InventoryCategory",
+      "ScoreModuleType": "EHottaScoreModuleType::EquipStrengthen"
+    },
+    "2": {
+      "Name": "Flair",
+      "NameTexture": {
+        "Path": "/Game/Resources/UI/pingji/advance_sgtf.advance_sgtf",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_shenge.advance_shenge",
+        "SubPath": ""
+      },
+      "Description": "Flair",
+      "RecommendValue": 5,
+      "UnlockFunctionId": "jiyinsuo",
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=GenelockCategory",
+      "ScoreModuleType": "EHottaScoreModuleType::Godhood"
+    },
+    "3": {
+      "Name": "Artifice",
+      "NameTexture": {
+        "Path": "/Game/Resources/UI/pingji/advance_hdsq.advance_hdsq",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_wuzhuang.advance_wuzhuang",
+        "SubPath": ""
+      },
+      "Description": "Artifice",
+      "RecommendValue": 4,
+      "UnlockFunctionId": "shenge",
+      "GotoFormPath": "Path=Artifact_List",
+      "ScoreModuleType": "EHottaScoreModuleType::Artifact"
+    },
+    "4": {
+      "Name": "Skill",
+      "NameTexture": {
+        "Path": "/Game/Resources/UI/pingji/advance_sjjn.advance_sjjn",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_skill.advance_skill",
+        "SubPath": ""
+      },
+      "Description": "Upgrade Skill",
+      "RecommendValue": 3,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=SkillCategory",
+      "ScoreModuleType": "EHottaScoreModuleType::Skill"
+    },
+    "5": {
+      "Name": "Class",
+      "NameTexture": {
+        "Path": "/Game/Resources/UI/pingji/advance_sjzy.advance_sjzy",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_gem.advance_gem",
+        "SubPath": ""
+      },
+      "Description": "Class Upgrade",
+      "RecommendValue": 2,
+      "UnlockFunctionId": "zhiye",
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=ProfessionCategory",
+      "ScoreModuleType": "EHottaScoreModuleType::Profession"
+    },
+    "6": {
+      "Name": "Mount",
+      "NameTexture": {
+        "Path": "/Game/Resources/UI/pingji/advance_gzzq.advance_gzzq",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_zuoqi.advance_zuoqi",
+        "SubPath": ""
+      },
+      "Description": "Mount",
+      "RecommendValue": 1,
+      "UnlockFunctionId": "zuoqi",
+      "GotoFormPath": "Path=MountMainForm",
+      "ScoreModuleType": "EHottaScoreModuleType::Mount"
+    }
+  }
+  }
+]

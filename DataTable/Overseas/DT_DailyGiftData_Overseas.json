@@ -1,0 +1,61 @@
+[
+  {
+    "Export": {
+      "Name": "DT_DailyGiftData_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Free_gift": {
+      "GiftIndex": "4",
+      "DropID": "drop_dailyfree",
+      "CurrencyType": "EHottaCurrencyType::Diamond",
+      "CurrencyAmount": 0,
+      "Title": "_3C04A016463988643A4D12B22151AABC",
+      "GiftIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GiftDescription": "None"
+    },
+    "Daily_gift_2": {
+      "GiftIndex": "1",
+      "DropID": "drop_dailydiamond1_Overseas",
+      "CurrencyType": "EHottaCurrencyType::Diamond",
+      "CurrencyAmount": 60,
+      "Title": "Hykros",
+      "GiftIcon": {
+        "Path": "/Game/Resources/UI/DailyGift/mrlb_01.mrlb_01",
+        "SubPath": ""
+      },
+      "GiftDescription": "None"
+    },
+    "Daily_gift_3": {
+      "GiftIndex": "2",
+      "DropID": "drop_dailydiamond2_Overseas",
+      "CurrencyType": "EHottaCurrencyType::Diamond",
+      "CurrencyAmount": 180,
+      "Title": "Banges",
+      "GiftIcon": {
+        "Path": "/Game/Resources/UI/DailyGift/mrlb_02.mrlb_02",
+        "SubPath": ""
+      },
+      "GiftDescription": "None"
+    },
+    "Daily_gift_4": {
+      "GiftIndex": "3",
+      "DropID": "drop_dailydiamond3_Overseas",
+      "CurrencyType": "EHottaCurrencyType::Diamond",
+      "CurrencyAmount": 180,
+      "Title": "Black Market",
+      "GiftIcon": {
+        "Path": "/Game/Resources/UI/DailyGift/mrlb_03.mrlb_03",
+        "SubPath": ""
+      },
+      "GiftDescription": "None"
+    }
+  }
+  }
+]

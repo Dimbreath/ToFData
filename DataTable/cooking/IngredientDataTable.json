@@ -1,0 +1,508 @@
+[
+  {
+    "Export": {
+      "Name": "IngredientDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Item_Pumpkin": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Dandelion": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Black_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_BLACK",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Bug_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Honey_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Honey_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_BLACK",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Egg_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Milk_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Milk_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shell_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SHELLS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shell_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SHELLS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shells_003": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shells_005": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SHELLS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Meat_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Meat_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Meat_003": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Meat_004": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Meat_005": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens_0011": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens_003": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens_005": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Mushroom_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Mushroom_0011": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Mushroom_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Mushroom_004": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Mushroom_005": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Mushroom_006": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Mushroom_007": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Staples_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Staples_0011": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Staples_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Staples_003": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Staples_005": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fishes_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FISHES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fishes_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FISHES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fruit_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fruit_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fruit_003": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fruit_004": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Follows002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fruits008": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Nuts004": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens012": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_TRUFFLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Follows001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Staples006": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens011": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Nuts003": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens010": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shells009": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SHELLS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fishes006": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FISHES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fishes005": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FISHES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Nuts002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Nuts001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens009": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens008": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Greens007": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shells008": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SHELLS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shells007": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SHELLS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Shells006": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SHELLS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fruits009": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Fruits006": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Drugs_004": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Drugs_005": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Drugs_006": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Drugs_007": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Drugs_008": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Drugs_009": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_001": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_002": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_003": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_004": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_006": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_007": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_FRUITS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_009": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_010": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_011": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_012": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_013": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_014": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Vera_Harvest_015": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Condiment_01": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Condiment_02": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Condiment_03": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Condiment_04": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Condiment_05": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_VAGETABLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Condiment_06": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Condiment_07": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Area2Medicine": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Item_Area2BangithFood": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_STAPLES",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "Area2DogMeat": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_MEATS",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "item_activity_cooking_RM_2": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "item_activity_cooking_RM_3": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "item_activity_cooking_RM_4": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "item_activity_cooking_RM_5": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "item_activity_cooking_RM_6": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "item_activity_cooking_RM_7": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    },
+    "item_activity_cooking_RM_8": {
+      "IngredientType": "EIngredientType::INGREDIENTTYPE_SPCIAL",
+      "IngredientLevel": 1,
+      "CookExp": 0
+    }
+  }
+  }
+]

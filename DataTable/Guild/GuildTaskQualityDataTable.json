@@ -1,0 +1,40 @@
+[
+  {
+    "Export": {
+      "Name": "GuildTaskQualityDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Normal": {
+      "QualityText": "None",
+      "QualityColor": {
+        "R": 0.119538,
+        "G": 0.686685,
+        "B": 0.23074,
+        "A": 1
+      }
+    },
+    "Important": {
+      "QualityText": "None",
+      "QualityColor": {
+        "R": 0.082283,
+        "G": 0.508881,
+        "B": 0.913099,
+        "A": 1
+      }
+    },
+    "Urgent": {
+      "QualityText": "None",
+      "QualityColor": {
+        "R": 1,
+        "G": 0.396755,
+        "B": 0.068478,
+        "A": 1
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,769 @@
+[
+  {
+    "Export": {
+      "Name": "KeyPresetConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Jump": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "SpaceBar"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Interaction": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "F"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "ChangeWeapon0": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "E"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "ChangeWeapon1": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Q"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "SwitchTarget": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Tab"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "UI_Avatar": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "C"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "UI_bag": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "B"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "UI_SelfMenu": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Escape"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "SkateBoard": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "T"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Glider": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "R"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "MoveForward_2": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "W"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "MoveForward_-1": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "S"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "MoveRight_2": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "D"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "MoveRight_-1": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "A"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Crouch": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Z"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Vines": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "LeftControl"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Melee": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "LeftMouseButton"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Evade": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "RightMouseButton"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "WeaponSkill": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "One"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "ProfessionSkill": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Four"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "SwitchMouse": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "LeftAlt"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Mount": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "V"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Supply": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "F2"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Artifact_2": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Two"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Artifact_3": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Three"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Artifact_4": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Five"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Map": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "M"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Zoom_2": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Add"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Zoom_-1": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Subtract"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Introduce": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "H"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Cancel": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Tilde"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Track": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "T"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Chat": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Enter"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "UI_Weapon": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "N"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "ChangeWeapon2": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "R"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "GmPanel": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "P"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "ChangeArtifact0": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "G"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Evade_Key": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "LeftShift"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Melee_Key": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "NumPadSeven"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Esc": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Escape"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Xbox360A": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Bottom"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Xbox360B": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Right"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Xbox360X": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Left"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Xbox360Y": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_FaceButton_Top"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Rs": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_Right2D"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Rt": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_RightTrigger"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Rb": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_RightShoulder"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Ls": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_LeftThumbstick"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Lt": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_LeftTrigger"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Lb": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_LeftShoulder"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Ls_Down": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_LeftThumbstick"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Rs_Down": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_RightThumbstick"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Hand_L": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Left"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Hand_R": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Right"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Hand_D": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Down"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Hand_O": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_DPad_Up"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "START": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_Special_Right"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "BACK": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Gamepad_Special_Left"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "pckeyY": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Y"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": false,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Menu_2": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "One"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": true,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Menu_3": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Two"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": true,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Menu_4": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Three"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": true,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    },
+    "Menu_5": {
+      "InputChord": {
+        "Key": {
+          "KeyName": "Four"
+        },
+        "bShift": false,
+        "bCtrl": false,
+        "bAlt": true,
+        "bCmd": false
+      },
+      "bCanUseGamepadKey": false
+    }
+  }
+  }
+]

@@ -1,0 +1,1772 @@
+[
+  {
+    "Export": {
+      "Name": "DT_Suppressor_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "01": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_1_0.yizhiqi_1",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_yuan.yizhiqi_yuan",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "Omnium",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "None",
+      "DialogText": "None",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "None",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "01_2": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_1_1.yizhiqi_1_2",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_yuan.yizhiqi_yuan",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "Omnium",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V1.1",
+      "DialogText": "About to upgrade suppressor. Restarting...",
+      "NeedPlayerLevel": 12,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 2
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_1_2",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "01_3": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_1_2.yizhiqi_1_3",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_yuan.yizhiqi_yuan",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "Omnium",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V1.2",
+      "DialogText": "About to upgrade suppressor. Restarting...",
+      "NeedPlayerLevel": 13,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 2
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_1_3",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "01_4": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_1_3.yizhiqi_1_4",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_yuan.yizhiqi_yuan",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "Omnium",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V1.3",
+      "DialogText": "About to upgrade suppressor. Restarting...",
+      "NeedPlayerLevel": 14,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 2
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_1_4",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "01_5": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_1_4.yizhiqi_1_5",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_yuan.yizhiqi_yuan",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "Omnium",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V1.4",
+      "DialogText": "About to upgrade suppressor. Restarting...",
+      "NeedPlayerLevel": 16,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 2
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_1_5",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "01_6": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_1_5.yizhiqi_1_6",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_yuan.yizhiqi_yuan",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "Omnium",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V1.5",
+      "DialogText": "About to obtain Echo: Until the End. Suppressor restarting.",
+      "NeedPlayerLevel": 20,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 2
+        }
+      ],
+      "DescIndex": 3,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_1_6",
+      "ItemDesc": "Echo: Until the End",
+      "ItemAwardDropID": "Drop_Suppressor_2"
+    },
+    "02_2": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_2_1.yizhiqi_2_2",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_1.yizhiqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V2.1",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 21,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 3
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_2_2",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "02_3": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_2_2.yizhiqi_2_3",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_1.yizhiqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V2.2",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 22,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 3
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_2_3",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "02_4": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_2_3.yizhiqi_2_4",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_1.yizhiqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V2.3",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 23,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 3
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_2_4",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "02_5": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_2_4.yizhiqi_2_5",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_1.yizhiqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V2.4",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 24,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 3
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_2_5",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "02_6": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_2_5.yizhiqi_2_6",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_1.yizhiqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V2.5",
+      "DialogText": "About to obtain Echo: Post Crisis. Suppressor restarting.",
+      "NeedPlayerLevel": 25,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 3
+        }
+      ],
+      "DescIndex": 3,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 1,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_2_6",
+      "ItemDesc": "Echo: Post Crisis",
+      "ItemAwardDropID": "Drop_Suppressor_3"
+    },
+    "03_2": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_3_1.yizhiqi_3_2",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_2.yizhiqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V3.1",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 26,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 4
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_3_2",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "03_3": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_3_2.yizhiqi_3_3",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_2.yizhiqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V3.2",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 6500,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 4
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_3_3",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "03_4": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_3_3.yizhiqi_3_4",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_2.yizhiqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V3.3",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 7100,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 4
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_3_4",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "03_5": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_3_4.yizhiqi_3_5",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_2.yizhiqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V3.4",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 7900,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 4
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_3_5",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "03_6": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_3_5.yizhiqi_3_6",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_2.yizhiqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V3.5",
+      "DialogText": "About to obtain Echo: Black or White. Suppressor restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 9000,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 4
+        }
+      ],
+      "DescIndex": 3,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_3_6",
+      "ItemDesc": "Echo: Black or White",
+      "ItemAwardDropID": "Drop_Suppressor_4"
+    },
+    "04_2": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_4_1.yizhiqi_4_2",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_3.yizhiqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V4.1",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 31,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 6
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_4_2",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "04_3": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_4_2.yizhiqi_4_3",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_3.yizhiqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V4.2",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 11300,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 6
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_4_3",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "04_4": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_4_3.yizhiqi_4_4",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_3.yizhiqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V4.3",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 12900,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 6
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_4_4",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "04_5": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_4_4.yizhiqi_4_5",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_3.yizhiqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V4.4",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 15100,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 6
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_4_5",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "04_6": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR12_256.icon_matrix_SR12_257",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/yizhiqi_4_5.yizhiqi_4_6",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/yizhiqi_3.yizhiqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti.biaoti",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Suppressors",
+      "SuppressorVersion": "V4.5",
+      "DialogText": "About to obtain Echo: Homesick. Suppressor restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 18000,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 6
+        }
+      ],
+      "DescIndex": 3,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_4_6",
+      "ItemDesc": "Echo: Homesick",
+      "ItemAwardDropID": "Drop_Suppressor_5"
+    },
+    "05_2": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_5_1.zengfuqi_5_2",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_1.zengfuqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V5.1",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 41,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 8
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_5_2",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "05_3": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_5_2.zengfuqi_5_3",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_1.zengfuqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V5.2",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 23000,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 8
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_5_3",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "05_4": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_5_3.zengfuqi_5_4",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_1.zengfuqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V5.3",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 25800,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 8
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_5_4",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "05_5": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_5_4.zengfuqi_5_5",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_1.zengfuqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V5.4",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 29500,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 8
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 5,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_5_5",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "05_6": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR7_256.icon_matrix_SSR7_257",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR7_256.icon_matrix_SSR7_257",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_5_5.zengfuqi_5_6",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_1.zengfuqi_2",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "I",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V5.5",
+      "DialogText": "About to obtain Shiro: Isolated. Suppressor restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 34400,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 8
+        }
+      ],
+      "DescIndex": 3,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_5_6",
+      "ItemDesc": "Shiro: Isolated",
+      "ItemAwardDropID": "Drop_Suppressor_6"
+    },
+    "06_2": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_6_1.zengfuqi_6_2",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_2.zengfuqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V6.1",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 51,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 11
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_6_2",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "06_3": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_6_2.zengfuqi_6_3",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_2.zengfuqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V6.2",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 42000,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 11
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_6_3",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "06_4": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_6_3.zengfuqi_6_4",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_2.zengfuqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V6.3",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 45300,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 11
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_6_4",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "06_5": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_6_4.zengfuqi_6_5",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_2.zengfuqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V6.4",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 49700,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 11
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_6_5",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "06_6": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR7_256.icon_matrix_SSR7_257",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR7_256.icon_matrix_SSR7_257",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_6_5.zengfuqi_6_6",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_2.zengfuqi_3",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "II",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V6.5",
+      "DialogText": "About to obtain Shiro: Longing for Sea. Suppressor restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 55600,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 11
+        }
+      ],
+      "DescIndex": 3,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_6_6",
+      "ItemDesc": "Shiro: Longing for Sea",
+      "ItemAwardDropID": "Drop_Suppressor_7"
+    },
+    "07_2": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_7_1.zengfuqi_7_2",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_3.zengfuqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V7.1",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 61,
+      "NeedScore": 0,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 15
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_7_2",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "07_3": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_7_2.zengfuqi_7_3",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_3.zengfuqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V7.2",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 64100,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 15
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_7_3",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "07_4": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_7_3.zengfuqi_7_4",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_3.zengfuqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V7.3",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 67400,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 15
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_7_4",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "07_5": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_2.shengji_3",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/UI/shenge/icon/shengji_1.shengji_2",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_7_4.zengfuqi_7_5",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_3.zengfuqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V7.4",
+      "DialogText": "About to update suppressor. Restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 71900,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 15
+        }
+      ],
+      "DescIndex": 2,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_7_5",
+      "ItemDesc": "None",
+      "ItemAwardDropID": "None"
+    },
+    "07_6": {
+      "UnlockIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR7_256.icon_matrix_SSR7_257",
+        "SubPath": ""
+      },
+      "LockedIcon": {
+        "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SSR7_256.icon_matrix_SSR7_257",
+        "SubPath": ""
+      },
+      "SignIcon": {
+        "Path": "/Game/Resources/Icon/yizhiqi/zengfuqi_7_5.zengfuqi_7_6",
+        "SubPath": ""
+      },
+      "SuppressorIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi/zengfuqi_3.zengfuqi_4",
+        "SubPath": ""
+      },
+      "SuppressorTypeIcon": {
+        "Path": "/Game/Resources/UI/shenge/yizhiqi_zjm/biaoti2.biaoti2",
+        "SubPath": ""
+      },
+      "SuppressorNamePrefix": "III",
+      "SuppressorNamePostfix": "Amplifier",
+      "SuppressorVersion": "V7.5",
+      "DialogText": "About to obtain Shiro: Great Singer. Suppressor restarting.",
+      "NeedPlayerLevel": 0,
+      "NeedScore": 77800,
+      "CompleteQuest": "None",
+      "CostItem": "None",
+      "ItemCostAmount": 0,
+      "CostItemArr": [
+        {
+          "ItemId": "primalenergy_01",
+          "ItemCount": 15
+        }
+      ],
+      "DescIndex": 3,
+      "FunctionDesc": "None",
+      "FunctionDetail": "None",
+      "FunctionUnlock": "None",
+      "SuppressorFunctionUnlock": "ESuppressorUnlock::None",
+      "FunctionEnhance": "ESuppressorEnhance::None",
+      "EnhanceValue": 0,
+      "FunctionAnim": "",
+      "AttributeDesc": "Power enhancement",
+      "AttributeID": "suppressor_7_6",
+      "ItemDesc": "Shiro: Great Singer",
+      "ItemAwardDropID": "Drop_Suppressor_8"
+    }
+  }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "Export": {
+      "Name": "TreasureMapQualityDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Normal": {
+      "BurySuccessAwardsDropID": "Drop_TreasureHideSuccess_2",
+      "DigSuccessAwardsDropID": "Drop_TreasureSeekSuccess_2",
+      "BuryFailedAwardsDropID": "Drop_TreasureHideFail_2",
+      "DigFailedAwardsDropID": "Drop_TreasureSeekFail_2",
+      "FriendAwardsDropID": "Drop_TreasureHideSuccess_2",
+      "BurySuccessTipsText": "Omnium collector deployed. Collect rewards in 24 hours.",
+      "Weight": 60,
+      "ChestItemID": "TreasureChest1",
+      "BuryTreasureAwardDropID": "Drop_TreasureBury_2",
+      "ServerLevelLow": 0,
+      "ServerLevelHigh": 100,
+      "DigAwardItemID": "TreasureMapAwardDropItem1",
+      "MapPointItemID": "TreasureChestMapPoint1",
+      "FragmentItemID": [
+        "TreasureMap"
+      ],
+      "ChestIcon": {
+        "Path": "/Game/Resources/UI/TreasureMap/xinbiao_blue.xinbiao_blue",
+        "SubPath": ""
+      },
+      "ChestEffect": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_common/P_item_Beacon_001.P_item_Beacon_001",
+        "SubPath": ""
+      },
+      "ChestEffectImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "TreasureMapOverdueTime": 86400
+    },
+    "ExceedsExpectations": {
+      "BurySuccessAwardsDropID": "Drop_TreasureHideSuccess_3",
+      "DigSuccessAwardsDropID": "Drop_TreasureSeekSuccess_3",
+      "BuryFailedAwardsDropID": "Drop_TreasureHideFail_3",
+      "DigFailedAwardsDropID": "Drop_TreasureSeekFail_3",
+      "FriendAwardsDropID": "Drop_TreasureHideSuccess_3",
+      "BurySuccessTipsText": "Omnium collector deployed. Collect rewards in 24 hours.",
+      "Weight": 30,
+      "ChestItemID": "TreasureChest2",
+      "BuryTreasureAwardDropID": "Drop_TreasureBury_3",
+      "ServerLevelLow": 0,
+      "ServerLevelHigh": 100,
+      "DigAwardItemID": "TreasureMapAwardDropItem2",
+      "MapPointItemID": "TreasureChestMapPoint2",
+      "FragmentItemID": [
+        "TreasureMapFragment"
+      ],
+      "ChestIcon": {
+        "Path": "/Game/Resources/UI/TreasureMap/xinbiao_purple.xinbiao_purple",
+        "SubPath": ""
+      },
+      "ChestEffect": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_common/P_item_Beacon_002.P_item_Beacon_002",
+        "SubPath": ""
+      },
+      "ChestEffectImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "TreasureMapOverdueTime": 86400
+    },
+    "Outstanding": {
+      "BurySuccessAwardsDropID": "Drop_TreasureHideSuccess_4",
+      "DigSuccessAwardsDropID": "Drop_TreasureSeekSuccess_4",
+      "BuryFailedAwardsDropID": "Drop_TreasureHideFail_4",
+      "DigFailedAwardsDropID": "Drop_TreasureSeekFail_4",
+      "FriendAwardsDropID": "Drop_TreasureHideSuccess_4",
+      "BurySuccessTipsText": "Omnium collector deployed. Collect rewards in 24 hours.",
+      "Weight": 10,
+      "ChestItemID": "TreasureChest3",
+      "BuryTreasureAwardDropID": "Drop_TreasureBury_4",
+      "ServerLevelLow": 40,
+      "ServerLevelHigh": 100,
+      "DigAwardItemID": "TreasureMapAwardDropItem3",
+      "MapPointItemID": "TreasureChestMapPoint3",
+      "FragmentItemID": [
+        "TreasureMapFragment2_2"
+      ],
+      "ChestIcon": {
+        "Path": "/Game/Resources/UI/TreasureMap/xinbiao_yellow.xinbiao_yellow",
+        "SubPath": ""
+      },
+      "ChestEffect": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_common/P_item_Beacon_003.P_item_Beacon_003",
+        "SubPath": ""
+      },
+      "ChestEffectImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "TreasureMapOverdueTime": 86400
+    }
+  }
+  }
+]

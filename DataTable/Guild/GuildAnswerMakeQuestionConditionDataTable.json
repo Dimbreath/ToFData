@@ -1,0 +1,33 @@
+[
+  {
+    "Export": {
+      "Name": "GuildAnswerMakeQuestionConditionDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "MemberCount_2": {
+      "ConditionType": "EGuildAnswerMakeQuestionConditionType::AnsweringMembersCount",
+      "Data": "1"
+    },
+    "MemberCount_11": {
+      "ConditionType": "EGuildAnswerMakeQuestionConditionType::AnsweringMembersCount",
+      "Data": "10"
+    },
+    "GuildRank_4": {
+      "ConditionType": "EGuildAnswerMakeQuestionConditionType::GuildRank",
+      "Data": "3"
+    },
+    "OrienteeringRank_4": {
+      "ConditionType": "EGuildAnswerMakeQuestionConditionType::OrienteeringRank",
+      "Data": "3"
+    },
+    "WorldBossRank_2": {
+      "ConditionType": "EGuildAnswerMakeQuestionConditionType::WorldBossRank",
+      "Data": "1"
+    }
+  }
+  }
+]

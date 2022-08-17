@@ -1,0 +1,223 @@
+[
+  {
+    "Export": {
+      "Name": "BreakFateBaseConfigData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Map_chiji_D": {
+      "MaxPlayersNum": 5,
+      "PrepareTime": 30,
+      "InviteChooseAreaTime": 15,
+      "RandomMapCount": 1,
+      "SlayNotifyInfoList": [
+        {
+          "SlayNum": 1,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} defeated {1}, scoring first blood."
+        },
+        {
+          "SlayNum": 2,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} defeated {1} to complete a 2 kill streak."
+        },
+        {
+          "SlayNum": 4,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} defeated {1}, the carnage begins."
+        }
+      ],
+      "TerminatorNotifyInfoList": [
+        {
+          "SlayNum": 2,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} ended {1}'s 2 kill streak."
+        },
+        {
+          "SlayNum": 4,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} ended {1}'s carnage."
+        }
+      ],
+      "BFWeaponReplaceNum": 8,
+      "BFWeaponShowStrArray": [
+        "0;3-3",
+        "1;3-3",
+        "2;2-2"
+      ],
+      "BFArtifactReplaceNum": 8,
+      "BFArtifactShowStrArray": [
+        "0;3-3",
+        "1;3-3",
+        "2;2-2"
+      ],
+      "BFNeedItemNumArray": [],
+      "DeathBloadBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/Buff_BloodBall_001.Buff_BloodBall_001_C",
+        "SubPath": ""
+      },
+      "BreakFateReliveBaseCount": 1,
+      "BreakFateReliveTimeCoolDown": 300,
+      "BreakFateReliveTime": 30,
+      "BreakFatePrepareAgainTimer": 240,
+      "BreakFateReliveNetLag": 5,
+      "BreakFateReliveChoosePosionTime": 15,
+      "BreakFateSettlementTime": 10,
+      "ReliveDeathlessBuff": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "HPBarShowThresholdPct": 0.3,
+      "RotbotRandomDressFashionIDs": [
+        "fashion_dress_16",
+        "fashion_dress_10",
+        "fashion_dress_13",
+        "fashion_dress_19",
+        "fashion_dress_4"
+      ],
+      "BotSearchEnemyRange": 8000,
+      "BotAttackRadius": 500,
+      "BotPatrolRadius": 5000,
+      "BotTimeItemArray": [
+        {
+          "DelayTime": 0,
+          "DropID": "drop_robot_2"
+        },
+        {
+          "DelayTime": 300,
+          "DropID": "drop_robot_3"
+        }
+      ],
+      "BotBehaviorTree": "BT_Bot_BreakFate",
+      "BreakFateSupplementData": {
+        "SupplementList": [
+          {
+            "SupplementTime": 30,
+            "SupplementNums": 1,
+            "SupplementDropID": "drop_breakfate_box3",
+            "IsGlobalNotify": false,
+            "IsSupplemented": false
+          },
+          {
+            "SupplementTime": 100,
+            "SupplementNums": 1,
+            "SupplementDropID": "drop_breakfate_box3",
+            "IsGlobalNotify": false,
+            "IsSupplemented": false
+          }
+        ],
+        "SupplementDropCoolDownTime": 10,
+        "SupplementShowTime": 5
+      }
+    },
+    "Map_chiji_D_team": {
+      "MaxPlayersNum": 48,
+      "PrepareTime": 30,
+      "InviteChooseAreaTime": 15,
+      "RandomMapCount": 1,
+      "SlayNotifyInfoList": [
+        {
+          "SlayNum": 1,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} defeated {1}, scoring first blood."
+        },
+        {
+          "SlayNum": 2,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} defeated {1} to complete a 2 kill streak."
+        },
+        {
+          "SlayNum": 4,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} defeated {1}, the carnage begins."
+        }
+      ],
+      "TerminatorNotifyInfoList": [
+        {
+          "SlayNum": 2,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} ended {1}'s 2 kill streak."
+        },
+        {
+          "SlayNum": 4,
+          "GlobalNotify": true,
+          "NotifyInfo": "{0} ended {1}'s carnage."
+        }
+      ],
+      "BFWeaponReplaceNum": 8,
+      "BFWeaponShowStrArray": [
+        "0;3-3",
+        "1;3-3",
+        "2;2-2"
+      ],
+      "BFArtifactReplaceNum": 8,
+      "BFArtifactShowStrArray": [
+        "0;3-3",
+        "1;3-3",
+        "2;2-2"
+      ],
+      "BFNeedItemNumArray": [],
+      "DeathBloadBuff": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BreakFateReliveBaseCount": 1,
+      "BreakFateReliveTimeCoolDown": 300,
+      "BreakFateReliveTime": 30,
+      "BreakFatePrepareAgainTimer": 240,
+      "BreakFateReliveNetLag": 5,
+      "BreakFateReliveChoosePosionTime": 15,
+      "BreakFateSettlementTime": 10,
+      "ReliveDeathlessBuff": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "HPBarShowThresholdPct": 0.3,
+      "RotbotRandomDressFashionIDs": [
+        "fashion_dress_16",
+        "fashion_dress_10",
+        "fashion_dress_13",
+        "fashion_dress_19",
+        "fashion_dress_4"
+      ],
+      "BotSearchEnemyRange": 3000,
+      "BotAttackRadius": 500,
+      "BotPatrolRadius": 5000,
+      "BotTimeItemArray": [
+        {
+          "DelayTime": 0,
+          "DropID": "drop_robot_2"
+        },
+        {
+          "DelayTime": 300,
+          "DropID": "drop_robot_3"
+        }
+      ],
+      "BotBehaviorTree": "BT_Bot_BreakFate",
+      "BreakFateSupplementData": {
+        "SupplementList": [
+          {
+            "SupplementTime": 30,
+            "SupplementNums": 1,
+            "SupplementDropID": "drop_breakfate_box3",
+            "IsGlobalNotify": false,
+            "IsSupplemented": false
+          },
+          {
+            "SupplementTime": 100,
+            "SupplementNums": 1,
+            "SupplementDropID": "drop_breakfate_box3",
+            "IsGlobalNotify": false,
+            "IsSupplemented": false
+          }
+        ],
+        "SupplementDropCoolDownTime": 10,
+        "SupplementShowTime": 5
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "Export": {
+      "Name": "AstralPortalActivityConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "BigWorldNormal": {
+      "AstralPortalType": "EHottaAstralPortalType::BigWorld_Normal",
+      "MainLevelName": "QRSL_P",
+      "RequiredCharacterLevel": 21,
+      "bShowInClientGroup": true,
+      "BindFunctionSwitchType": "EGameFunctionType::AstralPlane",
+      "BindFunctionType": "EHottaAstralPortalBindFunctionType::GameActivity",
+      "BindGameActivityType": "EGameActivityType::GAT_ASTRAL_PLANE",
+      "BindOperatorActivityType": "EHottaActivityType::None",
+      "PermanentCount": 6,
+      "bShowInMap": true,
+      "POIType": "AstralPortal",
+      "bDefaultShowIconInMap": false,
+      "NotInMainLevelTipText": "Cannot play Interstellar Exploration here. You may move to another area where it's available.",
+      "OccupiedTipText": "Exploration for this Star Gate is currently underway. Unable to join.",
+      "AreaConfigArray": [
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 21
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 27
+            }
+          },
+          "AreaIDArray": [
+            "Area1",
+            "Area2"
+          ]
+        },
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 28
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 32
+            }
+          },
+          "AreaIDArray": [
+            "Area1",
+            "Area2",
+            "Area3"
+          ]
+        },
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 33
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 39
+            }
+          },
+          "AreaIDArray": [
+            "Area1",
+            "Area2",
+            "Area3",
+            "Area4"
+          ]
+        },
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 40
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 49
+            }
+          },
+          "AreaIDArray": [
+            "Area1",
+            "Area2",
+            "Area3",
+            "Area4",
+            "Area5"
+          ]
+        },
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 50
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 100
+            }
+          },
+          "AreaIDArray": [
+            "Area1",
+            "Area2",
+            "Area3",
+            "Area4",
+            "Area5",
+            "Area6"
+          ]
+        }
+      ]
+    },
+    "BigWorldSpecial": {
+      "AstralPortalType": "EHottaAstralPortalType::BigWorld_Special",
+      "MainLevelName": "QRSL_P",
+      "RequiredCharacterLevel": 21,
+      "bShowInClientGroup": true,
+      "BindFunctionSwitchType": "EGameFunctionType::None",
+      "BindFunctionType": "EHottaAstralPortalBindFunctionType::OperatorActivity",
+      "BindGameActivityType": "EGameActivityType::GAT_TEAM_CLONE",
+      "BindOperatorActivityType": "EHottaActivityType::Enlightenment_Astral",
+      "PermanentCount": 6,
+      "bShowInMap": true,
+      "POIType": "SpecialAstralPortal",
+      "bDefaultShowIconInMap": false,
+      "NotInMainLevelTipText": "None",
+      "OccupiedTipText": "None",
+      "AreaConfigArray": [
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 21
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 100
+            }
+          },
+          "AreaIDArray": [
+            "Special_TypeA",
+            "Special_TypeB",
+            "Special_TypeC"
+          ]
+        }
+      ]
+    },
+    "VeraNormal": {
+      "AstralPortalType": "EHottaAstralPortalType::Vera_Normal",
+      "MainLevelName": "Vera_P",
+      "RequiredCharacterLevel": 21,
+      "bShowInClientGroup": true,
+      "BindFunctionSwitchType": "EGameFunctionType::AstralPlane",
+      "BindFunctionType": "EHottaAstralPortalBindFunctionType::GameActivity",
+      "BindGameActivityType": "EGameActivityType::GAT_ASTRAL_PLANE",
+      "BindOperatorActivityType": "EHottaActivityType::None",
+      "PermanentCount": 6,
+      "bShowInMap": true,
+      "POIType": "AstralPortal",
+      "bDefaultShowIconInMap": false,
+      "NotInMainLevelTipText": "Cannot play Interstellar Exploration here. You may move to another area where it's available.",
+      "OccupiedTipText": "Exploration for this Star Gate is currently underway. Unable to join.",
+      "AreaConfigArray": [
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 21
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 100
+            }
+          },
+          "AreaIDArray": [
+            "Area1_Vera",
+            "Area2_Vera",
+            "Area3_Vera"
+          ]
+        }
+      ]
+    },
+    "VeraSpecial": {
+      "AstralPortalType": "EHottaAstralPortalType::Vera_Special",
+      "MainLevelName": "Vera_P",
+      "RequiredCharacterLevel": 21,
+      "bShowInClientGroup": true,
+      "BindFunctionSwitchType": "EGameFunctionType::None",
+      "BindFunctionType": "EHottaAstralPortalBindFunctionType::Permanent",
+      "BindGameActivityType": "EGameActivityType::GAT_TEAM_CLONE",
+      "BindOperatorActivityType": "EHottaActivityType::None",
+      "PermanentCount": 6,
+      "bShowInMap": true,
+      "POIType": "None",
+      "bDefaultShowIconInMap": false,
+      "NotInMainLevelTipText": "None",
+      "OccupiedTipText": "None",
+      "AreaConfigArray": []
+    },
+    "VeraSecondaryPlane": {
+      "AstralPortalType": "EHottaAstralPortalType::Vera_SecondaryPlane",
+      "MainLevelName": "Vera_P",
+      "RequiredCharacterLevel": 1,
+      "bShowInClientGroup": false,
+      "BindFunctionSwitchType": "EGameFunctionType::None",
+      "BindFunctionType": "EHottaAstralPortalBindFunctionType::Permanent",
+      "BindGameActivityType": "EGameActivityType::GAT_TEAM_CLONE",
+      "BindOperatorActivityType": "EHottaActivityType::None",
+      "PermanentCount": 6,
+      "bShowInMap": true,
+      "POIType": "huiyu_plane",
+      "bDefaultShowIconInMap": true,
+      "NotInMainLevelTipText": "None",
+      "OccupiedTipText": "None",
+      "AreaConfigArray": [
+        {
+          "CharacterLevelLimit": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 100
+            }
+          },
+          "AreaIDArray": [
+            "vera_plane_huiyu_shabao",
+            "vera_plane_huiyu_liusha",
+            "vera_plane_huiyu_lvzhou"
+          ]
+        }
+      ]
+    }
+  }
+  }
+]

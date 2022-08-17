@@ -1,0 +1,965 @@
+[
+  {
+    "Export": {
+      "Name": "DT_DreamCloneConfig",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "DC02_D": {
+      "bIsValid": true,
+      "TimeLimit": 310,
+      "GoalDesc": "Power Challenge I: Defeat enemies on the field within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC06_D": {
+      "bIsValid": true,
+      "TimeLimit": 190,
+      "GoalDesc": "Survival Challenge I: Stay alive for the given time",
+      "GoalConfig": [
+        {
+          "GoalId": "DC06",
+          "Description": "Stay alive for 3 minutes on the field",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC06_2",
+          "Description": "Defeat 30 enemies",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_3",
+          "Description": "Defeat 50 enemies",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_4",
+          "Description": "Defeat 70 enemies",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC01_D": {
+      "bIsValid": true,
+      "TimeLimit": 490,
+      "GoalDesc": "Maze Challenge - Get out of the maze within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC01",
+          "Description": "Get out of the maze",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC01_2",
+          "Description": "Complete in less than 4 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC01_3",
+          "Description": "Complete in less than 3 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC01_4",
+          "Description": "Complete in less than 2 minutes",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 28
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC04_D": {
+      "bIsValid": true,
+      "TimeLimit": 45,
+      "GoalDesc": "Control Challenge - Reach the destination within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC04",
+          "Description": "Reach the destination",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC04_2",
+          "Description": "More than 10 seconds remaining",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC04_3",
+          "Description": "More than 20 seconds remaining",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC04_4",
+          "Description": "More than 30 seconds remaining",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC08_D": {
+      "bIsValid": true,
+      "TimeLimit": 310,
+      "GoalDesc": "Lucky Challenge - Reach the destination within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC08",
+          "Description": "Reach the destination",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC08_2",
+          "Description": "Complete in less than 4 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC08_3",
+          "Description": "Complete in less than 3 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC08_4",
+          "Description": "Complete in less than 2 minutes",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC03_D": {
+      "bIsValid": true,
+      "TimeLimit": 490,
+      "GoalDesc": "Defense Challenge - Stop the enemies from entering the transmission portal (less than 5 enemies entering)",
+      "GoalConfig": [
+        {
+          "GoalId": "DC03",
+          "Description": "Stop the enemies from entering the transmission portal",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC03_2",
+          "Description": "No enemies entering",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC03_3",
+          "Description": "Less than 2 enemies entering",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC03_4",
+          "Description": "Less than 4 enemies entering",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC05_D": {
+      "bIsValid": true,
+      "TimeLimit": 45,
+      "GoalDesc": "Control Challenge - Reach the destination within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC05",
+          "Description": "Reach the destination",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC05_2",
+          "Description": "More than 10 seconds remaining",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC05_3",
+          "Description": "More than 20 seconds remaining",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC05_4",
+          "Description": "More than 30 seconds remaining",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC02_2_D": {
+      "bIsValid": true,
+      "TimeLimit": 310,
+      "GoalDesc": "Power Challenge II: Defeat enemies on the field within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC06_2_D": {
+      "bIsValid": true,
+      "TimeLimit": 190,
+      "GoalDesc": "Survival Challenge II: Stay alive for the given time",
+      "GoalConfig": [
+        {
+          "GoalId": "DC06",
+          "Description": "Stay alive for 3 minutes on the field",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC06_2",
+          "Description": "Defeat 30 enemies",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_3",
+          "Description": "Defeat 50 enemies",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_4",
+          "Description": "Defeat 70 enemies",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC02_3_D": {
+      "bIsValid": true,
+      "TimeLimit": 310,
+      "GoalDesc": "Power Challenge III: Defeat enemies on the field within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC02",
+          "Description": "Defeat enemies on the field",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC02_2",
+          "Description": "Complete in less than 4 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_3",
+          "Description": "Complete in less than 3 minutes",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC02_4",
+          "Description": "Complete in less than 2 minutes",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC06_3_D": {
+      "bIsValid": true,
+      "TimeLimit": 190,
+      "GoalDesc": "Survival Challenge III: Stay alive for the given time",
+      "GoalConfig": [
+        {
+          "GoalId": "DC06",
+          "Description": "Stay alive for 3 minutes on the field",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC06_2",
+          "Description": "Defeat 30 enemies",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_3",
+          "Description": "Defeat 50 enemies",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC06_4",
+          "Description": "Defeat 70 enemies",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC09_D": {
+      "bIsValid": true,
+      "TimeLimit": 310,
+      "GoalDesc": "Maze Challenge - Collect rift energy within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC09",
+          "Description": "Collect rift energy ×8",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC09_2",
+          "Description": "Collect rift energy ×11",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC09_3",
+          "Description": "Collect rift energy ×13",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC09_4",
+          "Description": "Collect rift energy ×15",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 28
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC10_D": {
+      "bIsValid": true,
+      "TimeLimit": 110,
+      "GoalDesc": "Shooting Challenge - Shoot the targets to obtain points within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC10",
+          "Description": "Obtain 500 points",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC10_2",
+          "Description": "Obtain 800 points",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC10_3",
+          "Description": "Obtain 1200 points",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC10_4",
+          "Description": "Obtain 1600 points",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC12_D": {
+      "bIsValid": true,
+      "TimeLimit": 190,
+      "GoalDesc": "Collecting Challenge: Complete within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC12",
+          "Description": "Reach the destination",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC12_2",
+          "Description": "Collect rift energy ×80",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC12_3",
+          "Description": "Collect rift energy ×100",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC12_4",
+          "Description": "Collect rift energy ×120",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC11_D": {
+      "bIsValid": true,
+      "TimeLimit": 120,
+      "GoalDesc": "Energy Harvest Challenge: Collect 300 points of energy within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC11",
+          "Description": "Collect 300 points of energy",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC11_2",
+          "Description": "Complete in no more than 240 seconds",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC11_3",
+          "Description": "Complete in no more than 180 seconds",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC11_4",
+          "Description": "Complete in no more than 120 seconds",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "DC07_D": {
+      "bIsValid": true,
+      "TimeLimit": 120,
+      "GoalDesc": "Marble Challenge: Score more than 2,500 points within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC07",
+          "Description": "Win more than 2,500 points",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC07_2",
+          "Description": "Win more than 3,000 points",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC07_3",
+          "Description": "Win more than 3,500 points",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC07_4",
+          "Description": "Win more than 4,000 points",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      }
+    },
+    "DC13_D": {
+      "bIsValid": true,
+      "TimeLimit": 120,
+      "GoalDesc": "Memory Challenge - Match all the holograms within the time limit",
+      "GoalConfig": [
+        {
+          "GoalId": "DC13",
+          "Description": "Matched",
+          "bIsMainGoal": true
+        },
+        {
+          "GoalId": "DC13_2",
+          "Description": "Complete in less than 240 seconds",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC13_3",
+          "Description": "Complete in less than 160 seconds",
+          "bIsMainGoal": false
+        },
+        {
+          "GoalId": "DC13_4",
+          "Description": "Complete in less than 80 seconds",
+          "bIsMainGoal": false
+        }
+      ],
+      "DropGroup": [
+        "dream_gem",
+        "dream_artifact",
+        "dream_strength",
+        "dream_matrix_stage1",
+        "dream_matrix_stage2",
+        "dream_matrix_stage3",
+        "dream_matrix_stage4",
+        "dream_matrix_stage5",
+        "dream_matrix_stage6",
+        "dream_equip_stage1",
+        "dream_equip_stage2",
+        "dream_equip_stage3",
+        "dream_equip_stage4",
+        "dream_equip_stage5",
+        "dream_equip_stage6"
+      ],
+      "GoalAward": [],
+      "DropWeight": 1,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    }
+  }
+  }
+]

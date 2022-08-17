@@ -1,0 +1,193 @@
+[
+  {
+    "Export": {
+      "Name": "Text_Food001_01",
+      "Class": "DlgDialogue",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgDialogue",
+      "TemplateOwner": "/Script/DlgSystem"
+    },
+    "Name": "Text_Food001_01",
+    "GUID": "8e829e0f-26b2-4c6c-bdac-a29f6c99e030",
+    "ParticipantsData": [
+      {
+        "Key": "Food_001",
+        "Value": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "OpenShop:Food_starisle"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      }
+    ],
+    "StartNode": "DlgNode_Speech",
+    "Nodes": [
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End"
+    ],
+    "NodesGUIDToIndexMap": []
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "Text_Food001_01.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food001_01",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Food_001",
+    "NodeGUID": "6ee45b89-68de-47c6-9102-f067c6c24855"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food001_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food001_01",
+      "OuterOwner": "None"
+    },
+    "NodeGUID": "9997949f-749b-47a5-886b-673baa390df4",
+    "Children": [
+      {
+        "TargetIndex": 0,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food001_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food001_01",
+      "OuterOwner": "None"
+    },
+    "Text": "What are you cooking, child? I have every ingredient you need.",
+    "OwnerName": "Food_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "30e4aadf-fa7a-43c4-83b2-805bc5b84821",
+    "Children": [
+      {
+        "TargetIndex": 1,
+        "EdgeIndex": 2,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "View",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 2,
+        "EdgeIndex": 1,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Nothing, thanks.",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food001_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food001_01",
+      "OuterOwner": "None"
+    },
+    "Text": "Wow, a large purchase. You must be very hungry.",
+    "OwnerName": "Food_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "OpenShop:Food_starisle",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "dd98a694-50ea-4b45-b223-ec464756ff10",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food001_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food001_01",
+      "OuterOwner": "None"
+    },
+    "Text": "Granny's not going anywhere. Come back whenever you're hungry.",
+    "OwnerName": "Food_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "91263ff3-685e-4e68-9621-336074c20609",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  }
+]

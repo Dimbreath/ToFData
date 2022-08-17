@@ -1,0 +1,27 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerBowSkill_R": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/imitation/FPlayerBowSkill_imitation16.FPlayerBowSkill_imitation16",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerBowChangeSkill_R": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/imitation/FPlayerBowChangeSkill_imitation16.FPlayerBowChangeSkill_imitation16",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

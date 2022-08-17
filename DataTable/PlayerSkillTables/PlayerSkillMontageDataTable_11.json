@@ -1,0 +1,69 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerSickleMeleeFire_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Fire/MPlayerSickleMelee_Fire.MPlayerSickleMelee_Fire",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSickleEvadeFire_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Fire/MPlayerSickleEvade_Fire.MPlayerSickleEvade_Fire",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSickleSkillFire_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Imitation9/MPlayerSickleSkill_Imitation9.MPlayerSickleSkill_Imitation9",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSickleReverseJumpFire": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Fire/FPlayerSickleReverseAttack_Fire.FPlayerSickleReverseAttack_Fire",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSickleEvadeAttackFire_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Fire/MPlayerSickleEvadeAttack_Fire.MPlayerSickleEvadeAttack_Fire",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSickleSneakFire_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Fire/MPlayerSickleSneak_Fire.MPlayerSickleSneak_Fire",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSickleGlidAttackFire_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Fire/FPlayerSickleGlidAttack_Fire.FPlayerSickleGlidAttack_Fire",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSickleChangeSkillFire_SSR_New": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/Imitation9/MPlayerSickleChangeSkill_Fire_Imitation9.MPlayerSickleChangeSkill_Fire_Imitation9",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "Export": {
+      "Name": "GuildPostDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "President": {
+      "PostName": "Commander",
+      "CanInvitePlayer": true,
+      "CanAcceptApplies": true,
+      "CanKickOutMember": true,
+      "CanAssignPost": true,
+      "CanEditDeclaration": true,
+      "CanPublishNotice": true,
+      "CanUpgradeGuild": true,
+      "CanSettingRecruit": true,
+      "BaseSalary": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 150
+      },
+      "bCanSummonMember": true,
+      "CanRename": false
+    },
+    "VicePresident": {
+      "PostName": "Deputy",
+      "CanInvitePlayer": true,
+      "CanAcceptApplies": true,
+      "CanKickOutMember": true,
+      "CanAssignPost": true,
+      "CanEditDeclaration": true,
+      "CanPublishNotice": true,
+      "CanUpgradeGuild": true,
+      "CanSettingRecruit": true,
+      "BaseSalary": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 150
+      },
+      "bCanSummonMember": false,
+      "CanRename": false
+    },
+    "Cadre": {
+      "PostName": "Cadre",
+      "CanInvitePlayer": true,
+      "CanAcceptApplies": false,
+      "CanKickOutMember": false,
+      "CanAssignPost": false,
+      "CanEditDeclaration": false,
+      "CanPublishNotice": false,
+      "CanUpgradeGuild": false,
+      "CanSettingRecruit": false,
+      "BaseSalary": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 120
+      },
+      "bCanSummonMember": false,
+      "CanRename": false
+    },
+    "NormalMember": {
+      "PostName": "Crewmate",
+      "CanInvitePlayer": false,
+      "CanAcceptApplies": false,
+      "CanKickOutMember": false,
+      "CanAssignPost": false,
+      "CanEditDeclaration": false,
+      "CanPublishNotice": false,
+      "CanUpgradeGuild": false,
+      "CanSettingRecruit": false,
+      "BaseSalary": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 100
+      },
+      "bCanSummonMember": false,
+      "CanRename": false
+    }
+  }
+  }
+]

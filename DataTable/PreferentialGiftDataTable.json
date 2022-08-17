@@ -1,0 +1,2159 @@
+[
+  {
+    "Export": {
+      "Name": "PreferentialGiftDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "treasure_timeLimtGift_2": {
+      "PreferentialGiftID": "treasure_timeLimtGift_2",
+      "Name": "超值武器礼包",
+      "DropID": "treasure_gift_2",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg1.6",
+        "ProductPrice": 6,
+        "ProductName": "超值武器礼包",
+        "ProductDes": "6元充值，超值武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 75,
+      "Discount": 0.08,
+      "ConditionID": "101",
+      "AmountMax": 1,
+      "LimitTime": 21600,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_2",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_3": {
+      "PreferentialGiftID": "treasure_timeLimtGift_3",
+      "Name": "新人武器礼包",
+      "DropID": "treasure_gift_3",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg2.30",
+        "ProductPrice": 30,
+        "ProductName": "新人武器礼包",
+        "ProductDes": "30元充值，新人武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 150,
+      "Discount": 0.2,
+      "ConditionID": "101",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_3",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_4": {
+      "PreferentialGiftID": "treasure_timeLimtGift_4",
+      "Name": "进阶武器礼包",
+      "DropID": "treasure_gift_4",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg3.68",
+        "ProductPrice": 68,
+        "ProductName": "进阶武器礼包",
+        "ProductDes": "68元充值，进阶武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 227,
+      "Discount": 0.3,
+      "ConditionID": "101",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_4",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_5": {
+      "PreferentialGiftID": "treasure_timeLimtGift_5",
+      "Name": "大师武器礼包",
+      "DropID": "treasure_gift_5",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg4.128",
+        "ProductPrice": 128,
+        "ProductName": "大师武器礼包",
+        "ProductDes": "128元充值，大师武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 313,
+      "Discount": 0.41,
+      "ConditionID": "101",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_5",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_6": {
+      "PreferentialGiftID": "treasure_timeLimtGift_6",
+      "Name": "新人意志宝箱",
+      "DropID": "treasure_gift_14",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg5.30",
+        "ProductPrice": 30,
+        "ProductName": "新人意志宝箱",
+        "ProductDes": "30元充值，新人意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 150,
+      "Discount": 0.2,
+      "ConditionID": "103",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_6",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_7": {
+      "PreferentialGiftID": "treasure_timeLimtGift_7",
+      "Name": "进阶意志宝箱",
+      "DropID": "treasure_gift_15",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg6.68",
+        "ProductPrice": 68,
+        "ProductName": "进阶意志宝箱",
+        "ProductDes": "68元充值，进阶意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 227,
+      "Discount": 0.3,
+      "ConditionID": "103",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_7",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_8": {
+      "PreferentialGiftID": "treasure_timeLimtGift_8",
+      "Name": "大师意志宝箱",
+      "DropID": "treasure_gift_16",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg7.128",
+        "ProductPrice": 128,
+        "ProductName": "大师意志宝箱",
+        "ProductDes": "128元充值，大师意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 320,
+      "Discount": 0.4,
+      "ConditionID": "103",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_8",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_9": {
+      "PreferentialGiftID": "treasure_timeLimtGift_9",
+      "Name": "辉煌源器礼包",
+      "DropID": "treasure_gift_64",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg8.68",
+        "ProductPrice": 68,
+        "ProductName": "辉煌源器礼包",
+        "ProductDes": "68元充值，辉煌源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 122,
+      "Discount": 0.56,
+      "ConditionID": "101",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_9",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_10": {
+      "PreferentialGiftID": "treasure_timeLimtGift_10",
+      "Name": "典藏源器礼包",
+      "DropID": "treasure_gift_65",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg9.98",
+        "ProductPrice": 98,
+        "ProductName": "典藏源器礼包",
+        "ProductDes": "98元充值，典藏源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 156,
+      "Discount": 0.63,
+      "ConditionID": "101",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_10",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_11": {
+      "PreferentialGiftID": "treasure_timeLimtGift_11",
+      "Name": "源器支援礼包",
+      "DropID": "treasure_gift_66",
+      "GiftGroup": "3",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 616,
+      "Discount": 0.63,
+      "ConditionID": "101",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_11",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_12": {
+      "PreferentialGiftID": "treasure_timeLimtGift_12",
+      "Name": "超值武器礼包",
+      "DropID": "treasure_gift_2",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg1.6",
+        "ProductPrice": 6,
+        "ProductName": "超值武器礼包",
+        "ProductDes": "6元充值，超值武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 75,
+      "Discount": 0.08,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 21600,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_12",
+      "IsRecoverBuyAmount": false,
+      "RecoverCD": -1,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 0,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_13": {
+      "PreferentialGiftID": "treasure_timeLimtGift_13",
+      "Name": "新人武器礼包",
+      "DropID": "treasure_gift_3",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg2.30",
+        "ProductPrice": 30,
+        "ProductName": "新人武器礼包",
+        "ProductDes": "30元充值，新人武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 150,
+      "Discount": 0.2,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_13",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_14": {
+      "PreferentialGiftID": "treasure_timeLimtGift_14",
+      "Name": "进阶武器礼包",
+      "DropID": "treasure_gift_4",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg3.68",
+        "ProductPrice": 68,
+        "ProductName": "进阶武器礼包",
+        "ProductDes": "68元充值，进阶武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 227,
+      "Discount": 0.3,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_14",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_15": {
+      "PreferentialGiftID": "treasure_timeLimtGift_15",
+      "Name": "大师武器礼包",
+      "DropID": "treasure_gift_5",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg4.128",
+        "ProductPrice": 128,
+        "ProductName": "大师武器礼包",
+        "ProductDes": "128元充值，大师武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 313,
+      "Discount": 0.41,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_15",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_16": {
+      "PreferentialGiftID": "treasure_timeLimtGift_16",
+      "Name": "豪华武器礼包",
+      "DropID": "treasure_gift_6",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg14.198",
+        "ProductPrice": 198,
+        "ProductName": "豪华武器礼包",
+        "ProductDes": "198元充值，豪华武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 396,
+      "Discount": 0.5,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_16",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_17": {
+      "PreferentialGiftID": "treasure_timeLimtGift_17",
+      "Name": "传奇武器礼包",
+      "DropID": "treasure_gift_7",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg15.328",
+        "ProductPrice": 328,
+        "ProductName": "传奇武器礼包",
+        "ProductDes": "328元充值，传奇武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 556,
+      "Discount": 0.59,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_17",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_18": {
+      "PreferentialGiftID": "treasure_timeLimtGift_18",
+      "Name": "超凡武器礼包",
+      "DropID": "treasure_gift_8",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg16.648",
+        "ProductPrice": 648,
+        "ProductName": "超凡武器礼包",
+        "ProductDes": "648元充值，超凡武器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 864,
+      "Discount": 0.75,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_18",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_19": {
+      "PreferentialGiftID": "treasure_timeLimtGift_19",
+      "Name": "初阶武器补给",
+      "DropID": "treasure_gift_9",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg17.30",
+        "ProductPrice": 30,
+        "ProductName": "初阶武器补给",
+        "ProductDes": "30元充值，初阶武器补给"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 79,
+      "Discount": 0.38,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_19",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_R.wq_box_R",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_20": {
+      "PreferentialGiftID": "treasure_timeLimtGift_20",
+      "Name": "高阶武器补给",
+      "DropID": "treasure_gift_10",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg18.128",
+        "ProductPrice": 128,
+        "ProductName": "高阶武器补给",
+        "ProductDes": "128元充值，高阶武器补给"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 279,
+      "Discount": 0.46,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_20",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 691200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_R.wq_box_R",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_21": {
+      "PreferentialGiftID": "treasure_timeLimtGift_21",
+      "Name": "武器培养助力",
+      "DropID": "treasure_gift_11",
+      "GiftGroup": "1",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg19.30",
+        "ProductPrice": 30,
+        "ProductName": "武器培养助力",
+        "ProductDes": "30元充值，武器培养助力"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 77,
+      "Discount": 0.39,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_21",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_R.wq_box_R",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_22": {
+      "PreferentialGiftID": "treasure_timeLimtGift_22",
+      "Name": "罕见幸运特惠",
+      "DropID": "treasure_gift_12",
+      "GiftGroup": "1",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 457,
+      "Discount": 0.51,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_22",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_23": {
+      "PreferentialGiftID": "treasure_timeLimtGift_23",
+      "Name": "传说幸运特惠",
+      "DropID": "treasure_gift_13",
+      "GiftGroup": "1",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 1700,
+      "Discount": 0.64,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_23",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_SSR.wq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_24": {
+      "PreferentialGiftID": "treasure_timeLimtGift_24",
+      "Name": "拓荒激励礼包",
+      "DropID": "treasure_gift_40",
+      "GiftGroup": "4",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg20.30",
+        "ProductPrice": 30,
+        "ProductName": "拓荒激励礼包",
+        "ProductDes": "30元充值，拓荒激励礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 50,
+      "Discount": 0.6,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 21600,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_24",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/common_box.common_box",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_25": {
+      "PreferentialGiftID": "treasure_timeLimtGift_25",
+      "Name": "初阶金币补给",
+      "DropID": "treasure_gift_42",
+      "GiftGroup": "4",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg21.128",
+        "ProductPrice": 128,
+        "ProductName": "初阶金币补给",
+        "ProductDes": "128元充值，初阶金币补给"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 279,
+      "Discount": 0.46,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_25",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_26": {
+      "PreferentialGiftID": "treasure_timeLimtGift_26",
+      "Name": "高阶金币补给",
+      "DropID": "treasure_gift_43",
+      "GiftGroup": "4",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg22.328",
+        "ProductPrice": 328,
+        "ProductName": "高阶金币补给",
+        "ProductDes": "328元充值，高阶金币补给"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 576,
+      "Discount": 0.57,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_26",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_27": {
+      "PreferentialGiftID": "treasure_timeLimtGift_27",
+      "Name": "新人意志宝箱",
+      "DropID": "treasure_gift_14",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg5.30",
+        "ProductPrice": 30,
+        "ProductName": "新人意志宝箱",
+        "ProductDes": "30元充值，新人意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 150,
+      "Discount": 0.2,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_27",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_28": {
+      "PreferentialGiftID": "treasure_timeLimtGift_28",
+      "Name": "进阶意志宝箱",
+      "DropID": "treasure_gift_15",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg6.68",
+        "ProductPrice": 68,
+        "ProductName": "进阶意志宝箱",
+        "ProductDes": "68元充值，进阶意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 227,
+      "Discount": 0.3,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_28",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_29": {
+      "PreferentialGiftID": "treasure_timeLimtGift_29",
+      "Name": "大师意志宝箱",
+      "DropID": "treasure_gift_16",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg7.128",
+        "ProductPrice": 128,
+        "ProductName": "大师意志宝箱",
+        "ProductDes": "128元充值，大师意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 320,
+      "Discount": 0.4,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_29",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_30": {
+      "PreferentialGiftID": "treasure_timeLimtGift_30",
+      "Name": "豪华意志宝箱",
+      "DropID": "treasure_gift_17",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg26.198",
+        "ProductPrice": 198,
+        "ProductName": "豪华意志宝箱",
+        "ProductDes": "198元充值，豪华意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 431,
+      "Discount": 0.46,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_30",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_31": {
+      "PreferentialGiftID": "treasure_timeLimtGift_31",
+      "Name": "传奇意志宝箱",
+      "DropID": "treasure_gift_18",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg27.328",
+        "ProductPrice": 328,
+        "ProductName": "传奇意志宝箱",
+        "ProductDes": "328元充值，传奇意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 684,
+      "Discount": 0.48,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_31",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_32": {
+      "PreferentialGiftID": "treasure_timeLimtGift_32",
+      "Name": "超凡意志宝箱",
+      "DropID": "treasure_gift_19",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg28.648",
+        "ProductPrice": 648,
+        "ProductName": "超凡意志宝箱",
+        "ProductDes": "648元充值，超凡意志宝箱"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 1046,
+      "Discount": 0.62,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_32",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1555200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_33": {
+      "PreferentialGiftID": "treasure_timeLimtGift_33",
+      "Name": "稀有拓荒特惠",
+      "DropID": "treasure_gift_20",
+      "GiftGroup": "2",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 968,
+      "Discount": 0.31,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_33",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 259200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SR.yz_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_34": {
+      "PreferentialGiftID": "treasure_timeLimtGift_34",
+      "Name": "进阶拓荒特惠",
+      "DropID": "treasure_gift_21",
+      "GiftGroup": "2",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 1659,
+      "Discount": 0.41,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_34",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 259200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SR.yz_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_35": {
+      "PreferentialGiftID": "treasure_timeLimtGift_35",
+      "Name": "梅丽尔意志礼包",
+      "DropID": "treasure_gift_22",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg29.128",
+        "ProductPrice": 128,
+        "ProductName": "梅丽尔意志礼包",
+        "ProductDes": "128元充值，梅丽尔意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_35",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_36": {
+      "PreferentialGiftID": "treasure_timeLimtGift_36",
+      "Name": "赛弥尔意志礼包",
+      "DropID": "treasure_gift_23",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg30.128",
+        "ProductPrice": 128,
+        "ProductName": "赛弥尔意志礼包",
+        "ProductDes": "128元充值，赛弥尔意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_36",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_37": {
+      "PreferentialGiftID": "treasure_timeLimtGift_37",
+      "Name": "修玛意志礼包",
+      "DropID": "treasure_gift_24",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg31.128",
+        "ProductPrice": 128,
+        "ProductName": "修玛意志礼包",
+        "ProductDes": "128元充值，修玛意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_37",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_38": {
+      "PreferentialGiftID": "treasure_timeLimtGift_38",
+      "Name": "西萝意志礼包",
+      "DropID": "treasure_gift_25",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg32.128",
+        "ProductPrice": 128,
+        "ProductName": "西萝意志礼包",
+        "ProductDes": "128元充值，西萝意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_38",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_39": {
+      "PreferentialGiftID": "treasure_timeLimtGift_39",
+      "Name": "可可丽特意志礼包",
+      "DropID": "treasure_gift_28",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg35.128",
+        "ProductPrice": 128,
+        "ProductName": "可可丽特意志礼包",
+        "ProductDes": "128元充值，可可丽特意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_39",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_40": {
+      "PreferentialGiftID": "treasure_timeLimtGift_40",
+      "Name": "零意志礼包",
+      "DropID": "treasure_gift_29",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg36.128",
+        "ProductPrice": 128,
+        "ProductName": "零意志礼包",
+        "ProductDes": "128元充值，零意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_40",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_41": {
+      "PreferentialGiftID": "treasure_timeLimtGift_41",
+      "Name": "四枫院羽意志礼包",
+      "DropID": "treasure_gift_30",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg37.128",
+        "ProductPrice": 128,
+        "ProductName": "四枫院羽意志礼包",
+        "ProductDes": "128元充值，四枫院羽意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_41",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_42": {
+      "PreferentialGiftID": "treasure_timeLimtGift_42",
+      "Name": "King意志礼包",
+      "DropID": "treasure_gift_31",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg38.128",
+        "ProductPrice": 128,
+        "ProductName": "King意志礼包",
+        "ProductDes": "128元充值，King意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_42",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_43": {
+      "PreferentialGiftID": "treasure_timeLimtGift_43",
+      "Name": "乌丸意志礼包",
+      "DropID": "treasure_gift_32",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg39.128",
+        "ProductPrice": 128,
+        "ProductName": "乌丸意志礼包",
+        "ProductDes": "128元充值，乌丸意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 143,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_43",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_44": {
+      "PreferentialGiftID": "treasure_timeLimtGift_44",
+      "Name": "烯意志礼包",
+      "DropID": "treasure_gift_33",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg40.30",
+        "ProductPrice": 30,
+        "ProductName": "烯意志礼包",
+        "ProductDes": "30元充值，烯意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 39,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_44",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SR.yz_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_45": {
+      "PreferentialGiftID": "treasure_timeLimtGift_45",
+      "Name": "爱歌意志礼包",
+      "DropID": "treasure_gift_34",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg41.30",
+        "ProductPrice": 30,
+        "ProductName": "爱歌意志礼包",
+        "ProductDes": "30元充值，爱歌意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 39,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_45",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SR.yz_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_46": {
+      "PreferentialGiftID": "treasure_timeLimtGift_46",
+      "Name": "希尔达意志礼包",
+      "DropID": "treasure_gift_35",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg42.30",
+        "ProductPrice": 30,
+        "ProductName": "希尔达意志礼包",
+        "ProductDes": "30元充值，希尔达意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 39,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_46",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SR.yz_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_47": {
+      "PreferentialGiftID": "treasure_timeLimtGift_47",
+      "Name": "白伶意志礼包",
+      "DropID": "treasure_gift_36",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg43.30",
+        "ProductPrice": 30,
+        "ProductName": "白伶意志礼包",
+        "ProductDes": "30元充值，白伶意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 39,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_47",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SR.yz_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_48": {
+      "PreferentialGiftID": "treasure_timeLimtGift_48",
+      "Name": "佩·佩意志礼包",
+      "DropID": "treasure_gift_37",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg44.30",
+        "ProductPrice": 30,
+        "ProductName": "佩·佩意志礼包",
+        "ProductDes": "30元充值，佩·佩意志礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 39,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_48",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SR.yz_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_49": {
+      "PreferentialGiftID": "treasure_timeLimtGift_49",
+      "Name": "甄选拓荒助力",
+      "DropID": "treasure_gift_38",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg45.198",
+        "ProductPrice": 198,
+        "ProductName": "甄选拓荒助力",
+        "ProductDes": "198元充值，甄选拓荒助力"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 336,
+      "Discount": 0.59,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_49",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_SSR.yz_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_50": {
+      "PreferentialGiftID": "treasure_timeLimtGift_50",
+      "Name": "意志培养助力",
+      "DropID": "treasure_gift_39",
+      "GiftGroup": "2",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg46.30",
+        "ProductPrice": 30,
+        "ProductName": "意志培养助力",
+        "ProductDes": "30元充值，意志培养助力"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 86,
+      "Discount": 0.35,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_50",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_R.yz_box_R",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_51": {
+      "PreferentialGiftID": "treasure_timeLimtGift_51",
+      "Name": "喷气背包源器礼包",
+      "DropID": "treasure_gift_44",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg47.68",
+        "ProductPrice": 68,
+        "ProductName": "喷气背包源器礼包",
+        "ProductDes": "68元充值，喷气背包源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_51",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_52": {
+      "PreferentialGiftID": "treasure_timeLimtGift_52",
+      "Name": "喷气滑板源器礼包",
+      "DropID": "treasure_gift_45",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg48.68",
+        "ProductPrice": 68,
+        "ProductName": "喷气滑板源器礼包",
+        "ProductDes": "68元充值，喷气滑板源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_52",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_53": {
+      "PreferentialGiftID": "treasure_timeLimtGift_53",
+      "Name": "浮游冰炮源器礼包",
+      "DropID": "treasure_gift_46",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg49.68",
+        "ProductPrice": 68,
+        "ProductName": "浮游冰炮源器礼包",
+        "ProductDes": "68元充值，浮游冰炮源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_53",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_54": {
+      "PreferentialGiftID": "treasure_timeLimtGift_54",
+      "Name": "熔岩炸弹源器礼包",
+      "DropID": "treasure_gift_47",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg50.68",
+        "ProductPrice": 68,
+        "ProductName": "熔岩炸弹源器礼包",
+        "ProductDes": "68元充值，熔岩炸弹源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_54",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_55": {
+      "PreferentialGiftID": "treasure_timeLimtGift_55",
+      "Name": "磁力风暴源器礼包",
+      "DropID": "treasure_gift_48",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg51.68",
+        "ProductPrice": 68,
+        "ProductName": "磁力风暴源器礼包",
+        "ProductDes": "68元充值，磁力风暴源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_55",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_56": {
+      "PreferentialGiftID": "treasure_timeLimtGift_56",
+      "Name": "量子披风源器礼包",
+      "DropID": "treasure_gift_49",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg52.68",
+        "ProductPrice": 68,
+        "ProductName": "量子披风源器礼包",
+        "ProductDes": "68元充值，量子披风源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_56",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_57": {
+      "PreferentialGiftID": "treasure_timeLimtGift_57",
+      "Name": "多重飞弹源器礼包",
+      "DropID": "treasure_gift_50",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg53.68",
+        "ProductPrice": 68,
+        "ProductName": "多重飞弹源器礼包",
+        "ProductDes": "68元充值，多重飞弹源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_57",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_58": {
+      "PreferentialGiftID": "treasure_timeLimtGift_58",
+      "Name": "机械手臂源器礼包",
+      "DropID": "treasure_gift_51",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg54.68",
+        "ProductPrice": 68,
+        "ProductName": "机械手臂源器礼包",
+        "ProductDes": "68元充值，机械手臂源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_58",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_59": {
+      "PreferentialGiftID": "treasure_timeLimtGift_59",
+      "Name": "考恩特源器礼包",
+      "DropID": "treasure_gift_52",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg55.68",
+        "ProductPrice": 68,
+        "ProductName": "考恩特源器礼包",
+        "ProductDes": "68元充值，考恩特源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_59",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_60": {
+      "PreferentialGiftID": "treasure_timeLimtGift_60",
+      "Name": "奇点魔方源器礼包",
+      "DropID": "treasure_gift_53",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg56.68",
+        "ProductPrice": 68,
+        "ProductName": "奇点魔方源器礼包",
+        "ProductDes": "68元充值，奇点魔方源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_60",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_61": {
+      "PreferentialGiftID": "treasure_timeLimtGift_61",
+      "Name": "原能手炮源器礼包",
+      "DropID": "treasure_gift_54",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg57.68",
+        "ProductPrice": 68,
+        "ProductName": "原能手炮源器礼包",
+        "ProductDes": "68元充值，原能手炮源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_61",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_62": {
+      "PreferentialGiftID": "treasure_timeLimtGift_62",
+      "Name": "磁暴脉冲源器礼包",
+      "DropID": "treasure_gift_55",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg58.68",
+        "ProductPrice": 68,
+        "ProductName": "磁暴脉冲源器礼包",
+        "ProductDes": "68元充值，磁暴脉冲源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 76,
+      "Discount": 0.9,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_62",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_63": {
+      "PreferentialGiftID": "treasure_timeLimtGift_63",
+      "Name": "巨擎手臂源器礼包",
+      "DropID": "treasure_gift_56",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg59.128",
+        "ProductPrice": 128,
+        "ProductName": "巨擎手臂源器礼包",
+        "ProductDes": "128元充值，巨擎手臂源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_63",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_64": {
+      "PreferentialGiftID": "treasure_timeLimtGift_64",
+      "Name": "原能护盾源器礼包",
+      "DropID": "treasure_gift_57",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg60.128",
+        "ProductPrice": 128,
+        "ProductName": "原能护盾源器礼包",
+        "ProductDes": "128元充值，原能护盾源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_64",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_65": {
+      "PreferentialGiftID": "treasure_timeLimtGift_65",
+      "Name": "V型机甲源器礼包",
+      "DropID": "treasure_gift_58",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg61.128",
+        "ProductPrice": 128,
+        "ProductName": "V型机甲源器礼包",
+        "ProductDes": "128元充值，V型机甲源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_65",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_66": {
+      "PreferentialGiftID": "treasure_timeLimtGift_66",
+      "Name": "时空裂隙源器礼包",
+      "DropID": "treasure_gift_59",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg62.128",
+        "ProductPrice": 128,
+        "ProductName": "时空裂隙源器礼包",
+        "ProductDes": "128元充值，时空裂隙源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_66",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_67": {
+      "PreferentialGiftID": "treasure_timeLimtGift_67",
+      "Name": "禁锢空间源器礼包",
+      "DropID": "treasure_gift_60",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg63.128",
+        "ProductPrice": 128,
+        "ProductName": "禁锢空间源器礼包",
+        "ProductDes": "128元充值，禁锢空间源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_67",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_68": {
+      "PreferentialGiftID": "treasure_timeLimtGift_68",
+      "Name": "无人机源器礼包",
+      "DropID": "treasure_gift_61",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg64.128",
+        "ProductPrice": 128,
+        "ProductName": "无人机源器礼包",
+        "ProductDes": "128元充值，无人机源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_68",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_69": {
+      "PreferentialGiftID": "treasure_timeLimtGift_69",
+      "Name": "全息投影源器礼包",
+      "DropID": "treasure_gift_62",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg65.128",
+        "ProductPrice": 128,
+        "ProductName": "全息投影源器礼包",
+        "ProductDes": "128元充值，全息投影源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_69",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_70": {
+      "PreferentialGiftID": "treasure_timeLimtGift_70",
+      "Name": "死亡抑制源器礼包",
+      "DropID": "treasure_gift_63",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg66.128",
+        "ProductPrice": 128,
+        "ProductName": "死亡抑制源器礼包",
+        "ProductDes": "128元充值，死亡抑制源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 165,
+      "Discount": 0.78,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_70",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 1209600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 3,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_71": {
+      "PreferentialGiftID": "treasure_timeLimtGift_71",
+      "Name": "辉煌源器礼包",
+      "DropID": "treasure_gift_64",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg8.68",
+        "ProductPrice": 68,
+        "ProductName": "辉煌源器礼包",
+        "ProductDes": "68元充值，辉煌源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 122,
+      "Discount": 0.56,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_71",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 259200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 6,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_72": {
+      "PreferentialGiftID": "treasure_timeLimtGift_72",
+      "Name": "典藏源器礼包",
+      "DropID": "treasure_gift_65",
+      "GiftGroup": "3",
+      "IsCash": true,
+      "RechargeConfig": {
+        "ProductId": "com.pwrd.huanta.pg9.98",
+        "ProductPrice": 98,
+        "ProductName": "典藏源器礼包",
+        "ProductDes": "98元充值，典藏源器礼包"
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 156,
+      "Discount": 0.63,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 345600,
+      "WeightID": "gift_weight_common_72",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 10,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SSR.yq_box_SSR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_73": {
+      "PreferentialGiftID": "treasure_timeLimtGift_73",
+      "Name": "源器支援礼包",
+      "DropID": "treasure_gift_66",
+      "GiftGroup": "3",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 616,
+      "Discount": 0.63,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 172800,
+      "WeightID": "gift_weight_common_73",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 259200,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": 12,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yq_box_SR.yq_box_SR",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_74": {
+      "PreferentialGiftID": "treasure_timeLimtGift_74",
+      "Name": "武器培养特惠",
+      "DropID": "treasure_gift_67",
+      "GiftGroup": "1",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 520,
+      "Discount": 0.58,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_74",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 345600,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/wq_box_R.wq_box_R",
+        "SubPath": ""
+      }
+    },
+    "treasure_timeLimtGift_75": {
+      "PreferentialGiftID": "treasure_timeLimtGift_75",
+      "Name": "意志培养特惠",
+      "DropID": "treasure_gift_68",
+      "GiftGroup": "2",
+      "IsCash": false,
+      "RechargeConfig": {
+        "ProductId": "None",
+        "ProductPrice": 0,
+        "ProductName": "",
+        "ProductDes": ""
+      },
+      "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+      "Price": 515,
+      "Discount": 0.59,
+      "ConditionID": "102",
+      "AmountMax": 1,
+      "LimitTime": 7200,
+      "RefreshCDTime": 86400,
+      "WeightID": "gift_weight_common_75",
+      "IsRecoverBuyAmount": true,
+      "RecoverCD": 604800,
+      "SingleRecoverAmount": 1,
+      "RecoverAmountMax": -1,
+      "GiftImage": {
+        "Path": "/Game/Resources/Icon/ShopBox/yz_box_R.yz_box_R",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "Export": {
+      "Name": "GuideCloneProgressDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "JCXL_01": {
+      "DisplayName": "Feed Chowchow",
+      "Desc": "Chowchow\r\nLikes feeding on <F04>water cores</>\r\nFeed <F04>{0}/{1}</> chowchows",
+      "Desc2": "None",
+      "SubLevelObj": {
+        "Path": "/Game/Resources/FB/Training/Training_JCX_01.Training_JCX_01",
+        "SubPath": ""
+      },
+      "bDescShowCompCount": true,
+      "BalanceWeaponData": [
+        {
+          "WeaponID": "sickle_fire",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "digger_thunder",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "bigsword_ice",
+          "Level": 1,
+          "Star": 0
+        }
+      ],
+      "OperateID": "None",
+      "CompleteCount": 3
+    },
+    "JCXL_02": {
+      "DisplayName": "Activate Kerosenia",
+      "Desc": "Kerosenia\r\nA common herb on the ground\r\nAttack <F04>{0}/{1}</> Kerosenia with flame weapons",
+      "Desc2": "None",
+      "SubLevelObj": {
+        "Path": "/Game/Resources/FB/Training/Training_JCX_02.Training_JCX_02",
+        "SubPath": ""
+      },
+      "bDescShowCompCount": true,
+      "BalanceWeaponData": [
+        {
+          "WeaponID": "sickle_fire",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "digger_thunder",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "bigsword_ice",
+          "Level": 1,
+          "Star": 0
+        }
+      ],
+      "OperateID": "None",
+      "CompleteCount": 3
+    },
+    "JCXL_03": {
+      "DisplayName": "Hit dandelion seed",
+      "Desc": "Dandelion\r\n<F04>Hit</> its seeds to get the black nucleus inside\r\nHit <F04>{0}/{1}</> dandelion seeds",
+      "Desc2": "None",
+      "SubLevelObj": {
+        "Path": "/Game/Resources/FB/Training/Training_JCX_03.Training_JCX_03",
+        "SubPath": ""
+      },
+      "bDescShowCompCount": true,
+      "BalanceWeaponData": [
+        {
+          "WeaponID": "sickle_fire",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "digger_thunder",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "bigsword_ice",
+          "Level": 1,
+          "Star": 0
+        }
+      ],
+      "OperateID": "None",
+      "CompleteCount": 3
+    },
+    "JCXL_04": {
+      "DisplayName": "Falling attack",
+      "Desc": "Falling attack\r\nCaves full of solid <F04>flammable</> petroleum blocks\r\nAttack <F04>{0}/{1}</> tar pits with flame weapons",
+      "Desc2": "None",
+      "SubLevelObj": {
+        "Path": "/Game/Resources/FB/Training/Training_JCX_04.Training_JCX_04",
+        "SubPath": ""
+      },
+      "bDescShowCompCount": true,
+      "BalanceWeaponData": [
+        {
+          "WeaponID": "sickle_fire",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "digger_thunder",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "bigsword_ice",
+          "Level": 1,
+          "Star": 0
+        }
+      ],
+      "OperateID": "None",
+      "CompleteCount": 3
+    },
+    "JCXL_05": {
+      "DisplayName": "Ignite the vines on the box",
+      "Desc": "Tar pit\r\nCaves full of solid <F04>flammable</> petroleum blocks\r\nAttack <F04>{0}/{1}</> tar pits with flame weapons",
+      "Desc2": "None",
+      "SubLevelObj": {
+        "Path": "/Game/Resources/FB/Training/Training_JCX_05.Training_JCX_05",
+        "SubPath": ""
+      },
+      "bDescShowCompCount": true,
+      "BalanceWeaponData": [
+        {
+          "WeaponID": "sickle_fire",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "digger_thunder",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "bigsword_ice",
+          "Level": 1,
+          "Star": 0
+        }
+      ],
+      "OperateID": "None",
+      "CompleteCount": 3
+    },
+    "BYK_01": {
+      "DisplayName": "Bai Yuekui Weapon Test",
+      "Desc": "Use 5-Hit Combo\r\nDeal damage <F04>{0}/{1}</> times",
+      "Desc2": "None",
+      "SubLevelObj": {
+        "Path": "/Game/Resources/FB/Training/Training_Weapon_DPS.Training_Weapon_DPS",
+        "SubPath": ""
+      },
+      "bDescShowCompCount": true,
+      "BalanceWeaponData": [
+        {
+          "WeaponID": "sickle_fire",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "digger_thunder",
+          "Level": 1,
+          "Star": 0
+        },
+        {
+          "WeaponID": "bigsword_ice",
+          "Level": 1,
+          "Star": 0
+        }
+      ],
+      "OperateID": "BYK",
+      "CompleteCount": 3
+    }
+  }
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "Export": {
+      "Name": "ActivityDropPromoteDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "2": {
+      "GameActivityType": "EGameActivityType::GAT_HOOK_CLONE",
+      "GameFunctionType": "EGameFunctionType::ActivityDropPromoteType1",
+      "DropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/Buff_Activity_DoubleTrigger_6.Buff_Activity_DoubleTrigger_6_C",
+        "SubPath": ""
+      },
+      "DaliyDropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/activity_double_6.activity_double_6_C",
+        "SubPath": ""
+      },
+      "DropDisplayImage": {
+        "Path": "/Game/Resources/UI/Activity/activityquest/diaoluo/UI_magnification_3.UI_magnification_4",
+        "SubPath": ""
+      },
+      "IsSimple": true
+    },
+    "3": {
+      "GameActivityType": "EGameActivityType::GAT_RANDOM_RUINS",
+      "GameFunctionType": "EGameFunctionType::ActivityDropPromoteType2",
+      "DropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/Buff_Activity_DoubleTrigger_7.Buff_Activity_DoubleTrigger_7_C",
+        "SubPath": ""
+      },
+      "DaliyDropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/activity_double_7.activity_double_7_C",
+        "SubPath": ""
+      },
+      "DropDisplayImage": {
+        "Path": "/Game/Resources/UI/Activity/activityquest/diaoluo/UI_magnification_3.UI_magnification_4",
+        "SubPath": ""
+      },
+      "IsSimple": true
+    },
+    "4": {
+      "GameActivityType": "EGameActivityType::GAT_WORLD_BOSS",
+      "GameFunctionType": "EGameFunctionType::ActivityDropPromoteType3",
+      "DropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/activity_double_2.activity_double_2_C",
+        "SubPath": ""
+      },
+      "DaliyDropBuffClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropDisplayImage": {
+        "Path": "/Game/Resources/UI/Activity/activityquest/diaoluo/UI_magnification_2.UI_magnification_3",
+        "SubPath": ""
+      },
+      "IsSimple": true
+    },
+    "5": {
+      "GameActivityType": "EGameActivityType::GAT_WORLD_BOSS",
+      "GameFunctionType": "EGameFunctionType::ActivityDropPromoteType4",
+      "DropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/activity_double_3.activity_double_3_C",
+        "SubPath": ""
+      },
+      "DaliyDropBuffClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropDisplayImage": {
+        "Path": "/Game/Resources/UI/Activity/activityquest/diaoluo/UI_magnification_2.UI_magnification_3",
+        "SubPath": ""
+      },
+      "IsSimple": false
+    },
+    "6": {
+      "GameActivityType": "EGameActivityType::GAT_VOID_CLONE",
+      "GameFunctionType": "EGameFunctionType::ActivityDropPromoteType5",
+      "DropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/activity_double_5.activity_double_5_C",
+        "SubPath": ""
+      },
+      "DaliyDropBuffClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropDisplayImage": {
+        "Path": "/Game/Resources/UI/Activity/activityquest/diaoluo/UI_magnification_2.UI_magnification_3",
+        "SubPath": ""
+      },
+      "IsSimple": true
+    },
+    "7": {
+      "GameActivityType": "EGameActivityType::GAT_TEAM_CLONE",
+      "GameFunctionType": "EGameFunctionType::ActivityDropPromoteType6",
+      "DropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/Buff_Activity_DoubleTrigger_8.Buff_Activity_DoubleTrigger_8_C",
+        "SubPath": ""
+      },
+      "DaliyDropBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/double/activity_double_8.activity_double_8_C",
+        "SubPath": ""
+      },
+      "DropDisplayImage": {
+        "Path": "/Game/Resources/UI/Activity/activityquest/diaoluo/UI_magnification_2.UI_magnification_3",
+        "SubPath": ""
+      },
+      "IsSimple": true
+    }
+  }
+  }
+]

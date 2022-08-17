@@ -1,0 +1,48 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerSuspensionMelee": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/FPlayerSuspensionMelee.FPlayerSuspensionMelee",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSuspensionEvade": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/FPlayerSuspensionEvade.FPlayerSuspensionEvade",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSuspensionEvade_Attack": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/FPlayerSuspensionEvadeAttack.FPlayerSuspensionEvadeAttack",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSuspensionSkill": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/imitation17/FPlayerSuspensionSkill_imitation17.FPlayerSuspensionSkill_imitation17",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerSuspensionChangeSkill": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Suspension/imitation17/FPlayerSuspensionChangeSkill_imitation17.FPlayerSuspensionChangeSkill_imitation17",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

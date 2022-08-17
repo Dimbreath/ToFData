@@ -1,0 +1,184 @@
+[
+  {
+    "Export": {
+      "Name": "CombatAwardCertificateConfigDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "InitialCertificate": {
+      "Name": "Pass",
+      "Price": {
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "Amount": 68
+      },
+      "AddLevel": 0,
+      "AwardArray": []
+    },
+    "AdvancedCertificate": {
+      "Name": "Advanced Pass",
+      "Price": {
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "Amount": 128
+      },
+      "AddLevel": 30,
+      "AwardArray": [
+        {
+          "ItemId": "artifact_ssr_001",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "item_gem_003",
+          "ItemCount": 10
+        },
+        {
+          "ItemId": "fashion_dress_18_5",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Avatar03",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "AvatarFrame03",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "chat_qipao4",
+          "ItemCount": 1
+        }
+      ]
+    },
+    "AdvancedCertificate_2rd": {
+      "Name": "Advanced Pass",
+      "Price": {
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "Amount": 128
+      },
+      "AddLevel": 30,
+      "AwardArray": [
+        {
+          "ItemId": "choose_ssr",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "item_gem_004",
+          "ItemCount": 10
+        },
+        {
+          "ItemId": "Avatar05",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "AvatarFrame08",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "chat_qipao13",
+          "ItemCount": 1
+        }
+      ]
+    },
+    "AdvancedCertificate_3rd": {
+      "Name": "Advanced Pass",
+      "Price": {
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "Amount": 128
+      },
+      "AddLevel": 30,
+      "AwardArray": [
+        {
+          "ItemId": "artifact_ssr_012",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "item_gem_004",
+          "ItemCount": 15
+        },
+        {
+          "ItemId": "Avatar07",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "AvatarFrame07",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "chat_qipao12",
+          "ItemCount": 1
+        }
+      ]
+    },
+    "AdvancedCertificate_4th": {
+      "Name": "Advanced Pass",
+      "Price": {
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "Amount": 128
+      },
+      "AddLevel": 30,
+      "AwardArray": [
+        {
+          "ItemId": "Mount_008",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "artifact_ssr_012",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "item_gem_004",
+          "ItemCount": 15
+        },
+        {
+          "ItemId": "Avatar20",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "AvatarFrame33",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "chat_qipao34",
+          "ItemCount": 1
+        }
+      ]
+    },
+    "AdvancedCertificate_overseas_1st": {
+      "Name": "Advanced Pass",
+      "Price": {
+        "CurrencyType": "EHottaCurrencyType::Diamond",
+        "Amount": 128
+      },
+      "AddLevel": 30,
+      "AwardArray": [
+        {
+          "ItemId": "choose_ssr",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "item_gem_004",
+          "ItemCount": 10
+        },
+        {
+          "ItemId": "fashion_dress_18_5",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Avatar03",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "AvatarFrame03",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "chat_qipao4",
+          "ItemCount": 1
+        }
+      ]
+    }
+  }
+  }
+]

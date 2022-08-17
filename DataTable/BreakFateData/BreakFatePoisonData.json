@@ -1,0 +1,213 @@
+[
+  {
+    "Export": {
+      "Name": "BreakFatePoisonData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "0": {
+      "PoisonOrder": 0,
+      "WaitTime": 0,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_001.buff_BreakFate_001_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "None",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 80000,
+      "ReducePoisonRadiusTime": 0,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_682.breakfate_map_du_683",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "1": {
+      "PoisonOrder": 1,
+      "WaitTime": 270,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_001.buff_BreakFate_001_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "None",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 50000,
+      "ReducePoisonRadiusTime": 200,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_426.breakfate_map_du_427",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "2": {
+      "PoisonOrder": 2,
+      "WaitTime": 240,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_002.buff_BreakFate_002_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "None",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 20000,
+      "ReducePoisonRadiusTime": 160,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_170.breakfate_map_du_171",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "3": {
+      "PoisonOrder": 3,
+      "WaitTime": 180,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_003.buff_BreakFate_003_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_suppress_001.buff_BreakFate_suppress_001_C",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 6000,
+      "ReducePoisonRadiusTime": 120,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_52.breakfate_map_du_53",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "4": {
+      "PoisonOrder": 4,
+      "WaitTime": 90,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_004.buff_BreakFate_004_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_suppress_001.buff_BreakFate_suppress_001_C",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 4000,
+      "ReducePoisonRadiusTime": 50,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_34.breakfate_map_du_35",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "5": {
+      "PoisonOrder": 5,
+      "WaitTime": 45,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_005.buff_BreakFate_005_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_suppress_001.buff_BreakFate_suppress_001_C",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 2000,
+      "ReducePoisonRadiusTime": 25,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_18.breakfate_map_du_19",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "6": {
+      "PoisonOrder": 6,
+      "WaitTime": 45,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_006.buff_BreakFate_006_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_suppress_001.buff_BreakFate_suppress_001_C",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 0,
+      "ReducePoisonRadiusTime": 25,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_18.breakfate_map_du_19",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "7": {
+      "PoisonOrder": 7,
+      "WaitTime": 999,
+      "SecondsBeforeWaitTime": 5,
+      "BuffClass": [
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_007.buff_BreakFate_007_C",
+          "SubPath": ""
+        },
+        {
+          "Path": "/Game/Resources/Abilities/Buff/Player/Common/breakfate/buff_BreakFate_suppress_001.buff_BreakFate_suppress_001_C",
+          "SubPath": ""
+        }
+      ],
+      "Radius": 0,
+      "ReducePoisonRadiusTime": 60,
+      "NextMapSafe": {
+        "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map_du_18.breakfate_map_du_19",
+        "SubPath": ""
+      },
+      "NextSafeMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

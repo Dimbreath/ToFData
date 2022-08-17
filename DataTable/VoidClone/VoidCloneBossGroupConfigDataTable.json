@@ -1,0 +1,100 @@
+[
+  {
+    "Export": {
+      "Name": "VoidCloneBossGroupConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "void_BOSS_001": {
+      "BossGroupName": "第1周",
+      "BossInfo": [
+        {
+          "BossID": "void_boss_2",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_4",
+          "Weight": 0
+        },
+        {
+          "BossID": "void_boss_13",
+          "Weight": 0
+        }
+      ]
+    },
+    "void_BOSS_002": {
+      "BossGroupName": "第2周",
+      "BossInfo": [
+        {
+          "BossID": "void_boss_2",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_3",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_4",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_5",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_6",
+          "Weight": 100
+        }
+      ]
+    },
+    "void_BOSS_1000": {
+      "BossGroupName": "全BOSS",
+      "BossInfo": [
+        {
+          "BossID": "void_boss_2",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_3",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_4",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_5",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_6",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_8",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_9",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_11",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_12",
+          "Weight": 100
+        },
+        {
+          "BossID": "void_boss_13",
+          "Weight": 100
+        }
+      ]
+    }
+  }
+  }
+]

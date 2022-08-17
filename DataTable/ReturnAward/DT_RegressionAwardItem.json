@@ -1,0 +1,47 @@
+[
+  {
+    "Export": {
+      "Name": "DT_RegressionAwardItem",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "2": {
+      "description": "Vitality",
+      "AwardList": [
+        {
+          "ItemID": "Item_PrimaryEnergy_3",
+          "Amount": 160,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "Item_Gold",
+          "Amount": 3000,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    },
+    "0": {
+      "description": "Raid coin",
+      "AwardList": [
+        {
+          "ItemID": "Item_RegressionCoin",
+          "Amount": 1000,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    }
+  }
+  }
+]

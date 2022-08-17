@@ -1,0 +1,27 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerMarkMeleePhy": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/mark/Imitation33/MPlayerMarkMelee_Imitation33.MPlayerMarkMelee_Imitation33",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerMarkSkillPhy": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/mark/Imitation33/MPlayerMarkSkill_Imitation33.MPlayerMarkSkill_Imitation33",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

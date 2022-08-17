@@ -1,0 +1,52 @@
+[
+  {
+    "Export": {
+      "Name": "SecondaryPlaneDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Vera_plane_huiyu": {
+      "GroupID": "Vera_plane_huiyu",
+      "ExistingTimeMin": 480,
+      "ExistingTimeMax": 480,
+      "LimitLevel": 74,
+      "LimitEntryTowerType": "ETowerType::Tower9",
+      "LimitEntryTowerValue": 816,
+      "OutEffectBlueprint": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/EffectFuncitonActor/BP_DimensionBreakEffect_Out.BP_DimensionBreakEffect_Out_C",
+        "SubPath": ""
+      },
+      "OutEffectSpawnDistanceOffset": 30
+    },
+    "Vera_plane_huiyu_liusha": {
+      "GroupID": "Vera_plane_huiyu",
+      "ExistingTimeMin": 480,
+      "ExistingTimeMax": 480,
+      "LimitLevel": 74,
+      "LimitEntryTowerType": "ETowerType::Tower11",
+      "LimitEntryTowerValue": 756,
+      "OutEffectBlueprint": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/EffectFuncitonActor/BP_DimensionBreakEffect_Out.BP_DimensionBreakEffect_Out_C",
+        "SubPath": ""
+      },
+      "OutEffectSpawnDistanceOffset": 30
+    },
+    "Vera_plane_huiyu_lvzhou": {
+      "GroupID": "Vera_plane_huiyu",
+      "ExistingTimeMin": 480,
+      "ExistingTimeMax": 480,
+      "LimitLevel": 74,
+      "LimitEntryTowerType": "ETowerType::Tower10",
+      "LimitEntryTowerValue": 880,
+      "OutEffectBlueprint": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/EffectFuncitonActor/BP_DimensionBreakEffect_Out.BP_DimensionBreakEffect_Out_C",
+        "SubPath": ""
+      },
+      "OutEffectSpawnDistanceOffset": 30
+    }
+  }
+  }
+]

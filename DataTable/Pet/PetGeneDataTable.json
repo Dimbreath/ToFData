@@ -1,0 +1,698 @@
+[
+  {
+    "Export": {
+      "Name": "PetGeneDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "pet_gene_2": {
+      "GeneType": "EPetType::Animal",
+      "GeneBias": 10,
+      "GeneBias.1": 20,
+      "GeneBias.2": 70,
+      "GeneBias.3": 0,
+      "GeneBias.4": 0,
+      "GenePool": "Drop_pet_test1",
+      "GenePool.1": "Drop_pet_test1",
+      "GenePool.2": "Drop_pet_test1",
+      "GenePool.3": "None",
+      "GenePool.4": "None",
+      "HatchTime": 1,
+      "ItemIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Incomplete human gene",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Preserved incomplete human genes. Has a high chance of hatching humanoid mechanical creatures.",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_GENE",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_COMMON",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "None",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_gene_3": {
+      "GeneType": "EPetType::Animal",
+      "GeneBias": 20,
+      "GeneBias.1": 20,
+      "GeneBias.2": 60,
+      "GeneBias.3": 0,
+      "GeneBias.4": 0,
+      "GenePool": "Drop_pet_test2",
+      "GenePool.1": "Drop_pet_test2",
+      "GenePool.2": "Drop_pet_test2",
+      "GenePool.3": "None",
+      "GenePool.4": "None",
+      "HatchTime": 5,
+      "ItemIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "β Gene",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Preserved incomplete human genes. Has a high chance of hatching insectoid mechanical creatures.",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_GENE",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_RARE",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "None",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_gene_4": {
+      "GeneType": "EPetType::Animal",
+      "GeneBias": 30,
+      "GeneBias.1": 20,
+      "GeneBias.2": 50,
+      "GeneBias.3": 0,
+      "GeneBias.4": 0,
+      "GenePool": "None",
+      "GenePool.1": "None",
+      "GenePool.2": "None",
+      "GenePool.3": "None",
+      "GenePool.4": "None",
+      "HatchTime": 2,
+      "ItemIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "γ Gene",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "None",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_GENE",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "None",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_gene_5": {
+      "GeneType": "EPetType::Animal",
+      "GeneBias": 50,
+      "GeneBias.1": 20,
+      "GeneBias.2": 30,
+      "GeneBias.3": 0,
+      "GeneBias.4": 0,
+      "GenePool": "None",
+      "GenePool.1": "None",
+      "GenePool.2": "None",
+      "GenePool.3": "None",
+      "GenePool.4": "None",
+      "HatchTime": 3,
+      "ItemIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "δ Gene",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "None",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_GENE",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "None",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_gene_6": {
+      "GeneType": "EPetType::Animal",
+      "GeneBias": 20,
+      "GeneBias.1": 60,
+      "GeneBias.2": 20,
+      "GeneBias.3": 0,
+      "GeneBias.4": 0,
+      "GenePool": "None",
+      "GenePool.1": "None",
+      "GenePool.2": "None",
+      "GenePool.3": "None",
+      "GenePool.4": "None",
+      "HatchTime": 4,
+      "ItemIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "ε Gene",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "None",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": false,
+      "ItemType": "ITEM_TYPE_PET_GENE",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_Invalid",
+      "ItemQuality": "ITEM_QUALITY_POOR",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "None",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    }
+  }
+  }
+]

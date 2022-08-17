@@ -1,0 +1,48 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerCubeMelee": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/MPlayerCubeMelee.MPlayerCubeMelee",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerCubeEvade": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/MPlayerCubeEvade.MPlayerCubeEvade",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerCubeSkill": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/YM/MPlayerCubeSkillYM.MPlayerCubeSkillYM",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerCubeChangeSkill": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/YM/MPlayerCubeChangeSkillYM.MPlayerCubeChangeSkillYM",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerCubeSkillLevel3": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/MPlayerCubeSkill.MPlayerCubeSkill",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

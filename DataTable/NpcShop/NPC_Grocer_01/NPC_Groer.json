@@ -1,0 +1,193 @@
+[
+  {
+    "Export": {
+      "Name": "NPC_Groer",
+      "Class": "DlgDialogue",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgDialogue",
+      "TemplateOwner": "/Script/DlgSystem"
+    },
+    "Name": "NPC_Groer",
+    "GUID": "9fddbc72-3c07-481b-84e5-d096a9835136",
+    "ParticipantsData": [
+      {
+        "Key": "Grocer_001",
+        "Value": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "OpenShop:Grocer_bangis"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      }
+    ],
+    "StartNode": "DlgNode_Speech",
+    "Nodes": [
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End"
+    ],
+    "NodesGUIDToIndexMap": []
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "NPC_Groer.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Groer",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Grocer_001",
+    "NodeGUID": "217ba75b-8b7a-4e3c-9ce6-dba68df3537f"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Groer.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Groer",
+      "OuterOwner": "None"
+    },
+    "NodeGUID": "2c9bb3dd-e335-4cbf-8780-41663c6277e1",
+    "Children": [
+      {
+        "TargetIndex": 0,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Groer.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Groer",
+      "OuterOwner": "None"
+    },
+    "Text": "Budget articles of daily use. Come and look!",
+    "OwnerName": "Grocer_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "c8cefcdb-37d3-47a2-bc25-4b077e92d854",
+    "Children": [
+      {
+        "TargetIndex": 1,
+        "EdgeIndex": 2,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Browse the Store",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 2,
+        "EdgeIndex": 1,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Nothing, thanks.",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Groer.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Groer",
+      "OuterOwner": "None"
+    },
+    "Text": "Thank you. Thanks for coming!",
+    "OwnerName": "Grocer_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "EnterEvents": [
+      {
+        "ParticipantName": "Grocer_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "OpenShop:Grocer_bangis",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "30e18d22-97a6-4ef5-8b41-256a44a8ac1b",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Groer.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Groer",
+      "OuterOwner": "None"
+    },
+    "Text": "Don't go. Have another look! The price is negotiable!",
+    "OwnerName": "Grocer_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "7fbb3753-a1b0-46ed-aaea-b48bb12e2303",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  }
+]

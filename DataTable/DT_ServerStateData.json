@@ -1,0 +1,81 @@
+[
+  {
+    "Export": {
+      "Name": "DT_ServerStateData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "NewRow": {
+      "PercentRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": -1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": -1
+        }
+      },
+      "ServerStatus": "EServerStateType::SERVER_STATE_WAIT",
+      "StateIcon": {
+        "Path": "/Game/Resources/UI/login/login_serverstate_gray.login_serverstate_gray",
+        "SubPath": ""
+      }
+    },
+    "NewRow": {
+      "PercentRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 0
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 0.5
+        }
+      },
+      "ServerStatus": "EServerStateType::SERVER_STATE_IDLE",
+      "StateIcon": {
+        "Path": "/Game/Resources/UI/login/login_serverstate_green.login_serverstate_green",
+        "SubPath": ""
+      }
+    },
+    "NewRow_2": {
+      "PercentRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 0.5
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 1
+        }
+      },
+      "ServerStatus": "EServerStateType::SERVER_STATE_BUSY",
+      "StateIcon": {
+        "Path": "/Game/Resources/UI/login/login_serverstate_yellow.login_serverstate_yellow",
+        "SubPath": ""
+      }
+    },
+    "NewRow_3": {
+      "PercentRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99999
+        }
+      },
+      "ServerStatus": "EServerStateType::SERVER_STATE_FULL",
+      "StateIcon": {
+        "Path": "/Game/Resources/UI/login/login_serverstate_red.login_serverstate_red",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "Export": {
+      "Name": "GuildBuildingDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Base": {
+      "BuildingType": "EGuildBuilding::Base",
+      "BuildingName": "Base",
+      "BuildingIcon": {
+        "Path": "/Game/Resources/UI/guild/guild_js_01.guild_js_01",
+        "SubPath": ""
+      },
+      "BuildingDescription": "Base level will determine Crew level and max number of Crewmates.",
+      "LevelDataTable": "GuildLevelDataTable_Overseas"
+    },
+    "Warehouse": {
+      "BuildingType": "EGuildBuilding::Warehouse",
+      "BuildingName": "Treasury",
+      "BuildingIcon": {
+        "Path": "/Game/Resources/UI/guild/guild_js_02.guild_js_02",
+        "SubPath": ""
+      },
+      "BuildingDescription": "Treasury level will determine upper limit of Crew fund and rewards for Crewmates.",
+      "LevelDataTable": "GuildWarehouseLevelDataTable_Overseas"
+    },
+    "Shop": {
+      "BuildingType": "EGuildBuilding::Shop",
+      "BuildingName": "Store",
+      "BuildingIcon": {
+        "Path": "/Game/Resources/UI/guild/guild_js_03.guild_js_03",
+        "SubPath": ""
+      },
+      "BuildingDescription": "Crew Store level will determine the quantity of items unlocked.",
+      "LevelDataTable": "GuildShopLevelDataTable_Overseas"
+    }
+  }
+  }
+]

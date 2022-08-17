@@ -1,0 +1,126 @@
+[
+  {
+    "Export": {
+      "Name": "ThemeActivityCookingData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "ThemeAct_Cooking_2": {
+      "FoodItemID": "Item_Cooking_1005",
+      "InRecipeID": "Cooking_1005",
+      "NeedNum": 2,
+      "Awards": [
+        {
+          "ItemID": "Item_Gem_003",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    },
+    "ThemeAct_Cooking_3": {
+      "FoodItemID": "Item_Cooking_1018",
+      "InRecipeID": "Cooking_1018",
+      "NeedNum": 2,
+      "Awards": [
+        {
+          "ItemID": "item_ticket_01",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    },
+    "ThemeAct_Cooking_4": {
+      "FoodItemID": "Item_Cooking_1020",
+      "InRecipeID": "Cooking_1020",
+      "NeedNum": 2,
+      "Awards": [
+        {
+          "ItemID": "weapon_exp_sr",
+          "Amount": 3,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    },
+    "ThemeAct_Cooking_5": {
+      "FoodItemID": "Item_Cooking_1037",
+      "InRecipeID": "Cooking_1037",
+      "NeedNum": 2,
+      "Awards": [
+        {
+          "ItemID": "matrix_exp_sr",
+          "Amount": 3,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    },
+    "ThemeAct_Cooking_6": {
+      "FoodItemID": "Item_Cooking_1019",
+      "InRecipeID": "Cooking_1019",
+      "NeedNum": 2,
+      "Awards": [
+        {
+          "ItemID": "Item_breakthrough_A1",
+          "Amount": 3,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "Item_breakthrough_B1",
+          "Amount": 3,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    },
+    "ThemeAct_Cooking_7": {
+      "FoodItemID": "Item_Cooking_1022",
+      "InRecipeID": "Cooking_1022",
+      "NeedNum": 2,
+      "Awards": [
+        {
+          "ItemID": "weapon_exp_ssr",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    },
+    "ThemeAct_Cooking_8": {
+      "FoodItemID": "Item_Cooking_1012",
+      "InRecipeID": "Cooking_1012",
+      "NeedNum": 2,
+      "Awards": [
+        {
+          "ItemID": "matrix_exp_ssr",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ]
+    }
+  }
+  }
+]

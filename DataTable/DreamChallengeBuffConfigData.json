@@ -1,0 +1,121 @@
+[
+  {
+    "Export": {
+      "Name": "DreamChallengeBuffConfigData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Buff_JumpAdvHigh_DCA": {
+      "NameText": "Buff Name 1",
+      "BuffEffectDes": "Significantly increases jump.",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_02.DreamChallengeBuff_02",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_JumpAdvHigh_DCA.Buff_JumpAdvHigh_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_JumpAdvLow_DCA": {
+      "NameText": "Buff Name 2",
+      "BuffEffectDes": "Slightly increases jump.",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_01.DreamChallengeBuff_01",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_JumpAdvLow_DCA.Buff_JumpAdvLow_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_BreakvalueUp_ATKUp_DCA": {
+      "NameText": "Buff Name 3",
+      "BuffEffectDes": "Shatter +100% ATK +10%",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_03.DreamChallengeBuff_03",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_BreakvalueUp_ATKUp_DCA.Buff_BreakvalueUp_ATKUp_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_ATKUp_DCA": {
+      "NameText": "Buff Name 4",
+      "BuffEffectDes": "ATK +30%",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_04.DreamChallengeBuff_04",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_ATKUp_DCA.Buff_ATKUp_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_KillReplyHP_DCA": {
+      "NameText": "Buff Name 5",
+      "BuffEffectDes": "Recover 10% HP after killing an enemy",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_05.DreamChallengeBuff_05",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_KillReplyHP_DCA.Buff_KillReplyHP_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_ReplyEvade_DCA": {
+      "NameText": "Buff Name 6",
+      "BuffEffectDes": "Recover 1 dodge after dodging 2 times.",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_06.DreamChallengeBuff_06",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_ReplyEvade_DCA.Buff_ReplyEvade_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_Bati_DCA": {
+      "NameText": "Buff Name 6",
+      "BuffEffectDes": "Gain hyperbody.",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_09.DreamChallengeBuff_09",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_Bati_DCA.Buff_Bati_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_CritRateUp_CritDmgUp_DCA": {
+      "NameText": "Buff Name 6",
+      "BuffEffectDes": "Crit Rate +15%, Crit Damage +35%",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_08.DreamChallengeBuff_08",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_CritRateUp_CritDmgUp_DCA.Buff_CritRateUp_CritDmgUp_DCA_C",
+        "SubPath": ""
+      }
+    },
+    "Buff_ChargeUp_DCA": {
+      "NameText": "Buff Name 6",
+      "BuffEffectDes": "Increase charging efficiency by 100%.",
+      "BuffImage": {
+        "Path": "/Game/Resources/UI/Hopkins/DreamChallengeBuff_07.DreamChallengeBuff_07",
+        "SubPath": ""
+      },
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Player/Level/DreamChallengeActi/Buff_ChargeUp_DCA.Buff_ChargeUp_DCA_C",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

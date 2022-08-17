@@ -1,0 +1,46 @@
+[
+  {
+    "Export": {
+      "Name": "WeaponCategoryDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Tank": {
+      "Name": "None",
+      "Icon": {
+        "Path": "/Game/Resources/UI/wuqi/icon_fangyu.icon_fangyu",
+        "SubPath": ""
+      },
+      "InActiveIcon": {
+        "Path": "/Game/Resources/UI/wuqi/icon_fangyu_0.icon_fangyu",
+        "SubPath": ""
+      }
+    },
+    "DPS": {
+      "Name": "None",
+      "Icon": {
+        "Path": "/Game/Resources/UI/wuqi/icon_qianggong.icon_qianggong",
+        "SubPath": ""
+      },
+      "InActiveIcon": {
+        "Path": "/Game/Resources/UI/wuqi/icon_qianggong_0.icon_qianggong",
+        "SubPath": ""
+      }
+    },
+    "SUP": {
+      "Name": "None",
+      "Icon": {
+        "Path": "/Game/Resources/UI/wuqi/icon_zengyi.icon_zengyi",
+        "SubPath": ""
+      },
+      "InActiveIcon": {
+        "Path": "/Game/Resources/UI/wuqi/icon_zengyi_0.icon_zengyi",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

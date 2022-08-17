@@ -1,0 +1,62 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerDgunMeleeThu": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/FPlayerDgunMelee.FPlayerDgunMelee",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayeDgunEvadeThu": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/FPlayerDgunEvade.FPlayerDgunEvade",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDgunSkillThu": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/Imitation5/FPlayerDgunSkill_Imitation5.FPlayerDgunSkill_Imitation5",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDgunChangeSkillThu": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/Imitation5/FPlayerDgunChangeSkill_Imitation5_New.FPlayerDgunChangeSkill_Imitation5_New",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDgunEvadeAttackThu": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/FPlayerDgunEvadeAttack.FPlayerDgunEvadeAttack",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDgunPowerAttack": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/FPlayerDgunPowerAttack.FPlayerDgunPowerAttack",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDgunSkillThu_Level5": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/FPlayerDgunSkill.FPlayerDgunSkill",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

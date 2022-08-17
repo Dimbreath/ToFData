@@ -1,0 +1,62 @@
+[
+  {
+    "Export": {
+      "Name": "DroneData",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Drone001": {
+      "Id": "Drone001",
+      "DroneActorClass": {
+        "Path": "/Game/Resources/City_forest/MiniGame/Drones/DroneBase.DroneBase_C",
+        "SubPath": ""
+      }
+    },
+    "Drone002": {
+      "Id": "Drone002",
+      "DroneActorClass": {
+        "Path": "/Game/TestMaps/wt/NPC/TestDrone.TestDrone_C",
+        "SubPath": ""
+      }
+    },
+    "Drone_q1010122": {
+      "Id": "Drone_q1010122",
+      "DroneActorClass": {
+        "Path": "/Game/Resources/City_forest/MiniGame/Drones/DroneBase.DroneBase_C",
+        "SubPath": ""
+      }
+    },
+    "DroneWorld60": {
+      "Id": "DroneWorld60",
+      "DroneActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/WorldPatrolDrone/WorldPatrolDrone60S.WorldPatrolDrone60S_C",
+        "SubPath": ""
+      }
+    },
+    "DroneWorld90": {
+      "Id": "DroneWorld90",
+      "DroneActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/WorldPatrolDrone/WorldPatrolDrone90S.WorldPatrolDrone90S_C",
+        "SubPath": ""
+      }
+    },
+    "DroneWorld120": {
+      "Id": "DroneWorld120",
+      "DroneActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/WorldPatrolDrone/WorldPatrolDrone120S.WorldPatrolDrone120S_C",
+        "SubPath": ""
+      }
+    },
+    "PatrolDrone_q600105": {
+      "Id": "PatrolDrone_q600105",
+      "DroneActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/WorldPatrolDrone/PatrolDrone_q600105.PatrolDrone_q600105_C",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

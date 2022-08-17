@@ -1,0 +1,29 @@
+[
+  {
+    "Export": {
+      "Name": "ExpDecreaseDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Discount": {
+      "ExpDecreaseArray": [
+        {
+          "DeviationLevel": 0,
+          "Ratio": 1
+        },
+        {
+          "DeviationLevel": 3,
+          "Ratio": 0.5
+        },
+        {
+          "DeviationLevel": 10,
+          "Ratio": 0.1
+        }
+      ]
+    }
+  }
+  }
+]

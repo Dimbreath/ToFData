@@ -1,0 +1,77 @@
+[
+  {
+    "Export": {
+      "Name": "DT_DangerousIntruder",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "第一阶段": {
+      "StageLevel": 1,
+      "LastingDay": 3,
+      "CountMax": 20000000,
+      "AutoRiseCount": 3473,
+      "AutoRiseInterval": 1,
+      "SubmitAwardCoin": 1,
+      "InspectQuestID": "None",
+      "StageAwardBox": "drop_VeraOpen_percent20",
+      "EntrustQuests": [
+        {
+          "QuestID": "q303301",
+          "PathFindID": "None"
+        },
+        {
+          "QuestID": "q303302",
+          "PathFindID": "None"
+        }
+      ]
+    },
+    "第二阶段": {
+      "StageLevel": 2,
+      "LastingDay": 3,
+      "CountMax": 55000000,
+      "AutoRiseCount": 5402,
+      "AutoRiseInterval": 1,
+      "SubmitAwardCoin": 1,
+      "InspectQuestID": "None",
+      "StageAwardBox": "drop_VeraOpen_percent55",
+      "EntrustQuests": [
+        {
+          "QuestID": "q303303",
+          "PathFindID": "None"
+        },
+        {
+          "QuestID": "q303304",
+          "PathFindID": "None"
+        }
+      ]
+    },
+    "第三阶段": {
+      "StageLevel": 3,
+      "LastingDay": 3,
+      "CountMax": 100000000,
+      "AutoRiseCount": 10031,
+      "AutoRiseInterval": 1,
+      "SubmitAwardCoin": 1,
+      "InspectQuestID": "None",
+      "StageAwardBox": "drop_VeraOpen_percent100",
+      "EntrustQuests": [
+        {
+          "QuestID": "q303305",
+          "PathFindID": "None"
+        },
+        {
+          "QuestID": "q303306",
+          "PathFindID": "None"
+        },
+        {
+          "QuestID": "q303307",
+          "PathFindID": "None"
+        }
+      ]
+    }
+  }
+  }
+]

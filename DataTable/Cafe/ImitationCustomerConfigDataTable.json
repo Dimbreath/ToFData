@@ -1,0 +1,813 @@
+[
+  {
+    "Export": {
+      "Name": "ImitationCustomerConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "imitation_1L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/m_mimicry_fashion_1L1.m_mimicry_fashion_1L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/char_cube_appear_stand_UI.char_cube_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "No black truffles. No black truffles. No black truffles! I repeat!",
+            "Seems like a lot of work.",
+            "Why didn't you play games with us?"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_01_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Hand/char_h_jh_002_Montage.char_h_jh_002_Montage",
+          "SubPath": ""
+        },
+        "Text": "...! Is there going to be next time?"
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/char_cube_Cafe_Like_UII_Montage.char_cube_Cafe_Like_UII_Montage",
+          "SubPath": ""
+        },
+        "Text": "...Average."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/cube/char_cube_Cafe_DisLike_UI_Montage.char_cube_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Keep it for yourself."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "Don't let me down next time!"
+      }
+    },
+    "imitation_3": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_2.f_mimicry_fashion_2_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_appear_stand_UI.char_ham_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "Does drinking more milk help children to grow faster?",
+            "What are you doing? Let me have a look! Please!",
+            "Huh? Something wrong?"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_02_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_Cafe_Like_UI_Montage.char_ham_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "I have a special feeling!"
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_Cafe_Like_UI_Montage.char_ham_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Thank you for your gift!"
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/char_ham_Cafe_DisLike_UI_Montage.char_ham_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Anyways... Thanks a lot!"
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "The experience has been recorded in my database!"
+      }
+    },
+    "imitation_3L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_3L1.f_mimicry_fashion_3L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_appear_stand_UI.char_2sw_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "I kinda wanna eat strawberries...",
+            "...",
+            "Yeah... I look forward to it..."
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_03_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_Cafe_Like_UI_Montage.char_2sw_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "...Thank you."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_Cafe_Like_UI_Montage.char_2sw_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "...It's okay."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/BigSword/char_2sw_Cafe_DisLike_UI_Montage.char_2sw_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "..."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "I... I'm off."
+      }
+    },
+    "imitation_5": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_4.f_mimicry_fashion_4_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_appear_stand_UI.char_sp_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "Nuts are the best to fulfill one's desire for food on the journey!",
+            "You look full of energy!",
+            "Are you getting things ready for the journey?"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_04_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_Cafe_Like_UI_sr_Montage.char_sp_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "Wow! What a surprise! I love it!"
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_Cafe_Like_UI_sr_Montage.char_sp_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "You're a good person!"
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Spear/char_sp_Cafe_DisLike_UI_sr_Montage.char_sp_Cafe_DisLike_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "Well... I'm not saying this is not okay!"
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "What will there be next time?"
+      }
+    },
+    "imitation_5L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_5L1.f_mimicry_fashion_5L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_appear_stand_UI.char_2gun_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "I knew it. Too sweet...",
+            "The process seems interesting. Let me watch a bit more.",
+            "You are an excellent cook."
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_05_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_Cafe_Like_UI_Montage.char_2gun_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "I guess I need to be straightforward once in a while. Thank you for what you've prepared."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_Cafe_Like_UI_Montage.char_2gun_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Interesting."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/2gun/char_2gun_Cafe_DisLike_UI_Montage.char_2gun_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Hmm, did I misunderstand anything?"
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "I'll come again."
+      }
+    },
+    "imitation_6L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_6L1.f_mimicry_fashion_6L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Shieldaxe_appear_stand_UI.char_Shieldaxe_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "Hmm? I think I smell the fragrance of nuts...",
+            "I look forward to it.",
+            "Will it bring too much trouble to you?"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_06_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Shieldaxe_Cafe_Like_UI_Montage.char_Shieldaxe_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Thank you for putting me through a brand new feeling..."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Shieldaxe_Cafe_Like_UI_Montage.char_Shieldaxe_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "It's my first time receiving these. Thank you so much."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/ShieldAxe/char_Shieldaxe_Cafe_DisLike_UI_Montage.char_Shieldaxe_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Thank you for these."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "Thank you for what you've prepared."
+      }
+    },
+    "imitation_7L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_7L1.f_mimicry_fashion_7L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_appear_cool_cafe.char_bow_appear_cool_cafe",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "It's hard to fail at making chocolate. You can call it a success as long as your chocolate is not too bitter.",
+            "A big harvest! Let me see...",
+            "Come, put the fruits we've got into the stuffing!"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_07_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_Cafe_Like_UI_Montage.char_bow_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Wow! You don't know how much I love it! Thank you! I guess it's solid proof of our bond."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_Cafe_Like_UI_Montage.char_bow_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Yay! I'll take good care of it!"
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_Cafe_DisLike_UI_Montage.char_bow_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "One more present? I can hardly carry all of these!"
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "Then I'm going home with all these!"
+      }
+    },
+    "imitation_8L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_8L1.f_mimicry_fashion_8L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Darts/char_darts_appear_stand_UI.char_darts_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "I remember I was hit by blueberries falling from a tree when I was carrying out the marine exploration on the coast. It hurt...",
+            "I'm... I'm not looking forward to it.",
+            "Hmph!"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_08_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Darts/char_darts_Cafe_Like_UI_Montage.char_darts_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "T-This is...? You... Me... Ahhh! I love... I hate you so much!"
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Darts/char_darts_Cafe_Like_UI_Montage.char_darts_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Not bad."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Darts/char_darts_Cafe_DisLike_UI_Montage.char_darts_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "I don't want it... I'm not joking. I mean it."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "W-Who says I'll be looking forward to the next time?"
+      }
+    },
+    "imitation_9L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/m_mimicry_fashion_9L1.m_mimicry_fashion_9L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/char_sickle_appear_stand_UI.char_sickle_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "It shouldn't taste too tacky. It has to have this mature flavor.",
+            "Tsk... The shelf life is short. I'm afraid it's not cost-effective...",
+            "Are these enough for sale?"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_09_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/char_sickle_Cafe_Like_UI_Montage.char_sickle_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Hmph... Thanks."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/char_sickle_Cafe_Like_UI_Montage.char_sickle_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "You do have high standards for things."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Sickle/char_sickle_Cafe_DisLike_UI_Montage.char_sickle_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Fine... But I'll skip the event."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "Let's go."
+      }
+    },
+    "imitation_10L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_10L1.f_mimicry_fashion_10L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_appear_stand_UI.char_gun_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "I don't know what to do if it is too sweet.",
+            "Time to test if the inspiration is workable.",
+            "Have to think about how to make a machine that cooks in one go..."
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_10_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_Cafe_Like_UI_Montage.char_gun_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Have to prepare a gift in return."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_Cafe_Like_UI_Montage.char_gun_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Umm... It did surprise me a bit, but thank you."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Gun/char_gun_Cafe_DisLike_UI_Montage.char_gun_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Thanks a lot. I've still got things to do. Just put it there."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "...Hmm. I'll give it a go later."
+      }
+    },
+    "imitation_11L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_11L1.f_mimicry_fashion_11L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_appear_stand_UI.char_staves_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "Fruits are my favorite!",
+            "It would be great if I could make it with you.",
+            "The chocolate looks like a work of art! I don't want to eat it..."
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_11_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_Cafe_Like_UI_Montage.char_staves_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Wow! That's amazing! Can I take something so precious?"
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_Cafe_Like_UI_Montage.char_staves_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Wow! I love it! Thank you!"
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_Cafe_DisLike_UI_Montage.char_staves_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Well, well, not bad!"
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "I like this place! Can we visit here again?"
+      }
+    },
+    "imitation_12L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_12L1.f_mimicry_fashion_12L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_appear_stand_UI.char_sw_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "No need for any filling in the chocolate... I love the original chocolate flavor.",
+            "The smell of cocoa gives me a good mood.",
+            "It's the first time I have seen somebody making chocolate like this. It's mind-blowing."
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_12_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_Cafe_Like_UI_Montage.char_sw_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "I'll take good care of it. Thank you."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_Cafe_Like_UI_Montage.char_sw_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "It must cost you a lot of time. Thank you."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Sword/char_sw_Cafe_DisLike_UI_Montage.char_sw_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "I appreciate your kindness. Thanks."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "See you next time."
+      }
+    },
+    "imitation_13L1": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/m_mimicry_fashion_13L1.m_mimicry_fashion_13L1_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/char_ds_appear_stand_UI.char_ds_appear_stand_UI",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "Nuts are good, but they could give me allergies if eat too much, hahaha...",
+            "Will my breaths smell like chocolate when I speak if I take too much of it?",
+            "I've received loads of mails from fans, but I haven't got time to read them yet!"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_13_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/char_ds_Cafe_Like_UI_Montage.char_ds_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "What's this? It's for me? Aww... you're so generous!"
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/char_ds_Cafe_Like_UI_Montage.char_ds_Cafe_Like_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Woah, thank you!"
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/char_ds_Cafe_DisLike_UI_Montage.char_ds_Cafe_DisLike_UI_Montage",
+          "SubPath": ""
+        },
+        "Text": "Sorry for all the troubles!"
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/male_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "Next up. It's on me to pay back with a performance!"
+      }
+    },
+    "imitation_15": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_14.f_mimicry_fashion_14_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_appear_stand_UI_sr.char_staves_appear_stand_UI_sr",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "Light treats for the afternoon tea?",
+            "I'd love it to be in a cute shape... Though it sounds a bit childish.",
+            "My family loves the classic flavor the most."
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_14_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_Cafe_Like_UI_sr_Montage.char_staves_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "T-Thank you... I didn't expect to receive this... It's heartwarming..."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_Cafe_Like_UI_sr_Montage.char_staves_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "I'm so happy... Thank you. I'll cherish that."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/staves/char_staves_Cafe_DisLike_UI_sr_Montage.char_staves_Cafe_DisLike_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "Thank you for your kindness. I'll take it."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "Meaningful time spent for leisure."
+      }
+    },
+    "imitation_16": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_15.f_mimicry_fashion_15_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_stand_pe.char_h_stand_pe",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "As long as it's sweet, it's the best!",
+            "The process looks complicated! I feel like it's hard to learn...",
+            "Thank you!"
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_15_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_Cafe_Like_UI_sr_Montage.char_cannon_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "These are precious... Have to take good care of them!"
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_Cafe_Like_UI_sr_Montage.char_cannon_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "I'm gonna show it to everybody!"
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Cannon/char_cannon_Cafe_DisLike_UI_sr_Montage.char_cannon_Cafe_DisLike_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "There must be a different surprise next time, right?"
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "Aha! I'm already thinking about the next visit!"
+      }
+    },
+    "imitation_17": {
+      "CharacterMinLevel": 0,
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Player/ssr/f_mimicry_fashion_16.f_mimicry_fashion_16_C",
+        "SubPath": ""
+      },
+      "IdleAnimiation": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_stand_pe.char_h_stand_pe",
+        "SubPath": ""
+      },
+      "ChatTexts": [
+        {
+          "ChatTextArray": [
+            "Have to make desserts for people in the shelter...",
+            "Chocolate is already a luxury. For other materials, how about using something we can find around here?",
+            "Control the amount of materials you use to avoid wasting them."
+          ],
+          "ShowDay": 1
+        }
+      ],
+      "ItemEvaluationConfigDataTable": "imitation_16_food_DataTable",
+      "SatisfiedConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_Cafe_Like_UI_sr_Montage.char_bow_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "I appreciate your kindness. Please let us do something in return."
+      },
+      "CommonConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_Cafe_Like_UI_sr_Montage.char_bow_Cafe_Like_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "Thank you. That must cost you a lot."
+      },
+      "DetestableConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Bow/char_bow_Cafe_DisLike_UI_sr_Montage.char_bow_Cafe_DisLike_UI_sr_Montage",
+          "SubPath": ""
+        },
+        "Text": "Yeah, some people in the shelter will like it."
+      },
+      "LeaveConfig": {
+        "Montage": {
+          "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hand/char_h_delivery_a_Minigame_Montage.char_h_delivery_a_Minigame_Montage",
+          "SubPath": ""
+        },
+        "Text": "I'll share the redundant part with you all."
+      }
+    }
+  }
+  }
+]

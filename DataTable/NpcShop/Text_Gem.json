@@ -1,0 +1,268 @@
+[
+  {
+    "Export": {
+      "Name": "Text_Gem",
+      "Class": "DlgDialogue",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgDialogue",
+      "TemplateOwner": "/Script/DlgSystem"
+    },
+    "Name": "Text_Gem",
+    "GUID": "f545d327-cc60-45ac-b7ea-407af8869c76",
+    "ParticipantsData": [
+      {
+        "Key": "NPC_Shop_Gem",
+        "Value": {
+          "Conditions": [
+            "IsQuestCanSubmit:q3010002"
+          ],
+          "CustomConditions": [],
+          "Events": [
+            "SubmitQuest:q3010002",
+            "OpenLottery"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      }
+    ],
+    "StartNode": "DlgNode_Speech",
+    "Nodes": [
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End",
+      "DlgNode_Speech",
+      "DlgNode_Speech"
+    ],
+    "NodesGUIDToIndexMap": []
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "Text_Gem.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Gem",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "NPC_Shop_Gem",
+    "NodeGUID": "2e99ddec-7ff3-4e08-ae80-271096532a52"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Gem.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Gem",
+      "OuterOwner": "None"
+    },
+    "NodeGUID": "69bf4332-9ee7-406e-8966-d5cc029b1b03",
+    "Children": [
+      {
+        "TargetIndex": 0,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Continue",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 1,
+        "EdgeIndex": 1,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "None",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Gem.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Gem",
+      "OuterOwner": "None"
+    },
+    "Text": "Hey! Lots of goodies here! Come check it out!",
+    "OwnerName": "NPC_Shop_Gem",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "9ca245f5-105f-4003-9dae-c7a6533e3d49",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 1,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "View",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 4,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Nothing, thanks.",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Gem.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Gem",
+      "OuterOwner": "None"
+    },
+    "Text": "Huh? What a shame. I've stocked up on it. Do come and check it out when you've got time!",
+    "OwnerName": "NPC_Shop_Gem",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "b2ee4bc1-0aa7-4028-8fff-2d8e18fe038b",
+    "Children": [
+      {
+        "TargetIndex": 2,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Gem.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Gem",
+      "OuterOwner": "None"
+    },
+    "Text": "See you next time!",
+    "OwnerName": "NPC_Shop_Gem",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "EnterEvents": [
+      {
+        "ParticipantName": "NPC_Shop_Gem",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "OpenLottery",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "4911bed1-bf14-4d03-a9df-4e13419204ce",
+    "Children": [
+      {
+        "TargetIndex": 2,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Not so soon, boss!",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Gem.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Gem",
+      "OuterOwner": "None"
+    },
+    "Text": "Here you can buy stuff with black nuclei. Come visit when you have any to spare.",
+    "OwnerName": "NPC_Shop_Gem",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "EnterConditions": [
+      {
+        "Strength": "EDlgConditionStrength::Strong",
+        "ConditionType": "EDlgConditionType::EventCall",
+        "ParticipantName": "NPC_Shop_Gem",
+        "CallbackName": "IsQuestCanSubmit:q3010002",
+        "Operation": "EDlgOperation::Equal",
+        "CompareType": "EDlgCompare::ToConst",
+        "OtherParticipantName": "None",
+        "OtherVariableName": "None",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bBoolValue": true,
+        "bLongTermMemory": true,
+        "GUID": "00000000-0000-0000-0000-000000000000",
+        "CustomCondition": null
+      }
+    ],
+    "EnterEvents": [
+      {
+        "ParticipantName": "NPC_Shop_Gem",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "SubmitQuest:q3010002",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "a677be0a-1127-4a03-b86a-8185f4f11773",
+    "Children": [
+      {
+        "TargetIndex": 2,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Leave",
+        "TextArguments": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "Export": {
+      "Name": "HookCloneBuffSeedDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1001_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistanceice.HookClone_buff_resistanceice_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1001_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistancefire.HookClone_buff_resistancefire_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1001_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistancethunder.HookClone_buff_resistancethunder_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1001_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistancephy.HookClone_buff_resistancephy_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1002_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immfire.HookClone_buff_immfire_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1002_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immice.HookClone_buff_immice_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1002_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immphy.HookClone_buff_immphy_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1002_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immthunder.HookClone_buff_immthunder_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1003_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistanceenergy.HookClone_buff_resistanceenergy_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1003_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistancefirearms.HookClone_buff_resistancefirearms_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1003_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistancepuncture.HookClone_buff_resistancepuncture_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1003_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistancesharp.HookClone_buff_resistancesharp_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1003_6": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_resistancestrength.HookClone_buff_resistancestrength_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1004_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immenergy.HookClone_buff_immenergy_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1004_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immfirearms.HookClone_buff_immfirearms_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1004_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immpuncture.HookClone_buff_immpuncture_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1004_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immsharp.HookClone_buff_immsharp_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1004_6": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_buff_immstrength.HookClone_buff_immstrength_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    },
+    "1005_2": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_MaxHp-20.HookClone_MaxHp-20_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 3
+    },
+    "1005_3": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_MaxHp20.HookClone_MaxHp20_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 3
+    },
+    "1005_4": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_MaxHp50.HookClone_MaxHp50_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 3
+    },
+    "1005_5": {
+      "BuffData": {
+        "BuffClass": {
+          "Path": "/Game/Resources/FB/HookClone/BUFF/HookClone_MaxHp100.HookClone_MaxHp100_C",
+          "SubPath": ""
+        },
+        "ModifyData": {
+          "nLevel": 1,
+          "fDuration": 0,
+          "fModifyDuration": 0,
+          "fPeriod": 0,
+          "nStackCount": 0,
+          "fStrengthMult": 1,
+          "fStrengthAdd": 0,
+          "nStartTime": 0,
+          "CalcOfflineTime": true
+        },
+        "bNotShowInTips": false
+      },
+      "Weight": 1
+    }
+  }
+  }
+]

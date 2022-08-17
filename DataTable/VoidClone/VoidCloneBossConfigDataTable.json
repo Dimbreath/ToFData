@@ -1,0 +1,273 @@
+[
+  {
+    "Export": {
+      "Name": "VoidCloneBossConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "void_boss_2": {
+      "BossNameText": "Aberrant Franken",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss005.boss005",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss005.bigboss005",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_flk.void_boss_flk_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 0,
+        "Y": 685,
+        "Z": 166
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_3": {
+      "BossNameText": "Robarg",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss001.boss001",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss001.bigboss001",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_Boss_SRH.void_Boss_SRH_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 0,
+        "Y": 800,
+        "Z": 500
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_4": {
+      "BossNameText": "Hyenatron",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss002.boss002",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss002.bigboss002",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_gblzj.void_boss_gblzj_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 0,
+        "Y": 685,
+        "Z": 166
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_5": {
+      "BossNameText": "Vulcan",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss006.boss006",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss006.bigboss006",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_hymj.void_boss_hymj_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 0,
+        "Y": 500,
+        "Z": 230
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_6": {
+      "BossNameText": "Chiron the Centaur",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss004.boss004",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss004.bigboss004",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_rm.void_boss_rm_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": -50,
+        "Y": 800,
+        "Z": 250
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_8": {
+      "BossNameText": "Frost Bot",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss008.boss008",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss008.bigboss008",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_LX.void_boss_LX_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 110,
+        "Y": 600,
+        "Z": 200
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -110,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_9": {
+      "BossNameText": "Frigg",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss012.boss012",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss012.bigboss012",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_FLJ.void_boss_FLJ_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 0,
+        "Y": 300,
+        "Z": 150
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_11": {
+      "BossNameText": "Aegis",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss010.boss010",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss010.bigboss010",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_YXS.void_boss_YXS_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 70,
+        "Y": 200,
+        "Z": 210
+      },
+      "CameraRotation": {
+        "Pitch": -20,
+        "Yaw": -120,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_12": {
+      "BossNameText": "Seele",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss009.boss009",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss009.bigboss009",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_XR.void_boss_XR_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 20,
+        "Y": 300,
+        "Z": 100
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    },
+    "void_boss_13": {
+      "BossNameText": "Minotaur",
+      "BossImage": {
+        "Path": "/Game/Resources/UI/void/boss/boss003.boss003",
+        "SubPath": ""
+      },
+      "BossImageMain": {
+        "Path": "/Game/Resources/UI/void/boss/bigboss003.bigboss003",
+        "SubPath": ""
+      },
+      "BossClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/VoidMonster/boss/void_boss_ntr.void_boss_ntr_C",
+        "SubPath": ""
+      },
+      "CameraLocation": {
+        "X": 0,
+        "Y": 685,
+        "Z": 230
+      },
+      "CameraRotation": {
+        "Pitch": 0,
+        "Yaw": -100,
+        "Roll": 0
+      },
+      "AwardID": "drop_void_first"
+    }
+  }
+  }
+]

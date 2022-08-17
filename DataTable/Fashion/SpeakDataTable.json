@@ -1,0 +1,49 @@
+[
+  {
+    "Export": {
+      "Name": "SpeakDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "speak_2": {
+      "RoleIndex": 1,
+      "ExpressionId": "expression_2",
+      "SpeakStyle": "ESpeakStyleType::Normal",
+      "Sound": {
+        "Path": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0001_f.Play_Vo_Pinch_Face_Player_0001_f",
+        "SubPath": ""
+      }
+    },
+    "speak_4": {
+      "RoleIndex": 1,
+      "ExpressionId": "expression_3",
+      "SpeakStyle": "ESpeakStyleType::Normal",
+      "Sound": {
+        "Path": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0003_f.Play_Vo_Pinch_Face_Player_0003_f",
+        "SubPath": ""
+      }
+    },
+    "speak_6": {
+      "RoleIndex": 2,
+      "ExpressionId": "expression_4",
+      "SpeakStyle": "ESpeakStyleType::Normal",
+      "Sound": {
+        "Path": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0003_m.Play_Vo_Pinch_Face_Player_0003_m",
+        "SubPath": ""
+      }
+    },
+    "speak_8": {
+      "RoleIndex": 2,
+      "ExpressionId": "expression_5",
+      "SpeakStyle": "ESpeakStyleType::Normal",
+      "Sound": {
+        "Path": "/Game/WwiseAudio/Events/Vo/Pinch_Face/Play_Vo_Pinch_Face_Player_0001_m.Play_Vo_Pinch_Face_Player_0001_m",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

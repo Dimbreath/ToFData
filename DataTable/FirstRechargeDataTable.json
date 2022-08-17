@@ -1,0 +1,81 @@
+[
+  {
+    "Export": {
+      "Name": "FirstRechargeDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "FirstRecharge": {
+      "FirstRechargeProductId": "com.proximabeta.tof.giftpack601",
+      "FirstRechargeProductPrice": 99,
+      "FirstRechargeProductName": "新人礼包",
+      "FirstRechargeProductDes": "新人礼包",
+      "FirstRechargeAwardInfo": [
+        {
+          "ItemID": "artifact_sr_011",
+          "Amount": 1,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "Item_Gem_003",
+          "Amount": 5,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "weapon_exp_ssr",
+          "Amount": 2,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "ButtonBuyText": "Order Now for... 6 USD",
+      "ButtonGotText": "Sold Out       "
+    },
+    "FirstRecharge2": {
+      "FirstRechargeProductId": "com.proximabeta.tof.giftpack3001",
+      "FirstRechargeProductPrice": 499,
+      "FirstRechargeProductName": "冒险礼包",
+      "FirstRechargeProductDes": "冒险礼包",
+      "FirstRechargeAwardInfo": [
+        {
+          "ItemID": "Item_Gem_003",
+          "Amount": 10,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "weapon_exp_ssr",
+          "Amount": 5,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        },
+        {
+          "ItemID": "choose_elemine_p1",
+          "Amount": 10,
+          "ExpLimitIndex": 0,
+          "MustDrop": true,
+          "IsBind": true,
+          "ExtraParamsStr": ""
+        }
+      ],
+      "ButtonBuyText": "Order Now for 30 USD",
+      "ButtonGotText": "Sold Out       "
+    }
+  }
+  }
+]

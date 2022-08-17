@@ -1,0 +1,193 @@
+[
+  {
+    "Export": {
+      "Name": "Text_Food002_01",
+      "Class": "DlgDialogue",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgDialogue",
+      "TemplateOwner": "/Script/DlgSystem"
+    },
+    "Name": "Text_Food002_01",
+    "GUID": "4695d556-0b14-421c-b47d-b74f7ecaa427",
+    "ParticipantsData": [
+      {
+        "Key": "Food_002",
+        "Value": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "OpenShop:Dish_starisle"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      }
+    ],
+    "StartNode": "DlgNode_Speech",
+    "Nodes": [
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End"
+    ],
+    "NodesGUIDToIndexMap": []
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "Text_Food002_01.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food002_01",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Food_002",
+    "NodeGUID": "b168ad47-5969-494f-a906-f51442143902"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food002_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food002_01",
+      "OuterOwner": "None"
+    },
+    "NodeGUID": "70d5a13f-f6c6-44c6-a4ac-7ae428b35fba",
+    "Children": [
+      {
+        "TargetIndex": 0,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food002_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food002_01",
+      "OuterOwner": "None"
+    },
+    "Text": "Granny sells the raw stuff. Everything I have is cooked. Clean and healthy. Ready to go!",
+    "OwnerName": "Food_002",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "8a9e095f-70b9-4f84-b1ac-9ba26b9541ea",
+    "Children": [
+      {
+        "TargetIndex": 1,
+        "EdgeIndex": 2,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "View",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 2,
+        "EdgeIndex": 1,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Nothing, thanks.",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food002_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food002_01",
+      "OuterOwner": "None"
+    },
+    "Text": "Thank you for your business! Please come again!",
+    "OwnerName": "Food_002",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_002",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "OpenShop:Dish_starisle",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "f2073bc9-739c-41c5-b415-e4cfb7e7675a",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Food002_01.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Food002_01",
+      "OuterOwner": "None"
+    },
+    "Text": "Great! I'm looking forward to seeing you next time!",
+    "OwnerName": "Food_002",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "fec49298-9d73-46e2-94d9-58dfcc125767",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  }
+]

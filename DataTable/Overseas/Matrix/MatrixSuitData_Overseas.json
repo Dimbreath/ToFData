@@ -1,0 +1,2418 @@
+[
+  {
+    "Export": {
+      "Name": "MatrixSuitData_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "suit_N1": {
+      "SuitName": "绿色1",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_N/Buff_Matrix_N_1.Buff_Matrix_N_1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by <shuzhi>4%</>.",
+          "IsGlobal": false,
+          "AddScore": 20
+        }
+      ]
+    },
+    "suit_N2": {
+      "SuitName": "绿色2",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_N/Buff_Matrix_N_2.Buff_Matrix_N_2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Reduce damage received by <shuzhi>4%</>.",
+          "IsGlobal": false,
+          "AddScore": 20
+        }
+      ]
+    },
+    "suit_R1": {
+      "SuitName": "蓝色1",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_1_level1.Buff_Matrix_R_1_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by flame weapons by <shuzhi>6%</>.",
+          "IsGlobal": false,
+          "AddScore": 35
+        }
+      ]
+    },
+    "suit_R2": {
+      "SuitName": "蓝色2",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_2_level1.Buff_Matrix_R_2_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by frost weapons by <shuzhi>6%</>.",
+          "IsGlobal": false,
+          "AddScore": 35
+        }
+      ]
+    },
+    "suit_R3": {
+      "SuitName": "蓝色3",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_3_level1.Buff_Matrix_R_3_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by volt weapons by <shuzhi>6%</>.",
+          "IsGlobal": false,
+          "AddScore": 35
+        }
+      ]
+    },
+    "suit_R4": {
+      "SuitName": "蓝色4",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_4_level1.Buff_Matrix_R_4_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by physical weapons by <shuzhi>6%</>.",
+          "IsGlobal": false,
+          "AddScore": 35
+        }
+      ]
+    },
+    "suit_R6": {
+      "SuitName": "蓝色6",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_6_level1.Buff_Matrix_R_6_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase shatter by <shuzhi>18%</>.",
+          "IsGlobal": false,
+          "AddScore": 35
+        }
+      ]
+    },
+    "suit_R7": {
+      "SuitName": "蓝色7",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_R/Buff_Matrix_R_7_level1.Buff_Matrix_R_7_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Reduce damage received by <shuzhi>6%</>.",
+          "IsGlobal": false,
+          "AddScore": 35
+        }
+      ]
+    },
+    "suit_SR1": {
+      "SuitName": "区域boss食人花",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_1/Buff_Matrix_SR_1_level1.Buff_Matrix_SR_1_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When a target is shattered, poison the target and deal damage equal to <shuzhi>45%</>/56%/67.5% of ATK every second for 10 seconds.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR1_2": {
+      "SuitName": "区域boss食人花",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_1/Buff_Matrix_SR_1_level2.Buff_Matrix_SR_1_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When a target is shattered, poison the target and deal damage equal to 45%/<shuzhi>56%</>/67.5% of ATK every second for 10 seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR1_3": {
+      "SuitName": "区域boss食人花",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_1/Buff_Matrix_SR_1_level3.Buff_Matrix_SR_1_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When a target is shattered, poison the target and deal damage equal to 45%/56%/<shuzhi>67.5%</> of ATK every second for 10 seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR2": {
+      "SuitName": "区域boss狗",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level1.Buff_Matrix_SR_2_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Deal higher damage at lower HP. Deal maximum damage when HP is <shuzhi>20%</>. The damage can be increased by up to <shuzhi>20%</>/25%/30%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR2_2": {
+      "SuitName": "区域boss狗",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level2.Buff_Matrix_SR_2_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Deal higher damage at lower HP. Deal maximum damage when HP is <shuzhi>20%</>. The damage can be increased by up to 20%/<shuzhi>25%</>/30%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR2_3": {
+      "SuitName": "区域boss狗",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_2/Buff_Matrix_SR_2_level3.Buff_Matrix_SR_2_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Deal higher damage at lower HP. Deal maximum damage when HP is <shuzhi>20%</>. The damage can be increased by up to 20%/25%/<shuzhi>30%</>.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR3": {
+      "SuitName": "区域boss龙虾",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_3/Buff_Matrix_SR_3_level1.Buff_Matrix_SR_3_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When HP is below <shuzhi>40%</>, using a discharge skill to switch to the current weapon restores HP equal to <shuzhi>160%</>/200%/240% of ATK.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR3_2": {
+      "SuitName": "区域boss龙虾",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_3/Buff_Matrix_SR_3_level2.Buff_Matrix_SR_3_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When HP is below <shuzhi>40%</>, using a discharge skill to switch to the current weapon restores HP equal to 160%/<shuzhi>200%</>/240% of ATK.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR3_3": {
+      "SuitName": "区域boss龙虾",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_3/Buff_Matrix_SR_3_level3.Buff_Matrix_SR_3_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When HP is below <shuzhi>40%</>, using a discharge skill to switch to the current weapon restores HP equal to 160%/200%/<shuzhi>240%</> of ATK.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR4": {
+      "SuitName": "区域boss鳄鱼",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_4/Buff_Matrix_SR_4_level1.Buff_Matrix_SR_4_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by <shuzhi>6%</>/7.5%/9% for each enemy nearby. Up to 3 stacks.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR4_2": {
+      "SuitName": "区域boss鳄鱼",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_4/Buff_Matrix_SR_4_level2.Buff_Matrix_SR_4_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by 6%/<shuzhi>7.5%</>/9% for each enemy nearby. Up to 3 stacks.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR4_3": {
+      "SuitName": "区域boss鳄鱼",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_4/Buff_Matrix_SR_4_level3.Buff_Matrix_SR_4_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt by 6%/7.5%/<shuzhi>9%</> for each enemy nearby. Up to 3 stacks.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR5": {
+      "SuitName": "区域boss双头犬",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_5/level1/Buff_Matrix_SR_5_level1_add.Buff_Matrix_SR_5_level1_add_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Upon switching to the weapon, gain <shuzhi>50%</>/62.5%/75% damage reflection for <shuzhi>3</> seconds. Cooldown: <shuzhi>30</> seconds. Upon switching to another weapon, gain a <shuzhi>20%</>/25%/30% damage boost for <shuzhi>5</> seconds. Cooldown: <shuzhi>30</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR5_2": {
+      "SuitName": "区域boss双头犬",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_5/level2/Buff_Matrix_SR_5_level2_add.Buff_Matrix_SR_5_level2_add_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Upon switching to the weapon, gain 50%/<shuzhi>62.5%</>/75% damage reflection for <shuzhi>3</> seconds. Cooldown: <shuzhi>30</> seconds. Upon switching to another weapon, gain a 20%/<shuzhi>25%</>/30% damage boost for <shuzhi>5</> seconds. Cooldown: <shuzhi>30</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR5_3": {
+      "SuitName": "区域boss双头犬",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_5/level3/Buff_Matrix_SR_5_level3_add.Buff_Matrix_SR_5_level3_add_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Upon switching to the weapon, gain 50%/62.5%/<shuzhi>75%</> damage reflection for <shuzhi>3</> seconds. Cooldown: <shuzhi>30</> seconds. Upon switching to another weapon, gain a 20%/25%/<shuzhi>30%</> damage boost for <shuzhi>5</> seconds. Cooldown: <shuzhi>30</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR6": {
+      "SuitName": "SR法杖",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_6/Buff_Matrix_SR_6_level1.Buff_Matrix_SR_6_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase speed of obtaining weapon charge by <shuzhi>10%</>/12.5%/15%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR6_2": {
+      "SuitName": "SR法杖",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_6/Buff_Matrix_SR_6_level2.Buff_Matrix_SR_6_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase speed of obtaining weapon charge by 10%/<shuzhi>12.5%</>/15%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR6_3": {
+      "SuitName": "SR法杖",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_6/Buff_Matrix_SR_6_level3.Buff_Matrix_SR_6_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase speed of obtaining weapon charge by 10%/12.5%/<shuzhi>15%</>.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR7": {
+      "SuitName": "SR魔法炮",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_13/Buff_Matrix_SR_13_level1.Buff_Matrix_SR_13_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase ATK by <shuzhi>15%</>/19%/22.5% when there are no enemies within 6 meters.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR7_2": {
+      "SuitName": "SR魔法炮",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_13/Buff_Matrix_SR_13_level2.Buff_Matrix_SR_13_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase ATK by 15%/<shuzhi>19%</>/22.5% when there are no enemies within 6 meters.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR7_3": {
+      "SuitName": "SR魔法炮",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_13/Buff_Matrix_SR_13_level3.Buff_Matrix_SR_13_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase ATK by 15%/19%/<shuzhi>22.5%</> when there are no enemies within 6 meters.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR8": {
+      "SuitName": "SR锤子",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_12/level1/Buff_Matrix_SR_12_level1.Buff_Matrix_SR_12_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When dealing damage greater than <shuzhi>100%</> of ATK, deal additional damage equal to <shuzhi>60%</>/75%/90% of ATK. Cooldown: <shuzhi>3</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR8_2": {
+      "SuitName": "SR锤子",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_12/level2/Buff_Matrix_SR_12_level2.Buff_Matrix_SR_12_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When dealing damage greater than <shuzhi>100%</> of ATK, deal additional damage equal to 60%/<shuzhi>75%</>/90% of ATK. Cooldown: <shuzhi>3</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR8_3": {
+      "SuitName": "SR锤子",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_12/level3/Buff_Matrix_SR_12_level3.Buff_Matrix_SR_12_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "When dealing damage greater than <shuzhi>100%</> of ATK, deal additional damage equal to 60%/75%/<shuzhi>90%</> of ATK. Cooldown: <shuzhi>3</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR9": {
+      "SuitName": "SR弓",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_10/Buff_Matrix_SR_10_level1.Buff_Matrix_SR_10_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt to grievous targets by <shuzhi>12%</>/15%/18%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR9_2": {
+      "SuitName": "SR弓",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_10/Buff_Matrix_SR_10_level2.Buff_Matrix_SR_10_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt to grievous targets by 12%/<shuzhi>15%</>/18%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR9_3": {
+      "SuitName": "SR弓",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_10/Buff_Matrix_SR_10_level3.Buff_Matrix_SR_10_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase damage dealt to grievous targets by 12%/15%/<shuzhi>18%</>.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR10": {
+      "SuitName": "SR雷枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level1.buff_matrix_SR_7_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Using a discharge skill to switch to the current weapon grants <shuzhi>80</>/100/120 weapon charge.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR10_2": {
+      "SuitName": "SR雷枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level2.buff_matrix_SR_7_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Using a discharge skill to switch to the current weapon grants 80/<shuzhi>100</>/120 weapon charge.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR10_3": {
+      "SuitName": "SR雷枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level3.buff_matrix_SR_7_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Using a discharge skill to switch to the current weapon grants 80/100/<shuzhi>120</> weapon charge.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR11": {
+      "SuitName": "SR双刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_11/Buff_Matrix_SR_11_level1.Buff_Matrix_SR_11_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase crit damage dealt to targets with less than 60% HP by <shuzhi>35%</>/44%/52.5%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR11_2": {
+      "SuitName": "SR双刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_11/Buff_Matrix_SR_11_level2.Buff_Matrix_SR_11_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase crit damage dealt to targets with less than 60% HP by 35%/<shuzhi>44%</>/52.5%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR11_3": {
+      "SuitName": "SR双刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_11/Buff_Matrix_SR_11_level3.Buff_Matrix_SR_11_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Increase crit damage dealt to targets with less than 60% HP by 35%/44%/<shuzhi>52.5%</>.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR12": {
+      "SuitName": "SR长枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level1.buff_matrix_SR_7_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Using a discharge skill to switch to the current weapon grants <shuzhi>80</>/100/120 weapon charge.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR12_2": {
+      "SuitName": "SR长枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level2.buff_matrix_SR_7_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Using a discharge skill to switch to the current weapon grants 80/<shuzhi>100</>/120 weapon charge.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR12_3": {
+      "SuitName": "SR长枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_7/Buff_Matrix_SR_7_level3.buff_matrix_SR_7_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Using a discharge skill to switch to the current weapon grants 80/100/<shuzhi>120</> weapon charge.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SR13": {
+      "SuitName": "SR短剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_9/Buff_Matrix_SR_9_level1.Buff_Matrix_SR_9_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Gain <shuzhi>30%</>/36%/39% lifesteal during Phantasia and restore HP up to <shuzhi>60%</>/69%/73.5% of ATK every 0.5 seconds.",
+          "IsGlobal": false,
+          "AddScore": 50
+        }
+      ]
+    },
+    "suit_SR13_2": {
+      "SuitName": "SR短剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_9/Buff_Matrix_SR_9_level2.Buff_Matrix_SR_9_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Gain 30%/<shuzhi>36%</>/39% lifesteal during Phantasia and restore HP up to 60%/<shuzhi>69%</>/73.5% of ATK every 0.5 seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        }
+      ]
+    },
+    "suit_SR13_3": {
+      "SuitName": "SR短剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SR/Buff_Matrix_SR_9/Buff_Matrix_SR_9_level3.Buff_Matrix_SR_9_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 3,
+          "SuitDetail": "Gain 30%/36%/<shuzhi>39%</> lifesteal during Phantasia and restore HP up to 60%/69%/<shuzhi>73.5%</> of ATK every 0.5 seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        }
+      ]
+    },
+    "suit_SSR1": {
+      "SuitName": "SSR冰大剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level1.Buff_Matrix_SSR_1_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to <shuzhi>20%</>/26%/32%/40% of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level1.Buff_Matrix_SSR2_Sea_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase Whirlwind's damage by <shuzhi>36%</>/45%/54%/63% and restore HP equal to <shuzhi>30%</>/38%/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed <shuzhi>60%</>72%/81%/90% of ATK.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR1_2": {
+      "SuitName": "SSR冰大剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level2.Buff_Matrix_SSR_1_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to 20%/<shuzhi>26%</>/32%/40% of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level2.Buff_Matrix_SSR2_Sea_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase Whirlwind's damage by 36%/<shuzhi>45%</>/54%/63% and restore HP equal to 30%/<shuzhi>38%</>/44%/50% of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed 60%/<shuzhi>72%</>/81%/90% of ATK.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR1_3": {
+      "SuitName": "SSR冰大剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level3.Buff_Matrix_SSR_1_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to 20%/26%/<shuzhi>32%</>/40% of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level3.Buff_Matrix_SSR2_Sea_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase Whirlwind's damage by 36%/45%/<shuzhi>54%</>/63% and restore HP equal to 30%/38%/<shuzhi>44%</>/50% of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed 60%/72%/<shuzhi>81%</>/90% of ATK.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR1_4": {
+      "SuitName": "SSR冰大剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_1/Buff_Matrix_SSR_1_level4.Buff_Matrix_SSR_1_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "If HP is less than <shuzhi>30%</> after being attacked, gain a shield equal to 20%/26%/32%/<shuzhi>40%</> of Max HP for <shuzhi>10</> seconds. Cooldown: <shuzhi>90</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR2_Sea/Buff_Matrix_SSR2_Sea_level4.Buff_Matrix_SSR2_Sea_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase Whirlwind's damage by 36%/45%/54%/<shuzhi>63%</> and restore HP equal to 30%/38%/44%/<shuzhi>50%</> of the damage dealt while Whirlwind is active. The maximum HP restored every <shuzhi>0.5</> seconds cannot exceed 60%/72%/81%/<shuzhi>90%</> of ATK.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR2": {
+      "SuitName": "SSR弓",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Overseas/Buff_Matrix_SSR_7_level1_Overseas.Buff_Matrix_SSR_7_level1_Overseas_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage dealt by <shuzhi>14%</>/16%/18%/20% when there are no enemies within <shuzhi>4</> meters.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level1.Buff_Matrix_SSR_8_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon a headshot or hitting a target with Icewind Arrow: Piercing Shot, increase ATK by <shuzhi>15%</>/18%/21%/25% for <shuzhi>8</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR2_2": {
+      "SuitName": "SSR弓",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Overseas/Buff_Matrix_SSR_7_level2_Overseas.Buff_Matrix_SSR_7_level2_Overseas_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage dealt by 14%/<shuzhi>16%</>/18%/20% when there are no enemies within <shuzhi>4</> meters.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level2.Buff_Matrix_SSR_8_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon a headshot or hitting a target with Icewind Arrow: Piercing Shot, increase ATK by 15%/<shuzhi>18%</>/21%/25% for <shuzhi>8</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR2_3": {
+      "SuitName": "SSR弓",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Overseas/Buff_Matrix_SSR_7_level3_Overseas.Buff_Matrix_SSR_7_level3_Overseas_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage dealt by 14%/16%/<shuzhi>18%</>/20% when there are no enemies within <shuzhi>4</> meters.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level3.Buff_Matrix_SSR_8_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon a headshot or hitting a target with Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/<shuzhi>21%</>/25% for <shuzhi>8</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR2_4": {
+      "SuitName": "SSR弓",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_7/Buff_Matrix_SSR_7_level4.Buff_Matrix_SSR_7_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage dealt by 14%/16%/18%/<shuzhi>20%</> when there are no enemies within <shuzhi>4</> meters.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_8/Buff_Matrix_SSR_8_level4.Buff_Matrix_SSR_8_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon a headshot or hitting a target with Icewind Arrow: Piercing Shot, increase ATK by 15%/18%/21%/<shuzhi>25%</> for <shuzhi>8</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR3": {
+      "SuitName": "SSR法杖",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level1.Buff_Matrix_SSR_3_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase healing capability and healing received by <shuzhi>10%</>/12%/14%/16%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level1/Overseas/Buff_Matrix_SSR_4_level1_OS.Buff_Matrix_SSR_4_level1_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When you or your teammates are healed, increase ATK by <shuzhi>12.5%</>/15%/17.5%/20% for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR3_2": {
+      "SuitName": "SSR法杖",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level2.Buff_Matrix_SSR_3_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase healing capability and healing received by 10%/<shuzhi>12%</>/14%/16%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level2/Overseas/Buff_Matrix_SSR_4_level2_OS.Buff_Matrix_SSR_4_level2_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When you or your teammates are healed, increase ATK by 12.5%/<shuzhi>15%</>/17.5%/20% for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR3_3": {
+      "SuitName": "SSR法杖",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level3.Buff_Matrix_SSR_3_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase healing capability and healing received by 10%/12%/<shuzhi>14%</>/16%.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level3/Overseas/Buff_Matrix_SSR_4_level3_OS.Buff_Matrix_SSR_4_level3_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When you or your teammates are healed, increase ATK by 12.5%/15%/<shuzhi>17.5%</>/20% for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR3_4": {
+      "SuitName": "SSR法杖",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_3/Buff_Matrix_SSR_3_level4.Buff_Matrix_SSR_3_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase healing capability and healing received by 10%/12%/14%/<shuzhi>16%</>.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_4/level4/Overseas/Buff_Matrix_SSR_4_level4_OS.Buff_Matrix_SSR_4_level4_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When you or your teammates are healed, increase ATK by 12.5%/15%/17.5%/<shuzhi>20%</> for <shuzhi>6</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR4": {
+      "SuitName": "SSR镰刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR11_Sea/Buff_Matrix_SSR11_Sea_level1.Buff_Matrix_SSR11_Sea_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is shattered, grant <shuzhi>8%</>/10%/12%/14% damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level1.Buff_Matrix_SSR_12_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to <shuzhi>14%</>/18%/22%/26% of the damage dealt, up to <shuzhi>36%</>/42%/48%/54% of ATK every <shuzhi>0.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR4_2": {
+      "SuitName": "SSR镰刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR11_Sea/Buff_Matrix_SSR11_Sea_level2.Buff_Matrix_SSR11_Sea_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is shattered, grant 8%/<shuzhi>10%</>/10%/12% damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level2.Buff_Matrix_SSR_12_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to 14%/<shuzhi>18%</>/22%/26% of the damage dealt, up to 36%/<shuzhi>42%</>/48%/54% of ATK every <shuzhi>0.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR4_3": {
+      "SuitName": "SSR镰刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR11_Sea/Buff_Matrix_SSR11_Sea_level3.Buff_Matrix_SSR11_Sea_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is shattered, grant 8%/10%/<shuzhi>12%</>/14% damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level3.Buff_Matrix_SSR_12_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to 14%/18%/<shuzhi>22%</>/26% of the damage dealt, up to 36%/42%/<shuzhi>48%</>/54% of ATK every <shuzhi>0.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR4_4": {
+      "SuitName": "SSR镰刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR11_Sea/Buff_Matrix_SSR11_Sea_level4.Buff_Matrix_SSR11_Sea_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is shattered, grant 8%/10%/12%/<shuzhi>14%</> damage boost for <shuzhi>25</> seconds. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_12/Buff_Matrix_SSR_12_level4.Buff_Matrix_SSR_12_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "If there are <shuzhi>2</> or more enemies nearby, attacks restore HP equal to 14%/18%/22%/<shuzhi>26%</> of the damage dealt, up to 36%/42%/48%/<shuzhi>54%</> of ATK every <shuzhi>0.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR5": {
+      "SuitName": "SSR火枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level1.Buff_Matrix_SSR9_Sea_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage against debuffed targets by <shuzhi>10%</>/12.5%/15%/17.5%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level1.Buff_Matrix_SSR10_Sea_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Grant <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodges inflict burn when successful, dealing damage equal to <shuzhi>24%</>/30%/36%/42% of the ATK damage every second for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR5_2": {
+      "SuitName": "SSR火枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level2.Buff_Matrix_SSR9_Sea_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage against debuffed targets by 10%/<shuzhi>12.5%</>/15%/17.5%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level2.Buff_Matrix_SSR10_Sea_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Grant <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodges inflict burn when successful, dealing damage equal to 24%/<shuzhi>30%</>/36%/42% of the ATK damage every second for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR5_3": {
+      "SuitName": "SSR火枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level3.Buff_Matrix_SSR9_Sea_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage against debuffed targets by 10%/12.5%/<shuzhi>15%</>/17.5%.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level3.Buff_Matrix_SSR10_Sea_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Grant <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodges inflict burn when successful, dealing damage equal to 24%/30%/<shuzhi>36%</>/42% of the ATK damage every second for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR5_4": {
+      "SuitName": "SSR火枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR9_Sea/Buff_Matrix_SSR9_Sea_level4.Buff_Matrix_SSR9_Sea_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage against debuffed targets by 10%/12.5%/15%/<shuzhi>17.5%</>.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR10_Sea/Buff_Matrix_SSR10_Sea_level4.Buff_Matrix_SSR10_Sea_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Grant <shuzhi>1</> dodge attempt every <shuzhi>3</> dodges. Dodges inflict burn when successful, dealing damage equal to 24%/30%/36%/<shuzhi>42%</> of the ATK damage every second for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR6": {
+      "SuitName": "SSR短剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level1/Buff_Matrix_SSR_6_level1.Buff_Matrix_SSR_6_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage by <shuzhi>13%</>/17%/20%/23% when hitting a target in mid-air or initiating an aerial attack. Reset double jump upon hitting the target in mid-air.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level1.Buff_Matrix_SSR_5_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by <shuzhi>1.5</>/2/2.5/3 seconds and increases the damage of discharge skills by <shuzhi>36%</>/45%/54%/63% for <shuzhi>15</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR6_2": {
+      "SuitName": "SSR短剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level2/Buff_Matrix_SSR_6_level2.Buff_Matrix_SSR_6_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage by 13%/<shuzhi>17%</>/20%/23% when hitting a target in mid-air or initiating an aerial attack. Reset double jump upon hitting the target in mid-air.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level2.Buff_Matrix_SSR_5_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/<shuzhi>2</>/2.5/3 seconds and increases the damage of discharge skills by 36%/<shuzhi>45%</>/54%/63% for <shuzhi>15</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR6_3": {
+      "SuitName": "SSR短剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level3/Buff_Matrix_SSR_6_level3.Buff_Matrix_SSR_6_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage by 13%/17%/<shuzhi>20%</>/23% when hitting a target in mid-air or initiating an aerial attack. Reset double jump upon hitting the target in mid-air.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level3.Buff_Matrix_SSR_5_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/2/<shuzhi>2.5</>/3 seconds and increases the damage of discharge skills by 36%/45%/<shuzhi>54%</>/63% for <shuzhi>15</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR6_4": {
+      "SuitName": "SSR短剑",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_6/level4/Buff_Matrix_SSR_6_level4.Buff_Matrix_SSR_6_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage by 13%/17%/20%/<shuzhi>23%</> when hitting a target in mid-air or initiating an aerial attack. Reset double jump upon hitting the target in mid-air.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_5/Buff_Matrix_SSR_5_level4.Buff_Matrix_SSR_5_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Hitting an enemy with a skill reduces the cooldowns of all weapon skills by 1.5/2/2.5/<shuzhi>3</> seconds and increases the damage of discharge skills by 36%/45%/54%/<shuzhi>63%</> for <shuzhi>15</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR7": {
+      "SuitName": "SSR月轮",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level1.Buff_Matrix_SSR_13_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by <shuzhi>15%</>/19%/22.5%/26%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level1/Buff_Matrix_SSR_14_level1.Buff_Matrix_SSR_14_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon entering battle, gain a <shuzhi>20%</>/25%/30%/35% damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR7_2": {
+      "SuitName": "SSR月轮",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level2.Buff_Matrix_SSR_13_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by 15%/<shuzhi>19%</>/22.5%/26%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level2/Buff_Matrix_SSR_14_level2.Buff_Matrix_SSR_14_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon entering battle, gain a 20%/<shuzhi>25%</>/30%/35% damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR7_3": {
+      "SuitName": "SSR月轮",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level3.Buff_Matrix_SSR_13_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by 15%/19%/<shuzhi>22.5%</>/26%.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level3/Buff_Matrix_SSR_14_level3.Buff_Matrix_SSR_14_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon entering battle, gain a 20%/25%/<shuzhi>30%</>/35% damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR7_4": {
+      "SuitName": "SSR月轮",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_13/Buff_Matrix_SSR_13_level4.Buff_Matrix_SSR_13_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase both damage and shatter to targets with more than <shuzhi>50%</> HP by 15%/19%/22.5%/<shuzhi>26%</>.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_14/level4/Buff_Matrix_SSR_14_level4.Buff_Matrix_SSR_14_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Upon entering battle, gain a 20%/25%/30%/<shuzhi>35%</> damage boost for <shuzhi>35</> seconds. Reset <shuzhi>5</> seconds after exiting battle.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR8": {
+      "SuitName": "SSR魔方",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level1.Buff_Matrix_SSR_15_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to <shuzhi>150%</>/200%/250%/300% of ATK for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level1/Buff_Matrix_SSR_16_level1.Buff_Matrix_SSR_16_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "While the shield is active, you and your teammates deal <shuzhi>16%</>/20%/24%/28% more damage.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR8_2": {
+      "SuitName": "SSR魔方",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level2.Buff_Matrix_SSR_15_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/<shuzhi>200%</>/250%/300% of ATK for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level2/Buff_Matrix_SSR_16_level2.Buff_Matrix_SSR_16_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "While the shield is active, you and your teammates deal 16%/<shuzhi>20%</>/24%/28% more damage.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR8_3": {
+      "SuitName": "SSR魔方",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level3.Buff_Matrix_SSR_15_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/<shuzhi>250%</>/300% of ATK for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level3/Buff_Matrix_SSR_16_level3.Buff_Matrix_SSR_16_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "While the shield is active, you and your teammates deal 16%/20%/<shuzhi>24%</>/28% more damage.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR8_4": {
+      "SuitName": "SSR魔方",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_15/Buff_Matrix_SSR_15_level4.Buff_Matrix_SSR_15_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon using a discharge skill to switch to the current weapon, gain a shield equal to 150%/200%/250%/<shuzhi>300%</> of ATK for <shuzhi>6</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_16/level4/Buff_Matrix_SSR_16_level4.Buff_Matrix_SSR_16_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "While the shield is active, you and your teammates deal 16%/20%/24%/<shuzhi>28%</> more damage.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR9": {
+      "SuitName": "SSR双枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level1.Buff_Matrix_SSR17_Sea_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase Dual EM Stars' electrical explosion damage by <shuzhi>16%</>/22%/30%/40%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level1.Buff_Matrix_Sea_SSR18_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to <shuzhi>10</>/13/16/20 times. Last for <shuzhi>1.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR9_2": {
+      "SuitName": "SSR双枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level2.Buff_Matrix_SSR17_Sea_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to 10/<shuzhi>13</>/16/20 times. Last for <shuzhi>1.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level2.Buff_Matrix_Sea_SSR18_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase Dual EM Stars' electrical explosion damage by 16%/<shuzhi>22%</>/30%/40%.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR9_3": {
+      "SuitName": "SSR双枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level3.Buff_Matrix_SSR17_Sea_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to 10/13/<shuzhi>16</>/20 times. Last for <shuzhi>1.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level3.Buff_Matrix_Sea_SSR18_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase Dual EM Stars' electrical explosion damage by 16%/22%/<shuzhi>30%</>/40%.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR9_4": {
+      "SuitName": "SSR双枪",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR17_Sea/Buff_Matrix_SSR17_Sea_level4.Buff_Matrix_SSR17_Sea_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase damage progressively by <shuzhi>1%</> upon hitting a target. Stack up to 10/13/16/<shuzhi>20</> times. Last for <shuzhi>1.5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR18_Sea/Buff_Matrix_Sea_SSR18_level4.Buff_Matrix_Sea_SSR18_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Increase Dual EM Stars' electrical explosion damage by 16%/22%/30%/<shuzhi>40%</>.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR10": {
+      "SuitName": "SSR盾斧",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level1.Buff_Matrix_SSR_19_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Hitting targets with Dodge skills inflicts bleed, dealing damage equal to <shuzhi>15%</>/19%/22.5%/26% of ATK every second for <shuzhi>5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level1/Overseas/Buff_Matrix_SSR_20_level1_OS.Buff_Matrix_SSR_20_level1_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by <shuzhi>10%</>/12%/13%/15%. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR10_2": {
+      "SuitName": "SSR盾斧",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level2.Buff_Matrix_SSR_19_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Hitting targets with Dodge skills inflicts bleed, dealing damage equal to 15%/<shuzhi>19%</>/22.5%/26% of ATK every second for <shuzhi>5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level2/Overseas/Buff_Matrix_SSR_20_level2_OS.Buff_Matrix_SSR_20_level2_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by 10%/<shuzhi>12%</>/13%/15%. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR10_3": {
+      "SuitName": "SSR盾斧",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level3.Buff_Matrix_SSR_19_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Hitting targets with Dodge skills inflicts bleed, dealing damage equal to 15%/19%/<shuzhi>22.5%</>/26% of ATK every second for <shuzhi>5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level3/Overseas/Buff_Matrix_SSR_20_level3_OS.Buff_Matrix_SSR_20_level3_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by 10%/12%/<shuzhi>13%</>/15%. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR10_4": {
+      "SuitName": "SSR盾斧",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_19/Buff_Matrix_SSR_19_level4.Buff_Matrix_SSR_19_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Hitting targets with Dodge skills inflicts bleed, dealing damage equal to 15%/19%/22.5%/<shuzhi>26%</> of ATK every second for <shuzhi>5</> seconds.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_20/level4/Overseas/Buff_Matrix_SSR_20_level4_OS.Buff_Matrix_SSR_20_level4_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Reduce ATK of all targets within <shuzhi>8</> meters that are taking damage over time by 10%/12%/13%/<shuzhi>15%</>. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR11": {
+      "SuitName": "SSR双刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level1.Buff_Matrix_SSR21_Sea_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase crit damage to targets with less than <shuzhi>60%</> HP by <shuzhi>24%</>/30%/36%/42%.",
+          "IsGlobal": false,
+          "AddScore": 50
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level1.Buff_Matrix_SSR22_Sea_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Crits deal additional damage over time every second equal to <shuzhi>18%</>/22%/26%/30% of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 100
+        }
+      ]
+    },
+    "suit_SSR11_2": {
+      "SuitName": "SSR双刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level2.Buff_Matrix_SSR21_Sea_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase crit damage to targets with less than <shuzhi>60%</> HP by 24%/<shuzhi>30%</>/36%/42%.",
+          "IsGlobal": false,
+          "AddScore": 60
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level2.Buff_Matrix_SSR22_Sea_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Crits deal additional damage over time every second equal to 18%/<shuzhi>22%</>/26%/30% of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 120
+        }
+      ]
+    },
+    "suit_SSR11_3": {
+      "SuitName": "SSR双刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level3.Buff_Matrix_SSR21_Sea_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase crit damage to targets with less than <shuzhi>60%</> HP by 24%/30%/<shuzhi>36%</>/42%.",
+          "IsGlobal": false,
+          "AddScore": 70
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level3.Buff_Matrix_SSR22_Sea_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Crits deal additional damage over time every second equal to 18%/22%/<shuzhi>26%</>/30% of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 140
+        }
+      ]
+    },
+    "suit_SSR11_4": {
+      "SuitName": "SSR双刀",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR21_Sea/Buff_Matrix_SSR21_Sea_level4.Buff_Matrix_SSR21_Sea_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase crit damage to targets with less than <shuzhi>60%</> HP by 24%/30%/36%/<shuzhi>42%</>.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR_Sea/Buff_Matrix_SSR22_Sea/Buff_Matrix_SSR22_Sea_level4.Buff_Matrix_SSR22_Sea_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Crits deal additional damage over time every second equal to 18%/22%/26%/<shuzhi>30%</> of ATK for <shuzhi>5</> seconds. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR12": {
+      "SuitName": "马克",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level1.Buff_Matrix_SSR23_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is an <shuzhi>11%</>/13%/15%/17% damage reduction and lasts for <shuzhi>15</> seconds. Not stackable. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level1.buff_matrix_ssr24_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After gaining an HP Shield, increase ATK by <shuzhi>6%</>/7.5%/9%/11.5% and increase the ATK of allies by <shuzhi>3%</>/3.5%/4.5%/5.75% for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR12_2": {
+      "SuitName": "马克",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level2.Buff_Matrix_SSR23_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is a 11%/<shuzhi>13%</>/15%/17% damage reduction and lasts for <shuzhi>15</> seconds. Not stackable. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level2.buff_matrix_ssr24_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After gaining an HP Shield, increase ATK by 6%/<shuzhi>7.5%</>/9%/11.5% and increase the ATK of allies by 3%/<shuzhi>3.5%</>/4.5%/5.75% for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR12_3": {
+      "SuitName": "马克",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level3.Buff_Matrix_SSR23_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is a 11%/13%/<shuzhi>15%</>/17% damage reduction and lasts for <shuzhi>15</> seconds. Not stackable. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level3.buff_matrix_ssr24_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After gaining an HP Shield, increase ATK by 6%/7.5%/<shuzhi>9%</>/11.5% and increase the ATK of allies by 3%/3.5%/<shuzhi>4.5%</>/5.75% for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR12_4": {
+      "SuitName": "马克",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_23/Buff_Matrix_SSR23_level4.Buff_Matrix_SSR23_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon attacking an enemy, grant a shield to all teammates equal to <shuzhi>15%</> of the user's current HP. Last for <shuzhi>15</> seconds, and reset after leaving the battle for <shuzhi>10</> seconds. Upon activation, this shield's value will combine with any other active HP shields. While shielding, there is a 11%/13%/15%/<shuzhi>17%</> damage reduction and lasts for <shuzhi>15</> seconds. Not stackable. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_24/buff_matrix_ssr24_level4.buff_matrix_ssr24_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After gaining an HP Shield, increase ATK by 6%/7.5%/9%/<shuzhi>11.5%</> and increase the ATK of allies by 3%/3.5%/4.5%/<shuzhi>5.75%</> for <shuzhi>15</> seconds. Stack up to <shuzhi>3</> times. This Matrix's set effect works with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR13": {
+      "SuitName": "白月魁",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level1.buff_matrix_ssr25_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by <shuzhi>15%</>/18%/21%/25% for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level1.buff_matrix_ssr26_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to <shuzhi>106%</>/122%/140%/160% of ATK for <shuzhi>1</> time in a 5-meter radius, up to <shuzhi>530%</>/610%/700%/800%. In addition, increase shatter by <shuzhi>7%</>/14%/21%/28% for <shuzhi>4</> seconds. This effect does not stack. The set effects work with other weapons, but only the set with the highest star rating's effect takes effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR13_2": {
+      "SuitName": "白月魁",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level2.buff_matrix_ssr25_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by 15%/<shuzhi>18%</>/21%/25% for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level2.buff_matrix_ssr26_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to 106%/<shuzhi>122%</>/140%/160% of ATK for <shuzhi>1</> time in a 5-meter radius, up to 530%/<shuzhi>610%</>/700%/800%. In addition, increase shatter by 7%/<shuzhi>14%</>/21%/28% for 4 seconds. This effect does not stack. The set effects work with other weapons, but only the set with the highest star rating's effect takes effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR13_3": {
+      "SuitName": "白月魁",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level3.buff_matrix_ssr25_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by 15%/18%/<shuzhi>21%</>/25% for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level3.buff_matrix_ssr26_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to 106%/122%/<shuzhi>140%</>/160% of ATK for <shuzhi>1</> time in a 5-meter radius, up to 530%/610%/<shuzhi>700%</>/800%. In addition, increase shatter by 7%/14%/<shuzhi>21%</>/28% for 4 seconds. This effect does not stack. The set effects work with other weapons, but only the set with the highest star rating's effect takes effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR13_4": {
+      "SuitName": "白月魁",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_25/buff_matrix_ssr25_level4.buff_matrix_ssr25_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Upon switching to this weapon, if weapon charge is between <shuzhi>200</> and <shuzhi>999</>, consume <shuzhi>200</> weapon charge to increase ATK by 15%/18%/21%/<shuzhi>25%</> for <shuzhi>15</> seconds. <shuzhi>5</>-second cooldown. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_26/buff_matrix_ssr26_level4.buff_matrix_ssr26_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "For every <shuzhi>0.6</> seconds maintained in a dischargeable state, the <shuzhi>next</> discharge skill deals extra area damage equal to 106%/122%/140%/<shuzhi>160%</> of ATK for <shuzhi>1</> time in a 5-meter radius, up to 530%/610%/700%/<shuzhi>800%</>. In addition, increase shatter by 7%/14%/21%/<shuzhi>28%</> for 4 seconds. This effect does not stack. The set effects work with other weapons, but only the set with the highest star rating's effect takes effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR14": {
+      "SuitName": "奈美西斯",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Overseas/Buff_Matrix_SSR27_level1_OS.Buff_Matrix_SSR27_level1_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is being healed, their volt ATK is increased by <shuzhi>8%</>/10%/12%/15% for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level1.Buff_Matirx_SSR28_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast lightning upon the target, dealing volt damage equal to <shuzhi>240%</>/300%/360%/420% of volt ATK (damage caused by Electrodes is reduced by 50%). Cannot be triggered more than once in <shuzhi>10</> seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR14_2": {
+      "SuitName": "奈美西斯",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Overseas/Buff_Matrix_SSR27_level2_OS.Buff_Matrix_SSR27_level2_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is being healed, their volt ATK is increased by 8%/<shuzhi>10%</>/12%/15% for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level2.Buff_Matirx_SSR28_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast lightning upon the target, dealing volt damage equal to 240%/<shuzhi>300%</>/360%/420% of volt ATK (damage caused by Electrodes is reduced by 50%). Cannot be triggered more than once in <shuzhi>10</> seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR14_3": {
+      "SuitName": "奈美西斯",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Overseas/Buff_Matrix_SSR27_level3_OS.Buff_Matrix_SSR27_level3_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is being healed, their volt ATK is increased by 8%/10%/<shuzhi>12%</>/15% for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level3.Buff_Matirx_SSR28_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast lightning upon the target, dealing volt damage equal to 240%/300%/<shuzhi>360%</>/420% of volt ATK (damage caused by Electrodes is reduced by 50%). Cannot be triggered more than once in <shuzhi>10</> seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR14_4": {
+      "SuitName": "奈美西斯",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_27/Overseas/Buff_Matrix_SSR27_level4_OS.Buff_Matrix_SSR27_level4_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "When a target is being healed, their volt ATK is increased by 8%/10%/12%/<shuzhi>15%</> for <shuzhi>20</> seconds. This effect does not stack, and only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_28/Buff_Matirx_SSR28_level4.Buff_Matirx_SSR28_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When healing yourself or your Electrode, the target of healing gains a charge of \"Lightning.\" The next attack within <shuzhi>30</> seconds will cast lightning upon the target, dealing volt damage equal to 240%/300%/360%/<shuzhi>420%</> of volt ATK (damage caused by Electrodes is reduced by 50%). Cannot be triggered more than once in <shuzhi>10</> seconds. \"Lightning\" charges do not stack. Only the highest level's effect is applied when obtained repeatedly.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR15": {
+      "SuitName": "弗丽嘉",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Overseas/Buff_Matrix_SSR29_level1_OS.Buff_Matrix_SSR29_level1_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase frost ATK by <shuzhi>8%</>/10%/12%/15% for <shuzhi>10</> seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level1.Buff_Matrix_SSR30_level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When unleashing a frost domain with the weapon \"Balmung,\" enemies within the frost domain receive frost damage equal to <shuzhi>55%</>/65%/75%/85% of ATK every second.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR15_2": {
+      "SuitName": "弗丽嘉",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Overseas/Buff_Matrix_SSR29_level2_OS.Buff_Matrix_SSR29_level2_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase frost ATK by <shuzhi>10%</> for <shuzhi>10</> seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level2.Buff_Matrix_SSR30_level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When unleashing a frost domain with the weapon \"Balmung,\" enemies within the frost domain receive frost damage equal to 55%/<shuzhi>65%</>/75%/85% of ATK every second.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR15_3": {
+      "SuitName": "弗丽嘉",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Overseas/Buff_Matrix_SSR29_level3_OS.Buff_Matrix_SSR29_level3_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase frost ATK by <shuzhi>12%</> for <shuzhi>10</> seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level3.Buff_Matrix_SSR30_level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When unleashing a frost domain with the weapon \"Balmung,\" enemies within the frost domain receive frost damage equal to 55%/65%/<shuzhi>75%</>/85% of ATK every second.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR15_4": {
+      "SuitName": "弗丽嘉",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR29/Overseas/Buff_Matrix_SSR29_level4_OS.Buff_Matrix_SSR29_level4_OS_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "Increase frost ATK by <shuzhi>15%</> for <shuzhi>10</> seconds when switching between frost weapons. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR30/Buff_Matrix_SSR30_level4.Buff_Matrix_SSR30_level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "When unleashing a frost domain with the weapon \"Balmung,\" enemies within the frost domain receive frost damage equal to 55%/65%/75%/<shuzhi>85%</> of ATK every second.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR16": {
+      "SuitName": "蕾贝",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_31/Buff_Matrix_31_Level1.Buff_Matrix_31_Level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "After casting the weapon skill, increase flame ATK by <shuzhi>15%</>/18%/21%/25% for <shuzhi>25</> seconds. Trigger effect differs for different star ratings. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_32/Buff_Matrix_32_Level1.Buff_Matrix_32_Level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After casting the weapon skill, grant Mastery for <shuzhi>15</> seconds with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increase flame damage by <shuzhi>4%</>/5%/6%/7% every time the target is hit with a normal attack until the end of Mastery. Stack up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, grant a shield that can block damage for <shuzhi>1 time</>.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR16_2": {
+      "SuitName": "蕾贝",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_31/Buff_Matrix_31_Level2.Buff_Matrix_31_Level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "After casting the weapon skill, increase flame ATK by 15%/<shuzhi>18%</>/21%/25% for <shuzhi>25</> seconds. Trigger effect differs for different star ratings. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_32/Buff_Matrix_32_Level2.Buff_Matrix_32_Level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After casting the weapon skill, grant Mastery for <shuzhi>15</> seconds with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increase flame damage by 4%/<shuzhi>5%</>/6%/7% every time the target is hit with a normal attack until the end of Mastery. Stack up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, grant a shield that can block damage for <shuzhi>1 time</>.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR16_3": {
+      "SuitName": "蕾贝",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_31/Buff_Matrix_31_Level3.Buff_Matrix_31_Level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "After casting the weapon skill, increase flame ATK by 15%/18%/<shuzhi>21%</>/25% for <shuzhi>25</> seconds. Trigger effect differs for different star ratings. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_32/Buff_Matrix_32_Level3.Buff_Matrix_32_Level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After casting the weapon skill, grant Mastery for <shuzhi>15</> seconds with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increase flame damage by 4%/5%/<shuzhi>6%</>/7% every time the target is hit with a normal attack until the end of Mastery. Stack up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, grant a shield that can block damage for <shuzhi>1 time</>.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR16_4": {
+      "SuitName": "蕾贝",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_31/Buff_Matrix_31_Level4.Buff_Matrix_31_Level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "After casting the weapon skill, increase flame ATK by 15%/18%/21%/<shuzhi>25%</> for <shuzhi>25</> seconds. Trigger effect differs for different star ratings. This effect does not stack.",
+          "IsGlobal": false,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_32/Buff_Matrix_32_Level4.Buff_Matrix_32_Level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "After casting the weapon skill, grant Mastery for <shuzhi>15</> seconds with a cooldown of <shuzhi>15</> seconds (Mastery shares cooldowns across levels). Mastery is not stackable. Increase flame damage by 4%/5%/6%/<shuzhi>7%</> every time the target is hit with a normal attack until the end of Mastery. Stack up to <shuzhi>6</> times, adding a maximum of <shuzhi>1</> stack every <shuzhi>0.2</> seconds. At <shuzhi>6</> stacks, grant a shield that can block damage for <shuzhi>1 time</>.",
+          "IsGlobal": false,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR17": {
+      "SuitName": "不破咲",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_33/Buff_Matrix_33_Level1.Buff_Matrix_33_Level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "While Frost Resonance is activated: For every <shuzhi>3</> seconds, deal damage equal to <shuzhi>60%</>/100%/150%/220% of frost ATK to enemies in a 10-meter radius and inflict the Frost effect. Frost effect: Slow the target by 5% for <shuzhi>3.5</> seconds, and freeze the target for <shuzhi>3</> seconds upon reaching 3 stacks, but unable to freeze the boss. Increase the frost damage the target received by <shuzhi>12%</>. Last for <shuzhi>18</> seconds. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_34/Buff_Matrix_34_Level1.Buff_Matrix_34_Level1_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Attack the target <shuzhi>10</> times to inflict a 12-second Flashfreeze marking. Flashfreeze: Increase frost damage dealt to the marked target by <shuzhi>25%</>/28%/31%/34%. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR17_2": {
+      "SuitName": "不破咲",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_33/Buff_Matrix_33_Level2.Buff_Matrix_33_Level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "While Frost Resonance is activated: For every <shuzhi>3</> seconds, deal damage equal to 60%/<shuzhi>100%</>/150%/220% of frost ATK to enemies in a 10-meter radius and inflict the Frost effect. Frost effect: Slow the target by 5% for <shuzhi>3.5</> seconds, and freeze the target for <shuzhi>3</> seconds upon reaching 3 stacks, but unable to freeze the boss. Increase the frost damage the target received by <shuzhi>12%</>. Last for <shuzhi>18</> seconds. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_34/Buff_Matrix_34_Level2.Buff_Matrix_34_Level2_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Attack the target <shuzhi>10</> times to inflict a 12-second Flashfreeze marking. Flashfreeze: Increase frost damage dealt to the marked target by 25%/<shuzhi>28%</>/31%/34%. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR17_3": {
+      "SuitName": "不破咲",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_33/Buff_Matrix_33_Level3.Buff_Matrix_33_Level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "While Frost Resonance is activated: For every <shuzhi>3</> seconds, deal damage equal to 60%/100%/<shuzhi>150%</>/220% of frost ATK to enemies in a 10-meter radius and inflict the Frost effect. Frost effect: Slow the target by 5% for <shuzhi>3.5</> seconds, and freeze the target for <shuzhi>3</> seconds upon reaching 3 stacks, but unable to freeze the boss. Increase the frost damage the target received by <shuzhi>12%</>. Last for <shuzhi>18</> seconds. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_34/Buff_Matrix_34_Level3.Buff_Matrix_34_Level3_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Attack the target <shuzhi>10</> times to inflict a 12-second Flashfreeze marking. Flashfreeze: Increase frost damage dealt to the marked target by 25%/28%/<shuzhi>31%</>/34%. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    },
+    "suit_SSR17_4": {
+      "SuitName": "不破咲",
+      "Buffs": [
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_33/Buff_Matrix_33_Level4.Buff_Matrix_33_Level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 2,
+          "SuitDetail": "While Frost Resonance is activated: For every <shuzhi>3</> seconds, deal damage equal to 60%/100%/150%/<shuzhi>220%</> of frost ATK to enemies in a 10-meter radius and inflict the Frost effect. Frost effect: Slow the target by 5% for <shuzhi>3.5</> seconds, and freeze the target for <shuzhi>3</> seconds upon reaching 3 stacks, but unable to freeze the boss. Increase the frost damage the target received by <shuzhi>12%</>. Last for <shuzhi>18</> seconds. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 80
+        },
+        {
+          "BuffObject": {
+            "Path": "/Game/Resources/Abilities/Buff/Matrix/Matrix_SSR/Buff_Matrix_SSR_34/Buff_Matrix_34_Level4.Buff_Matrix_34_Level4_C",
+            "SubPath": ""
+          },
+          "SuitCount": 4,
+          "SuitDetail": "Attack the target <shuzhi>10</> times to inflict a 12-second Flashfreeze marking. Flashfreeze: Increase frost damage dealt to the marked target by 25%/28%/31%/<shuzhi>34%</>. This set's effects work with others, but only the set with the highest star rating's effect will take effect.",
+          "IsGlobal": true,
+          "AddScore": 160
+        }
+      ]
+    }
+  }
+  }
+]

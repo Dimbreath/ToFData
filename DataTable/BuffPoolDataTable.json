@@ -1,0 +1,1030 @@
+[
+  {
+    "Export": {
+      "Name": "BuffPoolDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "PoolId": "WorldBoss_2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/NPC/WorldBoss/Attack/Buff_WorldBoss_AttackAdd1.Buff_WorldBoss_AttackAdd1_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "2": {
+      "PoolId": "WorldBoss_2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/NPC/WorldBoss/Attack/Buff_WorldBoss_AttackAdd2.Buff_WorldBoss_AttackAdd2_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "3": {
+      "PoolId": "WorldBoss_2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/NPC/WorldBoss/Attack/Buff_WorldBoss_AttackAdd3.Buff_WorldBoss_AttackAdd3_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "4": {
+      "PoolId": "WorldBoss_2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/NPC/WorldBoss/Attack/Buff_WorldBoss_AttackAdd4.Buff_WorldBoss_AttackAdd4_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "5": {
+      "PoolId": "WorldBoss_3",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/NPC/WorldBoss/Attack/Buff_WorldBoss_AttackAdd5.Buff_WorldBoss_AttackAdd5_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow": {
+      "PoolId": "WorldBoss_3",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/NPC/WorldBoss/Attack/Buff_WorldBoss_AttackAdd6.Buff_WorldBoss_AttackAdd6_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_2": {
+      "PoolId": "resistanceele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancethunder.Worldboss_buff_resistancethunder_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_6": {
+      "PoolId": "resistanceele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancephy.Worldboss_buff_resistancephy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_7": {
+      "PoolId": "resistanceele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistanceice.Worldboss_buff_resistanceice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_8": {
+      "PoolId": "resistanceele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancefire.Worldboss_buff_resistancefire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_65": {
+      "PoolId": "resistanceele2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immfire75.Buff_TeamClone_Immfire75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_66": {
+      "PoolId": "resistanceele2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immice75.Buff_TeamClone_Immice75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_67": {
+      "PoolId": "resistanceele2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immphy75.Buff_TeamClone_Immphy75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_68": {
+      "PoolId": "resistanceele2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immthunder75.Buff_TeamClone_Immthunder75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow": {
+      "PoolId": "immele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_immphy.Worldboss_buff_immphy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "Physical Damage Immunity"
+    },
+    "NewRow_9": {
+      "PoolId": "immele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_immthunder.Worldboss_buff_immthunder_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "Volt Damage Immunity"
+    },
+    "NewRow_10": {
+      "PoolId": "immele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_immice.Worldboss_buff_immice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "Frost Damage Immunity"
+    },
+    "NewRow_11": {
+      "PoolId": "immele",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_immfire.Worldboss_buff_immfire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "Flame Damage Immunity"
+    },
+    "NewRow_17": {
+      "PoolId": "resistanceclasstye",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancesharp.Worldboss_buff_resistancesharp_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_18": {
+      "PoolId": "resistanceclasstye",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancepuncture.Worldboss_buff_resistancepuncture_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_19": {
+      "PoolId": "resistanceclasstye",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancefirearms.Worldboss_buff_resistancefirearms_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_20": {
+      "PoolId": "immclasstype",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_immfirearms.Worldboss_buff_immfirearms_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_22": {
+      "PoolId": "immclasstype",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_immpuncture.Worldboss_buff_immpuncture_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_21": {
+      "PoolId": "immclasstype",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_immsharp.Worldboss_buff_immsharp_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_3": {
+      "PoolId": "test20220116",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancethunder.Worldboss_buff_resistancethunder_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_4": {
+      "PoolId": "test20220116",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancephy.Worldboss_buff_resistancephy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 2,
+      "Description": "None"
+    },
+    "NewRow_5": {
+      "PoolId": "test20220116",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistanceice.Worldboss_buff_resistanceice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_12": {
+      "PoolId": "test20220116",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancefire.Worldboss_buff_resistancefire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_15": {
+      "PoolId": "WorldBossUpIce",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancethunder.Worldboss_buff_resistancethunder_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_16": {
+      "PoolId": "WorldBossUpIce",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancephy.Worldboss_buff_resistancephy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_23": {
+      "PoolId": "WorldBossUpIce",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistanceice.Worldboss_buff_resistanceice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_24": {
+      "PoolId": "WorldBossUpIce",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancefire.Worldboss_buff_resistancefire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_53": {
+      "PoolId": "WorldBossUpIce2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immfire75.Buff_TeamClone_Immfire75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_54": {
+      "PoolId": "WorldBossUpIce2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immphy75.Buff_TeamClone_Immphy75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_55": {
+      "PoolId": "WorldBossUpIce2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immthunder75.Buff_TeamClone_Immthunder75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_25": {
+      "PoolId": "WorldBossUpFire",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancethunder.Worldboss_buff_resistancethunder_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_26": {
+      "PoolId": "WorldBossUpFire",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancephy.Worldboss_buff_resistancephy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_13": {
+      "PoolId": "WorldBossUpFire",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistanceice.Worldboss_buff_resistanceice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_14": {
+      "PoolId": "WorldBossUpFire",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancefire.Worldboss_buff_resistancefire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_56": {
+      "PoolId": "WorldBossUpFire2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immice75.Buff_TeamClone_Immice75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_59": {
+      "PoolId": "WorldBossUpFire2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immphy75.Buff_TeamClone_Immphy75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_60": {
+      "PoolId": "WorldBossUpFire2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immthunder75.Buff_TeamClone_Immthunder75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_45": {
+      "PoolId": "WorldBossUpThunder",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancethunder.Worldboss_buff_resistancethunder_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_48": {
+      "PoolId": "WorldBossUpThunder",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancephy.Worldboss_buff_resistancephy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_47": {
+      "PoolId": "WorldBossUpThunder",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistanceice.Worldboss_buff_resistanceice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_46": {
+      "PoolId": "WorldBossUpThunder",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancefire.Worldboss_buff_resistancefire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_57": {
+      "PoolId": "WorldBossUpThunder2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immfire75.Buff_TeamClone_Immfire75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_58": {
+      "PoolId": "WorldBossUpThunder2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immice75.Buff_TeamClone_Immice75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_61": {
+      "PoolId": "WorldBossUpThunder2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immphy75.Buff_TeamClone_Immphy75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_69": {
+      "PoolId": "WorldBossUpThunder2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/FBN/BehitToChargeDown65_Fire.BehitToChargeDown65_Fire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_49": {
+      "PoolId": "WorldBossUpPhy",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancethunder.Worldboss_buff_resistancethunder_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_52": {
+      "PoolId": "WorldBossUpPhy",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancephy.Worldboss_buff_resistancephy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_51": {
+      "PoolId": "WorldBossUpPhy",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistanceice.Worldboss_buff_resistanceice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_50": {
+      "PoolId": "WorldBossUpPhy",
+      "Buff": {
+        "Path": "/Game/Resources/FB/WorldBoss/BUFF/Worldboss_buff_resistancefire.Worldboss_buff_resistancefire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 8,
+      "Description": "None"
+    },
+    "NewRow_62": {
+      "PoolId": "WorldBossUpPhy2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immfire75.Buff_TeamClone_Immfire75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_63": {
+      "PoolId": "WorldBossUpPhy2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immice75.Buff_TeamClone_Immice75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_64": {
+      "PoolId": "WorldBossUpPhy2",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immthunder75.Buff_TeamClone_Immthunder75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_70": {
+      "PoolId": "WBPhykang",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immphy75.Buff_TeamClone_Immphy75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_82": {
+      "PoolId": "WBIceKang",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immice75.Buff_TeamClone_Immice75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_76": {
+      "PoolId": "WBThunderKang",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immthunder75.Buff_TeamClone_Immthunder75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_75": {
+      "PoolId": "WBFireKang",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/MonsterWeaknessBuff/TeamClone/Buff_TeamClone_Immfire75.Buff_TeamClone_Immfire75_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_74": {
+      "PoolId": "WBPhyCharge",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/FBN/BehitToChargeDown65_Phy.BehitToChargeDown65_Phy_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_73": {
+      "PoolId": "WBIceCharge",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/FBN/BehitToChargeDown65_Ice.BehitToChargeDown65_Ice_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_72": {
+      "PoolId": "WBThunderCharge",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/FBN/BehitToChargeDown65_Thu.BehitToChargeDown65_Thu_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_71": {
+      "PoolId": "WBFireCharge",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/FBN/BehitToChargeDown65_Fire.BehitToChargeDown65_Fire_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_27": {
+      "PoolId": "BigSecret_SSRtest20220116",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bigsword_ice_ssr.BigSecret_bigsword_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 9,
+      "Description": "None"
+    },
+    "NewRow_33": {
+      "PoolId": "BigSecret_SSRtest20220116",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bow_ice_ssr.BigSecret_bow_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_39": {
+      "PoolId": "BigSecret_SSRtest20220116",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_29": {
+      "PoolId": "BigSecret_SRtest20220116",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_hammer_ice_sr.BigSecret_hammer_ice_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 9,
+      "Description": "None"
+    },
+    "NewRow_34": {
+      "PoolId": "BigSecret_SRtest20220116",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_cannon_ice_sr.BigSecret_cannon_ice_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_40": {
+      "PoolId": "BigSecret_SRtest20220116",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_30": {
+      "PoolId": "BigSecret_SSRtest20220121",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_sword_physic_ssr.BigSecret_sword_physic_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_35": {
+      "PoolId": "BigSecret_SSRtest20220121",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bow_ice_ssr.BigSecret_bow_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_41": {
+      "PoolId": "BigSecret_SSRtest20220121",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_31": {
+      "PoolId": "BigSecret_SRtest20220121",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bow_physic_sr.BigSecret_bow_physic_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 9,
+      "Description": "None"
+    },
+    "NewRow_36": {
+      "PoolId": "BigSecret_SRtest20220121",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_cannon_ice_sr.BigSecret_cannon_ice_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_42": {
+      "PoolId": "BigSecret_SRtest20220121",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_32": {
+      "PoolId": "BigSecret_SSRtest20220126",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_dgun_thunder_ssr.BigSecret_dgun_thunder_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 9,
+      "Description": "None"
+    },
+    "NewRow_37": {
+      "PoolId": "BigSecret_SSRtest20220126",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bow_ice_ssr.BigSecret_bow_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_43": {
+      "PoolId": "BigSecret_SSRtest20220126",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "NewRow_28": {
+      "PoolId": "BigSecret_SRtest20220126",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_spear_thunder_sr.BigSecret_spear_thunder_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 9,
+      "Description": "None"
+    },
+    "NewRow_38": {
+      "PoolId": "BigSecret_SRtest20220126",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_cannon_ice_sr.BigSecret_cannon_ice_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "NewRow_44": {
+      "PoolId": "BigSecret_SRtest20220126",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "BigSecret_1002": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bigsword_ice_ssr.BigSecret_bigsword_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1003": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1004": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_stave_ice_ssr.BigSecret_stave_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1005": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_cube_fire_ssr.BigSecret_cube_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1006": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bow_ice_ssr.BigSecret_bow_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1007": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_sword_physic_ssr.BigSecret_sword_physic_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "BigSecret_1008": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_sickle_fire_ssr.BigSecret_sickle_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1009": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_gun_fire_ssr.BigSecret_gun_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "BigSecret_1010": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_Darts_Physic_SSR.BigSecret_Darts_Physic_SSR_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1011": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_dgun_thunder_ssr.BigSecret_dgun_thunder_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1012": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_digger_thunder_ssr.BigSecret_digger_thunder_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1015": {
+      "PoolId": "BigSecret_SSR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_Suspension_thunder_ssr.BigSecret_Suspension_thunder_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1102": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bigsword_ice_ssr.BigSecret_bigsword_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1103": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_ShieldAxe_fire_ssr.BigSecret_ShieldAxe_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1104": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_stave_ice_ssr.BigSecret_stave_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1105": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_cube_fire_ssr.BigSecret_cube_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1106": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bow_ice_ssr.BigSecret_bow_ice_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1107": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_sword_physic_ssr.BigSecret_sword_physic_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "BigSecret_1108": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_sickle_fire_ssr.BigSecret_sickle_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1109": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_gun_fire_ssr.BigSecret_gun_fire_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "BigSecret_1110": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_Darts_Physic_SSR.BigSecret_Darts_Physic_SSR_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1111": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_dgun_thunder_ssr.BigSecret_dgun_thunder_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1112": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_digger_thunder_ssr.BigSecret_digger_thunder_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_1113": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_Mark_physic_ssr.BigSecret_Mark_physic_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "BigSecret_1114": {
+      "PoolId": "BigSecret_SSR_act",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_Immortal_thunder_ssr.BigSecret_Immortal_thunder_ssr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 0,
+      "Description": "None"
+    },
+    "BigSecret_2002": {
+      "PoolId": "BigSecret_SR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_spear_thunder_sr.BigSecret_spear_thunder_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_2003": {
+      "PoolId": "BigSecret_SR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_cannon_ice_sr.BigSecret_cannon_ice_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_2004": {
+      "PoolId": "BigSecret_SR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_stave_thunder_sr.BigSecret_stave_thunder_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_2005": {
+      "PoolId": "BigSecret_SR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_hammer_ice_sr.BigSecret_hammer_ice_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    },
+    "BigSecret_2006": {
+      "PoolId": "BigSecret_SR",
+      "Buff": {
+        "Path": "/Game/Resources/Abilities/Buff/BigSecret/BigSecret_bow_physic_sr.BigSecret_bow_physic_sr_C",
+        "SubPath": ""
+      },
+      "RandomWeight": 1,
+      "Description": "None"
+    }
+  }
+  }
+]

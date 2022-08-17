@@ -1,0 +1,156 @@
+[
+  {
+    "Export": {
+      "Name": "DT_MsgBoxConfig",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "MSG_COLLECT_TEAM_REQUEST": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "Path=TeamForm&ClickButtons=MyTeamButton",
+      "QBoxContent": "Accept request to join team from {0}?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_team.icon_team",
+        "SubPath": ""
+      },
+      "MsgTitle": "Team",
+      "MsgDesc": "<Bubble>Request to Join Team</>",
+      "MsgRoleName": "{0}"
+    },
+    "MSG_COLLECT_TEAM_INVITE": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "Accept team-up invitation from {0}?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_team.icon_team",
+        "SubPath": ""
+      },
+      "MsgTitle": "Team",
+      "MsgDesc": "<Bubble>Invite to Team Up</>",
+      "MsgRoleName": "{0}"
+    },
+    "MSG_COLLECT_TEAM_FRIEND": {
+      "IndateSeconds": 300,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "Path=SocialForm&ClickButtons=FriendRadioButton&ClickButtons=InviteButton",
+      "QBoxContent": "None",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_friends.icon_friends",
+        "SubPath": ""
+      },
+      "MsgTitle": "Friends",
+      "MsgDesc": "<Default16>Add Friends</>",
+      "MsgRoleName": "{0}"
+    },
+    "MSG_COLLECT_PK": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "Accept sparring request from {0}?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_pk.icon_pk",
+        "SubPath": ""
+      },
+      "MsgTitle": "Spar",
+      "MsgDesc": "<LblRed16>Invitation to Spar</>",
+      "MsgRoleName": "{0}"
+    },
+    "MSG_COLLECT_INTERACTIVE_ACTION_INVITE": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "Accept request to interact from {0}?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_team.icon_team",
+        "SubPath": ""
+      },
+      "MsgTitle": "Interact",
+      "MsgDesc": "<Bubble>Invite to interact {0}</>",
+      "MsgRoleName": "{0}"
+    },
+    "MSG_COLLECT_TEAM_SUMMON": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "Accept call from {0}?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_zhdy.icon_zhdy",
+        "SubPath": ""
+      },
+      "MsgTitle": "Team Call",
+      "MsgDesc": "<Bubble>Team Summoning</>",
+      "MsgRoleName": "{0}"
+    },
+    "MSG_COLLECT_TEAM_VOTE_FOR_KICK": {
+      "IndateSeconds": 15,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "Do you agree to remove {0} from the team?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_team.icon_team",
+        "SubPath": ""
+      },
+      "MsgTitle": "Vote",
+      "MsgDesc": "<Bubble>Team Vote to Remove Crewmate</>",
+      "MsgRoleName": "{0}"
+    },
+    "MSG_COLLECT_TEAM_CLONE_MATCH_TIME_OUT": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "There are not a lot of new players. Keep searching?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_sjboss.icon_sjboss",
+        "SubPath": ""
+      },
+      "MsgTitle": "Match",
+      "MsgDesc": "None",
+      "MsgRoleName": "There are not a lot of new players. Keep searching?"
+    },
+    "MSG_COLLECT_TEAM_CLONE_MATCH_TIME_OUT_TEAM": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "There are few Wanderers, are you sure to join now?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_sjboss.icon_sjboss",
+        "SubPath": ""
+      },
+      "MsgTitle": "Match",
+      "MsgDesc": "None",
+      "MsgRoleName": "There are few Wanderers, are you sure to join now?"
+    },
+    "MSG_COLLECT_ACTIVITY_GUILD_CAMPFIRE": {
+      "IndateSeconds": 1200,
+      "bIsHasAnimation": false,
+      "GotoFormPath": "Path=GuildMainUI",
+      "QBoxContent": "None",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/gonghui.gonghui",
+        "SubPath": ""
+      },
+      "MsgTitle": "Crew Event",
+      "MsgDesc": "None",
+      "MsgRoleName": "None"
+    },
+    "MSG_COLLECT_GUILD_SUMMON": {
+      "IndateSeconds": 60,
+      "bIsHasAnimation": true,
+      "GotoFormPath": "",
+      "QBoxContent": "Accept call from {0}?",
+      "MsgIcon": {
+        "Path": "/Game/Resources/UI/main/icon_zhdy.icon_zhdy",
+        "SubPath": ""
+      },
+      "MsgTitle": "Crew Call",
+      "MsgDesc": "<Bubble>Crew Call</>",
+      "MsgRoleName": "{0}"
+    }
+  }
+  }
+]

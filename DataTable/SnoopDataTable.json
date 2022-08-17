@@ -1,0 +1,363 @@
+[
+  {
+    "Export": {
+      "Name": "SnoopDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Story1Snoop": {
+      "NpcSpeakArray": [
+        {
+          "MsgID": "talk1002",
+          "MsgText": "We caught the intruder, my lord. We did not find anyone else.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_208/npc_shu_208_character.npc_shu_208_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_018/animation/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Story1Snoop02",
+          "MsgText": "Good. How about Kolador's interrogation? Any news?",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Story1Snoop03",
+          "MsgText": "Kolador already told us where the Astrum is located, and asked us to free Theo.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_208/npc_shu_208_character.npc_shu_208_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_018/animation/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Story1Snoop04",
+          "MsgText": "Pass that information to those that are outside immediately, and ask them to find Astrum.",
+          "MsgDuration": 7,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Story1Snoop05",
+          "MsgText": "As for Theo... We can't let him go until we have what we want.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Story1Snoop06",
+          "MsgText": "Yes, sir. I will... Hm? Who goes there? Guards!",
+          "MsgDuration": 6,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_208/npc_shu_208_character.npc_shu_208_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_018/animation/mon_h_pe_talk1_Montage.mon_h_pe_talk1_Montage",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "Bookquest1Snoop1": {
+      "NpcSpeakArray": [
+        {
+          "MsgID": "book001",
+          "MsgText": "Oh, it's activated!",
+          "MsgDuration": 3,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book002",
+          "MsgText": "\"Recording automatically.\" How do you turn it off... Never mind. I'll get it figured out later.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book003",
+          "MsgText": "Look, what do you think? Kids are gonna love this.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book004",
+          "MsgText": "Ha-ha, it's so lively. Just like a real dog.",
+          "MsgDuration": 4,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book005",
+          "MsgText": "Ha-ha, it's the latest electric pet dog model.",
+          "MsgDuration": 4,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book006",
+          "MsgText": "It's developed by the government's R&D department. It's guaranteed to be safe.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book11",
+          "MsgText": "Ha-ha. You came back late. Took you a long time to choose, didn't it?",
+          "MsgDuration": 4,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book13",
+          "MsgText": "Omnium's everywhere these days. There are so many new gizmos in the market I can't tell which is what anymore!",
+          "MsgDuration": 6,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book007",
+          "MsgText": "Omnium... It's got to be driven by Omnium as well, isn't it? Must be expensive.",
+          "MsgDuration": 4,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book008",
+          "MsgText": "Fortunately, our superiors gave us some allowance. That, plus the bounty we earned, will be enough.",
+          "MsgDuration": 6,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book009",
+          "MsgText": "...",
+          "MsgDuration": 2,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book15",
+          "MsgText": "Okay. Good job, Gerra.",
+          "MsgDuration": 3,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book010",
+          "MsgText": "Our kids are gonna love this \"birthday present\" so much.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001f.npc_book_001f_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "book011",
+          "MsgText": "This is literally a \"birth\" day present!",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_book_001/npc_book_001m.npc_book_001m_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "None",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "q102014Snoop": {
+      "NpcSpeakArray": [
+        {
+          "MsgID": "Snoop01",
+          "MsgText": "How are things?",
+          "MsgDuration": 4,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_902/animation/npc_pe_talk2_Montage.npc_pe_talk2_Montage",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Snoop02",
+          "MsgText": "Please be assured that everything has been arranged, my lady.",
+          "MsgDuration": 4,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage1.mon_h_pe_talk1_Montage1",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Snoop03",
+          "MsgText": "If they aren't willing to cooperate, you know what to do.",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_902/animation/npc_pe_talk1_Montage.npc_pe_talk1_Montage",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Snoop04",
+          "MsgText": "Yes, my lady.",
+          "MsgDuration": 2,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_222/npc_shu_222_character.npc_shu_222_character_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/Monster/mon_hum_017/animtion/mon_h_pe_talk1_Montage.mon_h_pe_talk1_Montage",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Snoop05",
+          "MsgText": "Go, then. We've been followed, and I need to take care of that.",
+          "MsgDuration": 8,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_902/animation/npc_pe_talk3_Montage.npc_pe_talk3_Montage",
+            "SubPath": ""
+          }
+        },
+        {
+          "MsgID": "Snoop06",
+          "MsgText": "Why don't you show yourself?",
+          "MsgDuration": 5,
+          "SpeakerTemplate": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_314/npc_shu_314_q102014.npc_shu_314_q102014_C",
+            "SubPath": ""
+          },
+          "SpeakerMontage": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_902/animation/mon_h_ToBattle_sly_Montage.mon_h_ToBattle_sly_Montage",
+            "SubPath": ""
+          }
+        }
+      ]
+    }
+  }
+  }
+]

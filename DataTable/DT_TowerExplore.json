@@ -1,0 +1,791 @@
+[
+  {
+    "Export": {
+      "Name": "DT_TowerExplore",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Tower1": {
+      "UnlockMapRegionID": 0,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "Tower_xingyuan1",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "q1010601",
+      "RelateQuestObjID": "1",
+      "NameTips": "Astra Omnium Tower",
+      "LocationTips": "Astra",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>.",
+      "TowerMatInst": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_xingdao.icon_xingdao",
+        "SubPath": ""
+      },
+      "FullEnergy": 1750,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 90,
+          "AwardDropID": "tower1_award_sp"
+        },
+        {
+          "EnergyValue": 265,
+          "AwardDropID": "tower1_award1"
+        },
+        {
+          "EnergyValue": 440,
+          "AwardDropID": "tower1_award2"
+        },
+        {
+          "EnergyValue": 700,
+          "AwardDropID": "tower1_award3"
+        },
+        {
+          "EnergyValue": 965,
+          "AwardDropID": "tower1_award4"
+        },
+        {
+          "EnergyValue": 1225,
+          "AwardDropID": "tower1_award5"
+        },
+        {
+          "EnergyValue": 1490,
+          "AwardDropID": "tower1_award6"
+        },
+        {
+          "EnergyValue": 1750,
+          "AwardDropID": "tower1_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 48,
+      "RelateSpotPhotoNum": 5,
+      "RelateYahahaNum": 114,
+      "RelateTransferPointNum": 6,
+      "RelateSingleCloneNum": 3,
+      "RelateTowerPointNum": 1,
+      "RelateKillNpcNum": 0,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 0
+    },
+    "Tower2": {
+      "UnlockMapRegionID": 1,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "Tower_xingyuan1",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "q102139",
+      "RelateQuestObjID": "1",
+      "NameTips": "Banges Omnium Tower",
+      "LocationTips": "Banges",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_2.M_tower_3",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_banjisi.icon_banjisi",
+        "SubPath": ""
+      },
+      "FullEnergy": 1990,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 100,
+          "AwardDropID": "tower2_award_sp"
+        },
+        {
+          "EnergyValue": 300,
+          "AwardDropID": "tower2_award1"
+        },
+        {
+          "EnergyValue": 500,
+          "AwardDropID": "tower2_award2"
+        },
+        {
+          "EnergyValue": 800,
+          "AwardDropID": "tower2_award3"
+        },
+        {
+          "EnergyValue": 1095,
+          "AwardDropID": "tower2_award4"
+        },
+        {
+          "EnergyValue": 1395,
+          "AwardDropID": "tower2_award5"
+        },
+        {
+          "EnergyValue": 1695,
+          "AwardDropID": "tower2_award6"
+        },
+        {
+          "EnergyValue": 1990,
+          "AwardDropID": "tower2_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 58,
+      "RelateSpotPhotoNum": 6,
+      "RelateYahahaNum": 128,
+      "RelateTransferPointNum": 8,
+      "RelateSingleCloneNum": 3,
+      "RelateTowerPointNum": 1,
+      "RelateKillNpcNum": 0,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 0
+    },
+    "Tower3": {
+      "UnlockMapRegionID": 2,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "Tower_xingyuan1",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "q103071",
+      "RelateQuestObjID": "1",
+      "NameTips": "Navia Omnium Tower",
+      "LocationTips": "Navia",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_3.M_tower_4",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_naweiya.icon_naweiya",
+        "SubPath": ""
+      },
+      "FullEnergy": 1645,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 250,
+          "AwardDropID": "tower3_award1"
+        },
+        {
+          "EnergyValue": 415,
+          "AwardDropID": "tower3_award2"
+        },
+        {
+          "EnergyValue": 660,
+          "AwardDropID": "tower3_award3"
+        },
+        {
+          "EnergyValue": 905,
+          "AwardDropID": "tower3_award4"
+        },
+        {
+          "EnergyValue": 1155,
+          "AwardDropID": "tower3_award5"
+        },
+        {
+          "EnergyValue": 1400,
+          "AwardDropID": "tower3_award6"
+        },
+        {
+          "EnergyValue": 1645,
+          "AwardDropID": "tower3_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 54,
+      "RelateSpotPhotoNum": 4,
+      "RelateYahahaNum": 98,
+      "RelateTransferPointNum": 4,
+      "RelateSingleCloneNum": 3,
+      "RelateTowerPointNum": 1,
+      "RelateKillNpcNum": 0,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 0
+    },
+    "Tower4": {
+      "UnlockMapRegionID": 3,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "Tower_xingyuan1",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "q104048",
+      "RelateQuestObjID": "1",
+      "NameTips": "Crown Omnium Tower",
+      "LocationTips": "Crown",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_4.M_tower_5",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_keluoen.icon_keluoen",
+        "SubPath": ""
+      },
+      "FullEnergy": 1905,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 290,
+          "AwardDropID": "tower4_award1"
+        },
+        {
+          "EnergyValue": 480,
+          "AwardDropID": "tower4_award2"
+        },
+        {
+          "EnergyValue": 765,
+          "AwardDropID": "tower4_award3"
+        },
+        {
+          "EnergyValue": 1050,
+          "AwardDropID": "tower4_award4"
+        },
+        {
+          "EnergyValue": 1335,
+          "AwardDropID": "tower4_award5"
+        },
+        {
+          "EnergyValue": 1620,
+          "AwardDropID": "tower4_award6"
+        },
+        {
+          "EnergyValue": 1905,
+          "AwardDropID": "tower4_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 52,
+      "RelateSpotPhotoNum": 4,
+      "RelateYahahaNum": 125,
+      "RelateTransferPointNum": 6,
+      "RelateSingleCloneNum": 3,
+      "RelateTowerPointNum": 1,
+      "RelateKillNpcNum": 0,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 0
+    },
+    "Tower5": {
+      "UnlockMapRegionID": 4,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "Tower_xingyuan1",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "q105019",
+      "RelateQuestObjID": "2",
+      "NameTips": "Warren Omnium Tower",
+      "LocationTips": "Warren",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_5.M_tower_6",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_wolan.icon_wolan",
+        "SubPath": ""
+      },
+      "FullEnergy": 1875,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 285,
+          "AwardDropID": "tower5_award1"
+        },
+        {
+          "EnergyValue": 470,
+          "AwardDropID": "tower5_award2"
+        },
+        {
+          "EnergyValue": 750,
+          "AwardDropID": "tower5_award3"
+        },
+        {
+          "EnergyValue": 1035,
+          "AwardDropID": "tower5_award4"
+        },
+        {
+          "EnergyValue": 1315,
+          "AwardDropID": "tower5_award5"
+        },
+        {
+          "EnergyValue": 1595,
+          "AwardDropID": "tower5_award6"
+        },
+        {
+          "EnergyValue": 1875,
+          "AwardDropID": "tower5_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 50,
+      "RelateSpotPhotoNum": 4,
+      "RelateYahahaNum": 129,
+      "RelateTransferPointNum": 6,
+      "RelateSingleCloneNum": 3,
+      "RelateTowerPointNum": 1,
+      "RelateKillNpcNum": 0,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 0
+    },
+    "Tower7": {
+      "UnlockMapRegionID": 4,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "None",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "None",
+      "RelateQuestObjID": "None",
+      "NameTips": "Artificial Island",
+      "LocationTips": "Artificial Island",
+      "BriefTips": "None",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_5.M_tower_6",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_rengongdao.icon_rengongdao",
+        "SubPath": ""
+      },
+      "FullEnergy": 1675,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 255,
+          "AwardDropID": "tower7_award1"
+        },
+        {
+          "EnergyValue": 420,
+          "AwardDropID": "tower7_award2"
+        },
+        {
+          "EnergyValue": 670,
+          "AwardDropID": "tower7_award3"
+        },
+        {
+          "EnergyValue": 925,
+          "AwardDropID": "tower7_award4"
+        },
+        {
+          "EnergyValue": 1175,
+          "AwardDropID": "tower7_award5"
+        },
+        {
+          "EnergyValue": 1425,
+          "AwardDropID": "tower7_award6"
+        },
+        {
+          "EnergyValue": 1675,
+          "AwardDropID": "tower7_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 41,
+      "RelateSpotPhotoNum": 4,
+      "RelateYahahaNum": 77,
+      "RelateTransferPointNum": 5,
+      "RelateSingleCloneNum": 0,
+      "RelateTowerPointNum": 0,
+      "RelateKillNpcNum": 7,
+      "RelateGatherNum": 10,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 0
+    },
+    "Tower8": {
+      "UnlockMapRegionID": 4,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "None",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "None",
+      "RelateQuestObjID": "None",
+      "NameTips": "Artificial Island Phase II",
+      "LocationTips": "Outer Islands",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_5.M_tower_6",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_waidao.icon_waidao",
+        "SubPath": ""
+      },
+      "FullEnergy": 1585,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 240,
+          "AwardDropID": "tower8_award1"
+        },
+        {
+          "EnergyValue": 400,
+          "AwardDropID": "tower8_award2"
+        },
+        {
+          "EnergyValue": 635,
+          "AwardDropID": "tower8_award3"
+        },
+        {
+          "EnergyValue": 875,
+          "AwardDropID": "tower8_award4"
+        },
+        {
+          "EnergyValue": 1110,
+          "AwardDropID": "tower8_award5"
+        },
+        {
+          "EnergyValue": 1350,
+          "AwardDropID": "tower8_award6"
+        },
+        {
+          "EnergyValue": 1585,
+          "AwardDropID": "tower8_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 50,
+      "RelateSpotPhotoNum": 4,
+      "RelateYahahaNum": 97,
+      "RelateTransferPointNum": 6,
+      "RelateSingleCloneNum": 0,
+      "RelateTowerPointNum": 0,
+      "RelateKillNpcNum": 5,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 0
+    },
+    "Tower9": {
+      "UnlockMapRegionID": -1,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "None",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "None",
+      "RelateQuestObjID": "None",
+      "NameTips": "Vera",
+      "LocationTips": "Sandstorm Grounds",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>. When the Sandstorm Grounds exploration progress reaches 40%, the Grayspace Fissure in the area will be unlocked.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_5.M_tower_6",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_shabaodi.icon_shabaodi",
+        "SubPath": ""
+      },
+      "FullEnergy": 2040,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 310,
+          "AwardDropID": "tower9_award1"
+        },
+        {
+          "EnergyValue": 510,
+          "AwardDropID": "tower9_award2"
+        },
+        {
+          "EnergyValue": 820,
+          "AwardDropID": "tower9_award3"
+        },
+        {
+          "EnergyValue": 1125,
+          "AwardDropID": "tower9_award4"
+        },
+        {
+          "EnergyValue": 1430,
+          "AwardDropID": "tower9_award5"
+        },
+        {
+          "EnergyValue": 1735,
+          "AwardDropID": "tower9_award6"
+        },
+        {
+          "EnergyValue": 2040,
+          "AwardDropID": "tower9_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 55,
+      "RelateSpotPhotoNum": 6,
+      "RelateYahahaNum": 108,
+      "RelateTransferPointNum": 6,
+      "RelateSingleCloneNum": 0,
+      "RelateTowerPointNum": 0,
+      "RelateKillNpcNum": 10,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 3
+    },
+    "Tower10": {
+      "UnlockMapRegionID": -1,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "None",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "None",
+      "RelateQuestObjID": "None",
+      "NameTips": "Vera",
+      "LocationTips": "Rock Pillar Gobby",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>. When the Rock Pillar Gobby exploration progress reaches 40%, the Grayspace Fissure in the area will be unlocked.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_5.M_tower_6",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_yanzhugebi.icon_yanzhugebi",
+        "SubPath": ""
+      },
+      "FullEnergy": 2200,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 330,
+          "AwardDropID": "tower10_award1"
+        },
+        {
+          "EnergyValue": 550,
+          "AwardDropID": "tower10_award2"
+        },
+        {
+          "EnergyValue": 880,
+          "AwardDropID": "tower10_award3"
+        },
+        {
+          "EnergyValue": 1210,
+          "AwardDropID": "tower10_award4"
+        },
+        {
+          "EnergyValue": 1540,
+          "AwardDropID": "tower10_award5"
+        },
+        {
+          "EnergyValue": 1870,
+          "AwardDropID": "tower10_award6"
+        },
+        {
+          "EnergyValue": 2200,
+          "AwardDropID": "tower10_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 60,
+      "RelateSpotPhotoNum": 3,
+      "RelateYahahaNum": 147,
+      "RelateTransferPointNum": 7,
+      "RelateSingleCloneNum": 0,
+      "RelateTowerPointNum": 0,
+      "RelateKillNpcNum": 10,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 2
+    },
+    "Tower11": {
+      "UnlockMapRegionID": -1,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "None",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "None",
+      "RelateQuestObjID": "None",
+      "NameTips": "Vera",
+      "LocationTips": "Quicksand Belt",
+      "BriefTips": "During the exploration of the current area, activating <DeepBlue>supply pods</> or <DeepBlue>objects</> for the <DeepBlue>first time</> advances your <yellow>exploration progress</>. When the Quicksand Belt exploration progress reaches 40%, the Grayspace Fissure in the area will be unlocked.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_5.M_tower_6",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_liushadai.icon_liushadai",
+        "SubPath": ""
+      },
+      "FullEnergy": 1890,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 285,
+          "AwardDropID": "tower11_award1"
+        },
+        {
+          "EnergyValue": 475,
+          "AwardDropID": "tower11_award2"
+        },
+        {
+          "EnergyValue": 760,
+          "AwardDropID": "tower11_award3"
+        },
+        {
+          "EnergyValue": 1040,
+          "AwardDropID": "tower11_award4"
+        },
+        {
+          "EnergyValue": 1325,
+          "AwardDropID": "tower11_award5"
+        },
+        {
+          "EnergyValue": 1610,
+          "AwardDropID": "tower11_award6"
+        },
+        {
+          "EnergyValue": 1890,
+          "AwardDropID": "tower11_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 50,
+      "RelateSpotPhotoNum": 3,
+      "RelateYahahaNum": 111,
+      "RelateTransferPointNum": 5,
+      "RelateSingleCloneNum": 0,
+      "RelateTowerPointNum": 0,
+      "RelateKillNpcNum": 10,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 0,
+      "RelateNpcTalkNum": 0,
+      "RelateDailyFindNum": 0,
+      "RelateAreaUnlockNum": 3
+    },
+    "Tower12": {
+      "UnlockMapRegionID": -1,
+      "ReachEnergyGoal": 0,
+      "FinishMinigameID": "None",
+      "CloseCostItem": {
+        "ItemID": "None",
+        "Amount": 1,
+        "ExpLimitIndex": 0,
+        "MustDrop": true,
+        "IsBind": true,
+        "ExtraParamsStr": ""
+      },
+      "RelateQuestID": "None",
+      "RelateQuestObjID": "None",
+      "NameTips": "Mirroria",
+      "LocationTips": "Mirroria District A",
+      "BriefTips": "During the exploration of the current area, completing <DeepBlue>city exploration</> or <DeepBlue>exploration missions</> advances your <yellow>exploration progress</>.",
+      "TowerMatInst": {
+        "Path": "/Game/Resources/UI/Tower/M_tower_5.M_tower_6",
+        "SubPath": ""
+      },
+      "TowerIcon": {
+        "Path": "/Game/Resources/UI/Tower/vera_new_UI/icon_jingdu.icon_jingdu",
+        "SubPath": ""
+      },
+      "FullEnergy": 2240,
+      "EnergyInfo": [
+        {
+          "EnergyValue": 340,
+          "AwardDropID": "tower12_award1"
+        },
+        {
+          "EnergyValue": 560,
+          "AwardDropID": "tower12_award2"
+        },
+        {
+          "EnergyValue": 900,
+          "AwardDropID": "tower12_award3"
+        },
+        {
+          "EnergyValue": 1235,
+          "AwardDropID": "tower12_award4"
+        },
+        {
+          "EnergyValue": 1570,
+          "AwardDropID": "tower12_award5"
+        },
+        {
+          "EnergyValue": 1905,
+          "AwardDropID": "tower12_award6"
+        },
+        {
+          "EnergyValue": 2240,
+          "AwardDropID": "tower12_award7"
+        }
+      ],
+      "RelateTreasureBoxNum": 40,
+      "RelateSpotPhotoNum": 0,
+      "RelateYahahaNum": 100,
+      "RelateTransferPointNum": 0,
+      "RelateSingleCloneNum": 0,
+      "RelateTowerPointNum": 0,
+      "RelateKillNpcNum": 0,
+      "RelateGatherNum": 0,
+      "RelateNewPhotoNum": 0,
+      "RelateEnergyTaskNum": 18,
+      "RelateNpcTalkNum": 30,
+      "RelateDailyFindNum": 6,
+      "RelateAreaUnlockNum": 0
+    }
+  }
+  }
+]

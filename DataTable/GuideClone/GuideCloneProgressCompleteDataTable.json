@@ -1,0 +1,79 @@
+[
+  {
+    "Export": {
+      "Name": "GuideCloneProgressCompleteDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "BYK": {
+      "Operations": [
+        {
+          "WeaponID": "Immortal_thunder",
+          "OperateGE": [
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee1_damage.GE_ImmortalMelee1_damage_C",
+              "SubPath": ""
+            }
+          ],
+          "bMustOrder": true
+        },
+        {
+          "WeaponID": "Immortal_thunder",
+          "OperateGE": [
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee2_damage.GE_ImmortalMelee2_damage_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee2_1_damage.GE_ImmortalMelee2_1_damage_C",
+              "SubPath": ""
+            }
+          ],
+          "bMustOrder": false
+        },
+        {
+          "WeaponID": "Immortal_thunder",
+          "OperateGE": [
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee3_1_damage.GE_ImmortalMelee3_1_damage_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee3_2_damage.GE_ImmortalMelee3_2_damage_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee3_damage.GE_ImmortalMelee3_damage_C",
+              "SubPath": ""
+            }
+          ],
+          "bMustOrder": false
+        },
+        {
+          "WeaponID": "Immortal_thunder",
+          "OperateGE": [
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee4_damage.GE_ImmortalMelee4_damage_C",
+              "SubPath": ""
+            }
+          ],
+          "bMustOrder": true
+        },
+        {
+          "WeaponID": "Immortal_thunder",
+          "OperateGE": [
+            {
+              "Path": "/Game/Resources/Abilities/Player/Immortal/Damage/GE_ImmortalMelee5_damage.GE_ImmortalMelee5_damage_C",
+              "SubPath": ""
+            }
+          ],
+          "bMustOrder": true
+        }
+      ]
+    }
+  }
+  }
+]

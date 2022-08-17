@@ -1,0 +1,25 @@
+[
+  {
+    "Export": {
+      "Name": "GuildSceneActivityDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GuildCampfire": {
+      "ActivityContentWidgetClass": {
+        "Path": "/Game/SevenForest/Blueprint/UI/Guild/ActivityContentSlots/UI_GuildScene_ActivityContentSlot_GuildCampfire_BP.UI_GuildScene_ActivityContentSlot_GuildCampfire_BP_C",
+        "SubPath": ""
+      }
+    },
+    "GuildAnswer": {
+      "ActivityContentWidgetClass": {
+        "Path": "/Game/SevenForest/Blueprint/UI/Guild/ActivityContentSlots/UI_GuildScene_ActivityContentSlot_GuildAnswer.UI_GuildScene_ActivityContentSlot_GuildAnswer_C",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

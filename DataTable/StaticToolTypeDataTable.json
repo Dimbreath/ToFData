@@ -1,0 +1,37 @@
+[
+  {
+    "Export": {
+      "Name": "StaticToolTypeDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "STATIC_TOOL_TYPE_HP": {
+      "Icon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_Item_hp.icon_Item_hp",
+        "SubPath": ""
+      }
+    },
+    "STATIC_TOOL_TYPE_ENERGY": {
+      "Icon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_Item_energy.icon_Item_energy",
+        "SubPath": ""
+      }
+    },
+    "STATIC_TOOL_TYPE_CAPITAL": {
+      "Icon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "STATIC_TOOL_TYPE_EXP": {
+      "Icon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,1291 @@
+[
+  {
+    "Export": {
+      "Name": "AvatarConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Avatar01": {
+      "Name": "Initial Avatar: Female",
+      "bAutoUnlock": true,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_01.avatar_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_01_s.avatar_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "May you be calm and persistent, give your all to the things you love, and come back with fruitful results.",
+      "UnlockDescription": "Default Avatar"
+    },
+    "Avatar02": {
+      "Name": "Initial Avatar: Male",
+      "bAutoUnlock": true,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_02.avatar_02",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_02_s.avatar_02_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "There are so many people in this world, yet you met me.",
+      "UnlockDescription": "Default Avatar"
+    },
+    "Avatar03": {
+      "Name": "Shirli",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_shali.avatar_shali",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_shali_s.avatar_shali_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Remember not to burn the food again!",
+      "UnlockDescription": "Obtain by purchasing the First Advanced Pass"
+    },
+    "Avatar04": {
+      "Name": "Zeke",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_xiazuo.avatar_xiazuo",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_xiazuo_s.avatar_xiazuo_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I want to spend my days with my family in peace and quiet, but that's just an unrealistic delusion in the last days.",
+      "UnlockDescription": "None"
+    },
+    "kefu": {
+      "Name": "None",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": true,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_10.avatar_11",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_10_s.avatar_10_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "meilier": {
+      "Name": "Meryl",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_meilier.touxiang_meilier",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_meilier_s.touxiang_meilier_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Aloof",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "Avatar05": {
+      "Name": "Frigg",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_fulijia.avatar_fulijia",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_fulijia_s.avatar_fulijia_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Perhaps she'd appreciate you if you weren't opposing her?",
+      "UnlockDescription": "Obtain by purchasing the Second Advanced Pass"
+    },
+    "Avatar06": {
+      "Name": "Nemesis",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_naimeixisi.avatar_naimeixisi",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_naimeixisi_s.avatar_naimeixisi_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Are you Shirli or something else now?",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "Avatar07": {
+      "Name": "Aegis",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_yixisi.avatar_yixisi",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_yixisi_s.avatar_yixisi_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "\"Ready to be my next masterpiece?\"",
+      "UnlockDescription": "Obtained by purchasing the Third Advanced Pass"
+    },
+    "Avatar08": {
+      "Name": "Seele",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_xier.avatar_xier",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/avatar_xier_s.avatar_xier_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "The adorable appearance befits the playful cruelty.",
+      "UnlockDescription": "Locked"
+    },
+    "aige": {
+      "Name": "Echo",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_aige.touxiang_aige",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_aige_s.touxiang_aige_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Good or bad? You be the judge.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "bailing": {
+      "Name": "Bai Ling",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_bailing.touxiang_bailing",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_bailing_s.touxiang_bailing_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Could you stop looking at me like that? You're embarrassing me.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "gulan": {
+      "Name": "Cobalt-B",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_gulan.touxiang_gulan",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_gulan_s.touxiang_gulan_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Through the blue cobalt glass, we can observe the actual color of the flame of burning metal.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "hida": {
+      "Name": "Hilda",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_hilda.touxiang_hilda",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_hilda_s.touxiang_hilda_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Move your body to the music by the sea. Let your thoughts drift with the waves to the other side.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "kekelite": {
+      "Name": "Cocoritter",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_kekelite.touxiang_kekelite",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_kekelite_s.touxiang_kekelite_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Sugar, stuffed toys, and all the sweet and gentle things in the world.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "kelaodiya": {
+      "Name": "Claudia",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_kelaodiya.touxiang_kelaodiya",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_kelaodiya_s.touxiang_kelaodiya_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Come to me if you need any help. I'll do my best.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "king": {
+      "Name": "KING",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_king.touxiang_king",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_king_s.touxiang_king_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I've been told millions of times that there's a fierce look in my eyes. Not sure how much these sunglasses will help with that.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "ling": {
+      "Name": "Zero",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_ling.touxiang_ling",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_ling_s.touxiang_ling_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Analyzing data. Please don't bother me for now.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "saimier": {
+      "Name": "Samir",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_saimier.touxiang_saimier",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_saimier_s.touxiang_saimier_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "There must be an unsolvable mystery, an endless road, and an unpredictable future.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "sifengyuanyu": {
+      "Name": "Tsubasa",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_sifengyuanyu.touxiang_sifengyuanyu",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_sifengyuanyu_s.touxiang_sifengyuanyu_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Her eyes wander because she's always on guard for the invisible dangers in the air.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "peipei": {
+      "Name": "Pepper",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_susan.touxiang_susan",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_susan_s.touxiang_susan_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Wearing a smile at work is a demand she requires of herself.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "wuwan": {
+      "Name": "Crow",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_wuwan.touxiang_wuwan",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_wuwan_s.touxiang_wuwan_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "As an entertainer, I certainly want your eyes on me all the time.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "xi": {
+      "Name": "Ene",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xi.touxiang_xi",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xi_s.touxiang_xi_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Your curious buddy is here!",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "xiluo": {
+      "Name": "Shiro",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xiluo.touxiang_xiluo",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xiluo_s.touxiang_xiluo_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Keep your distance and be patient. A gentle reminder: you might get attacked by the kitty claw if you stare at her for too long.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "xiuma": {
+      "Name": "Huma",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xiuma.touxiang_xiuma",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xiuma_s.touxiang_xiuma_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Like a blank piece of paper waiting for you to paint on it.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "Avatar09": {
+      "Name": "Tata",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar09.Avatar09",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar09_s.Avatar09_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "A lazy smart servant who offers the help you need when necessary.",
+      "UnlockDescription": "Locked"
+    },
+    "make": {
+      "Name": "Marc",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_make.touxiang_make",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_make_s.touxiang_make_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Every one of us is a unique creation.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "baiyuekui": {
+      "Name": "Bai Yuekui",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_baiyuekui.touxiang_baiyuekui",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_baiyuekui_s.touxiang_baiyuekui_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "All sentient beings share the same pure and perfect spark essence of enlightenment.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "Avatar10": {
+      "Name": "Happy New Year",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar10.Avatar10",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar10_s.Avatar10_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I wanted to personally give this to you—a New Year's gift from Mi-a.",
+      "UnlockDescription": "Locked"
+    },
+    "Avatar11": {
+      "Name": "May All Go Well",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar11.Avatar11",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar11_s.Avatar11_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I believe these are called \"fireworks\"...? I wonder if they would look nicer on your Jetpack...",
+      "UnlockDescription": "Locked"
+    },
+    "Avatar12": {
+      "Name": "Angel Frigg",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar12.Avatar12",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar12_s.Avatar12_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "She isn't a demon, after all.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "Avatar13": {
+      "Name": "Alf",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_jixiemao.touxiang_zhipu_jixiemao",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_jixiemao_s.touxiang_zhipu_jixiemao_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Alf looks like a lucky cat! Could it bring me good luck if I hug it every day?",
+      "UnlockDescription": "Exchange at the Artificial Island: Construction Store"
+    },
+    "Avatar14": {
+      "Name": "Peanut",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_mao.touxiang_zhipu_mao",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_mao_s.touxiang_zhipu_mao_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "The first-gen smart servant with outstanding performance. Your trustworthy friend.",
+      "UnlockDescription": "Exchange at the Artificial Island: Construction Store"
+    },
+    "Avatar15": {
+      "Name": "Smarty",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_huli.touxiang_zhipu_huli",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_huli_s.touxiang_zhipu_huli_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Smart fox Smarty is here!",
+      "UnlockDescription": "Exchange at the Artificial Island: Construction Store"
+    },
+    "Avatar16": {
+      "Name": "Mad Dumont",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_nangua.touxiang_zhipu_nangua",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_nangua_s.touxiang_zhipu_nangua_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Mad Dumont, a once-popular electric pet, is now your smart servant companion.",
+      "UnlockDescription": "Exchange at the Artificial Island: Construction Store"
+    },
+    "Avatar17": {
+      "Name": "Tartarus",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_gui.touxiang_zhipu_gui",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_zhipu_gui_s.touxiang_zhipu_gui_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Its prototype was the most popular children's toy before the Cataclysm. Recently, its manufacturer has invented a brand new smart servant called \"Tartarus.\"",
+      "UnlockDescription": "Exchange at the Artificial Island: Construction Store"
+    },
+    "Avatar18": {
+      "Name": "Infernal Steel Lizard",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar18.Avatar18",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar18_s.Avatar18_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "What are you staring at? Taste my steel lizard tail!",
+      "UnlockDescription": "From events"
+    },
+    "leibei": {
+      "Name": "Ruby",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_leibei.touxiang_leibei",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_leibei_s.touxiang_leibei_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Spark and bunnies sent an invitation to the ball. Don't be late!",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "Avatar19": {
+      "Name": "Song of the Puppet",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar19.Avatar19",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar19_s.Avatar19_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "She was shouting, she was dancing, and she was sobbing.",
+      "UnlockDescription": "Obtained from Golden Sands"
+    },
+    "Avatar20": {
+      "Name": "Dolly",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar20.Avatar20",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar20_s.Avatar20_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Dolly is unique to me, and I am unique to Dolly...",
+      "UnlockDescription": "Obtained by purchasing the Fourth Advanced Pass"
+    },
+    "Avatar21": {
+      "Name": "Mi-a's Dream",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar21.Avatar21",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar21_s.Avatar21_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "While asleep, does Mi-a dream about... me and Shirli?",
+      "UnlockDescription": "From events"
+    },
+    "Avatar22": {
+      "Name": "Strawberry Afternoon",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar22.Avatar22",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar22_s.Avatar22_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Why does the crow look like a desk?",
+      "UnlockDescription": "From events"
+    },
+    "Avatar23": {
+      "Name": "Hanna",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar23.Avatar23",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar23_s.Avatar23_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Welcome to Cetus Island! Let me show you around.",
+      "UnlockDescription": "Obtained by purchasing the Fifth Advanced Pass"
+    },
+    "Avatar24": {
+      "Name": "Sticky Rice Ball",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar24.Avatar24",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar24_s.Avatar24_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Let me guess, am I holding a sweet dumpling or meat dumpling? Oh, I've got it right!",
+      "UnlockDescription": "From events"
+    },
+    "Avatar25": {
+      "Name": "Pure White Core",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar25.Avatar25",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar25_s.Avatar25_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Purple fades, and while light shone through. It's a new force that can light up the night sky.",
+      "UnlockDescription": "From events"
+    },
+    "bupoxiao": {
+      "Name": "Saki Fuwa",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_bupoxiao.touxiang_bupoxiao",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_bupoxiao_s.touxiang_bupoxiao_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I will attack in Saki Fuwa form.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "breakfate_avatar_monster": {
+      "Name": "Wildling",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_xiaoguai.boss_head_xiaoguai",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_xiaoguai.boss_head_xiaoguai",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "breakfate_avatar_poison": {
+      "Name": "Omnium Radiation",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_du.boss_head_du",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_du.boss_head_du",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "Boss_hum_007_chiji": {
+      "Name": "Hyenatron",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_01.boss_head_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_01.boss_head_01",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "Boss_hum_001_chiji": {
+      "Name": "Aberrant Franken",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_02.boss_head_02",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_02.boss_head_02",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "Boss_hum_016_BS_chiji": {
+      "Name": "Greenbird",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_03.boss_head_03",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/boss_head_03.boss_head_03",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "breakfate_avatar_character": {
+      "Name": "Self",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/breakfate_avatar_myself.breakfate_avatar_myself",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/breakfate_avatar_myself.breakfate_avatar_myself",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "breakfate_avatar_other": {
+      "Name": "Others",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/breakfate_avatar_other.breakfate_avatar_other",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/BreakFate/dead_detail/breakfate_avatar_other.breakfate_avatar_other",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "Avatar26": {
+      "Name": "Kitty Coast",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar26.Avatar26",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar26_s.Avatar26_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I'm gonna get splashed! Meow!",
+      "UnlockDescription": "From events"
+    },
+    "Avatar27": {
+      "Name": "Celebration Memories",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar27.Avatar27",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar27_s.Avatar27_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Do you remember the funny things that happened at the Graceday Celebration, little goldfish?",
+      "UnlockDescription": "From events"
+    },
+    "Avatar28": {
+      "Name": "Summer Celebration Mechanic",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar28.Avatar28",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar28_s.Avatar28_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Testing the new entertainment equipment is for the celebration activities, while she adjusted herself through the celebration.",
+      "UnlockDescription": "From events"
+    },
+    "Avatar29": {
+      "Name": "Fledgling",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar29.Avatar29",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar29_s.Avatar29_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "This is the first person you meet at the beginning of a new, clean slate journey.",
+      "UnlockDescription": "From events"
+    },
+    "Avatar30": {
+      "Name": "Joy Ride",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar30.Avatar30",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar30_s.Avatar30_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Little Red Riding Hood carefully prepared a basket full of snacks and went out to play with her sister!",
+      "UnlockDescription": "From events"
+    },
+    "Avatar31": {
+      "Name": "31",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar31.Avatar31",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar31_s.Avatar31_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "31des",
+      "UnlockDescription": "Obtained by purchasing the Sixth Advanced Pass"
+    },
+    "Avatar32": {
+      "Name": "32",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar32.Avatar32",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar32_s.Avatar32_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "32des",
+      "UnlockDescription": "From events"
+    },
+    "Avatar33": {
+      "Name": "33",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar33.Avatar33",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar33_s.Avatar33_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "33des",
+      "UnlockDescription": "From events"
+    },
+    "Avatar34": {
+      "Name": "34",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar34.Avatar34",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar34_s.Avatar34_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "34des",
+      "UnlockDescription": "From events"
+    },
+    "Avatar35": {
+      "Name": "35",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar35.Avatar35",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/Avatar35_s.Avatar35_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "35des",
+      "UnlockDescription": "From events"
+    },
+    "linye": {
+      "Name": "Lin",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_linye.touxiang_linye",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_linye_s.touxiang_linye_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "She did allow her fans to use her photos, provided that it was not for commercial purposes, and only minor post-processing was done.",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    },
+    "Avatar_Overseas_2": {
+      "Name": "Zeke: Awakening",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_TX_Xiazuo_01.Avatar_TX_Xiazuo_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_TX_Xiazuo_01_s.Avatar_TX_Xiazuo_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Maybe ol' Zeke can even be cute sometimes?",
+      "UnlockDescription": "Log in from PC to receive Milestone Rewards"
+    },
+    "Avatar_Overseas_3": {
+      "Name": "Shirli: Awakening",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_TX_Shali_01.Avatar_TX_Shali_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_TX_Shali_01_s.Avatar_TX_Shali_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "\"Do I look silly to you when I smile?\" Some dumb cute girl said so while swinging her fists.",
+      "UnlockDescription": "Log in from Android to receive Milestone Rewards"
+    },
+    "Avatar_Overseas_4": {
+      "Name": "Nemesis: Awakening",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_TX_Naimeixisi_01.Avatar_TX_Naimeixisi_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_TX_Naimeixisi_01_s.Avatar_TX_Naimeixisi_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Indifference is just her self-protection.",
+      "UnlockDescription": "Log in from iOS to receive Milestone Rewards"
+    },
+    "Avatar_korea_2": {
+      "Name": "Mi-a: Cute Version",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_KO_Mia_01.Avatar_KO_Mia_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_KO_Mia_01_s.Avatar_KO_Mia_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Mi-a is currently executing the dressing sequence, please wait.",
+      "UnlockDescription": "Publish in the operation community"
+    },
+    "Avatar_korea_3": {
+      "Name": "Nemesis: Cute Version",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_KO_Naimeixisi_01.Avatar_KO_Naimeixisi_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_KO_Naimeixisi_01_s.Avatar_KO_Naimeixisi_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I think I had a dream. I saw a lot of things in this dream.",
+      "UnlockDescription": "Publish in the operation community"
+    },
+    "Avatar_korea_4": {
+      "Name": "Shirli: Cute Version",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_KO_Shali_01.Avatar_KO_Shali_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/Avatar/Avatar_KO_Shali_01_s.Avatar_KO_Shali_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Do we wanna go to Cetus Island together?",
+      "UnlockDescription": "Publish in the operation community"
+    },
+    "xinghuan": {
+      "Name": "/Game/Resources/Text/ST_item.ST_Item_Avatar_xinghuan_name",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xinghuan.touxiang_xinghuan",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/Avatar/touxiang_xinghuan_s.touxiang_xinghuan_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "/Game/Resources/Text/ST_item.ST_Item_Avatar_xinghuan_des",
+      "UnlockDescription": "Simulacrum Awakening Reward"
+    }
+  }
+  }
+]

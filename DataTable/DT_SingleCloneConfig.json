@@ -1,0 +1,1528 @@
+[
+  {
+    "Export": {
+      "Name": "DT_SingleCloneConfig",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "FB03_D": {
+      "FirstPassDropID": "digong_a1_1_2",
+      "PrototypeCloneID": "FB03_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB/HOTTA_InFB_All.HOTTA_InFB_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 230,
+      "CloneDescription": "This shattered ruin contained explosives from the past.",
+      "SortPriority": 1,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB03.FB03",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB03.ListFB03",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB03_KN_D": {
+      "FirstPassDropID": "digong_a1_1_3",
+      "PrototypeCloneID": "FB03_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB/HOTTA_InFB_All.HOTTA_InFB_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 3330,
+      "CloneDescription": "This shattered ruin contained explosives from the past.",
+      "SortPriority": 1,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB03.FB03",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB03.ListFB03",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB03_SY_D": {
+      "FirstPassDropID": "digong_a1_1_4",
+      "PrototypeCloneID": "FB03_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB/HOTTA_InFB_All.HOTTA_InFB_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 11800,
+      "CloneDescription": "This shattered ruin contained explosives from the past.",
+      "SortPriority": 1,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB03.FB03",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB03.ListFB03",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB04_D": {
+      "FirstPassDropID": "digong_a1_2_2",
+      "PrototypeCloneID": "FB04_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_002/HOTTA_InFB_002_All.HOTTA_InFB_002_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 600,
+      "CloneDescription": "Keep everything you encountered in this ruin to yourself, lest you want to be trapped here forever.",
+      "SortPriority": 2,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB04.FB04",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB04.ListFB04",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB04_KN_D": {
+      "FirstPassDropID": "digong_a1_2_3",
+      "PrototypeCloneID": "FB04_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_002/HOTTA_InFB_002_All.HOTTA_InFB_002_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 4480,
+      "CloneDescription": "Keep everything you encountered in this ruin to yourself, lest you want to be trapped here forever.",
+      "SortPriority": 2,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB04.FB04",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB04.ListFB04",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB04_SY_D": {
+      "FirstPassDropID": "digong_a1_2_4",
+      "PrototypeCloneID": "FB04_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_002/HOTTA_InFB_002_All.HOTTA_InFB_002_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 16880,
+      "CloneDescription": "Keep everything you encountered in this ruin to yourself, lest you want to be trapped here forever.",
+      "SortPriority": 2,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB04.FB04",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB04.ListFB04",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB01_D": {
+      "FirstPassDropID": "digong_a1_3_2",
+      "PrototypeCloneID": "FB01_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_003/HOTTA_InFB_003_All.HOTTA_InFB_003_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 1090,
+      "CloneDescription": "Tunnels going who-knows-where with caverns filled with unknown, dangerous creatures. Everything about this place is terrifying.",
+      "SortPriority": 3,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB01.FB01",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB01.ListFB01",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB01_KN_D": {
+      "FirstPassDropID": "digong_a1_3_3",
+      "PrototypeCloneID": "FB01_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_003/HOTTA_InFB_003_All.HOTTA_InFB_003_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 5470,
+      "CloneDescription": "Tunnels going who-knows-where with caverns filled with unknown, dangerous creatures. Everything about this place is terrifying.",
+      "SortPriority": 3,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB01.FB01",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB01.ListFB01",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB01_SY_D": {
+      "FirstPassDropID": "digong_a1_3_4",
+      "PrototypeCloneID": "FB01_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_003/HOTTA_InFB_003_All.HOTTA_InFB_003_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 23080,
+      "CloneDescription": "Tunnels going who-knows-where with caverns filled with unknown, dangerous creatures. Everything about this place is terrifying.",
+      "SortPriority": 3,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB01.FB01",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB01.ListFB01",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB05_D": {
+      "FirstPassDropID": "digong_a2_4_2",
+      "PrototypeCloneID": "FB05_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B01/HOTTA_InFB_B01_All.HOTTA_InFB_B01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 1760,
+      "CloneDescription": "Do you have any idea how treacherous this place is? It's the abyss of no return since you have no way of turning back now.",
+      "SortPriority": 4,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB05.FB05",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB05.ListFB05",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB05_KN_D": {
+      "FirstPassDropID": "digong_a2_4_3",
+      "PrototypeCloneID": "FB05_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B01/HOTTA_InFB_B01_All.HOTTA_InFB_B01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 7820,
+      "CloneDescription": "Do you have any idea how treacherous this place is? It's the abyss of no return since you have no way of turning back now.",
+      "SortPriority": 4,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB05.FB05",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB05.ListFB05",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallice_C"
+      ]
+    },
+    "FB05_SY_D": {
+      "FirstPassDropID": "digong_a2_4_4",
+      "PrototypeCloneID": "FB05_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B01/HOTTA_InFB_B01_All.HOTTA_InFB_B01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 31390,
+      "CloneDescription": "Do you have any idea how treacherous this place is? It's the abyss of no return since you have no way of turning back now.",
+      "SortPriority": 4,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB05.FB05",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB05.ListFB05",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallice_C"
+      ]
+    },
+    "FB06_D": {
+      "FirstPassDropID": "digong_a2_5_2",
+      "PrototypeCloneID": "FB06_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B02/HOTTA_InFB_B02_All.HOTTA_InFB_B02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 2490,
+      "CloneDescription": "No technologies or civilizations here, just leftover air of desolation and unknown dangers.",
+      "SortPriority": 5,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB06.FB06",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB06.ListFB06",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB06_KN_D": {
+      "FirstPassDropID": "digong_a2_5_3",
+      "PrototypeCloneID": "FB06_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B02/HOTTA_InFB_B02_All.HOTTA_InFB_B02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 15800,
+      "CloneDescription": "No technologies or civilizations here, just leftover air of desolation and unknown dangers.",
+      "SortPriority": 5,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB06.FB06",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB06.ListFB06",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB06_SY_D": {
+      "FirstPassDropID": "digong_a2_5_4",
+      "PrototypeCloneID": "FB06_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B02/HOTTA_InFB_B02_All.HOTTA_InFB_B02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 50020,
+      "CloneDescription": "No technologies or civilizations here, just leftover air of desolation and unknown dangers.",
+      "SortPriority": 5,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB06.FB06",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB06.ListFB06",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB02_D": {
+      "FirstPassDropID": "digong_a2_6_2",
+      "PrototypeCloneID": "FB02_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B03/HOTTA_InFB_B03_All.HOTTA_InFB_B03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 3530,
+      "CloneDescription": "Ever heard of the Curse of the Ruin? That's the hex you get when you just barge into ruins recklessly.",
+      "SortPriority": 6,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB02.FB02",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB02.ListFB02",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB02_KN_D": {
+      "FirstPassDropID": "digong_a2_6_3",
+      "PrototypeCloneID": "FB02_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B03/HOTTA_InFB_B03_All.HOTTA_InFB_B03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 19000,
+      "CloneDescription": "Ever heard of the Curse of the Ruin? That's the hex you get when you just barge into ruins recklessly.",
+      "SortPriority": 6,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB02.FB02",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB02.ListFB02",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB02_SY_D": {
+      "FirstPassDropID": "digong_a2_6_4",
+      "PrototypeCloneID": "FB02_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_B03/HOTTA_InFB_B03_All.HOTTA_InFB_B03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 59320,
+      "CloneDescription": "Ever heard of the Curse of the Ruin? That's the hex you get when you just barge into ruins recklessly.",
+      "SortPriority": 6,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB02.FB02",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB02.ListFB02",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB25_D": {
+      "FirstPassDropID": "digong_a3_7_2",
+      "PrototypeCloneID": "FB25_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C01/HOTTA_InFB_C01_All.HOTTA_InFB_C01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 4310,
+      "CloneDescription": "As long as you're alive, you'll feel pain. Glad to see you, my favorite patron.",
+      "SortPriority": 7,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB25.FB25",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB25.ListFB25",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB25_KN_D": {
+      "FirstPassDropID": "digong_a3_7_3",
+      "PrototypeCloneID": "FB25_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C01/HOTTA_InFB_C01_All.HOTTA_InFB_C01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 22850,
+      "CloneDescription": "As long as you're alive, you'll feel pain. Glad to see you, my favorite patron.",
+      "SortPriority": 7,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB25.FB25",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB25.ListFB25",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB25_SY_D": {
+      "FirstPassDropID": "digong_a3_7_4",
+      "PrototypeCloneID": "FB25_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C01/HOTTA_InFB_C01_All.HOTTA_InFB_C01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 60900,
+      "CloneDescription": "As long as you're alive, you'll feel pain. Glad to see you, my favorite patron.",
+      "SortPriority": 7,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB25.FB25",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB25.ListFB25",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB09_D": {
+      "FirstPassDropID": "digong_a3_8_2",
+      "PrototypeCloneID": "FB09_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C02/HOTTA_InFB_C02_All.HOTTA_InFB_C02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 5200,
+      "CloneDescription": "Life is an endless cycle of past and future. Do you belong to the future or the past?",
+      "SortPriority": 8,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB09.FB09",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB09.ListFB09",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB09_KN_D": {
+      "FirstPassDropID": "digong_a3_8_3",
+      "PrototypeCloneID": "FB09_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C02/HOTTA_InFB_C02_All.HOTTA_InFB_C02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 25840,
+      "CloneDescription": "Life is an endless cycle of past and future. Do you belong to the future or the past?",
+      "SortPriority": 8,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB09.FB09",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB09.ListFB09",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB09_SY_D": {
+      "FirstPassDropID": "digong_a3_8_4",
+      "PrototypeCloneID": "FB09_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C02/HOTTA_InFB_C02_All.HOTTA_InFB_C02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 62510,
+      "CloneDescription": "Life is an endless cycle of past and future. Do you belong to the future or the past?",
+      "SortPriority": 8,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB09.FB09",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB09.ListFB09",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB07_D": {
+      "FirstPassDropID": "digong_a3_9_2",
+      "PrototypeCloneID": "FB07_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C03/HOTTA_InFB_C03_All.HOTTA_InFB_C03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 6220,
+      "CloneDescription": "Here, there is only death knell and no salvation. You'll regret coming.",
+      "SortPriority": 9,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB07.FB07",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB07.ListFB07",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB07_KN_D": {
+      "FirstPassDropID": "digong_a3_9_3",
+      "PrototypeCloneID": "FB07_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C03/HOTTA_InFB_C03_All.HOTTA_InFB_C03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 29320,
+      "CloneDescription": "Here, there is only death knell and no salvation. You'll regret coming.",
+      "SortPriority": 9,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB07.FB07",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB07.ListFB07",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB07_SY_D": {
+      "FirstPassDropID": "digong_a3_9_4",
+      "PrototypeCloneID": "FB07_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_C03/HOTTA_InFB_C03_All.HOTTA_InFB_C03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 64170,
+      "CloneDescription": "Here, there is only death knell and no salvation. You'll regret coming.",
+      "SortPriority": 9,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB07.FB07",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB07.ListFB07",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB08_D": {
+      "FirstPassDropID": "digong_a4_10_2",
+      "PrototypeCloneID": "FB08_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D01/HOTTA_InFB_D01_All.HOTTA_InFB_D01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 7440,
+      "CloneDescription": "We're the same, just machines created to kill.",
+      "SortPriority": 10,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB08.FB08",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB08.ListFB08",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB08_KN_D": {
+      "FirstPassDropID": "digong_a4_10_3",
+      "PrototypeCloneID": "FB08_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D01/HOTTA_InFB_D01_All.HOTTA_InFB_D01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 30600,
+      "CloneDescription": "We're the same, just machines created to kill.",
+      "SortPriority": 10,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB08.FB08",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB08.ListFB08",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB08_SY_D": {
+      "FirstPassDropID": "digong_a4_10_4",
+      "PrototypeCloneID": "FB08_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D01/HOTTA_InFB_D01_All.HOTTA_InFB_D01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 65880,
+      "CloneDescription": "We're the same, just machines created to kill.",
+      "SortPriority": 10,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB08.FB08",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB08.ListFB08",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddFireAtkFoodBase.buff_AddFireAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Flame Vulnerability: Increase flame damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallfire_C"
+      ]
+    },
+    "FB13_D": {
+      "FirstPassDropID": "digong_a4_11_2",
+      "PrototypeCloneID": "FB13_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D02/HOTTA_InFB_D02_All.HOTTA_InFB_D02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 8900,
+      "CloneDescription": "Another one? Will he be a begrudging lost spirit or the hero who frees?",
+      "SortPriority": 11,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB13.FB13",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB13.ListFB13",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB13_KN_D": {
+      "FirstPassDropID": "digong_a4_11_3",
+      "PrototypeCloneID": "FB13_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D02/HOTTA_InFB_D02_All.HOTTA_InFB_D02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 31940,
+      "CloneDescription": "Another one? Will he be a begrudging lost spirit or the hero who frees?",
+      "SortPriority": 11,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB13.FB13",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB13.ListFB13",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB13_SY_D": {
+      "FirstPassDropID": "digong_a4_11_4",
+      "PrototypeCloneID": "FB13_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D02/HOTTA_InFB_D02_All.HOTTA_InFB_D02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 67620,
+      "CloneDescription": "Another one? Will he be a begrudging lost spirit or the hero who frees?",
+      "SortPriority": 11,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB13.FB13",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB13.ListFB13",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB29_D": {
+      "FirstPassDropID": "digong_a4_12_2",
+      "PrototypeCloneID": "FB29_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D03/HOTTA_InFB_D03_All.HOTTA_InFB_D03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 10640,
+      "CloneDescription": "Regret, despair, and lament! Here, they're one!",
+      "SortPriority": 12,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB29.FB29",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB29.ListFB29",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": null,
+      "MonsterWeaknessBuff": []
+    },
+    "FB29_KN_D": {
+      "FirstPassDropID": "digong_a4_12_3",
+      "PrototypeCloneID": "FB29_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D03/HOTTA_InFB_D03_All.HOTTA_InFB_D03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 33330,
+      "CloneDescription": "Regret, despair, and lament! Here, they're one!",
+      "SortPriority": 12,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB29.FB29",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB29.ListFB29",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_115_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB29_SY_D": {
+      "FirstPassDropID": "digong_a4_12_4",
+      "PrototypeCloneID": "FB29_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_D03/HOTTA_InFB_D03_All.HOTTA_InFB_D03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 69420,
+      "CloneDescription": "Regret, despair, and lament! Here, they're one!",
+      "SortPriority": 12,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB29.FB29",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB29.ListFB29",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddPhyAtkFoodBase.buff_AddPhyAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Physical Vulnerability: Increase physical damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_145_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallphy_C"
+      ]
+    },
+    "FB10_D": {
+      "FirstPassDropID": "digong_a5_13_2",
+      "PrototypeCloneID": "FB10_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E01/HOTTA_InFB_E01_All.HOTTA_InFB_E01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 13000,
+      "CloneDescription": "In here, you'll lose your name, life, everything... Unless you can get out alive.",
+      "SortPriority": 13,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB10.FB10",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB10.ListFB10",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": "SingleClone_buff_105_C",
+      "MonsterWeaknessBuff": []
+    },
+    "FB10_KN_D": {
+      "FirstPassDropID": "digong_a5_13_3",
+      "PrototypeCloneID": "FB10_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E01/HOTTA_InFB_E01_All.HOTTA_InFB_E01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 36310,
+      "CloneDescription": "In here, you'll lose your name, life, everything... Unless you can get out alive.",
+      "SortPriority": 13,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB10.FB10",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB10.ListFB10",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_120_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallice_C"
+      ]
+    },
+    "FB10_SY_D": {
+      "FirstPassDropID": "digong_a5_13_4",
+      "PrototypeCloneID": "FB10_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E01/HOTTA_InFB_E01_All.HOTTA_InFB_E01_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 71260,
+      "CloneDescription": "In here, you'll lose your name, life, everything... Unless you can get out alive.",
+      "SortPriority": 13,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB10.FB10",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB10.ListFB10",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_155_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallice_C"
+      ]
+    },
+    "FB14_D": {
+      "FirstPassDropID": "digong_a5_14_2",
+      "PrototypeCloneID": "FB14_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E02/HOTTA_InFB_E02_All.HOTTA_InFB_E02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 14700,
+      "CloneDescription": "So quiet here. We seem to be the only ones here. Let's all rest in peace!",
+      "SortPriority": 14,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB14.FB14",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB14.ListFB14",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": "SingleClone_buff_105_C",
+      "MonsterWeaknessBuff": []
+    },
+    "FB14_KN_D": {
+      "FirstPassDropID": "digong_a5_14_3",
+      "PrototypeCloneID": "FB14_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E02/HOTTA_InFB_E02_All.HOTTA_InFB_E02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 39550,
+      "CloneDescription": "So quiet here. We seem to be the only ones here. Let's all rest in peace!",
+      "SortPriority": 14,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB14.FB14",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB14.ListFB14",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_120_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB14_SY_D": {
+      "FirstPassDropID": "digong_a5_14_4",
+      "PrototypeCloneID": "FB14_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E02/HOTTA_InFB_E02_All.HOTTA_InFB_E02_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 73150,
+      "CloneDescription": "So quiet here. We seem to be the only ones here. Let's all rest in peace!",
+      "SortPriority": 14,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB14.FB14",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB14.ListFB14",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddThunderAtkFoodBase.buff_AddThunderAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Volt Vulnerability: Increase volt damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_155_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallthunder_C"
+      ]
+    },
+    "FB30_D": {
+      "FirstPassDropID": "digong_a5_15_2",
+      "PrototypeCloneID": "FB30_D",
+      "DifficultyLevel": 0,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E03/HOTTA_InFB_E03_All.HOTTA_InFB_E03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 18800,
+      "CloneDescription": "I beg you; take us out of here with you! Or you can stay with us...",
+      "SortPriority": 15,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB30.FB30",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB30.ListFB30",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [],
+      "MonsterBalanceBuff": "SingleClone_buff_105_C",
+      "MonsterWeaknessBuff": []
+    },
+    "FB30_KN_D": {
+      "FirstPassDropID": "digong_a5_15_3",
+      "PrototypeCloneID": "FB30_D",
+      "DifficultyLevel": 1,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E03/HOTTA_InFB_E03_All.HOTTA_InFB_E03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 41280,
+      "CloneDescription": "I beg you; take us out of here with you! Or you can stay with us...",
+      "SortPriority": 15,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB30.FB30",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB30.ListFB30",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_120_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallice_C"
+      ]
+    },
+    "FB30_SY_D": {
+      "FirstPassDropID": "digong_a5_15_4",
+      "PrototypeCloneID": "FB30_D",
+      "DifficultyLevel": 2,
+      "LeveSequenceOverride": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_InFB_E03/HOTTA_InFB_E03_All.HOTTA_InFB_E03_All",
+        "SubPath": ""
+      },
+      "AreaParticleAsset": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "RecommondBattleScore": 75090,
+      "CloneDescription": "I beg you; take us out of here with you! Or you can stay with us...",
+      "SortPriority": 15,
+      "CloneBgTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/FB30.FB30",
+        "SubPath": ""
+      },
+      "CloneSlotTexture": {
+        "Path": "/Game/Resources/UI/digong/CloneImage/ListFB30.ListFB30",
+        "SubPath": ""
+      },
+      "MonsterInfoList": [
+        {
+          "WeakImage": {
+            "Path": "/Game/Resources/Icon/buff/buff_AddIceAtkFoodBase.buff_AddIceAtkFoodBase",
+            "SubPath": ""
+          },
+          "WeakDesc": "<LblRed14>Frost Vulnerability: Increase frost damage to enemies by 75%</>"
+        }
+      ],
+      "MonsterBalanceBuff": "SingleClone_buff_155_C",
+      "MonsterWeaknessBuff": [
+        "Buff_SingleClone_smallice_C"
+      ]
+    }
+  }
+  }
+]

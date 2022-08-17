@@ -1,0 +1,339 @@
+[
+  {
+    "Export": {
+      "Name": "DT_WorldEvent",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "Title": "Crimson Corruption",
+      "Description": "From deep ground, the crimson energy has reached the surface and begun to spread slowly and uncontrollably across the land. The corruption must be contained, and soon.",
+      "MapPoint": "None",
+      "Stage1": {
+        "Title": "Phase 1: Prepare for battle",
+        "Plays": [
+          {
+            "GamePlayLimitId": "worldevent_1_2",
+            "Type": "EWorldEventType::QUEST",
+            "AwardLevel": [
+              {
+                "Award": "drop_worldevent_dailyquest",
+                "Score": 1,
+                "Contribution": 10
+              }
+            ]
+          },
+          {
+            "GamePlayLimitId": "worldevent_1_2",
+            "Type": "EWorldEventType::DONATE",
+            "AwardLevel": [
+              {
+                "Award": "drop_worldevent_dailyquest",
+                "Score": 1,
+                "Contribution": 10
+              },
+              {
+                "Award": "drop_worldevent_dailyquest",
+                "Score": 1,
+                "Contribution": 10
+              }
+            ]
+          }
+        ],
+        "ScoreAwards": [
+          {
+            "Key": 1000,
+            "Value": "drop_worldevent_totalscore1"
+          },
+          {
+            "Key": 2000,
+            "Value": "drop_worldevent_totalscore2"
+          },
+          {
+            "Key": 3000,
+            "Value": "drop_worldevent_totalscore3"
+          }
+        ],
+        "PersonalRankAwards": [
+          {
+            "Key": 1,
+            "Value": "drop_worldevent_solo_2"
+          },
+          {
+            "Key": 2,
+            "Value": "drop_worldevent_solo_3"
+          },
+          {
+            "Key": 3,
+            "Value": "drop_worldevent_solo_4"
+          },
+          {
+            "Key": 10,
+            "Value": "drop_worldevent_solo_4_11"
+          },
+          {
+            "Key": 50,
+            "Value": "drop_worldevent_solo_11_51"
+          },
+          {
+            "Key": 100,
+            "Value": "drop_worldevent_solo_51_101"
+          }
+        ],
+        "GuildRankAwards": [
+          {
+            "Key": 1,
+            "Value": "WorldBoss_Award_2"
+          },
+          {
+            "Key": 2,
+            "Value": "WorldBoss_Award_3"
+          },
+          {
+            "Key": 3,
+            "Value": "WorldBoss_Award_4"
+          },
+          {
+            "Key": 5,
+            "Value": "WorldBoss_Award_5"
+          },
+          {
+            "Key": 10,
+            "Value": "WorldBoss_Award_6"
+          },
+          {
+            "Key": 15,
+            "Value": "WorldBoss_Award_7"
+          },
+          {
+            "Key": 20,
+            "Value": "WorldBoss_Award_8"
+          },
+          {
+            "Key": 30,
+            "Value": "WorldBoss_Award_9"
+          }
+        ],
+        "MapIconDisplayDropID": "worldevent_show"
+      },
+      "Stage2": {
+        "Title": "Phase 2: Survive the initial attack",
+        "Plays": [
+          {
+            "GamePlayLimitId": "worldevent_1_3",
+            "Type": "EWorldEventType::MONSTER",
+            "AwardLevel": [
+              {
+                "Award": "drop_worldevent_dailyquest",
+                "Score": 1,
+                "Contribution": 10
+              }
+            ]
+          },
+          {
+            "GamePlayLimitId": "worldevent_1_2",
+            "Type": "EWorldEventType::DONATE",
+            "AwardLevel": [
+              {
+                "Award": "None",
+                "Score": 1,
+                "Contribution": 10
+              },
+              {
+                "Award": "None",
+                "Score": 1,
+                "Contribution": 10
+              }
+            ]
+          }
+        ],
+        "ScoreAwards": [
+          {
+            "Key": 2000,
+            "Value": "drop_worldevent_totalscore1"
+          },
+          {
+            "Key": 3000,
+            "Value": "drop_worldevent_totalscore2"
+          },
+          {
+            "Key": 4000,
+            "Value": "drop_worldevent_totalscore3"
+          }
+        ],
+        "PersonalRankAwards": [
+          {
+            "Key": 1,
+            "Value": "drop_worldevent_solo_2"
+          },
+          {
+            "Key": 2,
+            "Value": "drop_worldevent_solo_3"
+          },
+          {
+            "Key": 3,
+            "Value": "drop_worldevent_solo_4"
+          },
+          {
+            "Key": 10,
+            "Value": "drop_worldevent_solo_4_11"
+          },
+          {
+            "Key": 50,
+            "Value": "drop_worldevent_solo_11_51"
+          },
+          {
+            "Key": 100,
+            "Value": "drop_worldevent_solo_51_101"
+          }
+        ],
+        "GuildRankAwards": [
+          {
+            "Key": 1,
+            "Value": "WorldBoss_Award_2"
+          },
+          {
+            "Key": 2,
+            "Value": "WorldBoss_Award_3"
+          },
+          {
+            "Key": 3,
+            "Value": "WorldBoss_Award_4"
+          },
+          {
+            "Key": 5,
+            "Value": "WorldBoss_Award_5"
+          },
+          {
+            "Key": 10,
+            "Value": "WorldBoss_Award_6"
+          },
+          {
+            "Key": 15,
+            "Value": "WorldBoss_Award_7"
+          },
+          {
+            "Key": 20,
+            "Value": "WorldBoss_Award_8"
+          },
+          {
+            "Key": 30,
+            "Value": "WorldBoss_Award_9"
+          }
+        ],
+        "MapIconDisplayDropID": "worldevent_show"
+      },
+      "Stage3": {
+        "Title": "Phase 3: Enter the core",
+        "Plays": [
+          {
+            "GamePlayLimitId": "worldevent_1_4",
+            "Type": "EWorldEventType::BOSS",
+            "AwardLevel": [
+              {
+                "Award": "drop_worldevent_dailyquest",
+                "Score": 1,
+                "Contribution": 10
+              }
+            ]
+          },
+          {
+            "GamePlayLimitId": "worldevent_1_2",
+            "Type": "EWorldEventType::DONATE",
+            "AwardLevel": [
+              {
+                "Award": "None",
+                "Score": 1,
+                "Contribution": 10
+              },
+              {
+                "Award": "None",
+                "Score": 1,
+                "Contribution": 10
+              }
+            ]
+          }
+        ],
+        "ScoreAwards": [
+          {
+            "Key": 2000,
+            "Value": "drop_worldevent_totalscore1"
+          },
+          {
+            "Key": 3500,
+            "Value": "drop_worldevent_totalscore2"
+          },
+          {
+            "Key": 5000,
+            "Value": "drop_worldevent_totalscore3"
+          }
+        ],
+        "PersonalRankAwards": [
+          {
+            "Key": 1,
+            "Value": "drop_worldevent_solo_2"
+          },
+          {
+            "Key": 2,
+            "Value": "drop_worldevent_solo_3"
+          },
+          {
+            "Key": 3,
+            "Value": "drop_worldevent_solo_4"
+          },
+          {
+            "Key": 10,
+            "Value": "drop_worldevent_solo_4_11"
+          },
+          {
+            "Key": 50,
+            "Value": "drop_worldevent_solo_11_51"
+          },
+          {
+            "Key": 100,
+            "Value": "drop_worldevent_solo_51_101"
+          }
+        ],
+        "GuildRankAwards": [
+          {
+            "Key": 1,
+            "Value": "WorldBoss_Award_2"
+          },
+          {
+            "Key": 2,
+            "Value": "WorldBoss_Award_3"
+          },
+          {
+            "Key": 3,
+            "Value": "WorldBoss_Award_4"
+          },
+          {
+            "Key": 5,
+            "Value": "WorldBoss_Award_5"
+          },
+          {
+            "Key": 10,
+            "Value": "WorldBoss_Award_6"
+          },
+          {
+            "Key": 15,
+            "Value": "WorldBoss_Award_7"
+          },
+          {
+            "Key": 20,
+            "Value": "WorldBoss_Award_8"
+          },
+          {
+            "Key": 30,
+            "Value": "WorldBoss_Award_9"
+          }
+        ],
+        "MapIconDisplayDropID": "worldevent_show"
+      }
+    }
+  }
+  }
+]

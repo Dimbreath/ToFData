@@ -1,0 +1,76 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerDSMeleeThu_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/FPlayerDsMelee.FPlayerDsMelee",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDsEvadeThu_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/FPlayerDsEvade.FPlayerDsEvade",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDSSkillThu_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/Imitation13/FPlayerDsSkill_Imitation13.FPlayerDsSkill_Imitation13",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDsReverseJumpThu": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/FPlayerDsReverseAttack.FPlayerDsReverseAttack",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDsEvadeAttackThu_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/FPlayerDsEvadeAttackNew.FPlayerDsEvadeAttackNew",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDsSneak": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/FPlayerDsSneak.FPlayerDsSneak",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDsGlidAttackThu_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/FPlayerDsGlidAttack.FPlayerDsGlidAttack",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDSChangeSkillThu_SSR": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/Imitation13/FPlayerDsChangeSkillSSR_Imitation13.FPlayerDsChangeSkillSSR_Imitation13",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerDSMeleeThu_SSR_OS": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/male_01/Animation/Ds/Imitation13/OverSeas/FPlayerDsMelee_Imitation13_OS.FPlayerDsMelee_Imitation13_OS",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

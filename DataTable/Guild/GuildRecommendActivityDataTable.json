@@ -1,0 +1,37 @@
+[
+  {
+    "Export": {
+      "Name": "GuildRecommendActivityDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GuildTask": {
+      "RecommendActivityID": "GuildTask",
+      "bCloseGuildUI": false,
+      "PreviewBackImage": {
+        "Path": "/Game/Resources/UI/guild/guild_xx_rw01.guild_xx_rw01",
+        "SubPath": ""
+      }
+    },
+    "WorldBoss": {
+      "RecommendActivityID": "WorldBoss",
+      "bCloseGuildUI": false,
+      "PreviewBackImage": {
+        "Path": "/Game/Resources/UI/guild/guild_xx_rw03.guild_xx_rw03",
+        "SubPath": ""
+      }
+    },
+    "GuildCampfire": {
+      "RecommendActivityID": "GuildCampfire",
+      "bCloseGuildUI": false,
+      "PreviewBackImage": {
+        "Path": "/Game/Resources/UI/guild/guild_xx_rw04.guild_xx_rw04",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "Export": {
+      "Name": "RecoverConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Stamina": {
+      "FunctionName": "ReandomRuins",
+      "RecoverType": "EHottaRecoverType::Stamina",
+      "BackgroundImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NameImage": {
+        "Path": "/Game/Resources/UI/Recover/huoli.huoli",
+        "SubPath": ""
+      },
+      "AwardID": "common_retrieve",
+      "AwardAmouMax": 63,
+      "AwardRate": 20
+    },
+    "xuanshang": {
+      "FunctionName": "xuanshang",
+      "RecoverType": "EHottaRecoverType::Activity",
+      "BackgroundImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NameImage": {
+        "Path": "/Game/Resources/UI/Recover/xuanshang.xuanshang",
+        "SubPath": ""
+      },
+      "AwardID": "rewardquest_retrieve",
+      "AwardAmouMax": 28,
+      "AwardRate": 1
+    },
+    "Feed": {
+      "FunctionName": "Feed",
+      "RecoverType": "EHottaRecoverType::Activity",
+      "BackgroundImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NameImage": {
+        "Path": "/Game/Resources/UI/Recover/feed.feed",
+        "SubPath": ""
+      },
+      "AwardID": "dailycharge_retrieve",
+      "AwardAmouMax": 21,
+      "AwardRate": 1
+    },
+    "LevyClone": {
+      "FunctionName": "LevyClone",
+      "RecoverType": "EHottaRecoverType::Activity",
+      "BackgroundImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NameImage": {
+        "Path": "/Game/Resources/UI/Recover/huoli.huoli",
+        "SubPath": ""
+      },
+      "AwardID": "dailycharge_retrieve",
+      "AwardAmouMax": 1,
+      "AwardRate": 1
+    }
+  }
+  }
+]

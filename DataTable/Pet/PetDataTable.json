@@ -1,0 +1,6214 @@
+[
+  {
+    "Export": {
+      "Name": "PetDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "pet_010101": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 5,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 20,
+          "Y": -100,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 2,
+          "Y": 2,
+          "Z": 2
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_01.pet_01",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_N",
+      "ItemQuality": "ITEM_QUALITY_COMMON",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010101",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_010201": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 10,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_013/Pet_013.Pet_013_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_01.pet_01",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_R",
+      "ItemQuality": "ITEM_QUALITY_RARE",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_010301": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 15,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_013/Pet_013.Pet_013_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 20,
+          "Y": -50,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1.2000000476837158,
+          "Y": 1.2000000476837158,
+          "Z": 1.2000000476837158
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat 1",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_010302": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 20,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_013/Pet_013.Pet_013_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat 2",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_010303": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 25,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_013/Pet_013.Pet_013_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat 3",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_010401": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 30,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_013/Pet_013.Pet_013_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_010402": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 35,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_013/Pet_013.Pet_013_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_010403": {
+      "PetType": "EPetType::Insect",
+      "MaxPetLevel": 40,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020101": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 5,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_N",
+      "ItemQuality": "ITEM_QUALITY_COMMON",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020201": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 10,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_011/Pet_011.Pet_011_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_R",
+      "ItemQuality": "ITEM_QUALITY_RARE",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020301": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 15,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_015/Pet_015.Pet_015_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020302": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 20,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_018/Pet_018.Pet_018_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020303": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 25,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_021/Pet_021.Pet_021_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020401": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 30,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_007/Pet_007.Pet_007_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020402": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 35,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_020403": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 40,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030101": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 5,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_N",
+      "ItemQuality": "ITEM_QUALITY_COMMON",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030201": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 10,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_R",
+      "ItemQuality": "ITEM_QUALITY_RARE",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030301": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 15,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030302": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 20,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030303": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 25,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030401": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 30,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030402": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 35,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_030403": {
+      "PetType": "EPetType::Human",
+      "MaxPetLevel": 40,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_040301": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 30,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_040302": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 40,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_040401": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 50,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_040402": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_050301": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 30,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_050302": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 40,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SR",
+      "ItemQuality": "ITEM_QUALITY_EPIC",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_050401": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 50,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "pet_050402": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Fate the Magcat",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "test_pet007": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_007/Pet_007.Pet_007_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 14,
+          "Y": -8,
+          "Z": 5
+        },
+        "Scale3D": {
+          "X": 0.8999999761581421,
+          "Y": 0.8999999761581421,
+          "Z": 0.8999999761581421
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Bronze Baron",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "test_pet011": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_011/Pet_011.Pet_011_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 10,
+          "Y": -50,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/pet/pet_02.pet_02",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Alf",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "test_pet013": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_013/Pet_013.Pet_013_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 5,
+          "Y": -50,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/zujian/gem_p3_PhyAtkAdded_4.gem_p3_PhyAtkAdded_5",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Blackjack",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "test_pet014": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_014/Pet_014.Pet_014_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": -75,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1.25,
+          "Y": 1.25,
+          "Z": 1.25
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/zujian/gem_p3_PhyDefAdded_1.gem_p3_PhyDefAdded_2",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Tartarus",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "test_pet015": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_015/Pet_015.Pet_015_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 15,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/zujian/gem_p3_PhyAtkAdded_4.gem_p3_PhyAtkAdded_5",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Moonrabbit",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "test_pet018": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_018/Pet_018.Pet_018_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 5,
+          "Y": -56,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/zujian/gem_p3_PhyDefAdded_1.gem_p3_PhyDefAdded_2",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Smarty",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    },
+    "test_pet021": {
+      "PetType": "EPetType::Animal",
+      "MaxPetLevel": 60,
+      "MaxPetAdvanceLevel": 5,
+      "MaxPetAwakenLevel": 5,
+      "PetUpgradePack": "10101",
+      "PetUpgradeEffectPack": "10101",
+      "PetAdvancePack": "10101",
+      "PetAdvanceEffectPack": "20101",
+      "PetAwakenPack": "10101",
+      "PetAwakenEffectPack": "30101",
+      "PetTalentPack": "10101",
+      "PetDecomposePack": "Drop_money",
+      "PetClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Pet/Pet_021/Pet_021.Pet_021_C",
+        "SubPath": ""
+      },
+      "PetPreviewTransform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 8,
+          "Y": -25,
+          "Z": 0
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "ItemIcon": {
+        "Path": "/Game/Resources/Icon/zujian/gem_p3_PhyDefAdded_2.gem_p3_PhyDefAdded_3",
+        "SubPath": ""
+      },
+      "ArtPackID": "None",
+      "ItemName": "Spirit Princess",
+      "ItemNameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Description": "Catbot born with sharp cyber claws knows how to be adorable!",
+      "UseDescription": "None",
+      "UpgradeRouteConfigId": "None",
+      "bNeedNoticeMessage": false,
+      "bNeedShowFirstGetTips": true,
+      "bAlwaysBind": false,
+      "bShowAttrIcon": false,
+      "bNotReminder": true,
+      "EquipBatchLevel": 0,
+      "SellPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionInitialPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "GuildAuctionMaxPrice": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "CanPriorityAuction": true,
+      "ItemType": "ITEM_TYPE_PET",
+      "DisplayTypeText": "None",
+      "LogItemType": 23,
+      "ArrangeType": 0,
+      "bShowBagAmount": false,
+      "ItemRarity": "EItemRarity::ITEM_RARITY_SSR",
+      "ItemQuality": "ITEM_QUALITY_LEGENDRY",
+      "RandomAttributeQuality": "ITEM_QUALITY_POOR",
+      "EquipmentType": "EQUIPMENT_TYPE_DECORATE",
+      "EquipmentSlotType": "EQUIPMENT_SLOT_NONE",
+      "ItemActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttachInfoName": "None",
+      "UsingItemSkill": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "MaxAmount": 1,
+      "bUseDurable": false,
+      "MaxDurable": 1000,
+      "LifeTime": 0,
+      "EndLiftTime": {
+        "year": 1,
+        "month": 1,
+        "day": 1,
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "ModifyData": "bow_010201",
+      "RandomModifyData": "None",
+      "BaseScore": 0,
+      "bAutoUseWhenAdd": false,
+      "UesNeedSlot": 0,
+      "StaticToolName": "None",
+      "NeedLevel": 0,
+      "bCanMulUse": false,
+      "UsePathID": "None",
+      "bIsCanUseInBattle": true,
+      "BlockID": "None",
+      "NeedShowMessageBox": false,
+      "ShowMessageBoxContent": "None",
+      "ShowMessageBoxSure": "None",
+      "ShowMessageBoxCancel": "None",
+      "IngredientID": "None",
+      "Buffs": [],
+      "PermanentAttributeModify": [],
+      "PriceMap": [],
+      "BookName": "None",
+      "LetterID": "None",
+      "MountId": "None",
+      "OutputSourceID": "None",
+      "OptionalBoxID": [],
+      "RandomBoxID": [],
+      "ItemBrief": "None",
+      "bShowOutputSource": false,
+      "bCanMelt": false,
+      "MeltPackID": "None",
+      "CurrencyType": "EHottaCurrencyType::Gold",
+      "IdentifyCost": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "DropGroupID": "None",
+      "GashaponActivityID": "None",
+      "GashaponJackpotID": "None",
+      "bAwardCanSelect": false,
+      "NeedShowCanUseFlg": false,
+      "bShowHighQualityTip": false,
+      "LotteryDrawing": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryCardImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LotteryDescription": "None",
+      "LotteryCharacterType": "RCT_NULL",
+      "LotteryMontageId": "None",
+      "bIgnoreHarvestLimit": false,
+      "HobbyFlag": [],
+      "LikeabilityValue": 0,
+      "bCanExhibit": true,
+      "CanUseAutoCombat": true
+    }
+  }
+  }
+]

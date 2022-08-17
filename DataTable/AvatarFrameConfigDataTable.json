@@ -1,0 +1,391 @@
+[
+  {
+    "Export": {
+      "Name": "AvatarFrameConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "TestAvatarFrame01": {
+      "Name": "Metal",
+      "bAutoUnlock": true,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_02.AvatarFrame_02",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_02_s.AvatarFrame_02_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "When there is no turning back, there's only one way left to go, and that's forward!",
+      "UnlockDescription": "Basic Avatar Frame"
+    },
+    "TestAvatarFrame02": {
+      "Name": "Wreath",
+      "bAutoUnlock": true,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_01.AvatarFrame_01",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_01_s.AvatarFrame_01_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Countless petals sway gently in the wind, carrying colorful dreams and my thoughts.",
+      "UnlockDescription": "Basic Avatar Frame"
+    },
+    "AvatarFrame03": {
+      "Name": "Shining Star",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali.AvatarFrame_shali",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali_s.AvatarFrame_shali_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Never envy anyone else's light—you are the most brilliant shining star!",
+      "UnlockDescription": "Obtain by purchasing the First Advanced Pass"
+    },
+    "AvatarFrame04": {
+      "Name": "Leader of Astra",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": true,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xiazuo.AvatarFrame_xiazuo",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xiazuo_s.AvatarFrame_xiazuo_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "He's the leader of Astra as well as a brother, just one of the countless ordinary folks wanting to protect their family.",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame05": {
+      "Name": "Mandrill",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xuxubaobao.AvatarFrame_xuxubaobao",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_xuxubaobao_s.AvatarFrame_xuxubaobao_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Time for some tricks!",
+      "UnlockDescription": "Exclusive to Streamer"
+    },
+    "kefu": {
+      "Name": "Customer Service",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_naimeixisi.AvatarFrame_naimeixisi",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_naimeixisi_s.AvatarFrame_naimeixisi_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "None",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame06": {
+      "Name": "Pure Illusion",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_fulijia.AvatarFrame_fulijia",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_fulijia_s.AvatarFrame_fulijia_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "\"Don't you go anywhere, I'm not done playing yet!\"",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame09": {
+      "Name": "Homeward Wings",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_yixisi.AvatarFrame_yixisi",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_yixisi_s.AvatarFrame_yixisi_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "I'll bring you home.",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame10": {
+      "Name": "Lightning Strike",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_valkiri.AvatarFrame_valkiri",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_valkiri_s.AvatarFrame_valkiri_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "\"How are you, my target practice?\"",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame11": {
+      "Name": "Executor",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_haijiade.AvatarFrame_haijiade",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_haijiade_s.AvatarFrame_haijiade_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Proving you're a Hykros Executor.",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame12": {
+      "Name": "Tower's Core",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_hotta.AvatarFrame_hotta",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_hotta_s.AvatarFrame_hotta_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Hope or destruction? Different people hold different perspectives on it.",
+      "UnlockDescription": "None"
+    },
+    "meilier": {
+      "Name": "Meryl",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali.AvatarFrame_shali",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_shali_s.AvatarFrame_shali_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Aloof",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame13": {
+      "Name": "Expert Creator",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_chuangzuodaren.AvatarFrame_chuangzuodaren",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_chuangzuodaren_s.AvatarFrame_chuangzuodaren_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Nobody can go back and redo the past, but you can create a new future from now on.",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame16": {
+      "Name": "Hanging amusement park",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_kongzhongleyuan.AvatarFrame_kongzhongleyuan",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_kongzhongleyuan_s.AvatarFrame_kongzhongleyuan_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Cetus Island amusement park - have fun like never before!",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame18": {
+      "Name": "Top Construction Team",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_tajian.AvatarFrame_tajian",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_tajian_s.AvatarFrame_tajian_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Every single drop of sweat and every single brick... I have to record every engineer's contribution to our construction efforts.",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame22": {
+      "Name": "Tipsy",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_Valentine.AvatarFrame_Valentine",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_Valentine_s.AvatarFrame_Valentine_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Colorful dreams and intoxicating love, all in one piece of chocolate.",
+      "UnlockDescription": "None"
+    },
+    "AvatarFrame33": {
+      "Name": "Sweet Dreams",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_33.AvatarFrame_34",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_33_s.AvatarFrame_33_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Shh... She's sound asleep.",
+      "UnlockDescription": "Obtained by purchasing the Fourth Advanced Pass"
+    },
+    "AvatarFrame34": {
+      "Name": "Journey Nursery Rhyme",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_34.AvatarFrame_35",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_34_s.AvatarFrame_34_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Welcome back, Mi-a! Let's continue our journey.",
+      "UnlockDescription": "From events"
+    },
+    "AvatarFrame_Overseas_2": {
+      "Name": "Greatest Creator",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_TX_BestTower.AvatarFrame_TX_BestTower",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_TX_BestTower_s.AvatarFrame_TX_BestTower_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Limited reward for outstanding creators during the CBT.",
+      "UnlockDescription": "Unlocked by being selected during the CBT's Submission Event"
+    },
+    "AvatarFrame_Overseas_3": {
+      "Name": "Illusory Link",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": false,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_TX_Xuhuan.AvatarFrame_TX_Xuhuan",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/ResourcesOverSea/Icon/AvatarFrame/AvatarFrame_TX_Xuhuan_s.AvatarFrame_TX_Xuhuan_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Do we exist, or are we just shadows of some parallel universe?",
+      "UnlockDescription": "Unlocks by participating in the Live Stream event."
+    },
+    "AvatarFrame40": {
+      "Name": "Salty Wave",
+      "bAutoUnlock": false,
+      "bDisplayWhenLocked": true,
+      "bService": false,
+      "bRobot": false,
+      "BigImage": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_40.AvatarFrame_41",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/Icon/AvatarFrame/AvatarFrame_40_s.AvatarFrame_40_s",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Description": "Beach, sand castle, aren't they the best matches for the salty soda?",
+      "UnlockDescription": "From events"
+    }
+  }
+  }
+]

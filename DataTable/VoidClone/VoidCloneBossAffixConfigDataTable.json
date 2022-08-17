@@ -1,0 +1,358 @@
+[
+  {
+    "Export": {
+      "Name": "VoidCloneBossAffixConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "buff_void_boss_001": {
+      "NameText": "Flame Vulnerability",
+      "AffixDes": "Effect: Flame damage received <F02>+50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>Flame weapons</>.",
+      "AffixStars": 2,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_001.buff_void_boss_001_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_firedefdown_001.buff_firedefdown_001",
+        "SubPath": ""
+      },
+      "BuffGroup": 1
+    },
+    "buff_void_boss_002": {
+      "NameText": "Frost Vulnerability",
+      "AffixDes": "Effect: Frost damage received <F02>+50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>Frost weapons</>.",
+      "AffixStars": 2,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_002.buff_void_boss_002_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_icedefdown_001.buff_icedefdown_001",
+        "SubPath": ""
+      },
+      "BuffGroup": 2
+    },
+    "buff_void_boss_003": {
+      "NameText": "Volt Vulnerability",
+      "AffixDes": "Effect: Volt damage received <F02>+50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>Volt weapons</>.",
+      "AffixStars": 2,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_003.buff_void_boss_003_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_thudefdown_001.buff_thudefdown_001",
+        "SubPath": ""
+      },
+      "BuffGroup": 3
+    },
+    "buff_void_boss_004": {
+      "NameText": "Physical Vulnerability",
+      "AffixDes": "Effect: Physical damage received <F02>+50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>Physical weapons</>.",
+      "AffixStars": 2,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_004.buff_void_boss_004_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_phydefdown_001.buff_phydefdown_001",
+        "SubPath": ""
+      },
+      "BuffGroup": 4
+    },
+    "buff_void_boss_102": {
+      "NameText": "Killer",
+      "AffixDes": "Effect: All damage dealt <F02>+60%</>.",
+      "AffixCrackDes": "Tip: <F02>Dodge</> all enemy skills.",
+      "AffixStars": 5,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_101.buff_void_boss_101_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_101.buff_void_boss_102",
+        "SubPath": ""
+      },
+      "BuffGroup": 5
+    },
+    "buff_void_boss_103": {
+      "NameText": "Cold-Blooded",
+      "AffixDes": "Effect: Final Crit Rate <F02>+40%</>.",
+      "AffixCrackDes": "Tip: <F02>Dodge</> all enemy skills.",
+      "AffixStars": 5,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_102.buff_void_boss_102_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_102.buff_void_boss_103",
+        "SubPath": ""
+      },
+      "BuffGroup": 6
+    },
+    "buff_void_boss_202": {
+      "NameText": "Giant",
+      "AffixDes": "Effect: HP <F02>+100%</>.",
+      "AffixCrackDes": "Tip: <F02>Properly arrange</> buffs to maximize damage output.",
+      "AffixStars": 3,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_201.buff_void_boss_201_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_201.buff_void_boss_202",
+        "SubPath": ""
+      },
+      "BuffGroup": 7
+    },
+    "buff_void_boss_203": {
+      "NameText": "Iron Wall",
+      "AffixDes": "Effect: Grants a shield that <F02>+15%</> Max HP every 2 minutes.",
+      "AffixCrackDes": "Tip: Let many people use <F02>Shatter weapons</>.",
+      "AffixStars": 3,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_202.buff_void_boss_202_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_202.buff_void_boss_203",
+        "SubPath": ""
+      },
+      "BuffGroup": 8
+    },
+    "buff_void_boss_302": {
+      "NameText": "Flame Immunity",
+      "AffixDes": "Effect: Flame damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use weapons other than <F02>Flame</> weapons.",
+      "AffixStars": 3,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_301.buff_void_boss_301_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/AddFireImm.AddFireImm",
+        "SubPath": ""
+      },
+      "BuffGroup": 1
+    },
+    "buff_void_boss_303": {
+      "NameText": "Frost Immunity",
+      "AffixDes": "Effect: Frost damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use weapons other than <F02>Frost</> weapons.",
+      "AffixStars": 3,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_302.buff_void_boss_302_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/AddIceImm.AddIceImm",
+        "SubPath": ""
+      },
+      "BuffGroup": 2
+    },
+    "buff_void_boss_304": {
+      "NameText": "Volt Immunity",
+      "AffixDes": "Effect: Volt damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use weapons other than <F02>Volt</> weapons.",
+      "AffixStars": 3,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_303.buff_void_boss_303_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/AddThunderImm.AddThunderImm",
+        "SubPath": ""
+      },
+      "BuffGroup": 3
+    },
+    "buff_void_boss_305": {
+      "NameText": "Physical Immunity",
+      "AffixDes": "Effect: Physical damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>elemental weapons</>.",
+      "AffixStars": 3,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_304.buff_void_boss_304_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/Icon/buff/buff_AddPhyDefFoodBase.buff_AddPhyDefFoodBase",
+        "SubPath": ""
+      },
+      "BuffGroup": 4
+    },
+    "buff_void_boss_306": {
+      "NameText": "Flame-Volt Immunity",
+      "AffixDes": "Effect: Flame and volt damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use weapons other than <F02>Flame and Volt</> weapons.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_305.buff_void_boss_305_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_305.buff_void_boss_306",
+        "SubPath": ""
+      },
+      "BuffGroup": 10
+    },
+    "buff_void_boss_307": {
+      "NameText": "Volt-Frost Immunity",
+      "AffixDes": "Effect: Volt and frost damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use weapons other than <F02>Volt and Frost</> weapons.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_306.buff_void_boss_306_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_306.buff_void_boss_307",
+        "SubPath": ""
+      },
+      "BuffGroup": 10
+    },
+    "buff_void_boss_308": {
+      "NameText": "Frost-Flame Immunity",
+      "AffixDes": "Effect: Frost and flame damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use weapons other than <F02>Frost and Flame</> weapons.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_307.buff_void_boss_307_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_307.buff_void_boss_308",
+        "SubPath": ""
+      },
+      "BuffGroup": 10
+    },
+    "buff_void_boss_309": {
+      "NameText": "Physical-Frost Immunity",
+      "AffixDes": "Effect: Physical and frost damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>Volt and Flame</> weapons.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_308.buff_void_boss_308_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_308.buff_void_boss_309",
+        "SubPath": ""
+      },
+      "BuffGroup": 10
+    },
+    "buff_void_boss_310": {
+      "NameText": "Physical-Flame Immunity",
+      "AffixDes": "Effect: Physical and flame damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>Frost and Volt</> weapons.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_309.buff_void_boss_309_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_309.buff_void_boss_310",
+        "SubPath": ""
+      },
+      "BuffGroup": 10
+    },
+    "buff_void_boss_311": {
+      "NameText": "Physical-Volt Immunity",
+      "AffixDes": "Effect: Physical and volt damage received <F02>-50%</>.",
+      "AffixCrackDes": "Tip: Use <F02>Flame and Frost</> weapons.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_310.buff_void_boss_310_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_310.buff_void_boss_311",
+        "SubPath": ""
+      },
+      "BuffGroup": 10
+    },
+    "buff_void_boss_402": {
+      "NameText": "Reckless",
+      "AffixDes": "Effect: ATK <F02>+10%</>, HP <F02>-30%</>.",
+      "AffixCrackDes": "Tip: Though ATK is up, the owner of the effect is <F02>easier to defeat</>.",
+      "AffixStars": 2,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_401.buff_void_boss_401_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_401.buff_void_boss_402",
+        "SubPath": ""
+      },
+      "BuffGroup": 0
+    },
+    "buff_void_boss_403": {
+      "NameText": "Exhaustion",
+      "AffixDes": "Effect: Attack <F02>-30%</>.",
+      "AffixCrackDes": "Tip: Fatigued enemies deal <F02>lower damage</>. Attack them to your heart's content.",
+      "AffixStars": 1,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_402.buff_void_boss_402_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_402.buff_void_boss_403",
+        "SubPath": ""
+      },
+      "BuffGroup": 5
+    },
+    "buff_void_boss_404": {
+      "NameText": "Wounded",
+      "AffixDes": "Effect: HP <F02>-30%</>.",
+      "AffixCrackDes": "Tip: Wounded enemies are <F02>easier to defeat</>.",
+      "AffixStars": 1,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_403.buff_void_boss_403_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_403.buff_void_boss_404",
+        "SubPath": ""
+      },
+      "BuffGroup": 7
+    },
+    "buff_void_boss_502": {
+      "NameText": "Radiation",
+      "AffixDes": "Effect: Nearby targets receive <F02>100%</> true ATK damage every <F02>2 seconds</>.",
+      "AffixCrackDes": "Tip: Avoid <F02>getting close to</> these enemies.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_501.buff_void_boss_501_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_501.buff_void_boss_502",
+        "SubPath": ""
+      },
+      "BuffGroup": 0
+    },
+    "buff_void_boss_503": {
+      "NameText": "Frosty",
+      "AffixDes": "Effect: Nearby targets' speed <F02>-30%</>.",
+      "AffixCrackDes": "Tip: Retreat to <F02>dodge the skill</> before it's too late. Don't be obsessed with attacking.",
+      "AffixStars": 4,
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/void/boss/buff_void_boss_502.buff_void_boss_502_C",
+        "SubPath": ""
+      },
+      "BuffIcon": {
+        "Path": "/Game/Resources/UI/void/BUFF/buff_void_boss_502.buff_void_boss_503",
+        "SubPath": ""
+      },
+      "BuffGroup": 0
+    }
+  }
+  }
+]

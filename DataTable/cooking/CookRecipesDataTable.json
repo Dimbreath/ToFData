@@ -1,0 +1,5466 @@
+[
+  {
+    "Export": {
+      "Name": "CookRecipesDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Cooking_001": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Area2Medicine"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Area2DogMeat"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "q1020381",
+      "ShowQuestObjectID": "1",
+      "FoodItemID": "Task_Area2Cooking",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_0901": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_0901",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_0902": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_0902",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1002": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1002",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1003": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens007"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1003",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1004": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fishes_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1004",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1005": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1005",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1006": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1006",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1007": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1007",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1008": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shell_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shell_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1008",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1009": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1009",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1010": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1010",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1011": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_06"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1011",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1012": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1012",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1013": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_01"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1013",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1015": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Drugs_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_01"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1015",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1016": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1016",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1017": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_03"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1017",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1018": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_03"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1018",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1019": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1019",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1020": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1020",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1021": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shell_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1021",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1022": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells007"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1022",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1023": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Drugs_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1023",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1024": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 4,
+          "PrefectIngredientAmount": 4,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1024",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1025": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1025",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1026": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_03"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1026",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1027": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_03"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1027",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1028": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1028",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1029": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_01"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1029",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1030": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1030",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1031": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_007"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_01"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1031",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1032": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1032",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1033": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shell_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1033",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1034": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1034",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1035": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fishes_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1035",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1036": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1036",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_1037": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Dandelion_zhongzi"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_1037",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2002": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fishes006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2002",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2003": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2003",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2004": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens008"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2004",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2005": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2005",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2006": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2006",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2007": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens011"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2007",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2008": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits006"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_03"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2008",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2009": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens008"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 4,
+          "PrefectIngredientAmount": 4,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2009",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2010": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fishes_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2010",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2011": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fishes_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2011",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2012": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 4,
+          "PrefectIngredientAmount": 4,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2012",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2013": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_01"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2013",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2014": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2014",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2015": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2015",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2016": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 4,
+          "PrefectIngredientAmount": 4,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2016",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2017": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_05"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2017",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2018": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Follows002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2018",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2019": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2019",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2020": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts003"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2020",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2021": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2021",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2022": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Follows001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2022",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2023": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_05"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_06"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2023",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2024": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens012"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2024",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2025": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Drugs_007"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_06"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens007"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2025",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2026": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Drugs_007"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2026",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2027": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2027",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2028": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2028",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2029": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2029",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2030": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2030",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2031": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fishes005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2031",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_2032": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_06"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "Item_Cooking_2032",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3002": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_05"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3002",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3003": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3003",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3004": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3004",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3005": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3005",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3007": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3007",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3008": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_007"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_03"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3008",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3010": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_06"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3010",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3011": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_010"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3011",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3012": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_011"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3012",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3013": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_012"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3013",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3014": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_013"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3014",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3015": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_014"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3015",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3016": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_015"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3016",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3017": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type4",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_010"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3017",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3018": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens008"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3018",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3020": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3020",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3021": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_007"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3021",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3022": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_012"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_06"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3022",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3023": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shell_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_012"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3023",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3024": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type1",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3024",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3025": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_011"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3025",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3026": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3026",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3027": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_014"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_06"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3027",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3028": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Meat_004"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_014"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3028",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3029": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_011"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_015"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3029",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3030": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_012"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3030",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3031": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits008"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3031",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3032": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells008"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3032",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3033": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3033",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3034": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits008"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3034",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3035": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type3",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Shells008"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Vera_Harvest_010"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3035",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "Cooking_3036": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 3,
+          "PrefectIngredientAmount": 3,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_Cooking_3036",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity_cooking_001": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_6"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_001",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity_cooking_009": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_7"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_01"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_009",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity_cooking_002": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_4"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_2"
+          ],
+          "bIsCore": false,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_002",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "item_Cafe_2"
+    },
+    "activity_cooking_008": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_7"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Egg_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_008",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "item_Cafe_5"
+    },
+    "activity_cooking_003": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_003",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity_cooking_005": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_5"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_005",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity_cooking_007": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_6"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_007",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity_cooking_004": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_8"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Greens_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_004",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "item_Cafe_3"
+    },
+    "activity_cooking_006": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Staples_003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_006",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "item_Cafe_4"
+    },
+    "activity_cooking_010": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity_cooking_RM_6"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": true
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_01"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity_cooking_010",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": false,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_NORMAL",
+      "MysteriousRecipeItemID": "item_Cafe_6"
+    },
+    "activity2_cooking_102": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_102",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_103": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_103",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_104": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_104",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_105": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_105",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_106": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_106",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_107": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Drugs_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_107",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_108": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_108",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_109": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_109",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_110": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_110",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_111": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_2"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_111",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_202": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_202",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_203": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_203",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_204": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_204",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_205": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_205",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_206": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_206",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_207": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Drugs_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_207",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_208": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_208",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_209": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_209",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_210": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_210",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_211": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_3"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_211",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_302": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruits009"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_302",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_303": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts003"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_303",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_304": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_304",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_305": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_305",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_306": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Mushroom_006"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_306",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_307": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Drugs_005"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_307",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_308": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Honey_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_308",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_309": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Fruit_001"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_309",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_310": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 2,
+          "PrefectIngredientAmount": 2,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_310",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    },
+    "activity2_cooking_311": {
+      "KitchenUtensilType": "EKitchenUtensils::KITCHEN_UTENSIL_POT",
+      "RecipeAttrType": "ERecipeAttrType::Type2",
+      "Ingredients": [
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "item_activity2_mould_4"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Nuts002"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        },
+        {
+          "CookingType": [],
+          "DesignedItemsID": [
+            "Item_Condiment_07"
+          ],
+          "bIsCore": true,
+          "MinNeedIngredientAmount": 1,
+          "PrefectIngredientAmount": 1,
+          "bIsMysterious": false
+        }
+      ],
+      "IngredientsText": "None",
+      "ShowQuestID": "None",
+      "ShowQuestObjectID": "None",
+      "FoodItemID": "item_activity2_cooking_311",
+      "FirstCookingAddExp": 0,
+      "NeedPlayerLevel": 1,
+      "bAddToDish": true,
+      "RecipeType": "ERecipeType::RECIPE_TYPE_CAFE",
+      "MysteriousRecipeItemID": "None"
+    }
+  }
+  }
+]

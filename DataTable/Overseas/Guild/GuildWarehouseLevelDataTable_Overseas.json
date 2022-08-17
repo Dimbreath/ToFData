@@ -1,0 +1,73 @@
+[
+  {
+    "Export": {
+      "Name": "GuildWarehouseLevelDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "CapitalMaxLimit": 55000,
+      "SalaryAdditionRatio": 1,
+      "SalaryGiftItemID": "None",
+      "SalaryGiftAmount": 1,
+      "SalaryGiftProbability": 0,
+      "SetPriorityAuctionPlayerCount": 0,
+      "UpgradeCost": 12500,
+      "EffectText": "Fund Limit: 55,000"
+    },
+    "2": {
+      "CapitalMaxLimit": 97000,
+      "SalaryAdditionRatio": 1,
+      "SalaryGiftItemID": "gift_guildgarage_3",
+      "SalaryGiftAmount": 999,
+      "SalaryGiftProbability": 100,
+      "SetPriorityAuctionPlayerCount": 0,
+      "UpgradeCost": 22900,
+      "EffectText": "Fund Limit: 97,000\r\nObtain random bonus when claiming Crew rewards."
+    },
+    "3": {
+      "CapitalMaxLimit": 173000,
+      "SalaryAdditionRatio": 1,
+      "SalaryGiftItemID": "gift_guildgarage_4",
+      "SalaryGiftAmount": 999,
+      "SalaryGiftProbability": 100,
+      "SetPriorityAuctionPlayerCount": 0,
+      "UpgradeCost": 41800,
+      "EffectText": "Fund Limit: 173,000\r\nDark crystal reward limit is increased to 200 for random bonus."
+    },
+    "4": {
+      "CapitalMaxLimit": 280000,
+      "SalaryAdditionRatio": 1,
+      "SalaryGiftItemID": "gift_guildgarage_5",
+      "SalaryGiftAmount": 999,
+      "SalaryGiftProbability": 100,
+      "SetPriorityAuctionPlayerCount": 3,
+      "UpgradeCost": 67200,
+      "EffectText": "Fund Limit: 280,000\r\nDark crystal reward limit is increased to 300 for random bonus."
+    },
+    "5": {
+      "CapitalMaxLimit": 360000,
+      "SalaryAdditionRatio": 1,
+      "SalaryGiftItemID": "gift_guildgarage_6",
+      "SalaryGiftAmount": 999,
+      "SalaryGiftProbability": 100,
+      "SetPriorityAuctionPlayerCount": 5,
+      "UpgradeCost": 85200,
+      "EffectText": "Fund Limit: 360,000\r\nDark crystal reward limit is increased to 400 for random bonus."
+    },
+    "6": {
+      "CapitalMaxLimit": 540000,
+      "SalaryAdditionRatio": 1,
+      "SalaryGiftItemID": "gift_guildgarage_7",
+      "SalaryGiftAmount": 999,
+      "SalaryGiftProbability": 100,
+      "SetPriorityAuctionPlayerCount": 8,
+      "UpgradeCost": 0,
+      "EffectText": "Fund Limit: 540,000\r\nDark crystal reward limit is increased to 500 for random bonus."
+    }
+  }
+  }
+]

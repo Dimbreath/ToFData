@@ -1,0 +1,354 @@
+[
+  {
+    "Export": {
+      "Name": "DreamCloneDropGroupDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "dream_gem": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_gem_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_gem_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_gem_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_gem_5"
+        }
+      ],
+      "DropWeight": 40,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 0
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "dream_artifact": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_artifact_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_artifact_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_artifact_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_artifact_5"
+        }
+      ],
+      "DropWeight": 50,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 0
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "dream_strength": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_strength_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_strength_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_strength_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_strength_5"
+        }
+      ],
+      "DropWeight": 30,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 0
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "dream_matrix_stage1": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_matrix_stage1_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_matrix_stage1_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_matrix_stage1_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_matrix_stage1_5"
+        }
+      ],
+      "DropWeight": 50,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 0
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 30
+        }
+      }
+    },
+    "dream_matrix_stage2": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_matrix_stage2_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_matrix_stage2_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_matrix_stage2_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_matrix_stage2_5"
+        }
+      ],
+      "DropWeight": 20,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "dream_matrix_stage3": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_matrix_stage3_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_matrix_stage3_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_matrix_stage3_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_matrix_stage3_5"
+        }
+      ],
+      "DropWeight": 30,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "dream_equip_stage1": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_equip_stage1_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_equip_stage1_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_equip_stage1_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_equip_stage1_5"
+        }
+      ],
+      "DropWeight": 30,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 0
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 40
+        }
+      }
+    },
+    "dream_equip_stage2": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_equip_stage2_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_equip_stage2_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_equip_stage2_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_equip_stage2_5"
+        }
+      ],
+      "DropWeight": 25,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 41
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        }
+      }
+    },
+    "dream_equip_stage3": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_equip_stage3_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_equip_stage3_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_equip_stage3_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_equip_stage3_5"
+        }
+      ],
+      "DropWeight": 5,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 41
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        }
+      }
+    },
+    "dream_equip_stage4": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_equip_stage4_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_equip_stage4_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_equip_stage4_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_equip_stage4_5"
+        }
+      ],
+      "DropWeight": 20,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 51
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    },
+    "dream_equip_stage5": {
+      "DropAwards": [
+        {
+          "Key": 0,
+          "Value": "drop_dream_equip_stage5_2"
+        },
+        {
+          "Key": 1,
+          "Value": "drop_dream_equip_stage5_3"
+        },
+        {
+          "Key": 2,
+          "Value": "drop_dream_equip_stage5_4"
+        },
+        {
+          "Key": 3,
+          "Value": "drop_dream_equip_stage5_5"
+        }
+      ],
+      "DropWeight": 10,
+      "DropLevelRange": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 51
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 200
+        }
+      }
+    }
+  }
+  }
+]

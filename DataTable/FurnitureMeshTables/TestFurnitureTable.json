@@ -1,0 +1,51 @@
+[
+  {
+    "Export": {
+      "Name": "TestFurnitureTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "10000": {
+      "UniqueID": "10000",
+      "FurnitureInteractMesh": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DropID": "CloneTree3",
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -630,
+          "Y": 1410,
+          "Z": 20
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "SphereOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "SphereRadius": 100,
+      "FurnitureName": "None",
+      "InteractTime": 5,
+      "Tags": [],
+      "InteractLevel": 1,
+      "CDSeconds": 86400,
+      "InteractEffect": null
+    }
+  }
+  }
+]

@@ -1,0 +1,1597 @@
+[
+  {
+    "Export": {
+      "Name": "DT_Title_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1_1_1_2": {
+      "Name": "Astra Cartographer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_1_1 1",
+      "ConditionText": "Obtained after reaching 100% Astra exploration progress.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_2_2": {
+      "Name": "Banges Apprentice",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_2_1 1",
+      "ConditionText": "Obtained after reaching 100% Banges exploration progress.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_3_2": {
+      "Name": "Park Ranger",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_3_1 1",
+      "ConditionText": "Obtained after reaching 100% Navia exploration progress.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_4_2": {
+      "Name": "Mine Explorer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_4_1 1",
+      "ConditionText": "Obtained after reaching 100% Crown exploration progress.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_5_2": {
+      "Name": "Snowfield Investigator",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_5_1 1",
+      "ConditionText": "Obtained after reaching 100% Warren exploration progress.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_1_2": {
+      "Name": "Soaring High",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_1_1 1",
+      "ConditionText": "Achieve 7,500 in flight training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_2_2": {
+      "Name": "Deft Adept",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_2_1 1",
+      "ConditionText": "Achieve 7,500 in agility training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_3_2": {
+      "Name": "Fleet Footed",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_3_1 1",
+      "ConditionText": "Achieve 7,500 in dodging training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_4_2": {
+      "Name": "Crack Shot",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_4_1 1",
+      "ConditionText": "Achieve 7,500 in coordination training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_5_2": {
+      "Name": "Photographic Memory",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_5_1 1",
+      "ConditionText": "Achieve 7,500 in memory training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_6_2": {
+      "Name": "A New Way Forward",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_6_1 1",
+      "ConditionText": "Achieve 7,500 in logic training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_7_2": {
+      "Name": "Lightning on the Wind",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_7_1 1",
+      "ConditionText": "Achieve 7,500 in battle training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_8_2": {
+      "Name": "Unstoppable Force",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_8_1 1",
+      "ConditionText": "Achieve 7,500 in speed training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_10_2": {
+      "Name": "Free Climber",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_10_1 1",
+      "ConditionText": "Achieve 7,500 in climbing training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_11_2": {
+      "Name": "Swift Hunter",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_11_1 1",
+      "ConditionText": "Achieve 7,500 in hunting training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_12_2": {
+      "Name": "Wind Rider",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_12_1 1",
+      "ConditionText": "Achieve 7,500 in gliding training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_13_2": {
+      "Name": "Flowing Melody",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_13_1 1",
+      "ConditionText": "Achieve 7,500 in note impact training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_1_2": {
+      "Name": "Commander",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_1_1 1",
+      "ConditionText": "Reach Commander rank in the Apex League.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_1_3": {
+      "Name": "Star General",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_1_2 1",
+      "ConditionText": "Reach Star General rank in the Apex League.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_1_4": {
+      "Name": "Battle Lord",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_1_3 1",
+      "ConditionText": "Reach Battle Lord rank in the Apex League.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_1_5": {
+      "Name": "Grand Marshal",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_1_4 1",
+      "ConditionText": "Reach Grand Marshal rank in the Apex League.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_2_2": {
+      "Name": "Gardener",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_2_1 1",
+      "ConditionText": "Kindergartens may not hold their own legends, but vegetable gardens do.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_14_2": {
+      "Name": "Football Hero",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_14_1 1",
+      "ConditionText": "Achieve 7,500 in football skill training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_1_6": {
+      "Name": "Private",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_1_5 1",
+      "ConditionText": "Reach Private rank in the Apex League.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_1_7": {
+      "Name": "Elite",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_1_6 1",
+      "ConditionText": "Reach Elite rank in the Apex League.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_3_1_8": {
+      "Name": "Sergeant",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_3_1_7 1",
+      "ConditionText": "Reach Sergeant rank in the Apex League.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_2_15_2": {
+      "Name": "The Path of Balance",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_2_15_1 1",
+      "ConditionText": "Achieve 7,500 in gravity ball training proficiency.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_4_1_2": {
+      "Name": "Crown of Stars",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.1 on the server in Apex League by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_1_3": {
+      "Name": "Heroic Starchaser",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.2 on the server in Apex League by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_1_4": {
+      "Name": "Brave Starchaser",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.3 on the server in Apex League by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_1_5": {
+      "Name": "Rival",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.4 or No.5 on the server in Apex League by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_1_6": {
+      "Name": "Challenger",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.6–10 on the server in Apex League by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_2_2": {
+      "Name": "Crown of Thorns",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.1 on the server in Bygone Phantasm at the results tally.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_2_3": {
+      "Name": "Heroic Trailblazer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.2 on the server in Bygone Phantasm at the results tally.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_2_4": {
+      "Name": "Brave Trailblazer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.3 on the server in Bygone Phantasm at the results tally.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_2_5": {
+      "Name": "Explorer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.4 or No.5 on the server in Bygone Phantasm at the results tally.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_2_6": {
+      "Name": "Footsetter",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.6–10 on the server in Bygone Phantasm at the results tally.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_5_1_2": {
+      "Name": "Aida Trailblazer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_5_1_1 1",
+      "ConditionText": "3M Official Website Preorder Reward",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "1_6_1_2": {
+      "Name": "Champion Shopkeeper",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_6_1_1 1",
+      "ConditionText": "Achieve 1,500 revenue in Aida Cafe to unlock",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_6_1_3": {
+      "Name": "Star Pastry Chef",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_6_1_2 1",
+      "ConditionText": "Unlocks by participating in the Sweet Workshop event.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_6_2": {
+      "Name": "Island Pioneer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_6_1 1",
+      "ConditionText": "A title obtained after reaching 100% exploration on Artificial Island.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_6_1_4": {
+      "Name": "Star Catcher",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_6_1_3 1",
+      "ConditionText": "Unlocks through achievements.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_6_1_5": {
+      "Name": "Star Observer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_6_1_4 1",
+      "ConditionText": "Unlocks through achievements.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_4_3_2": {
+      "Name": "Sequence Refactor",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.1 in Sequence Phantasm by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_3_3": {
+      "Name": "Sequence Dominator",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.2 in Sequence Phantasm by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_3_4": {
+      "Name": "Sequence Guardian",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.3 in Sequence Phantasm by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_3_5": {
+      "Name": "Sequence Manager",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.4 or No.5 in Sequence Phantasm by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_3_6": {
+      "Name": "Sequence Overseer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::Rank",
+      "ConditionValue": "",
+      "ConditionText": "Rank No.6–10 in Sequence Phantasm by the end.",
+      "TimeLimitInHour": 1,
+      "IsHiddenNotGet": false
+    },
+    "1_4_4_2": {
+      "Name": "Primal Order",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_4_4_1 1",
+      "ConditionText": "Unlocks through Phantasm achievement.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_4_4_3": {
+      "Name": "Dark Apostle",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_4_4_2 1",
+      "ConditionText": "Unlocks through Phantasm achievement.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_4_4_4": {
+      "Name": "Original Waiter",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_4_4_3 1",
+      "ConditionText": "Unlocks through Phantasm achievement.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_4_4_5": {
+      "Name": "Sequence Guard",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_4_4_4 1",
+      "ConditionText": "Unlocks through Phantasm achievement.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_6_3": {
+      "Name": "Island Observer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_6_2 1",
+      "ConditionText": "A title obtained after reaching 100% exploration on Outer Islands, Artificial Island.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_6_1_6": {
+      "Name": "Vera Navigator",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_6_1_5 1",
+      "ConditionText": "Purchased in Journey Store during Vera Orienteering event.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_7_2": {
+      "Name": "Windfighter",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_7_1 1",
+      "ConditionText": "Title for reaching 100% Sandstorm Grounds exploration.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_8_2": {
+      "Name": "Extreme Climber",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_8_1 1",
+      "ConditionText": "Title for reaching 100% Rock Pillar Gobby exploration.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_9_2": {
+      "Name": "Quicksand Explorer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_9_1 1",
+      "ConditionText": "Title for reaching 100% Quicksand Belt exploration.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_7_3": {
+      "Name": "Windrider",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_7_2 1",
+      "ConditionText": "Title for reaching 100% Sandstorm Grounds gray area exploration.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_8_3": {
+      "Name": "Top Climber",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_8_2 1",
+      "ConditionText": "Title for reaching 100% Rock Pillar Gobby gray area exploration.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_9_3": {
+      "Name": "Quicksand Conqueror",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_9_2 1",
+      "ConditionText": "Title for reaching 100% Quicksand Belt gray area exploration.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "1_1_10_2": {
+      "Name": "Mirror Explorer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_1_1_10_1 1",
+      "ConditionText": "Title for reaching 100% Mirroria exploration.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": false
+    },
+    "Overseas_2": {
+      "Name": "Vanguard Trailblazer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_Overseas_1 1",
+      "ConditionText": "Unlocks by participating in the Live Stream event.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "Overseas_3": {
+      "Name": "Hykros Observer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_Overseas_2 1",
+      "ConditionText": "A Pioneer who has made outstanding contributions to the promotion of Tower of Fantasy.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "Overseas_4": {
+      "Name": "Greatest Creator",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_Overseas_3 1",
+      "ConditionText": "Unlocked by being selected during the CBT's Submission Event",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "korea_2": {
+      "Name": "The First Hero",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_korea_1 1",
+      "ConditionText": "Participate in CB1",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "korea_3": {
+      "Name": "Lone Warrior",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_korea_2 1",
+      "ConditionText": "Level Reached",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "korea_4": {
+      "Name": "Aida Trailblazer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_korea_3 1",
+      "ConditionText": "300,000 Korean Server Preorder Reward",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "korea_5": {
+      "Name": "Bug Hunter",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_korea_4 1",
+      "ConditionText": "Wanderers that participated in CBT and submitted bugs",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "iw_2": {
+      "Name": "Advance Squad",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_iw_1 1",
+      "ConditionText": "Obtainable by the first batch of Advance Squad members who arrived on Aida.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "iw_3": {
+      "Name": "ToF Phase I Wanderer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_iw_2 1",
+      "ConditionText": "Obtained via event.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "iw_4": {
+      "Name": "Omnium Guardian",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_iw_3 1",
+      "ConditionText": "Obtainable by the pre-registered Wanderers.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    },
+    "iw_5": {
+      "Name": "ToF Phase II Wanderer",
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.47932,
+          "G": 0.318547,
+          "B": 1,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      },
+      "Image": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ModifyID": "None",
+      "Condition": "ETitleCondition::UseItem",
+      "ConditionValue": "Title_iw_4 1",
+      "ConditionText": "Obtained via event.",
+      "TimeLimitInHour": 0,
+      "IsHiddenNotGet": true
+    }
+  }
+  }
+]

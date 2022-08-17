@@ -1,0 +1,1497 @@
+[
+  {
+    "Export": {
+      "Name": "ShopInfoDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "0": {
+      "ShopName": "GameShopRecommend",
+      "ShopType": "ESHOP_TYPE_RECOMMEND",
+      "ShopCategory": 1,
+      "NeedCurrencyList": [],
+      "UnlockID": "Shop_Recommend",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopRecommend",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "1": {
+      "ShopName": "GameShopDailyGift",
+      "ShopType": "ESHOP_TYPE_DAILY_GIFT",
+      "ShopCategory": 1,
+      "NeedCurrencyList": [],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopDailyGift",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "2": {
+      "ShopName": "GameShopNormal",
+      "ShopType": "ESHOP_TYPE_GAME",
+      "ShopCategory": 1,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::Diamond",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_Normal",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopGame",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "3": {
+      "ShopName": "GameShopRecharge",
+      "ShopType": "ESHOP_TYPE_RECHARGE",
+      "ShopCategory": 1,
+      "NeedCurrencyList": [],
+      "UnlockID": "Shop_Recharge",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopRecharge",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "4": {
+      "ShopName": "GameShopGift",
+      "ShopType": "ESHOP_TYPE_GIFT",
+      "ShopCategory": 1,
+      "NeedCurrencyList": [],
+      "UnlockID": "Shop_Gift",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopGift",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "5": {
+      "ShopName": "GameShopFashion",
+      "ShopType": "ESHOP_TYPE_FASHION",
+      "ShopCategory": 100,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::Diamond",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopFashion",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "6": {
+      "ShopName": "Grocer_bangis",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "7": {
+      "ShopName": "Food_starisle",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "8": {
+      "ShopName": "Food_bangis",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "9": {
+      "ShopName": "Dish_starisle",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "10": {
+      "ShopName": "Dish_bangis",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "11": {
+      "ShopName": "Animal_Vera1",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "12": {
+      "ShopName": "Animal_Vera2",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "13": {
+      "ShopName": "Animal_Vera3",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gold",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "14": {
+      "ShopName": "Exchange_CetusIsland",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::SharePhotoCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "15": {
+      "ShopName": "VeraCity_navigation",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "16": {
+      "ShopName": "VeraCity_gun",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "17": {
+      "ShopName": "VeraCity_badImitation1",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "18": {
+      "ShopName": "VeraCity_badImitation2",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "19": {
+      "ShopName": "VeraCity_noodle",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopFoodNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "20": {
+      "ShopName": "VeraCity_gift",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "21": {
+      "ShopName": "VeraCity_food",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "22": {
+      "ShopName": "VeraCity_grocer1",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "23": {
+      "ShopName": "VeraCity_grocer2",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "24": {
+      "ShopName": "VeraCity_snacks1",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "25": {
+      "ShopName": "VeraCity_snacks2",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "26": {
+      "ShopName": "VeraCity_bar1",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopFoodNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "27": {
+      "ShopName": "VeraCity_bar2",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopFoodNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "28": {
+      "ShopName": "VeraCity_bar3",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopFoodNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "29": {
+      "ShopName": "VeraCity_bar4",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopFoodNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "30": {
+      "ShopName": "VeraCity_bar5",
+      "ShopType": "ESHOP_TYPE_NPC",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 1,
+      "ShopPanelID": "ShopFoodNpc",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::NpcShop"
+    },
+    "31": {
+      "ShopName": "AwardShop_Energy",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 2,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::PrimaryEnergy2",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::PrimaryEnergy3",
+          "UnlockID": "Currency_Energy_purple"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::PrimaryEnergy4",
+          "UnlockID": "Currency_Energy_orange"
+        }
+      ],
+      "UnlockID": "Shop_Energy",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 4,
+      "RoundTimerClockID": "WeeklySign",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "32": {
+      "ShopName": "AwardShop_Levyclone",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin3",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin4",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_Levyclone",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "33": {
+      "ShopName": "AwardShop_WeaponFragment",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 2,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragment",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "34": {
+      "ShopName": "AwardShop_MatrixFragment",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 2,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragment",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_MatrixFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "35": {
+      "ShopName": "AwardShop_Guild",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 2,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GuildMeritorious",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_Guild",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 4,
+      "RoundTimerClockID": "WeeklySign",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "36": {
+      "ShopName": "AwardShop_Assistance",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 2,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HookCloneAssistContribution",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::RegressionHelpCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_Assistance",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "37": {
+      "ShopName": "AwardShop_Minigame",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 2,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::MiniGameCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_Minigame",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 4,
+      "RoundTimerClockID": "WeeklySign",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "38": {
+      "ShopName": "AwardShop_GreatRegression",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::Diamond",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::WormholeLuckyCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_Assistance",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "39": {
+      "ShopName": "AwardShop_Weapon_UP1",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP1",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP1",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "40": {
+      "ShopName": "AwardShop_Weapon_UP2",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP2",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP2",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "41": {
+      "ShopName": "AwardShop_Weapon_UP3",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP3",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP3",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "42": {
+      "ShopName": "AwardShop_Weapon_UP4",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP4",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP4",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "43": {
+      "ShopName": "AwardShop_Weapon_UP5",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP5",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP5",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "44": {
+      "ShopName": "AwardShop_Weapon_UP6",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP6",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP6",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "45": {
+      "ShopName": "AwardShop_Weapon_UP7",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP7",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP7",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "65": {
+      "ShopName": "AwardShop_Weapon_UP8",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP8",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP8",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "71": {
+      "ShopName": "AwardShop_Weapon_UP9",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP9",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP9",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "74": {
+      "ShopName": "AwardShop_Weapon_UP10",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::WeaponFragmentUP10",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::EquipFragmentUP10",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "Shop_WeaponFragment",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "46": {
+      "ShopName": "HomeLand_Shop1",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop1",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "47": {
+      "ShopName": "HomeLand_Shop2",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop2",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "48": {
+      "ShopName": "HomeLand_Shop3",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop3",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "49": {
+      "ShopName": "HomeLand_Shop4",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop4",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "50": {
+      "ShopName": "HomeLand_Shop5",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop5",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "51": {
+      "ShopName": "HomeLand_Shop6",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop6",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "52": {
+      "ShopName": "HomeLand_Shop7",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop7",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "53": {
+      "ShopName": "HomeLand_Shop8",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 3,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeShellfish",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "HomeLand_Shop8",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "54": {
+      "ShopName": "AwardShop_Hopkins",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HopkinsOrder1",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HopkinsOrder2",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "55": {
+      "ShopName": "AwardShop_Bravemen_Stage1",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin5",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "56": {
+      "ShopName": "AwardShop_Bravemen_Stage2",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin6",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "57": {
+      "ShopName": "AwardShop_DangerousIntruder",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::IncarnationCoin",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "58": {
+      "ShopName": "AwardShop_Enlightenment",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gem3",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "59": {
+      "ShopName": "AwardShop_AidaToken",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::IncarnationCoin2",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::IncarnationCoin1",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "60": {
+      "ShopName": "AwardShop_BlindBox1",
+      "ShopType": "ESHOP_TYPE_GAME",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gem2",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopGame",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "61": {
+      "ShopName": "AwardShop_BlindBox2",
+      "ShopType": "ESHOP_TYPE_GAME",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin1",
+          "UnlockID": "None"
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin2",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 0,
+      "ShopPanelID": "ShopGame",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::Shop"
+    },
+    "62": {
+      "ShopName": "AwardShop_VeraOpen",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::IncarnationCoin3",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "63": {
+      "ShopName": "AwardShop_Orienteering1",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin7",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "64": {
+      "ShopName": "AwardShop_Enlightenment2",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin8",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "66": {
+      "ShopName": "AwardShop_ChildrensDay",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin9",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "75": {
+      "ShopName": "AwardShop_Enlightenment_OS",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::Gem3",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    },
+    "76": {
+      "ShopName": "AwardShop_Bravemen_OS",
+      "ShopType": "ESHOP_TYPE_AWARD",
+      "ShopCategory": 0,
+      "NeedCurrencyList": [
+        {
+          "CurrencyType": "EHottaCurrencyType::GameActivityCoin5",
+          "UnlockID": "None"
+        }
+      ],
+      "UnlockID": "None",
+      "TimerClockID": "None",
+      "RefreshCount": 0,
+      "RefreshCostID": "None",
+      "ShopBgIndex": 2,
+      "ShopPanelID": "ShopAward",
+      "RefreshRounds": 0,
+      "RoundTimerClockID": "None",
+      "ShopFunctionType": "EGameFunctionType::AwardShop"
+    }
+  }
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "Export": {
+      "Name": "DT_PreRemove",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Monster": {
+      "RemoveClass": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/SoundActor/BP_RiverSouneActor.BP_RiverSouneActor_C",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "QRSLSpawnTrigger_Quest": {
+      "RemoveClass": {
+        "Path": "/Script/QRSL.QRSLSpawnTrigger_Quest",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "TaskTrigger-client": {
+      "RemoveClass": {
+        "Path": "/Game/Resources/FB/FB_Area4_Story01/TaskTrigger-client.TaskTrigger-client_C",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "CameraActor": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.CameraActor",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "PointLight": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.PointLight",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "AkAmbientSound": {
+      "RemoveClass": {
+        "Path": "/Script/AkAudio.AkAmbientSound",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "RectLight": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.RectLight",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "SphereReflectionCapture": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.SphereReflectionCapture",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "SpotLight": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.SpotLight",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "hyperlight": {
+      "RemoveClass": {
+        "Path": "/Game/Resources/CoreBlueprints/SceneItem/Interaction/Area4/hyperlight.hyperlight_C",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "HottaWaterSoundActor": {
+      "RemoveClass": {
+        "Path": "/Script/HottaFramework.HottaWaterSoundActor",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "DirectionalLight": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.DirectionalLight",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "SkyLight": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.SkyLight",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "LightmassImportanceVolume": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.LightmassImportanceVolume",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "Tree_Room_Light": {
+      "RemoveClass": {
+        "Path": "/Game/Resources/FB/XunShuFB/Room/Tree_Room_Light_BP.Tree_Room_Light_BP_C",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "LevelBounds": {
+      "RemoveClass": {
+        "Path": "/Script/Engine.LevelBounds",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    },
+    "CineCameraActor": {
+      "RemoveClass": {
+        "Path": "/Script/CinematicCamera.CineCameraActor",
+        "SubPath": ""
+      },
+      "bFindByName": false,
+      "ActorNameArray": []
+    }
+  }
+  }
+]

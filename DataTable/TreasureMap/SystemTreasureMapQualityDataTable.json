@@ -1,0 +1,31 @@
+[
+  {
+    "Export": {
+      "Name": "SystemTreasureMapQualityDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Normal": {
+      "ItemID": "SystemTreasureMap",
+      "Weight": 50,
+      "DigSuccessAwardsDropID": "drop_HopkinsOrder_beacon_2",
+      "DigFailedAwardsDropID": "None"
+    },
+    "ExceedsExpectations": {
+      "ItemID": "SystemTreasureMap2",
+      "Weight": 30,
+      "DigSuccessAwardsDropID": "drop_HopkinsOrder_beacon_3",
+      "DigFailedAwardsDropID": "None"
+    },
+    "Outstanding": {
+      "ItemID": "SystemTreasureMap3",
+      "Weight": 20,
+      "DigSuccessAwardsDropID": "drop_HopkinsOrder_beacon_4",
+      "DigFailedAwardsDropID": "None"
+    }
+  }
+  }
+]

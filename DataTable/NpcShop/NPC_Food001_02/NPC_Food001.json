@@ -1,0 +1,2104 @@
+[
+  {
+    "Export": {
+      "Name": "NPC_Food001",
+      "Class": "DlgDialogue",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgDialogue",
+      "TemplateOwner": "/Script/DlgSystem"
+    },
+    "Name": "NPC_Food001",
+    "GUID": "52842b6e-1687-4133-8570-c97514f458ab",
+    "ParticipantsData": [
+      {
+        "Key": "Food_001",
+        "Value": {
+          "Conditions": [
+            "IsQuestObjectInProgress:q102013,11",
+            "IsQuestObjectInProgress:q1020130,1"
+          ],
+          "CustomConditions": [],
+          "Events": [
+            "OpenShop:Food_bangis",
+            "LeaveTalkGroup",
+            "EnterGroup",
+            "TalkCompletedWaitUIClose:q1020130,1",
+            "TalkCompleted:q102013,11",
+            "TalkCompletedWaitUIClose:q102013,11"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      },
+      {
+        "Key": "npc_shu_203_character_Night",
+        "Value": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "EnterGroup"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      },
+      {
+        "Key": "GuideNPCCharacter_BP",
+        "Value": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      }
+    ],
+    "StartNode": "DlgNode_Speech",
+    "Nodes": [
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech"
+    ],
+    "NodesGUIDToIndexMap": []
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "NPC_Food001.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Food_001",
+    "NodeGUID": "54dce001-bf59-4ddd-a04c-31db1183baba"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "NPC_Food001.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Food_001",
+    "BlackFade": true,
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "EnterGroup",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      },
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "TalkCompletedWaitUIClose:q102013,11",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "4e9557a7-b98b-48e7-aa01-61c41bc7b9d0"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "NPC_Food001.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Food_001",
+    "NodeGUID": "1c854484-00fd-4d06-bce9-6beaff664ecd"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "NodeGUID": "0ef6734d-f9cf-403e-a99c-cca268618b99",
+    "Children": [
+      {
+        "TargetIndex": 0,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 1,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 2,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "None",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Fresh ingredients. W-Wanna have a look?",
+    "OwnerName": "Food_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "90325648-d9c8-4f3a-b1fe-fa00d272428c",
+    "Children": [
+      {
+        "TargetIndex": 7,
+        "EdgeIndex": 2,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Browse the Store",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 8,
+        "EdgeIndex": 1,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Nothing, thanks.",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "I need to move some <blue>goods</>, over there, on the <blue>pier</>.",
+    "OwnerName": "Food_001",
+    "ShowButtonWaitTime": 3,
+    "CameraConfig": {
+      "Camera1": {
+        "bCameraActor": true,
+        "CameraName": "Area2ShowGoods"
+      },
+      "Camera2": {
+        "bCameraActor": true,
+        "CameraName": "Area2ShowGoods2"
+      },
+      "BlendTime": 3
+    },
+    "EnterEvents": [
+      {
+        "ParticipantName": "npc_shu_203_character_Night",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "EnterGroup",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "6e03cc7d-83b4-4b6b-88a4-b4adaee16792",
+    "Children": [
+      {
+        "TargetIndex": 42,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Go get a crate and put it next to my store.",
+    "OwnerName": "Food_001",
+    "ShowButtonWaitTime": 2,
+    "CameraConfig": {
+      "Camera1": {
+        "bCameraActor": true,
+        "CameraName": "Area2ShowGoods2"
+      }
+    },
+    "NodeGUID": "f7005503-df2c-46c8-96ab-4fa5fdee4b40",
+    "Children": [
+      {
+        "TargetIndex": 43,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Thanks a bunch!",
+    "OwnerName": "Food_001",
+    "CameraConfig": {
+      "Camera1": {
+        "bPlayer": true,
+        "CameraName": "FollowCamera"
+      }
+    },
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "TalkCompleted:q102013,11",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "0c2fc4bc-d960-4957-bfad-2c7b393c0e5e"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Collie is worried about you, so she sent me here. Look at you, frowning... what happened?",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_325/animation/npc_pe_talk4_Montage1.npc_pe_talk4_Montage1",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "9",
+      "LookAtTarget": "Food_001"
+    },
+    "NodeGUID": "74414306-74b2-4a05-898f-cf053d85b081",
+    "Children": [
+      {
+        "TargetIndex": 13,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "The Graceday celebration's about to start and I've still got a huge pile of crates to move. Kill me already!",
+    "OwnerName": "Food_001",
+    "EnterConditions": [
+      {
+        "Strength": "EDlgConditionStrength::Strong",
+        "ConditionType": "EDlgConditionType::EventCall",
+        "ParticipantName": "Food_001",
+        "CallbackName": "IsQuestObjectInProgress:q102013,11",
+        "Operation": "EDlgOperation::Equal",
+        "CompareType": "EDlgCompare::ToConst",
+        "OtherParticipantName": "None",
+        "OtherVariableName": "None",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bBoolValue": true,
+        "bLongTermMemory": true,
+        "GUID": "00000000-0000-0000-0000-000000000000",
+        "CustomCondition": null
+      }
+    ],
+    "NodeGUID": "bfd9212c-8168-4781-954b-679afd62d3e2",
+    "Children": [
+      {
+        "TargetIndex": 5,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Hey wait, isn't this the cry baby? What have you got for the celebration? Spectacular show of Waaaaaaah?",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "FirstListeningNPC": "npc_shu_203_character_Night",
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_217/animation/npc_pe_talk1_Montage.npc_pe_talk1_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "Camera_03",
+      "LookAtTarget": "Food_001"
+    },
+    "NodeGUID": "919efa7c-a3e8-46d5-b4ba-f0278ffbfe26",
+    "Children": [
+      {
+        "TargetIndex": 10,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "You... Hilda! Seriously! I'm overwhelmed here. Could you help me move some crates at the piers?",
+    "OwnerName": "Food_001",
+    "NodeGUID": "88ba0a40-1e1b-424f-b253-2a614d53939d",
+    "Children": [
+      {
+        "TargetIndex": 14,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Collie sent me to check on you. Your sister knows you best. Rest assured. I will not help you.",
+    "OwnerName": "npc_shu_203_character_Night",
+    "NodeGUID": "707bb061-bf27-447d-ad92-203b430d7e29",
+    "Children": [
+      {
+        "TargetIndex": 17,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Is this your friend? Hey, could you do me a favor?<purple>(One huge smile)</>Forget about Hilda. I'll pay you properly.",
+    "OwnerName": "Food_001",
+    "NodeGUID": "6dbfb167-d2bc-4f9a-912b-ce8e81440119",
+    "Children": [
+      {
+        "TargetIndex": 20,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Pay me?<purple>(You convince yourself)</>Yeah. Sure. Because I'm awfully nice.<purple>(You smile back)</>",
+    "bIsSelfTalk": true,
+    "OwnerName": "Food_001",
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "EnterGroup",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "b89a0445-ec16-4d63-8574-c83b99608e63",
+    "Children": [
+      {
+        "TargetIndex": 23,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Thank you. Thanks for coming...",
+    "OwnerName": "Food_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "OpenShop:Food_bangis",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "6e205b68-f229-4aea-95f2-d6d4062c8087",
+    "Children": [
+      {
+        "TargetIndex": 12,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "I need to move some <blue>goods</>, over there, on the <blue>pier</>.",
+    "OwnerName": "Food_001",
+    "ShowButtonWaitTime": 3,
+    "CameraConfig": {
+      "Camera1": {
+        "bCameraActor": true,
+        "CameraName": "Area2ShowGoodsss"
+      }
+    },
+    "NodeGUID": "80d06b74-e485-44ed-829d-3d13a875c876",
+    "Children": [
+      {
+        "TargetIndex": 26,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Go get a crate and put it next to my store.",
+    "OwnerName": "Food_001",
+    "ShowButtonWaitTime": 2,
+    "CameraConfig": {
+      "Camera1": {
+        "bCameraActor": true,
+        "CameraName": "Area2ShowGoods2"
+      }
+    },
+    "NodeGUID": "fc0e4404-a82c-4c2a-bf2b-739582a0bf67",
+    "Children": [
+      {
+        "TargetIndex": 29,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Thanks a bunch!",
+    "OwnerName": "Food_001",
+    "CameraConfig": {
+      "Camera1": {
+        "bPlayer": true,
+        "CameraName": "FollowCamera"
+      }
+    },
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "TalkCompleted:q102013,11",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "6e4789b7-7307-487e-9535-fba6877804f9"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "What? It's done already? Thank you so much!",
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+        "SubPath": ""
+      },
+      "FirstListeningNPC": "GuideNPCCharacter_BP",
+      "FirstListeningNPCTemplate": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "Food_001",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0006_Montage.Vo_Talk_NpcFood001_0006_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "5",
+      "bUseTransformOrigin": true,
+      "TransformOrigin": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0.9659257531166077,
+          "W": 0.2588191628456116
+        },
+        "Translation": {
+          "X": -28122.958984375,
+          "Y": 28996.173828125,
+          "Z": -14351
+        }
+      },
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove1.cameramove1_C",
+        "SubPath": ""
+      }
+    },
+    "EnterConditions": [
+      {
+        "Strength": "EDlgConditionStrength::Strong",
+        "ConditionType": "EDlgConditionType::EventCall",
+        "ParticipantName": "Food_001",
+        "CallbackName": "IsQuestObjectInProgress:q1020130,1",
+        "Operation": "EDlgOperation::Equal",
+        "CompareType": "EDlgCompare::ToConst",
+        "OtherParticipantName": "None",
+        "OtherVariableName": "None",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bBoolValue": true,
+        "bLongTermMemory": true,
+        "GUID": "00000000-0000-0000-0000-000000000000",
+        "CustomCondition": null
+      }
+    ],
+    "NodeGUID": "fd942053-499d-43d4-bf96-05d04310d5f7",
+    "Children": [
+      {
+        "TargetIndex": 6,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Eh? H⁠-Hilda? Is that really you?",
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "ListenerTemplateMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_203/npc_shu_203_character_Night.npc_shu_203_character_Night_C",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "GuideNPCCharacter_BP",
+          "Value": {
+            "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+            "SubPath": ""
+          }
+        }
+      ],
+      "ListenerMap": [
+        {
+          "Key": "ListeningNPC",
+          "Value": "npc_shu_203_character_Night"
+        },
+        {
+          "Key": "ListeningNPC1",
+          "Value": "GuideNPCCharacter_BP"
+        }
+      ],
+      "MontageNpcMap": [
+        {
+          "Key": "Food_001",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0001_Montage.Vo_Talk_NpcFood001_0001_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "1",
+      "LookAtTarget": "npc_shu_203_character_Night"
+    },
+    "BlackFade": true,
+    "EnterConditions": [
+      {
+        "Strength": "EDlgConditionStrength::Strong",
+        "ConditionType": "EDlgConditionType::EventCall",
+        "ParticipantName": "Food_001",
+        "CallbackName": "IsQuestObjectInProgress:q102013,11",
+        "Operation": "EDlgOperation::Equal",
+        "CompareType": "EDlgCompare::ToConst",
+        "OtherParticipantName": "None",
+        "OtherVariableName": "None",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bBoolValue": true,
+        "bLongTermMemory": true,
+        "GUID": "00000000-0000-0000-0000-000000000000",
+        "CustomCondition": null
+      }
+    ],
+    "NodeGUID": "733a248f-d3af-4a66-ac5e-eb26085bfd80",
+    "Children": [
+      {
+        "TargetIndex": 4,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Huh? Harriet the Crybaby?",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0052_Montage_q102013-1.Vo_Talk_Npc203_0052_Montage_q102013-1",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "2",
+      "LookAtTarget": "Food_001"
+    },
+    "NodeGUID": "bebb3696-9244-427c-a1fb-307fd0c9d26a",
+    "Children": [
+      {
+        "TargetIndex": 9,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "I... I'm not frowning! Nothing happened... Just that there are too many things to do...",
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "Food_001",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0002_Montage.Vo_Talk_NpcFood001_0002_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "10",
+      "LookAtTarget": "npc_shu_203_character_Night",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+        "SubPath": ""
+      }
+    },
+    "CameraConfig": {
+      "Camera1": {
+        "CameraName": "10"
+      },
+      "Camera2": {
+        "CameraName": "10a"
+      },
+      "BlendTime": 12
+    },
+    "NodeGUID": "03daf4cd-4f99-45b5-ba57-b43c75fc2b08",
+    "Children": [
+      {
+        "TargetIndex": 16,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Are you slacking off again? The shipment came in yesterday!",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_325/animation/npc_pe_talk4_Montage.npc_pe_talk4_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "2",
+      "LookAtTarget": "Food_001"
+    },
+    "NodeGUID": "829ec389-4b00-48b9-9e69-40e8c3811a3f",
+    "Children": [
+      {
+        "TargetIndex": 22,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "B-But I can't do it alone! Hilda... can you please, please—",
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "Food_001",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0004_Montage.Vo_Talk_NpcFood001_0004_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "1",
+      "LookAtTarget": "npc_shu_203_character_Night"
+    },
+    "NodeGUID": "9323345a-a3ff-4cf1-bc8e-a4f27c79c27e",
+    "Children": [
+      {
+        "TargetIndex": 25,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Hilda, I can go fetch the cargo. But about Zeke...",
+    "bIsSelfTalk": true,
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "CameraName": "10",
+      "LookAtTarget": "npc_shu_203_character_Night",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+        "SubPath": ""
+      }
+    },
+    "CameraConfig": {
+      "Camera2": {
+        "CameraName": "10a"
+      },
+      "BlendTime": 12
+    },
+    "NodeGUID": "8d7c3168-cf50-4054-af00-a80006f47766",
+    "Children": [
+      {
+        "TargetIndex": 30,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Okay. Goodbye...",
+    "OwnerName": "Food_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "241bd462-0ed3-4968-b82f-1a2eebf6508f",
+    "Children": [
+      {
+        "TargetIndex": 12,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "A new shipment came, but I don't have the time to pick it up. There's still a crate of cargo at the port...",
+    "OwnerName": "Food_001",
+    "ShowButtonWaitTime": 3,
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "Food_001",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0003_Montage.Vo_Talk_NpcFood001_0003_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "9",
+      "LookAtTarget": "npc_shu_203_character_Night",
+      "MidCameraArray": [
+        {
+          "Camera": {
+            "bCameraActor": false,
+            "bPlayer": false,
+            "CameraOwnerName": "None",
+            "CameraName": "scene1"
+          },
+          "BlendTime": 0,
+          "BlendFunc": "VTBlend_Linear",
+          "BlendExp": 2,
+          "WaittingTime": 4
+        },
+        {
+          "Camera": {
+            "bCameraActor": false,
+            "bPlayer": false,
+            "CameraOwnerName": "None",
+            "CameraName": "scene1a"
+          },
+          "BlendTime": 12,
+          "BlendFunc": "VTBlend_Linear",
+          "BlendExp": 2,
+          "WaittingTime": 4
+        }
+      ]
+    },
+    "CameraConfig": {
+      "Camera1": {
+        "bCameraActor": true
+      }
+    },
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "LeaveTalkGroup",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "a3c9ca20-5bba-4a8c-9e13-94e137f31bd4",
+    "Children": [
+      {
+        "TargetIndex": 19,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "I-I'm not a crybaby! I'm not a baby anymore!",
+    "OwnerName": "Food_001",
+    "ShowButtonWaitTime": 2,
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "Food_001",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_019/montage/Vo_Talk_NpcFood001_0005_Montage.Vo_Talk_NpcFood001_0005_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "5",
+      "LookAtTarget": "npc_shu_203_character_Night"
+    },
+    "NodeGUID": "69563f5f-c451-429b-a690-3a8f1bbb6d53",
+    "Children": [
+      {
+        "TargetIndex": 33,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Info: Hilda went to the port to respond to the rescue signal.",
+    "OwnerName": "GuideNPCCharacter_BP",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+        "SubPath": ""
+      },
+      "FirstListeningNPC": "GuideNPCCharacter_BP",
+      "FirstListeningNPCTemplate": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "GuideNPCCharacter_BP",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_906mia/montage/Vo_Talk_Pet_Mia_0024_Montage.Vo_Talk_Pet_Mia_0024_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "8",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+        "SubPath": ""
+      }
+    },
+    "NodeGUID": "c7519073-74bc-4005-b2c8-47bb81f5135d",
+    "Children": [
+      {
+        "TargetIndex": 15,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": true,
+        "Text": "A request for help?",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Hold on right there! I'm not cleaning up after you. No way!",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0033_Montage.Vo_Talk_Npc203_0033_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "12",
+      "LookAtTarget": "Food_001",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove1.cameramove1_C",
+        "SubPath": ""
+      }
+    },
+    "NodeGUID": "06de8fe0-70ad-4c65-a083-4db065b8c97e",
+    "Children": [
+      {
+        "TargetIndex": 28,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Hey, Crybaby. You better thank us for being so nice!",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0052_Montage_q102013.Vo_Talk_Npc203_0052_Montage_q102013",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "9",
+      "LookAtTarget": "Food_001"
+    },
+    "NodeGUID": "a7010591-7d56-4e94-bae1-de8b2ec5cb19",
+    "Children": [
+      {
+        "TargetIndex": 32,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Oh, fine... It's a fair deal, and Harriet can't complain about me bullying him again. Just drop the cargo off at the front of the store.",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_325/montage/Vo_Talk_Npc203_0102_Montage.Vo_Talk_Npc203_0102_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "4",
+      "MidCameraArray": [
+        {
+          "Camera": {
+            "bCameraActor": false,
+            "bPlayer": false,
+            "CameraOwnerName": "None",
+            "CameraName": "14"
+          },
+          "BlendTime": 0,
+          "BlendFunc": "VTBlend_Linear",
+          "BlendExp": 2,
+          "WaittingTime": 5
+        },
+        {
+          "Camera": {
+            "bCameraActor": false,
+            "bPlayer": false,
+            "CameraOwnerName": "None",
+            "CameraName": "14a"
+          },
+          "BlendTime": 12,
+          "BlendFunc": "VTBlend_Linear",
+          "BlendExp": 2,
+          "WaittingTime": 5
+        }
+      ]
+    },
+    "CameraConfig": {
+      "Camera1": {
+        "bCameraActor": true,
+        "CameraName": "Area2ShowGoods2"
+      }
+    },
+    "NodeGUID": "115cca4b-b745-4a51-9da3-270d0024d723",
+    "Children": [
+      {
+        "TargetIndex": 31,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "<purple>(These two are going to go at it for a while. I should go to the dock and haul the cargo over.)</>",
+    "bIsSelfTalk": true,
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/4p_Harite.4p_Harite",
+        "SubPath": ""
+      },
+      "CameraName": "16",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+        "SubPath": ""
+      }
+    },
+    "CameraConfig": {
+      "Camera2": {
+        "CameraName": "16a"
+      },
+      "BlendTime": 12
+    },
+    "NodeGUID": "5c87e49e-045a-43b7-a232-ff98b30ddba1",
+    "Children": [
+      {
+        "TargetIndex": 34,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Food_001",
+    "bEventNode": true,
+    "EnterEvents": [
+      {
+        "ParticipantName": "Food_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "TalkCompletedWaitUIClose:q1020130,1",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "1786bc8f-1b6d-4c3c-ae40-2aadf53f9071",
+    "Children": [
+      {
+        "TargetIndex": 27,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "How long has she been gone?",
+    "bIsSelfTalk": true,
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+        "SubPath": ""
+      },
+      "FirstListeningNPC": "GuideNPCCharacter_BP",
+      "FirstListeningNPCTemplate": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+        "SubPath": ""
+      },
+      "CameraName": "6",
+      "LookAtTarget": "Food_001",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+        "SubPath": ""
+      }
+    },
+    "CameraConfig": {
+      "Camera2": {
+        "CameraName": "6a"
+      },
+      "BlendTime": 12
+    },
+    "NodeGUID": "ac6e6194-e52e-4ecb-9af7-25d5d2eaac43",
+    "Children": [
+      {
+        "TargetIndex": 21,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "The Graceday celebration's about to start and I've still got a huge pile of crates to move. Kill me already!",
+    "OwnerName": "Food_001",
+    "EnterConditions": [
+      {
+        "Strength": "EDlgConditionStrength::Strong",
+        "ConditionType": "EDlgConditionType::EventCall",
+        "ParticipantName": "Food_001",
+        "CallbackName": "IsQuestObjectInProgress:q102013,11",
+        "Operation": "EDlgOperation::Equal",
+        "CompareType": "EDlgCompare::ToConst",
+        "OtherParticipantName": "None",
+        "OtherVariableName": "None",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bBoolValue": true,
+        "bLongTermMemory": true,
+        "GUID": "00000000-0000-0000-0000-000000000000",
+        "CustomCondition": null
+      }
+    ],
+    "NodeGUID": "bc9649cc-852e-437a-85ea-a54e7bfa3215",
+    "Children": [
+      {
+        "TargetIndex": 36,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Please adjust your camera",
+    "OwnerName": "Food_001",
+    "NodeGUID": "dc359800-5a57-4a87-8112-20a12086240c"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Piece of cake. Where did Hilda go?",
+    "bIsSelfTalk": true,
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+        "SubPath": ""
+      },
+      "FirstListeningNPC": "GuideNPCCharacter_BP",
+      "FirstListeningNPCTemplate": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+        "SubPath": ""
+      },
+      "CameraName": "4",
+      "LookAtTarget": "Food_001",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove.cameramove_C",
+        "SubPath": ""
+      }
+    },
+    "CameraConfig": {
+      "Camera1": {
+        "CameraName": "4"
+      },
+      "Camera2": {
+        "CameraName": "4a"
+      },
+      "BlendTime": 12
+    },
+    "NodeGUID": "3eeb3575-65ce-4b69-bc42-62a896e76552",
+    "Children": [
+      {
+        "TargetIndex": 11,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "The helping request was issued by a girl called Ann⁠—Tzsss⁠—Ann's balloon got caught on a streetlight.",
+    "OwnerName": "GuideNPCCharacter_BP",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+        "SubPath": ""
+      },
+      "FirstListeningNPC": "GuideNPCCharacter_BP",
+      "FirstListeningNPCTemplate": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "GuideNPCCharacter_BP",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_906mia/montage/Vo_Talk_Pet_Mia_0025_Montage.Vo_Talk_Pet_Mia_0025_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "9"
+    },
+    "NodeGUID": "d8e37d8d-9601-4d1e-b82b-98499d142b76",
+    "Children": [
+      {
+        "TargetIndex": 18,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "It was just now, about half a minute. You should be able to catch up to her.",
+    "OwnerName": "Food_001",
+    "SequenceConfig": {
+      "SoftSequence": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/3p_harite.3p_harite",
+        "SubPath": ""
+      },
+      "FirstListeningNPC": "GuideNPCCharacter_BP",
+      "FirstListeningNPCTemplate": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Npc/GuideNPC/GuideNPCCharacter_BP.GuideNPCCharacter_BP_C",
+        "SubPath": ""
+      },
+      "MontageNpcMap": [
+        {
+          "Key": "Food_001",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_019/montage/npc019_talk3-1.npc019_talk3-1",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "7",
+      "ShakeClass": {
+        "Path": "/Game/Resources/Sequencer/Dialogue/cameramove1.cameramove1_C",
+        "SubPath": ""
+      }
+    },
+    "NodeGUID": "4995968b-b4e0-4ff3-b6a2-4ed60868e60d",
+    "Children": [
+      {
+        "TargetIndex": 24,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Hey wait, isn't this the cry baby? What have you got for the celebration? Spectacular show of Waaaaaaah?",
+    "OwnerName": "npc_shu_203_character_Night",
+    "SequenceConfig": {
+      "FirstListeningNPC": "npc_shu_203_character_Night",
+      "MontageNpcMap": [
+        {
+          "Key": "npc_shu_203_character_Night",
+          "Value": {
+            "Path": "/Game/Resources/Characters/NPC/npc_shu_217/animation/npc_pe_talk1_Montage.npc_pe_talk1_Montage",
+            "SubPath": ""
+          }
+        }
+      ],
+      "CameraName": "Camera_03",
+      "LookAtTarget": "Food_001"
+    },
+    "NodeGUID": "2820fc05-7cc6-4661-ab1a-87eca1b349d9",
+    "Children": [
+      {
+        "TargetIndex": 37,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "You... Hilda! Seriously! I'm overwhelmed here. Could you help me move some crates at the piers?",
+    "OwnerName": "Food_001",
+    "NodeGUID": "214e47fb-349a-47e2-bd9c-76ed9051f0b5",
+    "Children": [
+      {
+        "TargetIndex": 38,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Collie sent me to check on you. Your sister knows you best. Rest assured. I will not help you.",
+    "OwnerName": "npc_shu_203_character_Night",
+    "NodeGUID": "734f38c0-763d-4073-93b0-7c3b766d0258",
+    "Children": [
+      {
+        "TargetIndex": 39,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Is this your friend? Hey, could you do me a favor?<purple>(One huge smile)</>Forget about Hilda. I'll pay you properly.",
+    "OwnerName": "Food_001",
+    "NodeGUID": "faadd936-a15d-41cb-b300-12bded37a405",
+    "Children": [
+      {
+        "TargetIndex": 40,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "NPC_Food001.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "NPC_Food001",
+      "OuterOwner": "None"
+    },
+    "Text": "Pay me?<purple>(You convince yourself)</>Yeah. Sure. Because I'm awfully nice.<purple>(You smile back)</>",
+    "bIsSelfTalk": true,
+    "OwnerName": "Food_001",
+    "NodeGUID": "5c7209bb-2368-4bb1-adc3-c01a6768425e",
+    "Children": [
+      {
+        "TargetIndex": 41,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  }
+]

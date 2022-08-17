@@ -1,0 +1,53 @@
+[
+  {
+    "Export": {
+      "Name": "DT_WorldBossConfig",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "WorldBoss": {
+      "ActivityId": "WorldBoss",
+      "TeamTargetId": "FB32_WorldBoss",
+      "DataList": [
+        {
+          "MapName": "FB32_WorldBoss"
+        }
+      ],
+      "LimitDuration": 480,
+      "WorldBossPrepareTime": 120,
+      "GuildBuffClassMap": [],
+      "GuildStackingBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff.Worldboss_playerbuff_C",
+        "SubPath": ""
+      },
+      "TeamRankAwardConfigArray": [],
+      "GuildRankAwardConfigArray": [],
+      "GuildPreviewAwardDropId": "None",
+      "PlayerPreviewAwardDropId": "WorldBoss_Wave_show"
+    },
+    "FB32_WorldBoss_level2": {
+      "ActivityId": "WorldBoss",
+      "TeamTargetId": "FB32_WorldBoss_level2",
+      "DataList": [
+        {
+          "MapName": "FB32_WorldBoss_level2"
+        }
+      ],
+      "LimitDuration": 480,
+      "WorldBossPrepareTime": 120,
+      "GuildBuffClassMap": [],
+      "GuildStackingBuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_playerbuff.Worldboss_playerbuff_C",
+        "SubPath": ""
+      },
+      "TeamRankAwardConfigArray": [],
+      "GuildRankAwardConfigArray": [],
+      "GuildPreviewAwardDropId": "None",
+      "PlayerPreviewAwardDropId": "WorldBoss_Wave_level2_show"
+    }
+  }
+  }
+]

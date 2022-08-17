@@ -1,0 +1,313 @@
+[
+  {
+    "Export": {
+      "Name": "WorldBossWaveConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "WaveManagerId": "0",
+      "WaveIndex": 0,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "2": {
+      "WaveManagerId": "0",
+      "WaveIndex": 1,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "3": {
+      "WaveManagerId": "0",
+      "WaveIndex": 2,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_boss",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "WorldBoss_boss_save"
+    },
+    "4": {
+      "WaveManagerId": "0",
+      "WaveIndex": 3,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_2.Worldboss_buff_2_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "5": {
+      "WaveManagerId": "0",
+      "WaveIndex": 4,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_2.Worldboss_buff_2_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "6": {
+      "WaveManagerId": "0",
+      "WaveIndex": 5,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_2.Worldboss_buff_2_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_boss",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "WorldBoss_boss_save"
+    },
+    "7": {
+      "WaveManagerId": "0",
+      "WaveIndex": 6,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_3.Worldboss_buff_3_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "8": {
+      "WaveManagerId": "0",
+      "WaveIndex": 7,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_3.Worldboss_buff_3_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "9": {
+      "WaveManagerId": "0",
+      "WaveIndex": 8,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_3.Worldboss_buff_3_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_boss",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "WorldBoss_boss_save"
+    },
+    "10": {
+      "WaveManagerId": "0",
+      "WaveIndex": 9,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_4.Worldboss_buff_4_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "11": {
+      "WaveManagerId": "0",
+      "WaveIndex": 10,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_4.Worldboss_buff_4_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "12": {
+      "WaveManagerId": "0",
+      "WaveIndex": 11,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_4.Worldboss_buff_4_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_boss",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "WorldBoss_boss_save"
+    },
+    "13": {
+      "WaveManagerId": "0",
+      "WaveIndex": 12,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_5.Worldboss_buff_5_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "14": {
+      "WaveManagerId": "0",
+      "WaveIndex": 13,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_5.Worldboss_buff_5_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": false,
+      "ExtraBossAwardDropId": "None",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "None"
+    },
+    "15": {
+      "WaveManagerId": "0",
+      "WaveIndex": 14,
+      "Level": 0,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss_buff_5.Worldboss_buff_5_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_boss",
+      "WaveHelpPoint": 25,
+      "WaveRegressionHelpPoint": 5,
+      "ExtraBossAwardDropIdSave": "WorldBoss_boss_save"
+    },
+    "16": {
+      "WaveManagerId": "1",
+      "WaveIndex": 0,
+      "Level": 1,
+      "WaveBuff": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_level2_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_level2_boss",
+      "WaveHelpPoint": 100,
+      "WaveRegressionHelpPoint": 20,
+      "ExtraBossAwardDropIdSave": "WorldBoss_level2_boss_save"
+    },
+    "17": {
+      "WaveManagerId": "1",
+      "WaveIndex": 1,
+      "Level": 1,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss2_buff_2.Worldboss2_buff_2_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_level2_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_level2_boss",
+      "WaveHelpPoint": 100,
+      "WaveRegressionHelpPoint": 20,
+      "ExtraBossAwardDropIdSave": "WorldBoss_level2_boss_save"
+    },
+    "18": {
+      "WaveManagerId": "1",
+      "WaveIndex": 2,
+      "Level": 1,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss2_buff_3.Worldboss2_buff_3_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_level2_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_level2_boss",
+      "WaveHelpPoint": 100,
+      "WaveRegressionHelpPoint": 20,
+      "ExtraBossAwardDropIdSave": "WorldBoss_level2_boss_save"
+    },
+    "19": {
+      "WaveManagerId": "1",
+      "WaveIndex": 3,
+      "Level": 1,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss2_buff_4.Worldboss2_buff_4_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_level2_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_level2_boss",
+      "WaveHelpPoint": 100,
+      "WaveRegressionHelpPoint": 20,
+      "ExtraBossAwardDropIdSave": "WorldBoss_level2_boss_save"
+    },
+    "20": {
+      "WaveManagerId": "1",
+      "WaveIndex": 4,
+      "Level": 1,
+      "WaveBuff": {
+        "Path": "/Game/Resources/Abilities/Buff/Wormhole/monster/Worldboss2_buff_5.Worldboss2_buff_5_C",
+        "SubPath": ""
+      },
+      "WaveAwardDropId": "WorldBoss_level2_Wave",
+      "IsBossWave": true,
+      "ExtraBossAwardDropId": "WorldBoss_level2_boss",
+      "WaveHelpPoint": 100,
+      "WaveRegressionHelpPoint": 20,
+      "ExtraBossAwardDropIdSave": "WorldBoss_level2_boss_save"
+    }
+  }
+  }
+]

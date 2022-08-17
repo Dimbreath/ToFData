@@ -1,0 +1,3194 @@
+[
+  {
+    "Export": {
+      "Name": "TeamConfigDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "NoTarget": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_None",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "WorldExploration": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_None",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 5
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "YewaiBoss": {
+      "bIsMenu": true,
+      "OwnerMenuId": "WorldExploration",
+      "TargetType": "ETeamTargetType::TeamTarget_None",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "Please find the target across the world on your own.",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 5
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Homeland_Boss_3": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Boss_2": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Boss_3": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Boss_5": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Vera_Boss_3": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Boss_4": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "TeamBoss_10": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Homeland_Boss_2": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Boss_6": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Vera_Boss_2": {
+      "bIsMenu": false,
+      "OwnerMenuId": "YewaiBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_YeWaiBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "DuoRenXieTong": {
+      "bIsMenu": false,
+      "OwnerMenuId": "WorldExploration",
+      "TargetType": "ETeamTargetType::TeamTarget_None",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "Please find the target across the world on your own.",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 5
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "DuoRenFuBen": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 20
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "IntruderTeam": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_None",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 23
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Aberrant Invasion",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "ExecutorTeam": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_GameActivity",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 18
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Weapon Destruction",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::HJDEvaluation_Clone"
+    },
+    "FB_Team02_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 20
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground I",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team02_KN_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_KN_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground II",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team02_SY_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_SY_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground III",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team02_D_IV": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_D_IV"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 37
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground IV",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team02_D_V": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_D_V"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 43
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground V",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team02_D_VI": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_D_VI"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground VI",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team02_D_VII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_D_VII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 60
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground VII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team02_D_VIII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team02_D_VIII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 70
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Spacetime Training Ground VIII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 20
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold I",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_KN_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_KN_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold II",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_SY_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_SY_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold III",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_D_IV": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_D_IV"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 37
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold IV",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_D_V": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_D_V"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 43
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold V",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_D_VI": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_D_VI"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold VI",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_D_VII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_D_VII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 60
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold VII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team03_D_VIII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team03_D_VIII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 70
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Stronghold VIII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 20
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground I",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_KN_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_KN_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground II",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_SY_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_SY_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground III",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_D_IV": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_D_IV"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 37
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground IV",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_D_V": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_D_V"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 43
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground V",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_D_VI": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_D_VI"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground VI",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_D_VII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_D_VII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 60
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground VII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team04_D_VIII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team04_D_VIII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 70
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Deepsea Proving Ground VIII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 20
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Area I",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_KN_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_KN_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Area II",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_SY_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_SY_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Area III",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_D_IV": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_D_IV"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 37
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Area IV",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_D_V": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_D_V"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 43
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Area V",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_D_VI": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_D_VI"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Area VI",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_D_VII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_D_VII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 60
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Area VII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team05_D_VIII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team05_D_VIII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 70
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Quarantine Zone VIII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 20
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena I",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D_II": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D_II"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 25
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena II",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D_III": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D_III"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena III",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D_IV": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D_IV"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 37
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena IV",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D_V": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D_V"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 43
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena V",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D_VI": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D_VI"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena VI",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D_VII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D_VII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 60
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena VII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team06_D_VIII": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team06_D_VIII"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 70
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Hyena Arena VIII",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team07_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team07_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 75
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "The End Game I",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team07_D_II": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team07_D_II"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "The End Game II",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team08_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team08_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 75
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Sadness Valley I",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Team08_D_II": {
+      "bIsMenu": false,
+      "OwnerMenuId": "DuoRenFuBen",
+      "TargetType": "ETeamTargetType::TeamTarget_RoomClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Team08_D_II"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Sadness Valley II",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "AstralPlane": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_APClone",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 21
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "ServerAstralPlane": {
+      "bIsMenu": false,
+      "OwnerMenuId": "AstralPlane",
+      "TargetType": "ETeamTargetType::TeamTarget_APClone",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "Must find a Star Gate to join Interstellar Exploration.",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 21
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Interstellar Exploration",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "ServerWorldBoss": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_WorldBoss",
+      "bEnterClone": false,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 39
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB32_WorldBoss": {
+      "bIsMenu": false,
+      "OwnerMenuId": "ServerWorldBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_WorldBoss",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB32_WorldBoss"
+      ],
+      "CannotEnterCloneDescription": "Find (Frontier Clash) on the map to participate",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 39
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Frontier Clash - Normal",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB32_WorldBoss_level2": {
+      "bIsMenu": false,
+      "OwnerMenuId": "ServerWorldBoss",
+      "TargetType": "ETeamTargetType::TeamTarget_WorldBoss",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB32_WorldBoss_level2"
+      ],
+      "CannotEnterCloneDescription": "Find (Frontier Clash) on the map to participate",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 50
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Frontier Clash - Hard",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "HookClone": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 23
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_01_D1": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_01_D1"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 23
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Weapon Drill - Difficulty 1",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "void": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_VoidClone",
+      "bEnterClone": true,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 35
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "void_team": {
+      "bIsMenu": false,
+      "OwnerMenuId": "void",
+      "TargetType": "ETeamTargetType::TeamTarget_VoidClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "void001_D",
+        "void002_D",
+        "void003_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 35
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Void Rift",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "WorldEventMenu": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_None",
+      "bEnterClone": true,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "WorldEvent": {
+      "bIsMenu": false,
+      "OwnerMenuId": "WorldEventMenu",
+      "TargetType": "ETeamTargetType::TeamTarget_WorldEvent",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB01_Event",
+        "FB02_Event",
+        "FB03_Event",
+        "FB04_Event",
+        "FB05_Event",
+        "FB06_Event",
+        "FB10_Event",
+        "FB13_Event",
+        "FB14_Event"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_PVP_2V2_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_2V2",
+      "bEnterClone": true,
+      "CloneNameList": [],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Warriors_Thunder": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Warriors_Thunder"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Peerless Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Survival_Physics": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Survival_Physics"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Survival Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Guard_Thunder": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Guard_Thunder"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Guard Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_Executor_Normal": {
+      "bIsMenu": false,
+      "OwnerMenuId": "ExecutorTeam",
+      "TargetType": "ETeamTargetType::TeamTarget_GameActivity",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Executor_Normal"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 18
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Weapon Destruction (Normal)",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::HJDEvaluation_Clone"
+    },
+    "FB_Executor_Hard": {
+      "bIsMenu": false,
+      "OwnerMenuId": "ExecutorTeam",
+      "TargetType": "ETeamTargetType::TeamTarget_GameActivity",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_Executor_Hard"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 18
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Weapon Destruction (Challenge)",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::HJDEvaluation_Clone"
+    },
+    "RandomIdolum_Warriors_Physics": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Warriors_Physics"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Peerless Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Survival_Thunder": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Survival_Thunder"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Survival Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Guard_Ice": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Guard_Ice"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Guard Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Team8P": {
+      "bIsMenu": true,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_LevyClone",
+      "bEnterClone": false,
+      "CloneNameList": [
+        "Team8P_01_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 65
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Team8P_01_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "Team8P",
+      "TargetType": "ETeamTargetType::TeamTarget_LevyClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "Team8P_01_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 65
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Midlevel Control Room - Normal",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Team8P_01_D_II": {
+      "bIsMenu": false,
+      "OwnerMenuId": "Team8P",
+      "TargetType": "ETeamTargetType::TeamTarget_LevyClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "Team8P_01_D_II"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 65
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Midlevel Control Room - Heroic",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Barrage_Thunder": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Barrage_Thunder"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Barrage Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Team8P_02_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "Team8P",
+      "TargetType": "ETeamTargetType::TeamTarget_LevyClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "Team8P_02_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 65
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Phantasmic Zenith - Normal",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Team8P_02_D_II": {
+      "bIsMenu": false,
+      "OwnerMenuId": "Team8P",
+      "TargetType": "ETeamTargetType::TeamTarget_LevyClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "Team8P_02_D_II"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 65
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Phantasmic Zenith - Heroic",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Team8P_03_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "Team8P",
+      "TargetType": "ETeamTargetType::TeamTarget_LevyClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "Team8P_03_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 65
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Shattered Realm - Normal",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Team8P_03_D_II": {
+      "bIsMenu": false,
+      "OwnerMenuId": "Team8P",
+      "TargetType": "ETeamTargetType::TeamTarget_LevyClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "Team8P_03_D_II"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 65
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Shattered Realm - Heroic",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Warriors_Fire": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Warriors_Fire"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Peerless Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Survival_Ice": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Survival_Ice"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Survival Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Guard_Fire": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Guard_Fire"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Guard Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Survival_Fire": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Survival_Fire"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Survival Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "RandomIdolum_Guard_Physics": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_RandowIdolum",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "RandomIdolum_Guard_Physics"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Guard Mode",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "BigSecret_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_BigSecret",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "BigSecret_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 999
+        }
+      },
+      "bMatchOtherPlayer": false,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Bygone Phantasm",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_01_D2": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_01_D2"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Weapon Drill - Difficulty 2",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_01_D3": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_01_D3"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 41
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Weapon Drill - Difficulty 3",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_01_D4": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_01_D4"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 51
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Weapon Drill - Difficulty 4",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_01_D5": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_01_D5"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 61
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Weapon Drill - Difficulty 5",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_01_D6": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_01_D6"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 71
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Weapon Drill - Difficulty 6",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_02_D1": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_02_D1"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 23
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Matrix Drill - Difficulty 1",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_02_D2": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_02_D2"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 31
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Matrix Drill - Difficulty 2",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_02_D3": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_02_D3"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 41
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Matrix Drill - Difficulty 3",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_02_D4": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_02_D4"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 51
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Matrix Drill - Difficulty 4",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_02_D5": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_02_D5"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 61
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Matrix Drill - Difficulty 5",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "FB_HookClone_02_D6": {
+      "bIsMenu": false,
+      "OwnerMenuId": "HookClone",
+      "TargetType": "ETeamTargetType::TeamTarget_HookClone",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "FB_HookClone_02_D6"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 71
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 20,
+      "bEnterCloneWhileMatchSuccess": false,
+      "ShowName": "Matrix Drill - Difficulty 6",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "TestMap_yaoql_DreamDefend": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_DreamDefend",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "TestMap_yaoql_DreamDefend"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "None",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "DC03HD_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_DreamDefend",
+      "bEnterClone": true,
+      "CloneNameList": [
+        "DC03HD_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Exclusive",
+          "Value": 99
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Event: Dreamscape Guardian",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "BreakFate": {
+      "bIsMenu": false,
+      "OwnerMenuId": "None",
+      "TargetType": "ETeamTargetType::TeamTarget_BreakFate",
+      "bEnterClone": false,
+      "CloneNameList": [
+        "DC03HD_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Event: Dreamscape Guardian",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Map_chiji_D": {
+      "bIsMenu": false,
+      "OwnerMenuId": "BreakFate",
+      "TargetType": "ETeamTargetType::TeamTarget_BreakFate",
+      "bEnterClone": false,
+      "CloneNameList": [
+        "DC03HD_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Solo Break From Destiny",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    },
+    "Map_chiji_D_team": {
+      "bIsMenu": false,
+      "OwnerMenuId": "BreakFate",
+      "TargetType": "ETeamTargetType::TeamTarget_BreakFate3V3",
+      "bEnterClone": false,
+      "CloneNameList": [
+        "DC03HD_D"
+      ],
+      "CannotEnterCloneDescription": "None",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 80
+        }
+      },
+      "bMatchOtherPlayer": true,
+      "TimeoutForAddRobot": 0,
+      "bEnterCloneWhileMatchSuccess": true,
+      "ShowName": "Team Break From Destiny",
+      "ShowDifficultyImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GameActivityType": "EHottaActivityType::None"
+    }
+  }
+  }
+]

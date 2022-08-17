@@ -1,0 +1,1067 @@
+[
+  {
+    "Export": {
+      "Name": "DT_PreviewActor",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "preview_gun": {
+      "Transform": {
+        "Rotation": {
+          "X": -0.2588181495666504,
+          "Y": -9.2560668463193E-08,
+          "Z": -0.9659259915351868,
+          "W": 3.4544208915576746E-07
+        },
+        "Translation": {
+          "X": -5,
+          "Y": 0,
+          "Z": 12
+        },
+        "Scale3D": {
+          "X": 1.100000023841858,
+          "Y": 1.100000023841858,
+          "Z": 1.100000023841858
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_stick": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 15
+        },
+        "Scale3D": {
+          "X": 1.7000000476837158,
+          "Y": 1.7000000476837158,
+          "Z": 1.7000000476837158
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_sword": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 1.600000023841858,
+          "Y": 0,
+          "Z": 10
+        },
+        "Scale3D": {
+          "X": 1.2000000476837158,
+          "Y": 1.2000000476837158,
+          "Z": 1.2000000476837158
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Common/P_Common_001.P_Common_001",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_spear": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -9,
+          "Y": 0,
+          "Z": 33
+        },
+        "Scale3D": {
+          "X": 0.8500000238418579,
+          "Y": 0.8500000238418579,
+          "Z": 0.8500000238418579
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_bow": {
+      "Transform": {
+        "Rotation": {
+          "X": 0.70710688829422,
+          "Y": 0,
+          "Z": 0,
+          "W": 0.7071067094802856
+        },
+        "Translation": {
+          "X": -18,
+          "Y": 0,
+          "Z": 50
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Transforms": [
+        {
+          "Rotation": {
+            "X": 0.70710688829422,
+            "Y": 0,
+            "Z": 0,
+            "W": 0.7071067094802856
+          },
+          "Translation": {
+            "X": -20,
+            "Y": 0,
+            "Z": 50
+          },
+          "Scale3D": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+          }
+        }
+      ],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_hammer": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -18,
+          "Y": 0,
+          "Z": 50
+        },
+        "Scale3D": {
+          "X": 0.800000011920929,
+          "Y": 0.800000011920929,
+          "Z": 0.800000011920929
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_bigsword": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": 8,
+          "Y": 0,
+          "Z": 10
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "/Game/Resources/Effect/Particles/FX_UI/FX_Common/P_Common_001.P_Common_001",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_cloth": {
+      "Transform": {
+        "Rotation": {
+          "X": -0.029469000175595284,
+          "Y": -0.03215999901294708,
+          "Z": 0.7365760207176208,
+          "W": 0.6749470233917236
+        },
+        "Translation": {
+          "X": 174,
+          "Y": 1,
+          "Z": -93
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_pants": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0.7372769713401794,
+          "W": 0.6755899786949158
+        },
+        "Translation": {
+          "X": 140,
+          "Y": -2,
+          "Z": -82
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "preview_shoes": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0.7604060173034668,
+          "W": 0.6494479775428772
+        },
+        "Translation": {
+          "X": 152,
+          "Y": -2.5,
+          "Z": -30
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "Preview_cannon": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -25,
+          "Y": 0,
+          "Z": 20
+        },
+        "Scale3D": {
+          "X": 0.8500000238418579,
+          "Y": 0.8500000238418579,
+          "Z": 0.8500000238418579
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "Preview_digger": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -10,
+          "Y": 0,
+          "Z": 20
+        },
+        "Scale3D": {
+          "X": 1.5,
+          "Y": 1.5,
+          "Z": 1.5
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "Preview_staves": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -22,
+          "Y": 0,
+          "Z": 57
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "Preview_sickle": {
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -20,
+          "Y": 0,
+          "Z": 50
+        },
+        "Scale3D": {
+          "X": 0.800000011920929,
+          "Y": 0.800000011920929,
+          "Z": 0.800000011920929
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    },
+    "Preview_darts": {
+      "Transform": {
+        "Rotation": {
+          "X": -0.7071065306663513,
+          "Y": -0,
+          "Z": 0,
+          "W": 0.7071070671081543
+        },
+        "Translation": {
+          "X": -33,
+          "Y": 0,
+          "Z": 78
+        },
+        "Scale3D": {
+          "X": 1.25,
+          "Y": 1.25,
+          "Z": 1.25
+        }
+      },
+      "Transforms": [],
+      "IdleAnimation": null,
+      "CurveVector": "WeaponCurve",
+      "Particle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      },
+      "DynamicParticle": {
+        "Particle": {
+          "Path": "None",
+          "SubPath": ""
+        },
+        "ParticleLocation": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "ParticleRotation": {
+          "Pitch": 0,
+          "Yaw": 0,
+          "Roll": 0
+        },
+        "ParticleScale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        },
+        "BindSocketName": "None",
+        "ImitationElementEffectName": "None"
+      }
+    }
+  }
+  }
+]

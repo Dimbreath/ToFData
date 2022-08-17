@@ -1,0 +1,1979 @@
+[
+  {
+    "Export": {
+      "Name": "MakeupPackDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "Datas": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.1": {
+        "MaterialSlotName": "eyebrow",
+        "MaterialSlotNames": []
+      },
+      "Datas.2": {
+        "MaterialSlotName": "face",
+        "MaterialSlotNames": []
+      },
+      "Datas.3": {
+        "MaterialSlotName": "face",
+        "MaterialSlotNames": [
+          "cloth"
+        ]
+      },
+      "Datas.4": {
+        "MaterialSlotName": "eye",
+        "MaterialSlotNames": []
+      },
+      "Datas.5": {
+        "MaterialSlotName": "face",
+        "MaterialSlotNames": []
+      },
+      "Datas.6": {
+        "MaterialSlotName": "eye",
+        "MaterialSlotNames": []
+      },
+      "Datas.7": {
+        "MaterialSlotName": "None",
+        "MaterialSlotNames": []
+      },
+      "Datas.8": {
+        "MaterialSlotName": "None",
+        "MaterialSlotNames": []
+      },
+      "Datas.9": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.10": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.11": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.12": {
+        "MaterialSlotName": "None",
+        "MaterialSlotNames": []
+      },
+      "MorphDisplays": [
+        {
+          "MorphName": "face_chang",
+          "MorphDisplay": "Facial Length",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_kuan",
+          "MorphDisplay": "Temple Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_chang",
+          "MorphDisplay": "Temple Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "taiyangxue_qian",
+          "MorphDisplay": "Temple Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "quangu_zuo",
+          "MorphDisplay": "Cheekbones Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "quangu_shang",
+          "MorphDisplay": "Cheekbones Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "quangu_qian",
+          "MorphDisplay": "Cheekbones Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "sai_zuo",
+          "MorphDisplay": "Cheeks Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "sai_shang",
+          "MorphDisplay": "Cheeks Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "sai_qian",
+          "MorphDisplay": "Cheeks Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "sai_jian_old",
+          "MorphDisplay": "Cheek Tip",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiachunji_zuo",
+          "MorphDisplay": "Lower Lip Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiachunji_shang",
+          "MorphDisplay": "Lower Lip Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiachunji_qian",
+          "MorphDisplay": "Lower Lip Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaba_shang",
+          "MorphDisplay": "Chin Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Jaw",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaba_zuo",
+          "MorphDisplay": "Chin Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Jaw",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaba_jian",
+          "MorphDisplay": "Chin Tip",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "bizi_xia",
+          "MorphDisplay": "Nose Up/Down",
+          "ShapeType": "EMakeupSubType::Nose",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_shang",
+          "MorphDisplay": "Mouth Up/Down",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_kuan",
+          "MorphDisplay": "Mouth Width",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_weixiao",
+          "MorphDisplay": "Mouth Curvature",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "cartoonhead0051_ZB",
+          "MorphDisplay": "cartoonhead0051_ZB",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaba_qian",
+          "MorphDisplay": "Chin Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Jaw",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaegu_zuo",
+          "MorphDisplay": "Lower Jaw Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaegu_shang",
+          "MorphDisplay": "Lower Jaw Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaegu_qian",
+          "MorphDisplay": "Lower Jaw Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "pingguoji_zuo",
+          "MorphDisplay": "Rosy Cheeks Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "pingguoji_shang",
+          "MorphDisplay": "Rosy Cheeks Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "pingguoji_qian",
+          "MorphDisplay": "Rosy Cheeks Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "bizi_huxing",
+          "MorphDisplay": "Nose Curvature",
+          "ShapeType": "EMakeupSubType::Nose",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "bizi_qian",
+          "MorphDisplay": "Nose Height",
+          "ShapeType": "EMakeupSubType::Nose",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_qian",
+          "MorphDisplay": "Mouth Front/Back",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "None",
+          "MorphDisplay": "None",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.8
+        }
+      ],
+      "BodyClamp": {
+        "X": -1,
+        "Y": 1
+      },
+      "HeadwearTransforms": [
+        {
+          "ID": "fashion_decoration_22",
+          "Transform": {
+            "Rotation": {
+              "X": -0.2840157449245453,
+              "Y": -0,
+              "Z": 0,
+              "W": 0.9588196277618408
+            },
+            "Translation": {
+              "X": 0.019999999552965164,
+              "Y": -7,
+              "Z": -1.8578100204467773
+            },
+            "Scale3D": {
+              "X": 0.8600000143051147,
+              "Y": 0.800000011920929,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_35",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0.23000000417232513,
+              "Y": 0.30000001192092896,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 0.8999999761581421,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_3",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0.30000001192092896,
+              "Z": 0.5
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_27",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_39_huawei",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": -0.10000000149011612,
+              "Y": 1.5,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 0.9769999980926514,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_6",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": -0.20000000298023224,
+              "Y": 0.44999998807907104,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_38_oppo",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": -7.000000096013537E-06,
+              "Y": 1.200024962425232,
+              "Z": 9.000000318337698E-06
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_40_tap",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": -7.000000096013537E-06,
+              "Y": 1.200024962425232,
+              "Z": 9.000000318337698E-06
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_29",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 3,
+              "Z": -1
+            },
+            "Scale3D": {
+              "X": 0.949999988079071,
+              "Y": 1.100000023841858,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_12",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.5,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1.0499999523162842,
+              "Y": 1.0499999523162842,
+              "Z": 1.0499999523162842
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_59",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_58",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_57",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_56",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_55",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_54",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_53",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.2000000476837158,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_65",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": -1.5,
+              "Z": 1
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_69",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 2,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_70",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 2,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        }
+      ]
+    },
+    "2": {
+      "Datas": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.1": {
+        "MaterialSlotName": "eyebrow",
+        "MaterialSlotNames": []
+      },
+      "Datas.2": {
+        "MaterialSlotName": "face",
+        "MaterialSlotNames": []
+      },
+      "Datas.3": {
+        "MaterialSlotName": "face",
+        "MaterialSlotNames": [
+          "cloth"
+        ]
+      },
+      "Datas.4": {
+        "MaterialSlotName": "eye",
+        "MaterialSlotNames": []
+      },
+      "Datas.5": {
+        "MaterialSlotName": "face",
+        "MaterialSlotNames": [
+          "face"
+        ]
+      },
+      "Datas.6": {
+        "MaterialSlotName": "eye",
+        "MaterialSlotNames": []
+      },
+      "Datas.7": {
+        "MaterialSlotName": "None",
+        "MaterialSlotNames": []
+      },
+      "Datas.8": {
+        "MaterialSlotName": "None",
+        "MaterialSlotNames": []
+      },
+      "Datas.9": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.10": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.11": {
+        "MaterialSlotName": "hair",
+        "MaterialSlotNames": []
+      },
+      "Datas.12": {
+        "MaterialSlotName": "None",
+        "MaterialSlotNames": []
+      },
+      "MorphDisplays": [
+        {
+          "MorphName": "face_chang",
+          "MorphDisplay": "Face Size",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_yanbianyou",
+          "MorphDisplay": "Temple Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_yanbianshang",
+          "MorphDisplay": "Temple Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_yanbianqian",
+          "MorphDisplay": "Temple Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Temple",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_quangugu",
+          "MorphDisplay": "Cheekbones Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_quangushang",
+          "MorphDisplay": "Cheekbones Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "face_quanguqian",
+          "MorphDisplay": "Cheekbones Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheekbone",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiahegu_you",
+          "MorphDisplay": "Lower Jaw Width",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiahegu_shang",
+          "MorphDisplay": "Lower Jaw Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiahegu_qian",
+          "MorphDisplay": "Lower Jaw Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerJawbone",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiahegu_yuan",
+          "MorphDisplay": "Lower Jaw Roundness",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiasai_gu",
+          "MorphDisplay": "Lower Cheeks Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiasai_shang",
+          "MorphDisplay": "Lower Cheeks Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiasai_zuo",
+          "MorphDisplay": "Lower Cheeks Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Cheeks",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaba_shang",
+          "MorphDisplay": "Chin Length",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Jaw",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaba_jian",
+          "MorphDisplay": "Chin Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Jaw",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "xiaba_qian",
+          "MorphDisplay": "Chin Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::Jaw",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "bizi_shang",
+          "MorphDisplay": "Nose Up/Down",
+          "ShapeType": "EMakeupSubType::Nose",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "bizi_zhai",
+          "MorphDisplay": "Nose Width",
+          "ShapeType": "EMakeupSubType::Nose",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "bizi_qian",
+          "MorphDisplay": "Nose Front/Back",
+          "ShapeType": "EMakeupSubType::Nose",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "biliang_gu",
+          "MorphDisplay": "Nose Bridge",
+          "ShapeType": "EMakeupSubType::Nose",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_shang",
+          "MorphDisplay": "Mouth Up/Down",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.3,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_zai",
+          "MorphDisplay": "Mouth Width",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_qian",
+          "MorphDisplay": "Mouth Front/Back",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "zuiba_weixiao",
+          "MorphDisplay": "Mouth Curvature",
+          "ShapeType": "EMakeupSubType::Mouse",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "chunji_shang",
+          "MorphDisplay": "Lower Lip Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "chunji_you",
+          "MorphDisplay": "Lower Lip Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.8
+        },
+        {
+          "MorphName": "chunji_qian",
+          "MorphDisplay": "Lower Lip Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::LowerLip",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "pingguoji_qian",
+          "MorphDisplay": "Rosy Cheeks Front/Back",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+          "ShapeDirection": "EMakeupShapeDirection::FowardBack",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.8
+        },
+        {
+          "MorphName": "pingguoji_shang",
+          "MorphDisplay": "Rosy Cheeks Up/Down",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+          "ShapeDirection": "EMakeupShapeDirection::UpBottom",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "pingguoji_you",
+          "MorphDisplay": "Rosy Cheeks Left/Right",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::AppleZone",
+          "ShapeDirection": "EMakeupShapeDirection::LeftRight",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.3
+        },
+        {
+          "MorphName": "None",
+          "MorphDisplay": "None",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.8
+        },
+        {
+          "MorphName": "None",
+          "MorphDisplay": "None",
+          "ShapeType": "EMakeupSubType::Face",
+          "ShapeSubType": "EMakeupShapeSubType::None",
+          "ShapeDirection": "EMakeupShapeDirection::None",
+          "bNotRandom": false,
+          "RandomMinValue": -0.8,
+          "RandomMaxValue": 0.8
+        }
+      ],
+      "BodyClamp": {
+        "X": -1,
+        "Y": 1
+      },
+      "HeadwearTransforms": [
+        {
+          "ID": "fashion_decoration_29",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 3,
+              "Z": -1
+            },
+            "Scale3D": {
+              "X": 0.8500000238418579,
+              "Y": 1.100000023841858,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_28",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0.5,
+              "Z": -0.8999999761581421
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1.149999976158142,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_27",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0.7999860048294067,
+              "Y": 4.199999809265137,
+              "Z": 0.5
+            },
+            "Scale3D": {
+              "X": 0.8999999761581421,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_26",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": -3.000000106112566E-06,
+              "Y": 1.0999929904937744,
+              "Z": 6.000000212225132E-06
+            },
+            "Scale3D": {
+              "X": 0.9200000166893005,
+              "Y": 1.100000023841858,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_25",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 0.949999988079071,
+              "Y": 1.100000023841858,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_2",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1.100000023841858,
+              "Z": 1.2999999523162842
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_3",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1.0499999523162842,
+              "Y": 1.0499999523162842,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_4",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1.2000000476837158,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_5",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0.5,
+              "Y": 2.5,
+              "Z": -0.5
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_6",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0.5,
+              "Y": 2.5,
+              "Z": -0.5
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_15",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1.100000023841858,
+              "Y": 1.100000023841858,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_16",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1.100000023841858,
+              "Y": 1.100000023841858,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_18",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0,
+              "Z": -3
+            },
+            "Scale3D": {
+              "X": 0.949999988079071,
+              "Y": 1.100000023841858,
+              "Z": 1.2000000476837158
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_19",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1.100000023841858,
+              "Y": 1.100000023841858,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_22",
+          "Transform": {
+            "Rotation": {
+              "X": -0.32555559277534485,
+              "Y": -0.002841080306097865,
+              "Z": 0.008251100778579712,
+              "W": 0.945482611656189
+            },
+            "Translation": {
+              "X": 0.2540839910507202,
+              "Y": -5.5,
+              "Z": -1.1168800592422485
+            },
+            "Scale3D": {
+              "X": 0.800000011920929,
+              "Y": 0.800000011920929,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_34",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": -1.4999999621068127E-05,
+              "Y": 2.8499999046325684,
+              "Z": 1.2000219821929932
+            },
+            "Scale3D": {
+              "X": 0.8799999952316284,
+              "Y": 0.9599999785423279,
+              "Z": 0.75
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_33",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 2,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_32",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 2.4000000953674316,
+              "Z": -0.5
+            },
+            "Scale3D": {
+              "X": 0.9399999976158142,
+              "Y": 0.9599999785423279,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_35_bilibili",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 3.500009059906006,
+              "Z": 0.5
+            },
+            "Scale3D": {
+              "X": 0.800000011920929,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_36_haoyou",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 3.500009059906006,
+              "Z": 0.5
+            },
+            "Scale3D": {
+              "X": 0.800000011920929,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_37_jiuyou",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 3.500009059906006,
+              "Z": 0.5
+            },
+            "Scale3D": {
+              "X": 0.800000011920929,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_38_oppo",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0.7999860048294067,
+              "Y": 4.199999809265137,
+              "Z": 0.5
+            },
+            "Scale3D": {
+              "X": 0.8999999761581421,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_39_huawei",
+          "Transform": {
+            "Rotation": {
+              "X": 0.026176998391747475,
+              "Y": 5.889890530852426E-08,
+              "Z": -2.773123952692913E-08,
+              "W": 0.9996573328971863
+            },
+            "Translation": {
+              "X": -0.10000000149011612,
+              "Y": 3.5,
+              "Z": -1.2999229431152344
+            },
+            "Scale3D": {
+              "X": 0.8700000047683716,
+              "Y": 0.8999999761581421,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_35",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 3.299999952316284,
+              "Z": 9.999999974752427E-07
+            },
+            "Scale3D": {
+              "X": 0.8500000238418579,
+              "Y": 0.8500000238418579,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_30",
+          "Transform": {
+            "Rotation": {
+              "X": 0.026177000254392624,
+              "Y": 0,
+              "Z": -0,
+              "W": 0.9996569752693176
+            },
+            "Translation": {
+              "X": -0.10000000149011612,
+              "Y": 3.5,
+              "Z": -1.2999229431152344
+            },
+            "Scale3D": {
+              "X": 0.8700000047683716,
+              "Y": 0.8999999761581421,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_40_tap",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0.7999860048294067,
+              "Y": 4.199999809265137,
+              "Z": 0.5
+            },
+            "Scale3D": {
+              "X": 0.8999999761581421,
+              "Y": 0.8999999761581421,
+              "Z": 0.8999999761581421
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_42_heihe",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0.5,
+              "Z": -0.8999999761581421
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1.149999976158142,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_41_douliu",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0.5,
+              "Y": 2.5,
+              "Z": -0.5
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_11_5",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 0.5,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_44",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1.600000023841858,
+              "Z": -1
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_45",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1.5,
+              "Z": -1
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_50",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1,
+              "Z": -0.5
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_48",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1,
+              "Z": -0.5
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_51",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_52",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 1.7000000476837158,
+              "Z": -0.699999988079071
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "ID": "fashion_decoration_70",
+          "Transform": {
+            "Rotation": {
+              "X": 0,
+              "Y": -0,
+              "Z": 0,
+              "W": 1
+            },
+            "Translation": {
+              "X": 0,
+              "Y": 2,
+              "Z": 0
+            },
+            "Scale3D": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        }
+      ]
+    }
+  }
+  }
+]

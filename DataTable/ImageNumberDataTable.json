@@ -1,0 +1,584 @@
+[
+  {
+    "Export": {
+      "Name": "ImageNumberDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Default": {
+      "DigitTextures": [
+        {
+          "Key": "0",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_0.qianghua",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_1.qianghua_2",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_2.qianghua_3",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_3.qianghua_4",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_4.qianghua_5",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_5.qianghua_6",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_6.qianghua_7",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_7.qianghua_8",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_8.qianghua_9",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_9.qianghua_10",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "+",
+          "Value": {
+            "Path": "/Game/Resources/UI/qianghua/qianghua/qianghua_+.qianghua_+",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "gameshop": {
+      "DigitTextures": [
+        {
+          "Key": "0",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/0.0",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/1.1",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/2.2",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/3.3",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/4.4",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/5.5",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/6.6",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/7.7",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/8.8",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/9.9",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "ArtifactSkillInfo": {
+      "DigitTextures": [
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/Artifact/1+.1+",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/Artifact/2+.2+",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/Artifact/3+.3+",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/Artifact/4+.4+",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/Artifact/5+.5+",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "DiscountPrice": {
+      "DigitTextures": [
+        {
+          "Key": "0",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_0.big",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_1.big_2",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_2.big_3",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_3.big_4",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_4.big_5",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_5.big_6",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_6.big_7",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_7.big_8",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_8.big_9",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/big_9.big_10",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "FullPrice": {
+      "DigitTextures": [
+        {
+          "Key": "0",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-0.x-0",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-1.x-1",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-2.x-2",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-3.x-3",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-4.x-4",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-5.x-5",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-6.x-6",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-7.x-7",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-8.x-8",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "Path": "/Game/Resources/UI/mall/x-9.x-9",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "CookingLevel": {
+      "DigitTextures": [
+        {
+          "Key": "0",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_0.num_01",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_1.num_01_2",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_2.num_01_3",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_3.num_01_4",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_4.num_01_5",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_5.num_01_6",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_6.num_01_7",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_7.num_01_8",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_8.num_01_9",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "Path": "/Game/Resources/UI/cooking/pengren/num_01_9.num_01_10",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "AbilityScore": {
+      "DigitTextures": [
+        {
+          "Key": "0",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-0.huang-0",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-1.huang-1",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-2.huang-2",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-3.huang-3",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-4.huang-4",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-5.huang-5",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-6.huang-6",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-7.huang-7",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-8.huang-8",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/huang-9.huang-9",
+            "SubPath": ""
+          }
+        }
+      ]
+    },
+    "AbilityScoreAdd": {
+      "DigitTextures": [
+        {
+          "Key": "0",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-0.lan-0",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "1",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-1.lan-1",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "2",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-2.lan-2",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "3",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-3.lan-3",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "4",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-4.lan-4",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "5",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-5.lan-5",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "6",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-6.lan-6",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "7",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-7.lan-7",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "8",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-8.lan-8",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "9",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-9.lan-9",
+            "SubPath": ""
+          }
+        },
+        {
+          "Key": "+",
+          "Value": {
+            "Path": "/Game/Resources/UI/pingfen/lan-+.lan-+",
+            "SubPath": ""
+          }
+        }
+      ]
+    }
+  }
+  }
+]

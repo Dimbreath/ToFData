@@ -1,0 +1,85 @@
+[
+  {
+    "Export": {
+      "Name": "CoolDownDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "test": {
+      "CoolDownTime": 10,
+      "RunOnServerOrStandalone": true,
+      "RunOnClient": true,
+      "PauseWhenOffline": true,
+      "NotifyIfOffline": true,
+      "RemoveWhenOffline": false,
+      "LoopCount": 1
+    },
+    "GlidingSprint": {
+      "CoolDownTime": 3,
+      "RunOnServerOrStandalone": true,
+      "RunOnClient": true,
+      "PauseWhenOffline": false,
+      "NotifyIfOffline": false,
+      "RemoveWhenOffline": true,
+      "LoopCount": 1
+    },
+    "SendTeamEmployMessage": {
+      "CoolDownTime": 10,
+      "RunOnServerOrStandalone": false,
+      "RunOnClient": true,
+      "PauseWhenOffline": false,
+      "NotifyIfOffline": false,
+      "RemoveWhenOffline": true,
+      "LoopCount": 1
+    },
+    "InteractiveAction": {
+      "CoolDownTime": 15,
+      "RunOnServerOrStandalone": true,
+      "RunOnClient": true,
+      "PauseWhenOffline": false,
+      "NotifyIfOffline": true,
+      "RemoveWhenOffline": false,
+      "LoopCount": 1
+    },
+    "GlidEjection": {
+      "CoolDownTime": 60,
+      "RunOnServerOrStandalone": true,
+      "RunOnClient": true,
+      "PauseWhenOffline": false,
+      "NotifyIfOffline": false,
+      "RemoveWhenOffline": false,
+      "LoopCount": 1
+    },
+    "Gliding": {
+      "CoolDownTime": 2,
+      "RunOnServerOrStandalone": true,
+      "RunOnClient": true,
+      "PauseWhenOffline": false,
+      "NotifyIfOffline": false,
+      "RemoveWhenOffline": false,
+      "LoopCount": 1
+    },
+    "GuildCampfire": {
+      "CoolDownTime": 1200,
+      "RunOnServerOrStandalone": true,
+      "RunOnClient": false,
+      "PauseWhenOffline": false,
+      "NotifyIfOffline": true,
+      "RemoveWhenOffline": false,
+      "LoopCount": 1
+    },
+    "GuildPresentMushroom": {
+      "CoolDownTime": 30,
+      "RunOnServerOrStandalone": true,
+      "RunOnClient": false,
+      "PauseWhenOffline": false,
+      "NotifyIfOffline": false,
+      "RemoveWhenOffline": true,
+      "LoopCount": 1
+    }
+  }
+  }
+]

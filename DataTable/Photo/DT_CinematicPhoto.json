@@ -1,0 +1,1066 @@
+[
+  {
+    "Export": {
+      "Name": "DT_CinematicPhoto",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "23": {
+      "CinematicName": "\"Sage\"",
+      "Description": "Hykros archive HG-031. The speaker in the video clip is supposed to be the leader of the Heirs of Aida, codename \"Sage.\" The children featured in the footage are now living in Astra Shelter, and are proven not connected to the Heirs of Aida after investigation.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/donghua_xiazuosay.donghua_xiazuosay",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "None",
+      "LevelSequence": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "/Game/Resources/Media/Story.Story",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "/Game/WwiseAudio/Events/SFX/CG/00_Login/Play_Sfx_CG_Login_00_P01.Play_Sfx_CG_Login_00_P01",
+        "SubPath": ""
+      },
+      "StoryID": "q101030",
+      "CinematicID": "None"
+    },
+    "1": {
+      "CinematicName": "Waking Up",
+      "Description": "You woke up to find yourself alive. You were not supposed to be, given the suppressor failure. But everything felt quite alright—there were two strangers nearby, did they save you?",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto1.CinematicPhoto1",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_xinglai/HOTTA_xinglai.HOTTA_xinglai",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "1"
+    },
+    "2": {
+      "CinematicName": "Astra Shelter",
+      "Description": "Shirli and Zeke have kept your equipment well. You retrieved your weapon and walked out into a lovely sunny day and a bright world—Astra Shelter, where Shirli and Zeke live.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto2.CinematicPhoto2",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_CICIAppear/HOTTA_CICIAppear_ALL.HOTTA_CICIAppear_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "2"
+    },
+    "3": {
+      "CinematicName": "Disagreement",
+      "Description": "Under Shirli's command, you disposed of the boulder blocking the way and revealed the entrance to the ruin. But the commotion attracted unwanted attention. Zeke showed up to stop your messing around...",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto3.CinematicPhoto3",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/gong/digongdonghua/dg_01.dg_01",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "3"
+    },
+    "4": {
+      "CinematicName": "Rainbow",
+      "Description": "You followed Shirli back to the shelter, hoping to make peace between her and Zeke, who lost his temper because he's much too concerned. Shirli said she understood, and that everyone was okay, only needing a bit of alone time.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto4.CinematicPhoto4",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_xiayu/HOTTA_xiayu.HOTTA_xiayu",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "4"
+    },
+    "5": {
+      "CinematicName": "Assault",
+      "Description": "Shirli and Zeke were finally at peace, but Astra Shelter was assaulted by Ravagers. They came in droves and were far too nimble. Help everyone in the shelter fend them off!",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto5.CinematicPhoto5",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_XIJI/HOTTA_XIJI.HOTTA_XIJI",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "5"
+    },
+    "6": {
+      "CinematicName": "Reinforcements",
+      "Description": "Ravagers were crumbling under your joined forces. But their leader called reinforcement through a portable spacerift. Stay vigilant and protect everyone!",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto6.CinematicPhoto6",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_Portal/HOTTA_Portal_All.HOTTA_Portal_All",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "6"
+    },
+    "7": {
+      "CinematicName": "Aberration",
+      "Description": "Seeing that defeat was inevitable, the leader of the group of Ravagers took an unknown concoction and transformed into a fiery enemy...",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto8.CinematicPhoto8",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_boss_bianyi/HOTTA_boss_bianyi.HOTTA_boss_bianyi",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "7"
+    },
+    "8": {
+      "CinematicName": "Choices",
+      "Description": "The suppressor protects its wearer. Without it, no one can avoid the aberration. Shirli is obviously a lost cause. Zeke has no choice but to put his own sister down.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto9.CinematicPhoto9",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_shali_dead/new_kill_shali_gai.new_kill_shali_gai",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "8"
+    },
+    "9": {
+      "CinematicName": "Hasty Departure",
+      "Description": "Franz stumbled upon Zeke in the graveyard talking to a woman with a mechanical body, who promised a new life for Shirli. He tried to talk some sense into Zeke but to no avail. Zeke then picked up Shirli and followed the woman into a spacerift.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto11.CinematicPhoto11",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_Set01_cemetery/HOTTA_Set01_cemetery_All.HOTTA_Set01_cemetery_All",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "9"
+    },
+    "10": {
+      "CinematicName": "Summit of the Tower",
+      "Description": "Welcome to Hykros, the scientific research and administration institution on the top floor of the Tower of Fantasy. For the sake of the development and future of all Aidans, the study of Omnium endures. They believe Omnium can one day be controlled and serve the people.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto15.CinematicPhoto15",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "city",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_WB/CITY_001/HOTTA_ALL.HOTTA_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "10"
+    },
+    "11": {
+      "CinematicName": "Rewind",
+      "Description": "The bomb breached Hykros' protective barrier, and Franz handed over a spherical device. The moment you take it, you find yourself in Hykros again in a flash of blinding light. Nothing has happened to the barrier yet, as if you just traveled back in time.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto7.CinematicPhoto7",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "city",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_ZC_baozha/HOTTA_ZC_baozha.HOTTA_ZC_baozha",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "11"
+    },
+    "12": {
+      "CinematicName": "Time of Crisis",
+      "Description": "Elric handed you the key to shutting down the Omnium Tower, hoping you could stop the inflow of Omnium before it's too late. If the Tower of Fantasy is overloaded with Omnium, it would be one huge catastrophe.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto16.CinematicPhoto16",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "city",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_givekey/HOTTA_givekey.HOTTA_givekey",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "12"
+    },
+    "21": {
+      "CinematicName": "The Council",
+      "Description": "The excessive inflow of Omnium is quickly becoming critical. Elric and Klema are about to bring this matter to the attention of Hykros' council.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto27.CinematicPhoto27",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "city",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_WB/CITY_002/ALL.ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "21"
+    },
+    "13": {
+      "CinematicName": "Fireworks",
+      "Description": "The spectacular fireworks show and vibrant nightlife of Banges were a nice distraction from recent events. You were enjoying the moment when two familiar figures approached.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto12.CinematicPhoto12",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_02/HOTTA_Set02_1LSflower/HOTTA_Set02_1LSflower_ALL.HOTTA_Set02_1LSflower_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "13"
+    },
+    "14": {
+      "CinematicName": "Tough Fight",
+      "Description": "On the beach of Banges, you were finally confronting the mysterious woman who took away Zeke. You tried to get rid of her, but she's much more powerful than you are.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto13.CinematicPhoto13",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_2_shatanPK/HOTTA_2_shatanPK_ALL.HOTTA_2_shatanPK_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "14"
+    },
+    "15": {
+      "CinematicName": "Deep Plunge",
+      "Description": "The dirigible you tried so hard to fix didn't hold under the Ravagers' fierce attack, taking a deep plunge toward the cold lake with you and Melo in it.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto14.CinematicPhoto14",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_HotBalloon/HOTTA_HotBalloon_ALL.HOTTA_HotBalloon_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "15"
+    },
+    "26": {
+      "CinematicName": "Assistance",
+      "Description": "The aberrant was disposed with ease by Zeke and that mysterious woman. You're getting much more assistance from Zeke than you'd like.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto24.CinematicPhoto24",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_03/HOTTA_Set03_TakeStar/HOTTA_Set03_TakeStar_All.HOTTA_Set03_TakeStar_All",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "26"
+    },
+    "37": {
+      "CinematicName": "From Above",
+      "Description": "A new angel descended from above when you're about to shut down the Navia Omnium Tower. A battle is afoot.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto21.CinematicPhoto21",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_3_tianshi/HOTTA_3_tianshi_ALL.HOTTA_3_tianshi_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "37"
+    },
+    "36": {
+      "CinematicName": "Time Retracement",
+      "Description": "Black Dog triggered multiple time retracements after being caught by the Hyenas. What can we do about that?",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto22.CinematicPhoto22",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_backintime/timeALL.timeALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "36"
+    },
+    "16": {
+      "CinematicName": "Truth of Omnium",
+      "Description": "According to Elric, the world is in its current shape because of time retracement. They are trying everything to find the best solution and save the world.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto38.CinematicPhoto38",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "city",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_04/HOTTASet04Truth/HOTTASet04TruthALL.HOTTASet04TruthALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "16"
+    },
+    "39": {
+      "CinematicName": "Frozen Tower",
+      "Description": "You and Franz successfully set up beacons and broke through the ice shell around the Omnium Tower. But the noise attracted a lot of Heirs of Aida.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto19.CinematicPhoto19",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_5_kaipao/HOTTA_5_kaipao_ALL.HOTTA_5_kaipao_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "39"
+    },
+    "25": {
+      "CinematicName": "A War in Snow",
+      "Description": "With the ice shell destroyed, Heirs of Aida arrived in droves, followed by Seele, the fourth Angel. You're easily overpowered, but Frigg showed up and took Seele away just before she could deliver the finishing strike. What do they want?",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto23.CinematicPhoto23",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_Section_05/HOTTA_Set05_Retreat/HOTTA_Set05_Retreat_ALL.HOTTA_Set05_Retreat_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "25"
+    },
+    "40": {
+      "CinematicName": "The Same Starry Sky",
+      "Description": "Although the starry sky now seems to be exactly the same as in the past, some memories are like thorns that cause a dull pain in the chest.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto39.CinematicPhoto39",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "QRSL_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HeimuWB/LYH/HOTTA_NMXS_01/HT_NMXS_01_ALL.HT_NMXS_01_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "40"
+    },
+    "41": {
+      "CinematicName": "First Encounter",
+      "Description": "Arrive at the Silvercoast Research Station in Vera's spacetime.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto40.CinematicPhoto40",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/PT/weila_chudao-silvercoast01/HOTTA_weila_all.HOTTA_weila_all",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "42": {
+      "CinematicName": "Skypiercer",
+      "Description": "Due to the sudden grayspace entities attack, we need to assist in defending this area.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto41.CinematicPhoto41",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HeimuWB/Sequence/HT_lkscx_ALL.HT_lkscx_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "43": {
+      "CinematicName": "Encounter with the Sandstorm",
+      "Description": "A sandstorm was encountered on the way to Mirroria... and...",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto42.CinematicPhoto42",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_SM_zhaoyushanao/HOTTA_SM_zhaoyu_ALL.HOTTA_SM_zhaoyu_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "44": {
+      "CinematicName": "Breaking Out of the Sandstorm",
+      "Description": "Try your best to break out of the sandstorm.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto43.CinematicPhoto43",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_SM_jingyu/HOTTA_SM_jingyu_ALL.HOTTA_SM_jingyu_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "45": {
+      "CinematicName": "Repulsing the whale",
+      "Description": "At such a critical moment, we were saved by...",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto44.CinematicPhoto44",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/beijing/HOTTA_SM_05/Sequencer/HOTTA_05_all.HOTTA_05_all",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "46": {
+      "CinematicName": "Mirroria",
+      "Description": "Mirroria is ahead of us.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto45.CinematicPhoto45",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HOTTA_SM_06FLY/HOTTA_SM_06FLY_all.HOTTA_SM_06FLY_all",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "47": {
+      "CinematicName": "Vera Tower of Fantasy",
+      "Description": "It seems that someone is waiting here to greet us, so let's go see what he has to say.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto46.CinematicPhoto46",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_City",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HeimuWB/XQ/CAM/CAM/07_ALL.07_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "48": {
+      "CinematicName": "Inn",
+      "Description": "Checking in...",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto47.CinematicPhoto47",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_CityHotel",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/HeimuWB/LvDianWB/LvDianSequence/LD_sequence_all.LD_sequence_all",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "49": {
+      "CinematicName": "Support Samir",
+      "Description": "While waiting for Zero to upgrade the Omnium collector, Samir sent us a request.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto48.CinematicPhoto48",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/beijing/HOTTA_SM_09/Sequencer/HOTTA_09_all.HOTTA_09_all",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "50": {
+      "CinematicName": "Destroy the skypiercer",
+      "Description": "Samir smashed the Grayspace Entity eggs with style, but splashed everyone else with slime.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto49.CinematicPhoto49",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_Beategg/HOTTA_Beategg_ALL.HOTTA_Beategg_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "51": {
+      "CinematicName": "Upgrade Mi-a",
+      "Description": "With all the Omnium, Shelly can now upgrade Mi-a.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto50.CinematicPhoto50",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_FB_Dixia_D",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/YHF/miaupgrade/miaupgrade_ALL.miaupgrade_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "52": {
+      "CinematicName": "Find the Abyssants",
+      "Description": "Only by defeating this Abyssant, can the two be rescued. Go after them and get the job done.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto51.CinematicPhoto51",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_P",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/DML/HOTTA_VeraBoss/HOTTA_VeraBoss_ALL.HOTTA_VeraBoss_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "53": {
+      "CinematicName": "Weird Object on Stage",
+      "Description": "What's that thing on the stage...?",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto52.CinematicPhoto52",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_FB01_D",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/PT/weila_Vera_Cinema_01_13/HOTTA_weila_cinema013_ALL.HOTTA_weila_cinema013_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "54": {
+      "CinematicName": "Curtain Call",
+      "Description": "Defeat the strange Singer, and relieve the crisis at hand.",
+      "Texture": {
+        "Path": "/Game/Resources/UI/Scenery/CinematicPhoto/CinematicPhoto53.CinematicPhoto53",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "/Game/Resources/UI/Scenery/viewspot_03.viewspot_03",
+        "SubPath": ""
+      },
+      "LevelID": "Vera_FB01_D",
+      "LevelSequence": {
+        "Path": "/Game/Resources/Sequencer/cutscenes/YHF/Vera_Cinema_02/Vera_Cinema_02_ALL.Vera_Cinema_02_ALL",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    },
+    "55": {
+      "CinematicName": "None",
+      "Description": "None",
+      "Texture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "GrayTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "LevelID": "None",
+      "LevelSequence": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaFile": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "SoftMediaAudio": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "StoryID": "None",
+      "CinematicID": "None"
+    }
+  }
+  }
+]

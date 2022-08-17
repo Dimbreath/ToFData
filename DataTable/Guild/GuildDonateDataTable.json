@@ -1,0 +1,26 @@
+[
+  {
+    "Export": {
+      "Name": "GuildDonateDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Normal": {
+      "DonateType": "EGuildDonate::Normal",
+      "DonateImage": {
+        "Path": "/Game/Resources/UI/guild/guild_jx_btn.guild_jx_btn",
+        "SubPath": ""
+      },
+      "DonateCountEveryDay": 1,
+      "DonateGainDropID": "None",
+      "DonateIncreaseContribution": 100,
+      "DonateIncreaseGuildCapital": 100,
+      "DonateIncreaseGuildGlory": 100,
+      "DonateIncreaseGuildMeritorious": 100
+    }
+  }
+  }
+]

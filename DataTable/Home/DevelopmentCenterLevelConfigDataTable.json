@@ -1,0 +1,604 @@
+[
+  {
+    "Export": {
+      "Name": "DevelopmentCenterLevelConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "development_center": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "q102011H",
+      "InteractRequiredObjectiveID": "1",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_0.HomeDevelopment_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_2": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 60,
+      "RequiredCharacterLevel": 50,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 0
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 0
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 0
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 0
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 0
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 0
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 0
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_1_ready.HomeDevelopment_1_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_1.HomeDevelopment_1_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_3": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 300,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 10
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 10
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_2_ready.HomeDevelopment_2_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_2.HomeDevelopment_2_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_4": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 1800,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 15
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 15
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_3_ready.HomeDevelopment_3_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_3.HomeDevelopment_3_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_5": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 3600,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 20
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 20
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_4_ready.HomeDevelopment_4_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_4.HomeDevelopment_4_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_6": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 7200,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 25
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 25
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_5_ready.HomeDevelopment_5_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_5.HomeDevelopment_5_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_7": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 800
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 800
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 800
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 800
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 800
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 30
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 30
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_6_ready.HomeDevelopment_6_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_6.HomeDevelopment_6_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_8": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 1200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 1200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 1200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 1200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 1200
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 30
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 30
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_7_ready.HomeDevelopment_7_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_7.HomeDevelopment_7_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_9": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 1600
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 1600
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 1600
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 1600
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 1600
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 40
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 40
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_8_ready.HomeDevelopment_8_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_8.HomeDevelopment_8_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "development_center_10": {
+      "UnlockNormalBuildingCount": 5,
+      "UnlockBuildingIDArray": [
+        "pet_house_2",
+        "pet_house_3",
+        "pet_house_5",
+        "pet_house_6",
+        "pet_house_7"
+      ],
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 40
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 40
+        }
+      ],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_9_ready.HomeDevelopment_9_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/HomeDevelopment_9.HomeDevelopment_9_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    }
+  }
+  }
+]

@@ -1,0 +1,853 @@
+[
+  {
+    "Export": {
+      "Name": "DT_Illustration",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "npc_shu_001_character": {
+      "Name": "Zeke",
+      "Detail": "Zeke is the leader of Astra Shelter.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_xiazuo.npc_xiazuo",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q101010",
+          "ObjectiveID": "1",
+          "UnlockText": "Serious, but not scary. Probably a nice person.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Apocalypse",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q10100793",
+          "ObjectiveID": "2",
+          "UnlockText": "Zeke might be too serious sometimes, but I can understand his worries.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Apocalypse",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q101021",
+          "ObjectiveID": "6",
+          "UnlockText": "I never expected Zeke to betray us. What's going on?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Apocalypse",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q102014",
+          "ObjectiveID": "6",
+          "UnlockText": "What happened when Zeke suddenly appeared in Banges with that strange woman?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Apocalypse",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q103024",
+          "ObjectiveID": "1",
+          "UnlockText": "Some things happened later on. I understand why Zeke did what he did, and I should trust him. But the people that are with him...",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Apocalypse",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q105054",
+          "ObjectiveID": "1",
+          "UnlockText": "Ultimately, Zeke just wants to save Shirli, and that might be why he decided to leave the shelter and join the Heirs. He'll probably be back with her once everything is over, though.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Apocalypse",
+          "AwardDropId": "drop_weapon_sr_first"
+        }
+      ]
+    },
+    "npc_shu_010_character": {
+      "Name": "Shirli",
+      "Detail": "Shirli is a nurse trainee at Astra Shelter.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_shali.npc_shali",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q101010",
+          "ObjectiveID": "1",
+          "UnlockText": "Being lively and cute, she is approachable, like a little sun that gives warmth to people.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Dragonfly",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q1010077",
+          "ObjectiveID": "3",
+          "UnlockText": "Unlike others, she's helpful and kind. People like her are rare these days.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Dragonfly",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q101021",
+          "ObjectiveID": "6",
+          "UnlockText": "Shirli was wounded and in critical condition. But she was taken away by Zeke, so maybe that woman really has ways to save her?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Dragonfly",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q103026",
+          "ObjectiveID": "2",
+          "UnlockText": "What is happening these days? How did Shirli become like this? Can this really save Shirli? Is it still Shirli who is saved?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Dragonfly",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q105054",
+          "ObjectiveID": "1",
+          "UnlockText": "This Shirli is both a stranger and a friend. Should we call her Shirli, or Nemesis?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Dragonfly",
+          "AwardDropId": "drop_weapon_sr_first"
+        },
+        {
+          "QuestID": "q105092",
+          "ObjectiveID": "1",
+          "UnlockText": "—Good morning, Shirli.\r\n—Look, the sun is still up as usual.\r\n—Let's go outside the shelter together!",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Dragonfly",
+          "AwardDropId": "drop_weapon_sr_first"
+        }
+      ]
+    },
+    "npc_shu_013_character": {
+      "Name": "Celine",
+      "Detail": "Celine is an officer in charge of purchasing supplies for Astra Shelter.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_sailin.npc_sailin",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q101012",
+          "ObjectiveID": "2",
+          "UnlockText": "She's always smiling, but... I feel like we shouldn't get on her bad side.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Rose",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q101021",
+          "ObjectiveID": "4",
+          "UnlockText": "I can see that what happened to Shirli was a big blow to Celine. After all, she was everyone's beloved little girl.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Rose",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q101061",
+          "ObjectiveID": "1",
+          "UnlockText": "Celine hopes that I can find Zeke. No one wanted to see something so traumatic happen to Astra.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Red Rose",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_003_character": {
+      "Name": "Palu",
+      "Detail": "Palu is the mechanician of Astra Shelter.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_paer.npc_paer",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q101012",
+          "ObjectiveID": "4",
+          "UnlockText": "He looks like a big, honest fellow who would be quite reliable if he could get over his drinking habit.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Lighthouse",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q101021",
+          "ObjectiveID": "None",
+          "UnlockText": "After the shelter suffered a heavy loss and Zeke left with Shirli, the person who was able to grasp the overall situation turned out to be Palu! He had stopped drinking and radiated a brilliant sense of reason that anyone could trust.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Lighthouse",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_002_character": {
+      "Name": "Franz",
+      "Detail": "Franz is mysterious and very hard to read.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_fulanci.npc_fulanci",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q1010077",
+          "ObjectiveID": "1",
+          "UnlockText": "Doesn't look like a bad person, but nothing's for certain. Time will tell.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hakujitsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q101021",
+          "ObjectiveID": "7",
+          "UnlockText": "Franz seems to know the woman who took Zeke.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hakujitsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q101043",
+          "ObjectiveID": "5",
+          "UnlockText": "Franz sounds like he's deeply connected to Hykros. What exactly does he do?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hakujitsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q101052",
+          "ObjectiveID": "None",
+          "UnlockText": "He's familiar with both Hykros and the Heirs of Aida. He doesn't sound serious at all, but casually gives away shocking information. His identity is questionable, but he appears trustworthy so far.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hakujitsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q102103",
+          "ObjectiveID": "None",
+          "UnlockText": "Franz's presence is reassuring. He has information that I urgently need to help me discover the truth. If I ignore his questionable identity, he might be the most trustworthy person for now.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hakujitsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q103068",
+          "ObjectiveID": "None",
+          "UnlockText": "He knows Dr. Claire. From the way he talks, it's clear that he is not bound by time. As long as he can keep helping me, it's not really that important.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hakujitsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_101_character": {
+      "Name": "Dr. Henry",
+      "Detail": "Dr. Henry is the leader of the think tank at Hykros.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_hengliboshi.npc_hengliboshi",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q101050",
+          "ObjectiveID": "3",
+          "UnlockText": "As one of the founders of Hykros, he is a heavyweight in the world of technology. People admire him for his calmness and wisdom.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Sage",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_102_character": {
+      "Name": "Klema",
+      "Detail": "Klema is the Inquisitor of Hykros.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_kalama.npc_kalama",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q101050",
+          "ObjectiveID": "3",
+          "UnlockText": "He is a very stern Inquisitor with a formidable presence.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Blazing Sun",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_104_character": {
+      "Name": "Elric",
+      "Detail": "Elric is the Archon of Hykros.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_aiwensi.npc_aiwensi",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q101051",
+          "ObjectiveID": "1",
+          "UnlockText": "A serious person, but not a scary person. One can tell that he understands and sees through everything, and is worthy of respect.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Stars",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q104000",
+          "ObjectiveID": "None",
+          "UnlockText": "Perhaps the path he insisted on was wrong, but after the various experiments he carried out, he proved himself that this path might be the only path for human beings and Hykros.\r\nTo seize the best possible outcome for the future, he has to try again no matter how many times he fails. Move forward, even with endless regret.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Stars",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_0024_character": {
+      "Name": "Digsby",
+      "Detail": "迪克吉是星岛擂台的老板。",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_dikeji.npc_dikeji",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q201050",
+          "ObjectiveID": "2",
+          "UnlockText": "In the beginning, this person creates a sense of detachment for me but then gives all kinds of caring tips when I participate in the competition. Maybe it's all his business strategy. It's hard to figure out what a businessman is thinking about.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Dice",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_203_character": {
+      "Name": "Hilda",
+      "Detail": "Hilda is a girl full of enthusiasm.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_xierda.npc_xierda",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q102010",
+          "ObjectiveID": "3",
+          "UnlockText": "She was saved on the beach of Banges and became the first person I met in Banges. Hilda's enthusiasm gave some relief to me who suffered from various things.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Firework",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q102116",
+          "ObjectiveID": "None",
+          "UnlockText": "She seems the only one outside the incident in Banges, yet she's involved. While Banges suffered in great pain, she also lost her best friend. Sometimes people grow up in a swift moment rather than taking a lot of time.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Firework",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_216_character": {
+      "Name": "Theo",
+      "Detail": "Theo is the only son of Kolador, the President of Banges.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_diao.npc_diao",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q1020101",
+          "ObjectiveID": "2",
+          "UnlockText": "Through Hilda's introduction, I learned about his frailty as well as his kindness and gentleness. No matter how bright his life is, his body seems to be stuck in the dark winter forever. What a pity.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Parallel Lines",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q102115",
+          "ObjectiveID": "1",
+          "UnlockText": "He didn't leave anything behind, because he has put his life in perspective for as long as he could remember. He was weak, and it was difficult just to stay alive. If this didn't happen, maybe he would have been able to see the world tomorrow and say hi to Hilda.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Parallel Lines",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_207_character": {
+      "Name": "Kolador",
+      "Detail": "Kolador is the owner of Banges Industries.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_keleite.npc_keleite",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q102011",
+          "ObjectiveID": "1",
+          "UnlockText": "I can feel that President Kolador is a very approachable person, and I can also feel that he is not only a businessman, but also a father who cares deeply about his only son Theo.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Maze",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q102118",
+          "ObjectiveID": "1",
+          "UnlockText": "I didn't expect President Kolador to join Heirs of Aida for the sake of saving Theo from his illness. For his selfishness, he harmed people while the evil deed back to bite himself. Now Theo is out of control and killed, and he is seriously injured, too.\r\nThe path he has chosen only led him to endless dark. Even if he realizes his error, he can never change what has happened to make him regret it for the rest of his life.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Maze",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_2007": {
+      "Name": "Hopkins",
+      "Detail": "Hopkins is the master of Black Market.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_huopujinsi.npc_huopujinsi",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q102110",
+          "ObjectiveID": "1",
+          "UnlockText": "He seems to have reached some sort of tacit understanding with President Kolador.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Ledger",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q1021114",
+          "ObjectiveID": "None",
+          "UnlockText": "Anyway, a profiteer that is knowing the time of day is not that annoying.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Ledger",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_311_character": {
+      "Name": "Black Dog",
+      "Detail": "Black Dog is the Hyenas' underchief.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_heiquan.npc_heiquan",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q1030021",
+          "ObjectiveID": "5",
+          "UnlockText": "The greedy Hyenas is so full of nonsense. I can't even tell which one is the truth. But he will not tell me the truth unless I'm tough on him.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Bristlegrass",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q103068",
+          "ObjectiveID": "1",
+          "UnlockText": "He is so annoying. Although I've regretted saving him, I couldn't just leave him for so many reasons. I hope he will learn to behave well after all these.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Bristlegrass",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_301_character": {
+      "Name": "Melo",
+      "Detail": "Melo is a figure on Cetus Island.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_meiluo.npc_meiluo",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q103003",
+          "ObjectiveID": "6",
+          "UnlockText": "A stuttering figuring with a simple brain. Maybe it was built using nothing but leftover scraps.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Customized",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q105037",
+          "ObjectiveID": "1",
+          "UnlockText": "It didn't occur to me that he was a one-off made by Dr. Claire. No wonder the electromagnetic waves from Heirs of Aida don't trouble him.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Customized",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_302_character": {
+      "Name": "Hanna",
+      "Detail": "Hanna is a Pyxie in Cetus Island.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_hana.npc_hana",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q103010",
+          "ObjectiveID": "3",
+          "UnlockText": "A very cute little doll with a good personality that makes people happy. She is very familiar with the Navia region. I absolutely will not get lost as long as she shows me the way.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Guidepost",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_313_character": {
+      "Name": "Dr. Claire",
+      "Detail": "Claire is the head of Cetus Island",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_kelaruierboshi.npc_kelaruierboshi",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q103021",
+          "ObjectiveID": "2",
+          "UnlockText": "She seems to be a very strange woman, hiding alone on the floating Cetus Island with her creation of a bunch of little dolls. Her age cannot even be told. I hope I can stay away from her after things get done.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Sougetsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q1040001",
+          "ObjectiveID": "None",
+          "UnlockText": "Because I can see everything, I knew there are things that cannot be changed, and also things that can be. For all the doctor has done, I just didn't know what she had tried to do? Is it for escape or to change something?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Sougetsu",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_314_character": {
+      "Name": "Frigg",
+      "Detail": "It turns out that the woman who took Zeke is called Frigg.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_fulijia.npc_fulijia",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q103022",
+          "ObjectiveID": "2",
+          "UnlockText": "Frigg is no simple woman, she has connection with Heirs of Aida. Did Zeke fooled by her?",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Bai Ai",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q105072",
+          "ObjectiveID": "None",
+          "UnlockText": "Thinking it carefully, she is the same as Shirli, a young girl who was being modified. She may have a fate similar to Shirli's, but it can't be a reason for her to help Heirs of Aida.\r\nPerhaps this is the reality, it is enough just to survive.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Bai Ai",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_304_character": {
+      "Name": "Slayer",
+      "Detail": "Slayer is the housekeeper of Cetus Island and the right hand of Dr. Claire.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_yisileier.npc_yisileier",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q103029",
+          "ObjectiveID": "1",
+          "UnlockText": "A strange cute little puppet likes to speak in a long tone.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Housekeeper",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_900_character": {
+      "Name": "Sage",
+      "Detail": "The Sage is the mysterious leader of the Heirs of Aida.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_xianzhe.npc_xianzhe",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q105072",
+          "ObjectiveID": "1",
+          "UnlockText": "The founder of Heirs of Aida. He has been waiting for the final answer, after experiencing many things on many worlds.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Antonym",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_402_character": {
+      "Name": "Giggs",
+      "Detail": "Giggs is a small person in charge of Crown Mines.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_jige.npc_jige",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q104011",
+          "ObjectiveID": "2",
+          "UnlockText": "A very mercenary and annoying bully who is greedy for money, perpetrates outrages in Mine regions under the protection of a powerful patron.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hover",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q1040461",
+          "ObjectiveID": "1",
+          "UnlockText": "Colluding with Heirs of Aida to resell drugs at a profit behind Mr. Kim's back, such behavior is really abominable. But a person like him, perhaps only Mr. Kim can pin his ear back.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Hover",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_401_character": {
+      "Name": "Mr. Kim",
+      "Detail": "Mr. Kim oversees the entire Crown Mines, and is also the boss here.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_jinxiansheng.npc_jinxiansheng",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q104020",
+          "ObjectiveID": "1",
+          "UnlockText": "He kept smiling, but I could feel the unfathomable nature of this man. Behind his mask is his coldness, cruelty, ruthlessness, and scheming, while people see his intimidation and detachment.\r\nFortunately, it will only be a brief contact with him.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Black Cat",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q104047",
+          "ObjectiveID": "2",
+          "UnlockText": "I thought he was just overlooking, but then, there are things he never knew. He values rules and discipline very much, and whoever breaks the rules won't look good.\r\nYou can't do some things just because you are the person in charge, but there's something you must do as the person in charge.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Black Cat",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_224_character": {
+      "Name": "Bai Ling",
+      "Detail": "Bai Ling is the leader of the Banges Shelter.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_bailing.npc_bailing",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q102128",
+          "ObjectiveID": "1",
+          "UnlockText": "A timid young girl who's a bit lacking in self esteem. Leaving her in charge of the shelter is a little concerning.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Lilies",
+          "AwardDropId": "Drop_Gem_a1_001"
+        },
+        {
+          "QuestID": "q102132",
+          "ObjectiveID": "4",
+          "UnlockText": "The battle finally ended, and life returned to normal. She was a shy and timid girl, but grew into a trustworthy shelter leader. Maybe there will be lots of ups and downs ahead, but I firmly believe she can handle it all.\r\n[The sunshine is beautiful.\r\nThe sun will shine even brighter tomorrow.]",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Lilies",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_501_character": {
+      "Name": "Carlos",
+      "Detail": "Carlos is the leader of the Warren Shelter.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_kaluosi.npc_kaluosi",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q105010",
+          "ObjectiveID": "1",
+          "UnlockText": "Being calm and gentle, she is still an ordinary person with a common presence. However, it is her existence that brings a moment of peace to the Warren Shelter.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Yukigawa",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    },
+    "npc_shu_503_character": {
+      "Name": "Marie",
+      "Detail": "Marie is Warren Shelter's correspondent.",
+      "SoftTex": {
+        "Path": "/Game/Resources/UI/yindao/npc_mali.npc_mali",
+        "SubPath": ""
+      },
+      "SoftTexLocked": {
+        "Path": "/Game/Resources/UI/yindao/tujian_bg.tujian_bg",
+        "SubPath": ""
+      },
+      "UnlockText": "暂未解锁",
+      "AwardDropId": "Drop_Gem_a1_001",
+      "UnlockQuestObjectives": [
+        {
+          "QuestID": "q105012",
+          "ObjectiveID": "1",
+          "UnlockText": "An innocent and lovely little girl. She's not very mature, yet she's not naive, making people love her tenderly.",
+          "lockPreviewText": "暂未解锁",
+          "Feature": "Ling Lan",
+          "AwardDropId": "Drop_Gem_a1_001"
+        }
+      ]
+    }
+  }
+  }
+]

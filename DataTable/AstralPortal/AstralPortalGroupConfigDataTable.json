@@ -1,0 +1,936 @@
+[
+  {
+    "Export": {
+      "Name": "AstralPortalGroupConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "GroupId": "Test_2",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 19
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 27
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_1.AstralPlaneTransferDoorBP_L1_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_2.AstralPlaneTransferDoorBP_L1_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_3.AstralPlaneTransferDoorBP_L1_3_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_1.AstralPlaneTransferDoorBP_L2_1_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 5
+        }
+      ]
+    },
+    "2": {
+      "GroupId": "Group1",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 21
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 39
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_1.AstralPlaneTransferDoorBP_L1_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_2.AstralPlaneTransferDoorBP_L1_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_3.AstralPlaneTransferDoorBP_L1_3_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_4.AstralPlaneTransferDoorBP_L1_4_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_5.AstralPlaneTransferDoorBP_L1_5_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_6.AstralPlaneTransferDoorBP_L1_6_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 170
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_7.AstralPlaneTransferDoorBP_L1_7_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_8.AstralPlaneTransferDoorBP_L1_8_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 204
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_1.AstralPlaneTransferDoorBP_L2_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_2.AstralPlaneTransferDoorBP_L2_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_3.AstralPlaneTransferDoorBP_L2_3_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_4.AstralPlaneTransferDoorBP_L2_4_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_5.AstralPlaneTransferDoorBP_L2_5_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_6.AstralPlaneTransferDoorBP_L2_6_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 20
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_7.AstralPlaneTransferDoorBP_L2_7_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_8.AstralPlaneTransferDoorBP_L2_8_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 24
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_1.AstralPlaneTransferDoorBP_L3_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_2.AstralPlaneTransferDoorBP_L3_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_3.AstralPlaneTransferDoorBP_L3_3_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_4.AstralPlaneTransferDoorBP_L3_4_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_5.AstralPlaneTransferDoorBP_L3_5_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_6.AstralPlaneTransferDoorBP_L3_6_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_7.AstralPlaneTransferDoorBP_L3_7_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_8.AstralPlaneTransferDoorBP_L3_8_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 12
+        }
+      ]
+    },
+    "3": {
+      "GroupId": "Group1",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 40
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 70
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_9.AstralPlaneTransferDoorBP_L1_9_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_10.AstralPlaneTransferDoorBP_L1_10_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_11.AstralPlaneTransferDoorBP_L1_11_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_12.AstralPlaneTransferDoorBP_L1_12_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_13.AstralPlaneTransferDoorBP_L1_13_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_14.AstralPlaneTransferDoorBP_L1_14_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 170
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_15.AstralPlaneTransferDoorBP_L1_15_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_16.AstralPlaneTransferDoorBP_L1_16_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 204
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_9.AstralPlaneTransferDoorBP_L2_9_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_10.AstralPlaneTransferDoorBP_L2_10_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_11.AstralPlaneTransferDoorBP_L2_11_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_12.AstralPlaneTransferDoorBP_L2_12_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_13.AstralPlaneTransferDoorBP_L2_13_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_14.AstralPlaneTransferDoorBP_L2_14_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 20
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_15.AstralPlaneTransferDoorBP_L2_15_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_16.AstralPlaneTransferDoorBP_L2_16_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 24
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_9.AstralPlaneTransferDoorBP_L3_9_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_10.AstralPlaneTransferDoorBP_L3_10_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_11.AstralPlaneTransferDoorBP_L3_11_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_12.AstralPlaneTransferDoorBP_L3_12_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_13.AstralPlaneTransferDoorBP_L3_13_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_14.AstralPlaneTransferDoorBP_L3_14_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_15.AstralPlaneTransferDoorBP_L3_15_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_16.AstralPlaneTransferDoorBP_L3_16_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 12
+        }
+      ]
+    },
+    "4": {
+      "GroupId": "Group1",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 71
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 100
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_17.AstralPlaneTransferDoorBP_L1_17_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 510
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_18.AstralPlaneTransferDoorBP_L1_18_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 510
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_19.AstralPlaneTransferDoorBP_L1_19_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 204
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_20.AstralPlaneTransferDoorBP_L1_20_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 204
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_17.AstralPlaneTransferDoorBP_L2_17_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 60
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_18.AstralPlaneTransferDoorBP_L2_18_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 60
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_19.AstralPlaneTransferDoorBP_L2_19_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 24
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_20.AstralPlaneTransferDoorBP_L2_20_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 24
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_17.AstralPlaneTransferDoorBP_L3_17_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 30
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_18.AstralPlaneTransferDoorBP_L3_18_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 30
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_19.AstralPlaneTransferDoorBP_L3_19_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 12
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_20.AstralPlaneTransferDoorBP_L3_20_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 12
+        }
+      ]
+    },
+    "5": {
+      "GroupId": "GroupSpecial_TypeA",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 100
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Boss_1.AstralPlaneTransferDoorBP_SP_Boss_1_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Boss_2.AstralPlaneTransferDoorBP_SP_Boss_2_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Boss_3.AstralPlaneTransferDoorBP_SP_Boss_3_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        }
+      ]
+    },
+    "6": {
+      "GroupId": "GroupSpecial_TypeB",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 100
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Charger_1.AstralPlaneTransferDoorBP_SP_Charger_1_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Charger_2.AstralPlaneTransferDoorBP_SP_Charger_2_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        }
+      ]
+    },
+    "7": {
+      "GroupId": "GroupSpecial_TypeC",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 100
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_PW_1.AstralPlaneTransferDoorBP_SP_PW_1_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_PW_2.AstralPlaneTransferDoorBP_SP_PW_2_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_PW_3.AstralPlaneTransferDoorBP_SP_PW_3_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        }
+      ]
+    },
+    "8": {
+      "GroupId": "RefAP",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Open",
+          "Value": 0
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Open",
+          "Value": 0
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_1.AstralPlaneTransferDoorBP_L1_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_2.AstralPlaneTransferDoorBP_L1_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_3.AstralPlaneTransferDoorBP_L1_3_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_4.AstralPlaneTransferDoorBP_L1_4_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_5.AstralPlaneTransferDoorBP_L1_5_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_6.AstralPlaneTransferDoorBP_L1_6_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_7.AstralPlaneTransferDoorBP_L1_7_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_8.AstralPlaneTransferDoorBP_L1_8_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_9.AstralPlaneTransferDoorBP_L1_9_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_10.AstralPlaneTransferDoorBP_L1_10_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_11.AstralPlaneTransferDoorBP_L1_11_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_12.AstralPlaneTransferDoorBP_L1_12_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_13.AstralPlaneTransferDoorBP_L1_13_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_14.AstralPlaneTransferDoorBP_L1_14_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_15.AstralPlaneTransferDoorBP_L1_15_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L1_16.AstralPlaneTransferDoorBP_L1_16_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 0
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_1.AstralPlaneTransferDoorBP_L2_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_2.AstralPlaneTransferDoorBP_L2_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_3.AstralPlaneTransferDoorBP_L2_3_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_4.AstralPlaneTransferDoorBP_L2_4_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_5.AstralPlaneTransferDoorBP_L2_5_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_6.AstralPlaneTransferDoorBP_L2_6_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_7.AstralPlaneTransferDoorBP_L2_7_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_8.AstralPlaneTransferDoorBP_L2_8_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_9.AstralPlaneTransferDoorBP_L2_9_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_10.AstralPlaneTransferDoorBP_L2_10_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_11.AstralPlaneTransferDoorBP_L2_11_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_12.AstralPlaneTransferDoorBP_L2_12_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_13.AstralPlaneTransferDoorBP_L2_13_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_14.AstralPlaneTransferDoorBP_L2_14_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_15.AstralPlaneTransferDoorBP_L2_15_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L2_16.AstralPlaneTransferDoorBP_L2_16_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 0
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_1.AstralPlaneTransferDoorBP_L3_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_2.AstralPlaneTransferDoorBP_L3_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_3.AstralPlaneTransferDoorBP_L3_3_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_4.AstralPlaneTransferDoorBP_L3_4_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_5.AstralPlaneTransferDoorBP_L3_5_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_6.AstralPlaneTransferDoorBP_L3_6_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_7.AstralPlaneTransferDoorBP_L3_7_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_8.AstralPlaneTransferDoorBP_L3_8_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_9.AstralPlaneTransferDoorBP_L3_9_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_10.AstralPlaneTransferDoorBP_L3_10_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_11.AstralPlaneTransferDoorBP_L3_11_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_12.AstralPlaneTransferDoorBP_L3_12_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_13.AstralPlaneTransferDoorBP_L3_13_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_14.AstralPlaneTransferDoorBP_L3_14_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_15.AstralPlaneTransferDoorBP_L3_15_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/AstralPlaneTransferDoorBP_L3_16.AstralPlaneTransferDoorBP_L3_16_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 0
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/RedAP/AstralPlaneTransferDoorBP_Red_L3_1.AstralPlaneTransferDoorBP_Red_L3_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/RedAP/AstralPlaneTransferDoorBP_Red_L3_2.AstralPlaneTransferDoorBP_Red_L3_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/RedAP/AstralPlaneTransferDoorBP_Red_L3_5.AstralPlaneTransferDoorBP_Red_L3_5_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/RedAP/AstralPlaneTransferDoorBP_Red_L3_6.AstralPlaneTransferDoorBP_Red_L3_6_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/RedAP/AstralPlaneTransferDoorBP_Red_L3_7.AstralPlaneTransferDoorBP_Red_L3_7_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/RedAP/AstralPlaneTransferDoorBP_Red_L3_8.AstralPlaneTransferDoorBP_Red_L3_8_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 0
+        },
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Boss_1.AstralPlaneTransferDoorBP_SP_Boss_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Boss_2.AstralPlaneTransferDoorBP_SP_Boss_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Boss_3.AstralPlaneTransferDoorBP_SP_Boss_3_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Charger_1.AstralPlaneTransferDoorBP_SP_Charger_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_Charger_2.AstralPlaneTransferDoorBP_SP_Charger_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_PW_1.AstralPlaneTransferDoorBP_SP_PW_1_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_PW_2.AstralPlaneTransferDoorBP_SP_PW_2_C",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/FB/AstralPlane/AstralBP/SpecialAP/AstralPlaneTransferDoorBP_SP_PW_3.AstralPlaneTransferDoorBP_SP_PW_3_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 0
+        }
+      ]
+    },
+    "9": {
+      "GroupId": "Group_SecondaryPlane_Vera",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 100
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/CoreBlueprints/SceneItem/EffectFuncitonActor/BP_DimensionBreakEffect.BP_DimensionBreakEffect_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        }
+      ]
+    },
+    "10": {
+      "GroupId": "Group_SecondaryPlane_Vera_liusha",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 100
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/CoreBlueprints/SceneItem/EffectFuncitonActor/BP_DimensionBreakEffect_liusha.BP_DimensionBreakEffect_liusha_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        }
+      ]
+    },
+    "11": {
+      "GroupId": "Group_SecondaryPlane_Vera_lvzhou",
+      "CharacterLevelLimit": {
+        "LowerBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 1
+        },
+        "UpperBound": {
+          "Type": "ERangeBoundTypes::Inclusive",
+          "Value": 100
+        }
+      },
+      "ClassesWithWeightArray": [
+        {
+          "AstralPortalTemplateArray": [
+            {
+              "Path": "/Game/Resources/CoreBlueprints/SceneItem/EffectFuncitonActor/BP_DimensionBreakEffect_lvzhou.BP_DimensionBreakEffect_lvzhou_C",
+              "SubPath": ""
+            }
+          ],
+          "Weight": 1
+        }
+      ]
+    }
+  }
+  }
+]

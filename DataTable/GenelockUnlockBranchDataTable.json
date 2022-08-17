@@ -1,0 +1,40 @@
+[
+  {
+    "Export": {
+      "Name": "GenelockUnlockBranchDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "0": {
+      "NeedLevel": 0,
+      "NeedSuppressorLevel": "None",
+      "NeedCurrency": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "NeedQuest": "None"
+    },
+    "1": {
+      "NeedLevel": 0,
+      "NeedSuppressorLevel": "None",
+      "NeedCurrency": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 200
+      },
+      "NeedQuest": "None"
+    },
+    "2": {
+      "NeedLevel": 0,
+      "NeedSuppressorLevel": "04_5",
+      "NeedCurrency": {
+        "CurrencyType": "EHottaCurrencyType::Gold",
+        "Amount": 0
+      },
+      "NeedQuest": "None"
+    }
+  }
+  }
+]

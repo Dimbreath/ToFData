@@ -1,0 +1,51 @@
+[
+  {
+    "Export": {
+      "Name": "IS_general_equip02_C",
+      "Class": "BlueprintGeneratedClass",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__BlueprintGeneratedClass",
+      "TemplateOwner": "/Script/Engine",
+      "Super": "IdleStatePatrolBP_Base_C",
+      "SuperOwner": "/Game/Resources/CoreBlueprints/AI/AIState/IdleStatePatrolBP_Base"
+    }
+  },
+  {
+    "Export": {
+      "Name": "Default__IS_general_equip02_C",
+      "Class": "IS_general_equip02_C",
+      "ClassOwner": "None",
+      "Template": "Default__IdleStatePatrolBP_Base_C",
+      "TemplateOwner": "/Game/Resources/CoreBlueprints/AI/AIState/IdleStatePatrolBP_Base"
+    },
+    "PatrolType": "EAIPatrolType::InSitu",
+    "DoesStateBeginWithInitialLocation": true,
+    "DoesStateBeginWithCurrentLocation": false,
+    "bUseRandomAnim": true,
+    "RandomAnimList": [
+      {
+        "Anim": null,
+        "Weight": 1,
+        "NPCMsg": {
+          "NPCMsgEntries": [
+            {
+              "MsgSequence": [
+                {
+                  "MsgText": "Everything for a good price. Welcome!",
+                  "MsgDuration": 5,
+                  "bIsPlayerMsg": false
+                }
+              ],
+              "Weight": 1,
+              "MessageType": "ENPCMessageShowType::Bubble"
+            }
+          ]
+        }
+      }
+    ],
+    "RandomAnimIntervalMin": 10,
+    "RandomAnimIntervalMax": 10,
+    "bExecuteRandomAnimImmediatelyWhenStateBegin": true,
+    "MovementSpeedOverride": 120
+  }
+]

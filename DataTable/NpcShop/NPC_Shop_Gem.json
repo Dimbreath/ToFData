@@ -1,0 +1,849 @@
+[
+  {
+    "Export": {
+      "Name": "ExecuteUbergraph_NPC_Shop_Gem",
+      "Path": "NPC_Shop_Gem_C.ExecuteUbergraph_NPC_Shop_Gem",
+      "Class": "Function",
+      "ClassOwner": "/Script/CoreUObject",
+      "Template": "Default__Function",
+      "TemplateOwner": "/Script/CoreUObject",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    }
+  },
+  {
+    "Export": {
+      "Name": "BP_OnDialogueEvent",
+      "Path": "NPC_Shop_Gem_C.BP_OnDialogueEvent",
+      "Class": "Function",
+      "ClassOwner": "/Script/CoreUObject",
+      "Template": "Default__Function",
+      "TemplateOwner": "/Script/CoreUObject",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None",
+      "Super": "BP_OnDialogueEvent",
+      "SuperOwner": "QRSLDialogueNpcCharacter"
+    }
+  },
+  {
+    "Export": {
+      "Name": "NPC_Shop_Gem_C",
+      "Class": "BlueprintGeneratedClass",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__BlueprintGeneratedClass",
+      "TemplateOwner": "/Script/Engine",
+      "Super": "BP_DialogueNpcBase_C",
+      "SuperOwner": "/Game/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase"
+    },
+    "SimpleConstructionScript": "SimpleConstructionScript",
+    "InheritableComponentHandler": "InheritableComponentHandler",
+    "UberGraphFunction": "ExecuteUbergraph_NPC_Shop_Gem"
+  },
+  {
+    "Export": {
+      "Name": "Default__NPC_Shop_Gem_C",
+      "Class": "NPC_Shop_Gem_C",
+      "ClassOwner": "None",
+      "Template": "Default__BP_DialogueNpcBase_C",
+      "TemplateOwner": "/Game/Resources/CoreBlueprints/Character/Npc/Npc_base/BP_DialogueNpcBase"
+    },
+    "UberGraphFrame": {},
+    "DialogueCollisionSphere": "DialogueCollisionSphere",
+    "GreetTriggerShape": "GreetTriggerBox",
+    "AttackReactionEntries": [
+      {
+        "Anim": "npc025_hit",
+        "NPCMsg": {
+          "NPCMsgEntries": []
+        },
+        "SpawnTemplate": null
+      }
+    ],
+    "AttackReactionResetInterval": 0,
+    "AttackReactionCoolDownTime": 0,
+    "SilentCheckComponent": "SilentCheckComponent",
+    "SplineComponent": "PathSplineComponent",
+    "BubbleComponent": "BubbleComponent",
+    "IdleStateEntries": [],
+    "bUseTurnInPlace": false,
+    "HeadUpExtraInfo": "Black Nucleus Vendor",
+    "SkillEffectComponent": "SkillEffectComponent",
+    "ConfigID": "NPC_Shop_Gem",
+    "SkillComponent": "SkillComponent",
+    "AttributeSet": "AttributeSet",
+    "StandaloneHottaAttribute": "StandaloneAttributeSet",
+    "FakeShadowMesh": "NewFakeShadow",
+    "bShowHeadUpExtra": true,
+    "DescriptiveName": "Agnes",
+    "HeadUpFuncTypeTexture": {
+      "Path": "/Game/Resources/UI/npc/icon_shop.icon_shop",
+      "SubPath": ""
+    },
+    "Mesh": "CharacterMesh0",
+    "CharacterMovement": "CharMoveComp",
+    "CapsuleComponent": "CollisionCylinder",
+    "MovementModeChangedDelegate": null,
+    "RootComponent": "CollisionCylinder"
+  },
+  {
+    "Export": {
+      "Name": "GreetTriggerBox",
+      "Path": "Default__NPC_Shop_Gem_C.GreetTriggerBox",
+      "Class": "BoxComponent",
+      "ClassOwner": "/Script/Engine",
+      "Template": "GreetTriggerBox",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "AttachParent": "CollisionCylinder"
+  },
+  {
+    "Export": {
+      "Name": "CollisionCylinder",
+      "Path": "Default__NPC_Shop_Gem_C.CollisionCylinder",
+      "Class": "CapsuleComponent",
+      "ClassOwner": "/Script/Engine",
+      "Template": "CollisionCylinder",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "CapsuleHalfHeight": 180,
+    "CapsuleRadius": 60
+  },
+  {
+    "Export": {
+      "Name": "CharacterHeadUpComp_BP_GEN_VARIABLE",
+      "Path": "NPC_Shop_Gem_C.CharacterHeadUpComp_BP_GEN_VARIABLE",
+      "Class": "CharacterHeadUpComp_BP_C",
+      "ClassOwner": "/Game/Resources/CoreBlueprints/Character/Components/CharacterHeadUpComp_BP",
+      "Template": "CharacterHeadUpComp_BP_GEN_VARIABLE",
+      "TemplateOwner": "BP_DialogueNpcBase_C",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "RelativeLocation": {
+      "X": -6.103515625E-05,
+      "Y": 0.000640869140625,
+      "Z": 203.98587036132812
+    }
+  },
+  {
+    "Export": {
+      "Name": "Dialogue_GEN_VARIABLE",
+      "Path": "NPC_Shop_Gem_C.Dialogue_GEN_VARIABLE",
+      "Class": "DialogueComponent",
+      "ClassOwner": "/Script/QRSL",
+      "Template": "Dialogue_GEN_VARIABLE",
+      "TemplateOwner": "BP_DialogueNpcBase_C",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "DlgDialogue": "Text_Gem"
+  },
+  {
+    "Export": {
+      "Name": "CharMoveComp",
+      "Path": "Default__NPC_Shop_Gem_C.CharMoveComp",
+      "Class": "HottaAIMovementComponent",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "CharMoveComp",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    }
+  },
+  {
+    "Export": {
+      "Name": "AttributeSet",
+      "Path": "Default__NPC_Shop_Gem_C.AttributeSet",
+      "Class": "HottaAttributeSet",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "AttributeSet",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    }
+  },
+  {
+    "Export": {
+      "Name": "StandaloneAttributeSet",
+      "Path": "Default__NPC_Shop_Gem_C.StandaloneAttributeSet",
+      "Class": "HottaAttributeSet",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "StandaloneAttributeSet",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    }
+  },
+  {
+    "Export": {
+      "Name": "BubbleComponent",
+      "Path": "Default__NPC_Shop_Gem_C.BubbleComponent",
+      "Class": "HottaBubbleComponent",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "BubbleComponent",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "AttachParent": "CollisionCylinder"
+  },
+  {
+    "Export": {
+      "Name": "CharacterMesh0",
+      "Path": "Default__NPC_Shop_Gem_C.CharacterMesh0",
+      "Class": "HottaSkeletalMeshComponent",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "CharacterMesh0",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "AnimClass": "npc052_animBP_C",
+    "SkeletalMesh": "npc_shu_052_skin",
+    "BodyInstance": {
+      "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics",
+      "CollisionProfileName": "Custom",
+      "CollisionResponses": {
+        "ResponseArray": [
+          {
+            "Channel": "MeleeTrace",
+            "Response": "ECR_Block"
+          },
+          {
+            "Channel": "LaunchTrace",
+            "Response": "ECR_Block"
+          },
+          {
+            "Channel": "FlyBall",
+            "Response": "ECR_Block"
+          },
+          {
+            "Channel": "WaterMesh",
+            "Response": "ECR_Block"
+          }
+        ]
+      }
+    },
+    "AttachParent": "CollisionCylinder",
+    "RelativeLocation": {
+      "X": -0.0017661992460489273,
+      "Y": -0.6817129850387573,
+      "Z": -179.0124969482422
+    },
+    "RelativeRotation": {
+      "Pitch": 0,
+      "Yaw": -90.00018310546875,
+      "Roll": 0
+    }
+  },
+  {
+    "Export": {
+      "Name": "SkillEffectComponent",
+      "Path": "Default__NPC_Shop_Gem_C.SkillEffectComponent",
+      "Class": "HottaSkillEffectComponent",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "SkillEffectComponent",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    }
+  },
+  {
+    "Export": {
+      "Name": "SkillComponent",
+      "Path": "Default__NPC_Shop_Gem_C.SkillComponent",
+      "Class": "HottaSkillSystemComponent",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "SkillComponent",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "OnGiveAbilityDelegate": null,
+    "ReplicatedPredictionKeyMap": {
+      "PredictionKeys": [
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        },
+        {
+          "PredictionKey": {
+            "PredictiveConnection": null,
+            "Current": 0,
+            "Base": 0,
+            "bIsStale": false,
+            "bIsServerInitiated": false
+          },
+          "ReplicationID": -1,
+          "ReplicationKey": -1,
+          "MostRecentArrayReplicationKey": -1
+        }
+      ],
+      "ArrayReplicationKey": 96
+    }
+  },
+  {
+    "Export": {
+      "Name": "InheritableComponentHandler",
+      "Path": "NPC_Shop_Gem_C.InheritableComponentHandler",
+      "Class": "InheritableComponentHandler",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__InheritableComponentHandler",
+      "TemplateOwner": "/Script/Engine",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "Records": [
+      {
+        "ComponentClass": "DialogueComponent",
+        "ComponentTemplate": "Dialogue_GEN_VARIABLE",
+        "ComponentKey": {
+          "OwnerClass": "BP_DialogueNpcBase_C",
+          "SCSVariableName": "Dialogue",
+          "AssociatedGuid": "a8761532-8704-4ea1-80a8-c59ee61d54e4"
+        },
+        "CookedComponentInstancingData": {
+          "ChangedPropertyList": [],
+          "bHasValidCookedData": false
+        }
+      },
+      {
+        "ComponentClass": "CharacterHeadUpComp_BP_C",
+        "ComponentTemplate": "CharacterHeadUpComp_BP_GEN_VARIABLE",
+        "ComponentKey": {
+          "OwnerClass": "BP_DialogueNpcBase_C",
+          "SCSVariableName": "CharacterHeadUpComp_BP",
+          "AssociatedGuid": "e8b1b381-1097-457e-9c6d-dea45f3bdeab"
+        },
+        "CookedComponentInstancingData": {
+          "ChangedPropertyList": [],
+          "bHasValidCookedData": false
+        }
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DefaultSceneRoot_GEN_VARIABLE",
+      "Path": "NPC_Shop_Gem_C.DefaultSceneRoot_GEN_VARIABLE",
+      "Class": "SceneComponent",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__SceneComponent",
+      "TemplateOwner": "/Script/Engine",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    }
+  },
+  {
+    "Export": {
+      "Name": "SCS_Node",
+      "Path": "NPC_Shop_Gem_C.SimpleConstructionScript.SCS_Node",
+      "Class": "SCS_Node",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__SCS_Node",
+      "TemplateOwner": "/Script/Engine",
+      "Outer": "SimpleConstructionScript",
+      "OuterOwner": "None"
+    },
+    "ComponentClass": "SceneComponent",
+    "ComponentTemplate": "DefaultSceneRoot_GEN_VARIABLE",
+    "VariableGuid": "f22e2524-7e66-49ea-996b-0d7247933709",
+    "InternalVariableName": "DefaultSceneRoot"
+  },
+  {
+    "Export": {
+      "Name": "SCS_Node",
+      "Path": "NPC_Shop_Gem_C.SimpleConstructionScript.SCS_Node",
+      "Class": "SCS_Node",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__SCS_Node",
+      "TemplateOwner": "/Script/Engine",
+      "Outer": "SimpleConstructionScript",
+      "OuterOwner": "None"
+    },
+    "ComponentClass": "SkeletalMeshComponent",
+    "ComponentTemplate": "npcshop_GEN_VARIABLE",
+    "AttachToName": "RideSocket",
+    "ParentComponentOrVariableName": "CharacterMesh0",
+    "bIsParentComponentNative": true,
+    "VariableGuid": "4af6bb27-9ebf-47d0-b063-7380294dd6d9",
+    "InternalVariableName": "npcshop"
+  },
+  {
+    "Export": {
+      "Name": "SilentCheckComponent",
+      "Path": "Default__NPC_Shop_Gem_C.SilentCheckComponent",
+      "Class": "SilentCheckComponent",
+      "ClassOwner": "/Script/HottaFramework",
+      "Template": "SilentCheckComponent",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "OnSilent": null,
+    "OnUnsilent": null,
+    "AttachParent": "CollisionCylinder"
+  },
+  {
+    "Export": {
+      "Name": "SimpleConstructionScript",
+      "Path": "NPC_Shop_Gem_C.SimpleConstructionScript",
+      "Class": "SimpleConstructionScript",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__SimpleConstructionScript",
+      "TemplateOwner": "/Script/Engine",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "RootNodes": [
+      "SCS_Node"
+    ],
+    "AllNodes": [
+      "SCS_Node"
+    ],
+    "DefaultSceneRootNode": "SCS_Node"
+  },
+  {
+    "Export": {
+      "Name": "npcshop_GEN_VARIABLE",
+      "Path": "NPC_Shop_Gem_C.npcshop_GEN_VARIABLE",
+      "Class": "SkeletalMeshComponent",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__SkeletalMeshComponent",
+      "TemplateOwner": "/Script/Engine",
+      "Outer": "NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "AnimClass": "npc217_shop_C",
+    "ClothingSimulationFactory": "ClothingSimulationFactoryNv",
+    "SkeletalMesh": "npc_shu_217_skin",
+    "bRenderOutline": true,
+    "OutlineMaterial": "OutLine_Inst",
+    "RelativeLocation": {
+      "X": -1.391609787940979,
+      "Y": -21.99801254272461,
+      "Z": 51.20947265625
+    }
+  },
+  {
+    "Export": {
+      "Name": "DialogueCollisionSphere",
+      "Path": "Default__NPC_Shop_Gem_C.DialogueCollisionSphere",
+      "Class": "SphereComponent",
+      "ClassOwner": "/Script/Engine",
+      "Template": "DialogueCollisionSphere",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "AttachParent": "CollisionCylinder",
+    "RelativeLocation": {
+      "X": 158.24319458007812,
+      "Y": 0,
+      "Z": -9.1552734375E-05
+    },
+    "RelativeScale3D": {
+      "X": 1.7999999523162842,
+      "Y": 1.7999999523162842,
+      "Z": 1.7999999523162842
+    }
+  },
+  {
+    "Export": {
+      "Name": "PathSplineComponent",
+      "Path": "Default__NPC_Shop_Gem_C.PathSplineComponent",
+      "Class": "SplineComponent",
+      "ClassOwner": "/Script/Engine",
+      "Template": "PathSplineComponent",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "AttachParent": "CollisionCylinder"
+  },
+  {
+    "Export": {
+      "Name": "NewFakeShadow",
+      "Path": "Default__NPC_Shop_Gem_C.NewFakeShadow",
+      "Class": "StaticMeshComponent",
+      "ClassOwner": "/Script/Engine",
+      "Template": "NewFakeShadow",
+      "TemplateOwner": "Default__BP_DialogueNpcBase_C",
+      "Outer": "Default__NPC_Shop_Gem_C",
+      "OuterOwner": "None"
+    },
+    "AttachParent": "CollisionCylinder"
+  }
+]

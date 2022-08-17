@@ -1,0 +1,705 @@
+[
+  {
+    "Export": {
+      "Name": "CombatAwardEntranceConfigDataTable_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Activity_01": {
+      "StartDateTime": {
+        "year": 2021,
+        "month": 8,
+        "day": 1,
+        "hour": 8,
+        "minute": 0,
+        "second": 0
+      },
+      "EndDateTime": {
+        "year": 2021,
+        "month": 10,
+        "day": 1,
+        "hour": 8,
+        "minute": 0,
+        "second": 0
+      },
+      "AwardConfigPackId": "CombatAward",
+      "MaxLevel": 150,
+      "InitialCertificateConfigId": "InitialCertificate",
+      "AdvancedCertificateConfigId": "AdvancedCertificate",
+      "BuyCertificateAwardArray": [],
+      "PreviewAllAwardDropId": "drop_bp_show_69",
+      "PreviewAdvancedAwardDropId": "drop_bp_show_69",
+      "OneCurrencyAddExp": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 4
+      },
+      "OverrideFormConfigMap": []
+    },
+    "Activity_02": {
+      "StartDateTime": {
+        "year": 2021,
+        "month": 10,
+        "day": 1,
+        "hour": 8,
+        "minute": 0,
+        "second": 0
+      },
+      "EndDateTime": {
+        "year": 2021,
+        "month": 12,
+        "day": 1,
+        "hour": 8,
+        "minute": 0,
+        "second": 0
+      },
+      "AwardConfigPackId": "CombatAward",
+      "MaxLevel": 150,
+      "InitialCertificateConfigId": "InitialCertificate",
+      "AdvancedCertificateConfigId": "AdvancedCertificate",
+      "BuyCertificateAwardArray": [],
+      "PreviewAllAwardDropId": "drop_bp_show_69",
+      "PreviewAdvancedAwardDropId": "drop_bp_show_69",
+      "OneCurrencyAddExp": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 4
+      },
+      "OverrideFormConfigMap": []
+    },
+    "Activity_03": {
+      "StartDateTime": {
+        "year": 2021,
+        "month": 12,
+        "day": 1,
+        "hour": 8,
+        "minute": 0,
+        "second": 0
+      },
+      "EndDateTime": {
+        "year": 2022,
+        "month": 2,
+        "day": 11,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      },
+      "AwardConfigPackId": "CombatAward",
+      "MaxLevel": 150,
+      "InitialCertificateConfigId": "InitialCertificate",
+      "AdvancedCertificateConfigId": "AdvancedCertificate",
+      "BuyCertificateAwardArray": [],
+      "PreviewAllAwardDropId": "drop_bp_show_69",
+      "PreviewAdvancedAwardDropId": "drop_bp_show_69",
+      "OneCurrencyAddExp": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 4
+      },
+      "OverrideFormConfigMap": [
+        {
+          "Key": "CombatAwardAdvertisement",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_501",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/TXZ_gg_bailian.TXZ_gg_bailian",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1175",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/TXZ_gg_bailianzi.TXZ_gg_bailianzi",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR9_256.icon_matrix_SR9_257",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_264",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/TXZ_gg_baizi.TXZ_gg_baizi",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": [
+              {
+                "Key": "TextBlock_166",
+                "Value": "Diverse"
+              },
+              {
+                "Key": "TextBlock",
+                "Value": "Dissipation"
+              },
+              {
+                "Key": "TextBlock_2",
+                "Value": "Nth Power"
+              },
+              {
+                "Key": "TextBlock_3",
+                "Value": "Fair Trade"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "BuyCombatAwardCertificateForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_360",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/txz_gm_renwu1.txz_gm_renwu1",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1852",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/txz_gm_renwu2.txz_gm_renwu2",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_99",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/txzgg_01.txzgg_01",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardReceiveForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_217",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/txztc_03.txztc_03",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "ShopRecommend",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image",
+                "Value": {
+                  "Path": "/Game/Resources/UI/mall/mall_card_tongxingzheng.mall_card_tongxingzheng",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR9_256.icon_matrix_SR9_257",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        }
+      ]
+    },
+    "Activity_04": {
+      "StartDateTime": {
+        "year": 2022,
+        "month": 2,
+        "day": 11,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      },
+      "EndDateTime": {
+        "year": 2022,
+        "month": 3,
+        "day": 26,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      },
+      "AwardConfigPackId": "CombatAward_2rd",
+      "MaxLevel": 200,
+      "InitialCertificateConfigId": "InitialCertificate",
+      "AdvancedCertificateConfigId": "AdvancedCertificate_2rd",
+      "BuyCertificateAwardArray": [],
+      "PreviewAllAwardDropId": "drop_bp_show_68_2rd",
+      "PreviewAdvancedAwardDropId": "drop_bp_show_68_2rd",
+      "OneCurrencyAddExp": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 4
+      },
+      "OverrideFormConfigMap": [
+        {
+          "Key": "CombatAwardAdvertisement",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_501",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/2/TXZ_gg_xi.TXZ_gg_xi",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1175",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/2/TXZ_gg_xizi.TXZ_gg_xizi",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR8_256.icon_matrix_SR8_257",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_264",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/2/TXZ_gg_baizi2.TXZ_gg_baizi2",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": [
+              {
+                "Key": "TextBlock_166",
+                "Value": "Competitive Spirit"
+              },
+              {
+                "Key": "TextBlock",
+                "Value": "Shed Fibers"
+              },
+              {
+                "Key": "TextBlock_2",
+                "Value": "Family Photo"
+              },
+              {
+                "Key": "TextBlock_3",
+                "Value": "Second Life"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "BuyCombatAwardCertificateForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_360",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/2/txz_gm_renwu2.txz_gm_renwu2",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1852",
+                "Value": {
+                  "Path": "/Game/Resources/UI/common/button_return.button_return",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_99",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/2/txz_nr_bg3.txz_nr_bg3",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardReceiveForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_217",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/2/txztc_12.txztc_13",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "ShopRecommend",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image",
+                "Value": {
+                  "Path": "/Game/Resources/UI/mall/mall_card_tongxingzheng_2.mall_card_tongxingzheng_3",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR8_256.icon_matrix_SR8_257",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        }
+      ]
+    },
+    "Activity_05": {
+      "StartDateTime": {
+        "year": 2022,
+        "month": 3,
+        "day": 26,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      },
+      "EndDateTime": {
+        "year": 2022,
+        "month": 5,
+        "day": 8,
+        "hour": 4,
+        "minute": 59,
+        "second": 59
+      },
+      "AwardConfigPackId": "CombatAward_3rd",
+      "MaxLevel": 200,
+      "InitialCertificateConfigId": "InitialCertificate",
+      "AdvancedCertificateConfigId": "AdvancedCertificate_3rd",
+      "BuyCertificateAwardArray": [],
+      "PreviewAllAwardDropId": "drop_bp_show_68_3rd",
+      "PreviewAdvancedAwardDropId": "drop_bp_show_68_3rd",
+      "OneCurrencyAddExp": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 4
+      },
+      "OverrideFormConfigMap": [
+        {
+          "Key": "CombatAwardAdvertisement",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_501",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/TXZ_gg_Hilda.TXZ_gg_Hilda",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1175",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/TXZ_gg_Hildazi.TXZ_gg_Hildazi",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR7_256.icon_matrix_SR7_257",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_264",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/TXZ_gg_baizi3.TXZ_gg_baizi3",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": [
+              {
+                "Key": "TextBlock_166",
+                "Value": "Acumen"
+              },
+              {
+                "Key": "TextBlock",
+                "Value": "Dockbred"
+              },
+              {
+                "Key": "TextBlock_2",
+                "Value": "Smash Ball"
+              },
+              {
+                "Key": "TextBlock_3",
+                "Value": "Bargaining Master"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "BuyCombatAwardCertificateForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_360",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/txz_gm_renwu2_Hilda.txz_gm_renwu2_Hilda",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1852",
+                "Value": {
+                  "Path": "/Game/Resources/UI/common/button_return.button_return",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_99",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/txz_nr_bg3_Hilda.txz_nr_bg3_Hilda",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardReceiveForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_217",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/txztc_12_Hilda.txztc_12_Hilda",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "ShopRecommend",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/mall_card_tongxingzheng_3.mall_card_tongxingzheng_4",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR7_256.icon_matrix_SR7_257",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        }
+      ]
+    },
+    "Activity_overseas_01": {
+      "StartDateTime": {
+        "year": 2022,
+        "month": 6,
+        "day": 7,
+        "hour": 5,
+        "minute": 0,
+        "second": 0
+      },
+      "EndDateTime": {
+        "year": 2022,
+        "month": 9,
+        "day": 20,
+        "hour": 21,
+        "minute": 0,
+        "second": 0
+      },
+      "AwardConfigPackId": "CombatAward_overseas_1st",
+      "MaxLevel": 180,
+      "InitialCertificateConfigId": "InitialCertificate",
+      "AdvancedCertificateConfigId": "AdvancedCertificate_overseas_1st",
+      "BuyCertificateAwardArray": [],
+      "PreviewAllAwardDropId": "drop_bp_show_68_overseas_1st",
+      "PreviewAdvancedAwardDropId": "drop_bp_show_68_overseas_1st",
+      "OneCurrencyAddExp": {
+        "CurrencyType": "EHottaCurrencyType::FakeDiamond",
+        "Amount": 4
+      },
+      "OverrideFormConfigMap": [
+        {
+          "Key": "CombatAwardAdvertisement",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_501",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/TXZ_gg_Hilda.TXZ_gg_Hilda",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1175",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/TXZ_gg_Hildazi.TXZ_gg_Hildazi",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR7_256.icon_matrix_SR7_257",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_264",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/TXZ_gg_baizi3.TXZ_gg_baizi3",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": [
+              {
+                "Key": "TextBlock_166",
+                "Value": "Acumen"
+              },
+              {
+                "Key": "TextBlock",
+                "Value": "Dockbred"
+              },
+              {
+                "Key": "TextBlock_2",
+                "Value": "Smash Ball"
+              },
+              {
+                "Key": "TextBlock_3",
+                "Value": "Bargaining Master"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "BuyCombatAwardCertificateForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_360",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/txz_gm_renwu2_Hilda.txz_gm_renwu2_Hilda",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_1852",
+                "Value": {
+                  "Path": "/Game/Resources/UI/common/button_return.button_return",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_99",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/txz_nr_bg3_Hilda.txz_nr_bg3_Hilda",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "CombatAwardReceiveForm",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image_217",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/txztc_12_Hilda.txztc_12_Hilda",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        },
+        {
+          "Key": "ShopRecommend",
+          "Value": {
+            "OverrideImageMap": [
+              {
+                "Key": "Image",
+                "Value": {
+                  "Path": "/Game/Resources/UI/CombatAward/3/mall_card_tongxingzheng_3.mall_card_tongxingzheng_4",
+                  "SubPath": ""
+                }
+              },
+              {
+                "Key": "Image_828",
+                "Value": {
+                  "Path": "/Game/Resources/Icon/yizhi/256/icon_matrix_SR7_256.icon_matrix_SR7_257",
+                  "SubPath": ""
+                }
+              }
+            ],
+            "OverrideTextBlockMap": []
+          }
+        }
+      ]
+    }
+  }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Export": {
+      "Name": "InteractiveActionConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "guzhang": {
+      "Name": "Clap",
+      "Type": "EHottaInteractiveActionType::SinglePerson",
+      "MustOppositeSex": false,
+      "Icon": {
+        "Path": "/Game/Resources/UI/liaotian/dongzuo/action_applause.action_applause",
+        "SubPath": ""
+      },
+      "MontageId": "guzhang",
+      "IsLock": false
+    },
+    "dazhaohu": {
+      "Name": "Say Hello",
+      "Type": "EHottaInteractiveActionType::SinglePerson",
+      "MustOppositeSex": false,
+      "Icon": {
+        "Path": "/Game/Resources/UI/liaotian/dongzuo/action_huishou.action_huishou",
+        "SubPath": ""
+      },
+      "MontageId": "dazhaohu",
+      "IsLock": false
+    },
+    "yaotou": {
+      "Name": "Shake Head",
+      "Type": "EHottaInteractiveActionType::SinglePerson",
+      "MustOppositeSex": false,
+      "Icon": {
+        "Path": "/Game/Resources/UI/liaotian/dongzuo/action_yaotou.action_yaotou",
+        "SubPath": ""
+      },
+      "MontageId": "yaotou",
+      "IsLock": false
+    },
+    "tanshou": {
+      "Name": "Spread Hands",
+      "Type": "EHottaInteractiveActionType::SinglePerson",
+      "MustOppositeSex": false,
+      "Icon": {
+        "Path": "/Game/Resources/UI/liaotian/dongzuo/action_tanshou.action_tanshou",
+        "SubPath": ""
+      },
+      "MontageId": "tanshou",
+      "IsLock": false
+    },
+    "bixin": {
+      "Name": "Finger Heart",
+      "Type": "EHottaInteractiveActionType::SinglePerson",
+      "MustOppositeSex": false,
+      "Icon": {
+        "Path": "/Game/Resources/UI/liaotian/dongzuo/action_bixin.action_bixin",
+        "SubPath": ""
+      },
+      "MontageId": "bixin",
+      "IsLock": false
+    }
+  }
+  }
+]

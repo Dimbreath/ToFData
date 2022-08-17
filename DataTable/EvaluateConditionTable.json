@@ -1,0 +1,55 @@
+[
+  {
+    "Export": {
+      "Name": "EvaluateConditionTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Gem002_11": {
+      "ConditionType": "EEvaluateCoditionType::Lottery",
+      "ConfigID": "Item_Gem_002",
+      "ExtractCount": 10,
+      "TotalAmount": 1,
+      "SpecialAmount": 0
+    },
+    "Gem002_2": {
+      "ConditionType": "EEvaluateCoditionType::Lottery",
+      "ConfigID": "Item_Gem_002",
+      "ExtractCount": 1,
+      "TotalAmount": 1,
+      "SpecialAmount": 0
+    },
+    "Gem003_11": {
+      "ConditionType": "EEvaluateCoditionType::Lottery",
+      "ConfigID": "Item_Gem_003",
+      "ExtractCount": 10,
+      "TotalAmount": 2,
+      "SpecialAmount": 0
+    },
+    "Gem003_2": {
+      "ConditionType": "EEvaluateCoditionType::Lottery",
+      "ConfigID": "Item_Gem_003",
+      "ExtractCount": 1,
+      "TotalAmount": 1,
+      "SpecialAmount": 0
+    },
+    "Gem004_11": {
+      "ConditionType": "EEvaluateCoditionType::Lottery",
+      "ConfigID": "Item_Gem_004",
+      "ExtractCount": 10,
+      "TotalAmount": 2,
+      "SpecialAmount": 1
+    },
+    "Gem004_2": {
+      "ConditionType": "EEvaluateCoditionType::Lottery",
+      "ConfigID": "Item_Gem_004",
+      "ExtractCount": 1,
+      "TotalAmount": 1,
+      "SpecialAmount": 1
+    }
+  }
+  }
+]

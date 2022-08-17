@@ -1,0 +1,225 @@
+[
+  {
+    "Export": {
+      "Name": "WeaponOccupationBuffDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Default": {
+      "Name": "Balance",
+      "Desc": "Equip at least 1 weapon of any type. Increase final damage and damage reduction by <red_num_14_1>5%</>, shatter and healing effect by <red_num_14_1>20%</>. In <yellow_lbl_14_1>team play</>, increase final damage and damage reduction by <red_num_14_1>20%</>.",
+      "TextColor": {
+        "R": 0.056128,
+        "G": 0.056128,
+        "B": 0.056128,
+        "A": 1
+      },
+      "NeedWeaponCategoriesAmount": [
+        {
+          "CategoryType": "EWeaponCategory::Tank",
+          "NeedAmount": 1
+        },
+        {
+          "CategoryType": "EWeaponCategory::DPS",
+          "NeedAmount": 1
+        },
+        {
+          "CategoryType": "EWeaponCategory::SUP",
+          "NeedAmount": 1
+        }
+      ],
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Profession/Common/Buff_ProfessionCommon.Buff_ProfessionCommon_C",
+        "SubPath": ""
+      },
+      "BuffData": {
+        "nLevel": 1,
+        "fDuration": 0,
+        "fModifyDuration": 0,
+        "fPeriod": 0,
+        "nStackCount": 0,
+        "fStrengthMult": 1,
+        "fStrengthAdd": 0,
+        "nStartTime": 0,
+        "CalcOfflineTime": true
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/fuben/zdfb_033.zdfb_033",
+        "SubPath": ""
+      },
+      "BtnIcon": {
+        "Path": "/Game/Resources/UI/wuqi/zhiye_NA.zhiye_NA",
+        "SubPath": ""
+      },
+      "Draw": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_wqdashi.bigicon_wqdashi",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/duiwu/UI_8Pteam_di_all4ren.UI_8Pteam_di_all4ren",
+        "SubPath": ""
+      },
+      "Material": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_wqdashi_0_Mat.bigicon_wqdashi_0_Mat",
+        "SubPath": ""
+      }
+    },
+    "Tank": {
+      "Name": "Fortitude",
+      "Desc": "Equip at least <red_num_14_1>2</> defense-type weapons to activate. Increase damage reduction by <red_num_14_1>25%</>, shatter by <red_num_14_1>60%</> and aggro by <red_num_14_1>800%</>. In <yellow_lbl_14_1>team play</>, further boost damage reduction by <red_num_14_1>20%</>.",
+      "TextColor": {
+        "R": 0.520996,
+        "G": 0.287441,
+        "B": 0.008568,
+        "A": 1
+      },
+      "NeedWeaponCategoriesAmount": [
+        {
+          "CategoryType": "EWeaponCategory::Tank",
+          "NeedAmount": 2
+        }
+      ],
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Profession/Common/Buff_Tank.Buff_Tank_C",
+        "SubPath": ""
+      },
+      "BuffData": {
+        "nLevel": 1,
+        "fDuration": 0,
+        "fModifyDuration": 0,
+        "fPeriod": 0,
+        "nStackCount": 0,
+        "fStrengthMult": 1,
+        "fStrengthAdd": 0,
+        "nStartTime": 0,
+        "CalcOfflineTime": true
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/fuben/zdfb_023.zdfb_023",
+        "SubPath": ""
+      },
+      "BtnIcon": {
+        "Path": "/Game/Resources/UI/wuqi/zhiye_FY.zhiye_FY",
+        "SubPath": ""
+      },
+      "Draw": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_fangyu.bigicon_fangyu",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/duiwu/UI_8Pteam_8rendi_fang.UI_8Pteam_8rendi_fang",
+        "SubPath": ""
+      },
+      "Material": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_fangyu_0_Mat.bigicon_fangyu_0_Mat",
+        "SubPath": ""
+      }
+    },
+    "Hart": {
+      "Name": "Attack",
+      "Desc": "Equip at least <red_num_14_1>2</> DPS-type weapons to activate. Increase final damage by <red_num_14_1>10%</>, which in <yellow_lbl_14_1>team play</> is further increased to <red_num_14_1>40%</>.",
+      "TextColor": {
+        "R": 0.496933,
+        "G": 0.082283,
+        "B": 0.114435,
+        "A": 1
+      },
+      "NeedWeaponCategoriesAmount": [
+        {
+          "CategoryType": "EWeaponCategory::DPS",
+          "NeedAmount": 2
+        }
+      ],
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Profession/Common/Buff_Soldier.Buff_Soldier_C",
+        "SubPath": ""
+      },
+      "BuffData": {
+        "nLevel": 1,
+        "fDuration": 0,
+        "fModifyDuration": 0,
+        "fPeriod": 0,
+        "nStackCount": 0,
+        "fStrengthMult": 1,
+        "fStrengthAdd": 0,
+        "nStartTime": 0,
+        "CalcOfflineTime": true
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/fuben/zdfb_022.zdfb_022",
+        "SubPath": ""
+      },
+      "BtnIcon": {
+        "Path": "/Game/Resources/UI/wuqi/zhiye_SH.zhiye_SH",
+        "SubPath": ""
+      },
+      "Draw": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_qianggong.bigicon_qianggong",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/duiwu/UI_8Pteam_8rendi_gong.UI_8Pteam_8rendi_gong",
+        "SubPath": ""
+      },
+      "Material": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_qianggong_0_Mat.bigicon_qianggong_0_Mat",
+        "SubPath": ""
+      }
+    },
+    "Assist": {
+      "Name": "Benediction",
+      "Desc": "Equip at least <red_num_14_1>2</> support-type weapons to activate. Increase healing by <red_num_14_1>100%</>, which in <yellow_lbl_14_1>team play</> is further increased by <red_num_14_1>100%</>.",
+      "TextColor": {
+        "R": 0.036889,
+        "G": 0.270498,
+        "B": 0.381326,
+        "A": 1
+      },
+      "NeedWeaponCategoriesAmount": [
+        {
+          "CategoryType": "EWeaponCategory::SUP",
+          "NeedAmount": 2
+        }
+      ],
+      "BuffClass": {
+        "Path": "/Game/Resources/Abilities/Buff/Profession/Common/Buff_Assistant.Buff_Assistant_C",
+        "SubPath": ""
+      },
+      "BuffData": {
+        "nLevel": 1,
+        "fDuration": 0,
+        "fModifyDuration": 0,
+        "fPeriod": 0,
+        "nStackCount": 0,
+        "fStrengthMult": 1,
+        "fStrengthAdd": 0,
+        "nStartTime": 0,
+        "CalcOfflineTime": true
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/fuben/zdfb_024.zdfb_024",
+        "SubPath": ""
+      },
+      "BtnIcon": {
+        "Path": "/Game/Resources/UI/wuqi/zhiye_FZ.zhiye_FZ",
+        "SubPath": ""
+      },
+      "Draw": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_zengyi.bigicon_zengyi",
+        "SubPath": ""
+      },
+      "BackgroundImage": {
+        "Path": "/Game/Resources/UI/duiwu/UI_8Pteam_8rendi_xue.UI_8Pteam_8rendi_xue",
+        "SubPath": ""
+      },
+      "Material": {
+        "Path": "/Game/Resources/UI/wuqi/gongming/bigicon_zengyi_0_Mat.bigicon_zengyi_0_Mat",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "Export": {
+      "Name": "GameDamageExecutionModifyDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "ImmortalPVP1": {
+      "ExecutionID": "GE_ImmortalMelee1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP2": {
+      "ExecutionID": "GE_ImmortalMelee2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP3": {
+      "ExecutionID": "GE_ImmortalMelee3_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP4": {
+      "ExecutionID": "GE_ImmortalMelee3_1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP5": {
+      "ExecutionID": "GE_ImmortalMelee3_2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP6": {
+      "ExecutionID": "GE_ImmortalMelee4_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP7": {
+      "ExecutionID": "GE_ImmortalMelee5_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP8": {
+      "ExecutionID": "GE_ImmortalMeleeBranch_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP9": {
+      "ExecutionID": "GE_ImmortalMeleeBranch1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP10": {
+      "ExecutionID": "GE_ImmortalAirAttack1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP11": {
+      "ExecutionID": "GE_ImmortalAirAttack2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP12": {
+      "ExecutionID": "GE_ImmortalAirAttack3_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP13": {
+      "ExecutionID": "GE_ImmortalAirAttack4_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP14": {
+      "ExecutionID": "GE_ImmortalAirAttack5_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP15": {
+      "ExecutionID": "GE_ImmortalAirAttack5_1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP16": {
+      "ExecutionID": "GE_ImmortalAirAttackBranch_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP17": {
+      "ExecutionID": "GE_ImmortalAirAttackBranch1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP18": {
+      "ExecutionID": "GE_ImmortalAirJumpAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP19": {
+      "ExecutionID": "GE_ImmortalRollForWardAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP20": {
+      "ExecutionID": "GE_ImmortalEvade_Boom",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP21": {
+      "ExecutionID": "GE_ImmortalRollBackAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP22": {
+      "ExecutionID": "GE_ImmortalSkill_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP23": {
+      "ExecutionID": "GE_ImmortalSkill2_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP24": {
+      "ExecutionID": "GE_ImmortalSkill5_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP25": {
+      "ExecutionID": "GE_ImmortalSkill3_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP26": {
+      "ExecutionID": "GE_ImmortalSkill4_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP27": {
+      "ExecutionID": "GE_ImmortalChangeSkill1_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.75,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP28": {
+      "ExecutionID": "GE_ImmortalChangeSkill2_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.75,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP29": {
+      "ExecutionID": "GE_ImmortalSneak_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP30": {
+      "ExecutionID": "Buff_ImmortalThu_SSR_Level3_New_SmallDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP31": {
+      "ExecutionID": "GE_ImmortalLevel5Attack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP32": {
+      "ExecutionID": "Buff_ImmortalThu_SSR_Level3_New_BigDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.3,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP33": {
+      "ExecutionID": "GE_ImmortalEvadeBack_Boom_Start",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ImmortalPVP34": {
+      "ExecutionID": "Buff_ImmortalThu_SSR_Level3_New_BoomDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.75,
+      "SkillCoefficientMult": 0.75,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "MarkPVP1": {
+      "ExecutionID": "GE_MarkJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "MarkPVP2": {
+      "ExecutionID": "GE_MarkRobJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "MarkPVP3": {
+      "ExecutionID": "Buff_MarkPhy_SSR_Level5_4",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "MarkPVP4": {
+      "ExecutionID": "GE_MarkRobPowerAttackDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "MarkPVP5": {
+      "ExecutionID": "GE_MarkRobBoomAttackDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "MarkPVP6": {
+      "ExecutionID": "GE_MarkRobAppear_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "SuspensionPVP1": {
+      "ExecutionID": "GE_Suspension_Dianta_Attack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "SuspensionPVP2": {
+      "ExecutionID": "GE_Suspension_Dianta_BigAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "SuspensionPVP3": {
+      "ExecutionID": "GE_Suspension_Dianta_BigAttack2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "SuspensionPVP4": {
+      "ExecutionID": "GE_SuspensionEvadeRollAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ShieldPVP1": {
+      "ExecutionID": "GE_ShieldEvade1_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ShieldPVP2": {
+      "ExecutionID": "GE_ShieldAirJump_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ShieldPVP3": {
+      "ExecutionID": "GE_ShieldJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ShieldPVP4": {
+      "ExecutionID": "GE_AxeEvade1_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ShieldPVP5": {
+      "ExecutionID": "GE_AxeJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ShieldPVP6": {
+      "ExecutionID": "GE_AxePowerAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "ShieldPVP7": {
+      "ExecutionID": "GE_ShieldPowerEnd_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "DgunPVP1": {
+      "ExecutionID": "GE_DgunAirAttack_Damage_Thu_SSR",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 0.8
+    },
+    "Immortal2v2PVP1": {
+      "ExecutionID": "GE_ImmortalMelee1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP2": {
+      "ExecutionID": "GE_ImmortalMelee2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP3": {
+      "ExecutionID": "GE_ImmortalMelee3_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP4": {
+      "ExecutionID": "GE_ImmortalMelee3_1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP5": {
+      "ExecutionID": "GE_ImmortalMelee3_2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP6": {
+      "ExecutionID": "GE_ImmortalMelee4_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP7": {
+      "ExecutionID": "GE_ImmortalMelee5_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP8": {
+      "ExecutionID": "GE_ImmortalMeleeBranch_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP9": {
+      "ExecutionID": "GE_ImmortalMeleeBranch1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP10": {
+      "ExecutionID": "GE_ImmortalAirAttack1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP11": {
+      "ExecutionID": "GE_ImmortalAirAttack2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP12": {
+      "ExecutionID": "GE_ImmortalAirAttack3_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP13": {
+      "ExecutionID": "GE_ImmortalAirAttack4_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP14": {
+      "ExecutionID": "GE_ImmortalAirAttack5_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP15": {
+      "ExecutionID": "GE_ImmortalAirAttack5_1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP16": {
+      "ExecutionID": "GE_ImmortalAirAttackBranch_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP17": {
+      "ExecutionID": "GE_ImmortalAirAttackBranch1_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP18": {
+      "ExecutionID": "GE_ImmortalAirJumpAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP19": {
+      "ExecutionID": "GE_ImmortalRollForWardAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP20": {
+      "ExecutionID": "GE_ImmortalEvade_Boom",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP21": {
+      "ExecutionID": "GE_ImmortalRollBackAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP22": {
+      "ExecutionID": "GE_ImmortalSkill_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP23": {
+      "ExecutionID": "GE_ImmortalSkill2_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP24": {
+      "ExecutionID": "GE_ImmortalSkill5_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP25": {
+      "ExecutionID": "GE_ImmortalSkill3_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP26": {
+      "ExecutionID": "GE_ImmortalSkill4_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP27": {
+      "ExecutionID": "GE_ImmortalChangeSkill1_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.75,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP28": {
+      "ExecutionID": "GE_ImmortalChangeSkill2_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.75,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP29": {
+      "ExecutionID": "GE_ImmortalSneak_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP30": {
+      "ExecutionID": "Buff_ImmortalThu_SSR_Level3_New_SmallDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP31": {
+      "ExecutionID": "GE_ImmortalLevel5Attack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP32": {
+      "ExecutionID": "Buff_ImmortalThu_SSR_Level3_New_BigDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.3,
+      "SkillCoefficientMult": 0.85,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP33": {
+      "ExecutionID": "GE_ImmortalEvadeBack_Boom_Start",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.5,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Immortal2v2PVP34": {
+      "ExecutionID": "Buff_ImmortalThu_SSR_Level3_New_BoomDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.75,
+      "SkillCoefficientMult": 0.75,
+      "BreakDefSkillCoefficientMult": 0.9,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Mark2V2PVP1": {
+      "ExecutionID": "GE_MarkJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "Mark2V2PVP2": {
+      "ExecutionID": "GE_MarkRobJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "Mark2V2PVP3": {
+      "ExecutionID": "Buff_MarkPhy_SSR_Level5_4",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "Mark2V2PVP4": {
+      "ExecutionID": "GE_MarkRobPowerAttackDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "Mark2V2PVP5": {
+      "ExecutionID": "GE_MarkRobBoomAttackDamage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.7,
+      "SkillCoefficientMult": 0.7,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 0.7
+    },
+    "Suspension2V2PVP1": {
+      "ExecutionID": "GE_Suspension_Dianta_Attack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Suspension2V2PVP2": {
+      "ExecutionID": "GE_Suspension_Dianta_BigAttack_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Suspension2V2PVP3": {
+      "ExecutionID": "GE_Suspension_Dianta_BigAttack2_damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Suspension2V2PVP4": {
+      "ExecutionID": "GE_SuspensionEvadeRollAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 0.85,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP1": {
+      "ExecutionID": "GE_ShieldEvade1_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP2": {
+      "ExecutionID": "GE_ShieldAirJump_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP3": {
+      "ExecutionID": "GE_ShieldJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP4": {
+      "ExecutionID": "GE_AxeEvade1_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP5": {
+      "ExecutionID": "GE_AxeJumpAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP6": {
+      "ExecutionID": "GE_AxePowerAttack_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP7": {
+      "ExecutionID": "GE_ShieldPowerEnd_Damage",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 0.7,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "Shield2V2PVP8": {
+      "ExecutionID": "GE_DgunAirAttack_Damage_Thu_SSR",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_2V2",
+      "SkillCoefficientMultMult": 1,
+      "SkillCoefficientMult": 1,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 0.8
+    },
+    "WorldBossBigSkill1": {
+      "ExecutionID": "GE_damage_mon_boss_014_ultraskill1",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill2": {
+      "ExecutionID": "GE_damage_mon_boss_014_ultraskill2",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill3": {
+      "ExecutionID": "GE_boss_019_skill11_01Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill4": {
+      "ExecutionID": "GE_boss_019_skill11_02Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill5": {
+      "ExecutionID": "GE_boss_019_skill11_03Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill6": {
+      "ExecutionID": "GE_damage_mon_boss_020_ultraskill_b",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill7": {
+      "ExecutionID": "GE_damage_mon_boss_020_ultraskill_d",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill8": {
+      "ExecutionID": "GE_damage_boss_007_ultraskill",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill9": {
+      "ExecutionID": "GE_damage_mon_boss_018_ultraskill",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill10": {
+      "ExecutionID": "GE_damage_mon_boss_018_ultraskill_3",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill11": {
+      "ExecutionID": "GE_damage_mon_boss_018_ultraskill_4",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill12": {
+      "ExecutionID": "GE_damage_mon_boss_008_ultraskill",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill13": {
+      "ExecutionID": "GE_damage_mon_boss_008_ultraskill_3",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill14": {
+      "ExecutionID": "buff_frozen_ultraskill_single",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill15": {
+      "ExecutionID": "GE_damage_boss_002_shield_ultraskill",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill16": {
+      "ExecutionID": "GE_damage_mon_boss_009_UltraSkill",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill17": {
+      "ExecutionID": "GE_damage_mon_boss_010_skill15",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill18": {
+      "ExecutionID": "GE_boss_026_skill05_02Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill19": {
+      "ExecutionID": "GE_boss_026_skill05_01Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill20": {
+      "ExecutionID": "GE_boss_022_skill07_01Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill21": {
+      "ExecutionID": "GE_boss_022_skill07_02Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill22": {
+      "ExecutionID": "GE_boss_022_skill07_03Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill23": {
+      "ExecutionID": "GE_boss_032_skillUlt_01Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill24": {
+      "ExecutionID": "GE_boss_032_skillUlt_02Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    },
+    "WorldBossBigSkill25": {
+      "ExecutionID": "GE_boss_032_skillUlt_03Dmg",
+      "LevelSceneType": "ELevelSceneType::LEVEL_TYPE_WORLD_BOSS",
+      "SkillCoefficientMultMult": 2.5,
+      "SkillCoefficientMult": 2.5,
+      "BreakDefSkillCoefficientMult": 1,
+      "BreakingSkillCoefficientMult": 1
+    }
+  }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Export": {
+      "Name": "PlayerSkillMontageDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GA_FPlayerHammerBigSkillIce": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/Imitation2/FPlayerHammerBigSkill_imitation2.FPlayerHammerBigSkill_imitation2",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerHammerChangeSkillIce": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/Imitation2/FPlayerHammerChangeSkill_Imitation2.FPlayerHammerChangeSkill_Imitation2",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    },
+    "GA_FPlayerHammerSkillIce": {
+      "MontageToPlay": {
+        "Path": "/Game/Resources/Characters/Player/female_01/Animation/Hammer/Imitation2/FPlayerHammerSkillImitation2.FPlayerHammerSkillImitation2",
+        "SubPath": ""
+      },
+      "OverLapActorStop": true
+    }
+  }
+  }
+]

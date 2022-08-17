@@ -1,0 +1,643 @@
+[
+  {
+    "Export": {
+      "Name": "PathFindDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Test": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": -41781.33984375,
+        "Y": 86549.1171875,
+        "Z": -14160.6865234375
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Path": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": -41781.33984375,
+        "Y": 86549.1171875,
+        "Z": -14160.6865234375
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "UI": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Shop": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=GameShopNormal&SwitchOpen=19",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "Shop_Normal",
+      "UnlockText": "Store not open yet"
+    },
+    "dalaba": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=ChatHorn",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Achievement": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=AchievementDetail&SwitchOpen=27&SwitchOpen=28",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "LocalReputation1": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": -56305.44921875,
+        "Y": 63687.0859375,
+        "Z": -3020
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "LocalReputation2": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": -59600,
+        "Y": -19582.052734375,
+        "Z": 4287.08984375
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Npc_Shop_Gem": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_Gem&SwitchOpen=20",
+      "ActorLocation": {
+        "X": -92510.7265625,
+        "Y": 77467.78125,
+        "Z": -6961.24755859375
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Gulid": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_Guild&SwitchOpen=20",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Stamina": {
+      "bShowUI": false,
+      "bFindPath": false,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Solo": {
+      "bShowUI": false,
+      "bFindPath": false,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "duanzao": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=EquipSmith&ClickButtons=ForgeRadioButton&BlockID=common_jiayuan",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "zhuangbeilantu",
+      "UnlockText": "Reach level 25 to unlock Forge"
+    },
+    "path_suppressor": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=SuppressorContainer&BlockID=common_jiayuan&SwitchOpen=7",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "jiyinsuo",
+      "UnlockText": "Complete main missions to unlock suppressors"
+    },
+    "path_equipstrengthen": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=EquipmentMainForm&ClickButtons=StrengthenPageButton&BlockID=common_jiayuan&SwitchOpen=11",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "qianghua",
+      "UnlockText": "Reach level 26 to unlock equipment enhancements"
+    },
+    "path_equipadv": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=EquipmentMainForm&ClickButtons=AdvancePageButton&BlockID=common_jiayuan&SwitchOpen=11",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "equipadv",
+      "UnlockText": "Reach level 26 to unlock equipment advancements"
+    },
+    "path_mountstrengthen": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=MountMainForm&SwitchOpen=24",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "zuoqi",
+      "UnlockText": "Complete main missions to unlock vehicles"
+    },
+    "path_weapon": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=WeaponCategory&SwitchOpen=59",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "path_matrix": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=WeaponCategory&SwitchOpen=75",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "weapon_yizhi",
+      "UnlockText": "Reach level 20 to unlock weapon Matrices"
+    },
+    "path_artifact": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=Artifact_List&SwitchOpen=25",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "yuannengwuzhuang",
+      "UnlockText": "Complete main missions to unlock Relics"
+    },
+    "path_gift": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=ImitationMain&ImitationCategoryIndex=2&SwitchOpen=66",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "chouka-wqc",
+      "UnlockText": "Complete main missions to unlock Simulacrum"
+    },
+    "path_artifact_ticket": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=LotteryMainForm&ClickButtons=ArtifactPoolButton1&BlockID=common_jiayuan&SwitchOpen=30",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "chouka-yq",
+      "UnlockText": "Matrix Cache not available yet"
+    },
+    "path_gem_purple": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=LotteryMainForm&ClickButtons=WeaponPoolButton1&BlockID=common_jiayuan&SwitchOpen=30",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "chouka-wqz",
+      "UnlockText": "Weapons Cache not available yet"
+    },
+    "path_gem_orange": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=LotteryMainForm&ClickButtons=WeaponPoolButton2&BlockID=common_jiayuan&SwitchOpen=30",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "chouka-wqc",
+      "UnlockText": "Weapons Cache not available yet"
+    },
+    "path_home": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=HomeState",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "path_mount": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=MountMainForm&SwitchOpen=24",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "zuoqi",
+      "UnlockText": "Complete main missions to unlock vehicles"
+    },
+    "AwardShop_Energy": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_Energy&SwitchOpen=20",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "AwardShop_WeaponFragment": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_WeaponFragment&SwitchOpen=20",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "AwardShop_MatrixFragment": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_MatrixFragment&SwitchOpen=20",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "AwardShop_Guild": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_Guild&SwitchOpen=20",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "AwardShop_Minigame": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_Minigame&SwitchOpen=20",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "AwardShop_Assistance": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "ShopName=AwardShop_Assistance&SwitchOpen=20",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Rename": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=Rename",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "ActivityEntrance_Limited": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=ActivityEntrance&ClickButtons=LimitedRadioBox&SwitchOpen=79",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "huodong",
+      "UnlockText": "Complete main missions and level up to unlock"
+    },
+    "ActivityEntrance_Select": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=ActivityEntrance&ClickButtons=SelectRadioBox&SwitchOpen=79",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "huodong",
+      "UnlockText": "Complete main missions and level up to unlock"
+    },
+    "ActivityEntrance_Adventure": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=ActivityEntrance&ClickButtons=AdventureRadioBox&SwitchOpen=79",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "huodong",
+      "UnlockText": "Complete main missions and level up to unlock"
+    },
+    "Map": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=WarFogOverviewMap&ClickButtons=StarIsleTowerItem&SwitchOpen=14",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Weapon": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=WeaponCategory&BlockID=common_jiayuan&SwitchOpen=59",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "PlayerInfo": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=AttributeCategory&SwitchOpen=10",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "bag": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=PlayerInfoMain&ClickButtons=InventoryCategory&SwitchOpen=10",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Quest": {
+      "bShowUI": true,
+      "bFindPath": false,
+      "GotoFormPath": "Path=QuestPanel&SwitchOpen=26",
+      "ActorLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "MapName": "",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "A03": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": -93066.53125,
+        "Y": 60521.9296875,
+        "Z": -6745
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "B01": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": -40260,
+        "Y": -10270,
+        "Z": -3282.6533203125
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "Exchange_CetusIsland": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": -52542,
+        "Y": -93044,
+        "Z": 21650
+      },
+      "MapName": "QRSL_P",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    },
+    "path_veracity": {
+      "bShowUI": false,
+      "bFindPath": true,
+      "GotoFormPath": "",
+      "ActorLocation": {
+        "X": 73780,
+        "Y": -769.9998168945312,
+        "Z": 9442
+      },
+      "MapName": "VeraCity",
+      "ConfigID": "None",
+      "UnlockFuncID": "None",
+      "UnlockText": "None"
+    }
+  }
+  }
+]

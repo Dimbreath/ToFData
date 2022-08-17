@@ -1,0 +1,169 @@
+[
+  {
+    "Export": {
+      "Name": "TestFurnitureTable1",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "10000": {
+      "UniqueID": "10000",
+      "FurnitureInteractMesh": {
+        "Path": "/Game/Resources/Environment/Structures/NoviceVillage/SM_xinshoucun24_ZYF.SM_xinshoucun24_ZYF",
+        "SubPath": ""
+      },
+      "DropID": "Drop_SM_xinshoucun24_ZYF",
+      "Transform": {
+        "Rotation": {
+          "X": -0,
+          "Y": 0,
+          "Z": -0.3826833963394165,
+          "W": 0.9238795638084412
+        },
+        "Translation": {
+          "X": -230,
+          "Y": -530,
+          "Z": 50
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "SphereOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "SphereRadius": 100,
+      "FurnitureName": "None",
+      "InteractTime": 5,
+      "Tags": [
+        "NOJUMP"
+      ],
+      "InteractLevel": 0,
+      "CDSeconds": 86400,
+      "InteractEffect": "P_Probe_xinshoucun24"
+    },
+    "10005": {
+      "UniqueID": "10005",
+      "FurnitureInteractMesh": {
+        "Path": "/Game/Resources/Environment/City/ZR/SM_bar_06.SM_bar_06",
+        "SubPath": ""
+      },
+      "DropID": "Drop_SM_xinshoucun24_ZYF",
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -710,
+          "Y": -580,
+          "Z": 50
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "SphereOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "SphereRadius": 100,
+      "FurnitureName": "11111",
+      "InteractTime": 5,
+      "Tags": [],
+      "InteractLevel": 1,
+      "CDSeconds": 86400,
+      "InteractEffect": "P_Probe_bar_06"
+    },
+    "10006": {
+      "UniqueID": "10006",
+      "FurnitureInteractMesh": {
+        "Path": "/Game/Resources/Environment/City/ZR/SM_bar_06.SM_bar_06",
+        "SubPath": ""
+      },
+      "DropID": "Drop_SM_xinshoucun24_ZYF",
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -710,
+          "Y": -960,
+          "Z": 50
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "SphereOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "SphereRadius": 100,
+      "FurnitureName": "11111",
+      "InteractTime": 5,
+      "Tags": [],
+      "InteractLevel": 1,
+      "CDSeconds": 86400,
+      "InteractEffect": "P_Probe_bar_06"
+    },
+    "10013": {
+      "UniqueID": "10013",
+      "FurnitureInteractMesh": {
+        "Path": "/Game/Resources/Environment/City/ZR/SM_Vendingmachine_zr.SM_Vendingmachine_zr",
+        "SubPath": ""
+      },
+      "DropID": "Drop_SM_Vendingmachine_zr",
+      "Transform": {
+        "Rotation": {
+          "X": 0,
+          "Y": -0,
+          "Z": 0,
+          "W": 1
+        },
+        "Translation": {
+          "X": -622.8897705078125,
+          "Y": -173.0830078125,
+          "Z": 50.000030517578125
+        },
+        "Scale3D": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "SphereOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "SphereRadius": 100,
+      "FurnitureName": "None",
+      "InteractTime": 5,
+      "Tags": [
+        "NOJUMP"
+      ],
+      "InteractLevel": 1,
+      "CDSeconds": 86400,
+      "InteractEffect": "P_Probe_Vendingmachine_zr"
+    }
+  }
+  }
+]

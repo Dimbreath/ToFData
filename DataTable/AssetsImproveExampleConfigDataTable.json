@@ -1,0 +1,61 @@
+[
+  {
+    "Export": {
+      "Name": "AssetsImproveExampleConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "Name": "Bounty Missions",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_xuanshang.advance_xuanshang",
+        "SubPath": ""
+      },
+      "Description": "Complete the ruin to obtain gold",
+      "RecommendValue": 3,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=ActivityEntrance&ClickButtons=AdventureRadioBox",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    },
+    "2": {
+      "Name": "Activity",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_huoyue.advance_huoyue",
+        "SubPath": ""
+      },
+      "Description": "Complete the Wormhole to obtain gold",
+      "RecommendValue": 3,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=ActivityEntrance",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    },
+    "3": {
+      "Name": "Group Instances",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_zudui.advance_zudui",
+        "SubPath": ""
+      },
+      "Description": "Complete missions in a team to obtain a huge amount of gold",
+      "RecommendValue": 5,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=TeamCloneForm",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    }
+  }
+  }
+]

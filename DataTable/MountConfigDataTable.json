@@ -1,0 +1,352 @@
+[
+  {
+    "Export": {
+      "Name": "MountConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Mount1": {
+      "Name": "Falcon",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_02.zuoqi_tubiap_02",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_02.zuoqi_tubiap_02",
+        "SubPath": ""
+      },
+      "ShowDescription": "    An Omnium motorcycle mass-produced by Hykros. Low in emissions, quiet, and extremely cost-efficient. The best choice for Wanderers, but be careful while riding it.",
+      "AutoUnlockWhenCharacterLevel": 1,
+      "NeedItemArray": [],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Complete Franz's Gift to unlock.",
+      "FixedPopularityValue": 0,
+      "PopularityValueEveryLevel": 2,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Epic1_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "None",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount001_Skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::None"
+    },
+    "Mount2": {
+      "Name": "Chaser",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_03.zuoqi_tubiap_03",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_03.zuoqi_tubiap_03",
+        "SubPath": ""
+      },
+      "ShowDescription": "    It is said that the original design took hints from the flying brooms in various fantasy novels, but R&D unanimously agreed that the design wasn't suitable for long-term ride and eventually settled on a standing vehicle.",
+      "AutoUnlockWhenCharacterLevel": -1,
+      "NeedItemArray": [
+        {
+          "ItemId": "Mount_002_a",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_002_b",
+          "ItemCount": 1
+        }
+      ],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Collect materials in World Exploration to unlock.",
+      "FixedPopularityValue": 0,
+      "PopularityValueEveryLevel": 2,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Epic2_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "Epic2_adv",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount002_Skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::None"
+    },
+    "Mount3": {
+      "Name": "Omnium Beast VII",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_04.zuoqi_tubiap_04",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_04.zuoqi_tubiap_04",
+        "SubPath": ""
+      },
+      "ShowDescription": "    A vehicle inspired by the pedal structure and motions of huge wild beasts. After intense debates among R&D, it was decided to retain the jolting that could capture the feeling of riding a real behemoth to the hilt.",
+      "AutoUnlockWhenCharacterLevel": -1,
+      "NeedItemArray": [
+        {
+          "ItemId": "Mount_003_a",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_003_b",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_003_c",
+          "ItemCount": 1
+        }
+      ],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Collect materials in World Exploration to unlock.",
+      "FixedPopularityValue": 0,
+      "PopularityValueEveryLevel": 2,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Epic3_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "Epic3_adv",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount003_Skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::None"
+    },
+    "Mount11": {
+      "Name": "Voyager",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_11.zuoqi_tubiap_12",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_11.zuoqi_tubiap_12",
+        "SubPath": ""
+      },
+      "ShowDescription": "    Do you long for spontaneous trips? If you can name the location, the Voyager will be your best companion, carrying you over any terrain like it's perfectly flat.",
+      "AutoUnlockWhenCharacterLevel": -1,
+      "NeedItemArray": [
+        {
+          "ItemId": "Mount_011_a",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_011_b",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_011_c",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_011_d",
+          "ItemCount": 1
+        }
+      ],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Collect materials in World Exploration to unlock.",
+      "FixedPopularityValue": 0,
+      "PopularityValueEveryLevel": 2,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Legend5_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "Legend5_adv",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount011_Skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::None"
+    },
+    "Mount4": {
+      "Name": "Monocross",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_05.zuoqi_tubiap_05",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_05.zuoqi_tubiap_05",
+        "SubPath": ""
+      },
+      "ShowDescription": "    A vehicle designed and named based on a composite knowledge of several ancient alien beasts. The short self-defense blade on the head was initially a heavily promoted selling point, but was actually rarely used. Most people bought it for the appearance that combined natural wildness and technology.",
+      "AutoUnlockWhenCharacterLevel": -1,
+      "NeedItemArray": [
+        {
+          "ItemId": "Mount_004_a",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_004_b",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_004_c",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_004_d",
+          "ItemCount": 1
+        }
+      ],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Collect materials in World Exploration to unlock.",
+      "FixedPopularityValue": 20,
+      "PopularityValueEveryLevel": 3,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Epic4_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "Epic4_adv",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount004_Skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::None"
+    },
+    "Mount5": {
+      "Name": "Dust Wheeler",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_01.zuoqi_tubiap_01",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_01.zuoqi_tubiap_01",
+        "SubPath": ""
+      },
+      "ShowDescription": "    Crude and eye-catching. If it's presence and personality you're after, look no further. However, since someone noticed its antennae look like little feelers, everyone started to think it was rather cute, which attracted more buyers.",
+      "AutoUnlockWhenCharacterLevel": -1,
+      "NeedItemArray": [
+        {
+          "ItemId": "Mount_005",
+          "ItemCount": 1
+        }
+      ],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Apex League Grand Marshal Rank Season Result Reward",
+      "FixedPopularityValue": 20,
+      "PopularityValueEveryLevel": 3,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Legend1_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "Legend1_adv",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount005_Skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::None"
+    },
+    "Mount13": {
+      "Name": "2613",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_13.zuoqi_tubiap_14",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_13.zuoqi_tubiap_14",
+        "SubPath": ""
+      },
+      "ShowDescription": "    A unique cube-shaped vehicle. The in-built floating power unit allows it to move easily even on bumpy roads. However, its flashy tape lights make it looks like a moving disco light and particularly obvious during the night.",
+      "AutoUnlockWhenCharacterLevel": -1,
+      "NeedItemArray": [
+        {
+          "ItemId": "Mount_013",
+          "ItemCount": 1
+        }
+      ],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Unlocks in the Operation Event",
+      "FixedPopularityValue": 20,
+      "PopularityValueEveryLevel": 3,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Legend6_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "Legend6_adv",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount013_skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::None"
+    },
+    "Mount7": {
+      "Name": "Mechbird",
+      "NameImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_07.zuoqi_tubiap_07",
+        "SubPath": ""
+      },
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "ShowImage": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_tubiap_07.zuoqi_tubiap_07",
+        "SubPath": ""
+      },
+      "ShowDescription": "    A New vehicle designed and built by Cobalt-B that is both fun and practical.\r\nCobalt-B had some rather unique names planned, but the marketing department put the kibosh on it: an easy-to-remember name is a good name.",
+      "AutoUnlockWhenCharacterLevel": -1,
+      "NeedItemArray": [
+        {
+          "ItemId": "Mount_007_a",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_007_b",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_007_c",
+          "ItemCount": 1
+        },
+        {
+          "ItemId": "Mount_007_d",
+          "ItemCount": 1
+        }
+      ],
+      "SkinCardItemArray": [],
+      "UnlockDescription": "Unlocks by participating in the Terrible Invasion event",
+      "FixedPopularityValue": 20,
+      "PopularityValueEveryLevel": 3,
+      "PopularityValueEverySkin": 0,
+      "LevelPackId": "Legend3_lv",
+      "RefreshMaintenanceTaskCDTimerId": "MountTaskCD1",
+      "MaxLevel": 100,
+      "StrengthenPackId": "Legend3_adv",
+      "MaxStrengthenLevel": 25,
+      "DefaultSkinId": "Mount007_skin_01",
+      "bExhibitBySwitch": false,
+      "SwitchType": "EGameFunctionType::ExhibitMountSwitch2"
+    }
+  }
+  }
+]

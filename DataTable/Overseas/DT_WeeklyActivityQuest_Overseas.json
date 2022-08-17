@@ -1,0 +1,373 @@
+[
+  {
+    "Export": {
+      "Name": "DT_WeeklyActivityQuest_Overseas",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Activityquest040": {
+      "QuestID": "Activityquest040",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "fuli_qd",
+      "PathFindID": "Path=ActivityMain&ClickButtons=RButton_Welfare",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest041": {
+      "QuestID": "Activityquest041",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "fuli_qd",
+      "PathFindID": "Path=ActivityMain&ClickButtons=RButton_Welfare",
+      "PreQuestID": "Activityquest040",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest001": {
+      "QuestID": "Activityquest001",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "fuli_qd",
+      "PathFindID": "Path=ActivityMain&ClickButtons=RButton_Welfare",
+      "PreQuestID": "Activityquest041",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest002": {
+      "QuestID": "Activityquest002",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "feed_unlock",
+      "PathFindID": "Path=Feed",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest003": {
+      "QuestID": "Activityquest003",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "feed_unlock",
+      "PathFindID": "Path=Feed",
+      "PreQuestID": "Activityquest002",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest005": {
+      "QuestID": "Activityquest005",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "reward_quest_unlock",
+      "PathFindID": "Path=RewardQuestMain",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest006": {
+      "QuestID": "Activityquest006",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "reward_quest_unlock",
+      "PathFindID": "Path=RewardQuestMain",
+      "PreQuestID": "Activityquest005",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest042": {
+      "QuestID": "Activityquest042",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "reward_quest_unlock",
+      "PathFindID": "Path=RewardQuestMain",
+      "PreQuestID": "Activityquest006",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "None"
+    },
+    "Activityquest035": {
+      "QuestID": "Activityquest035",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "Roombox",
+      "PathFindID": "",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Purchase at the Commissary or the Store"
+    },
+    "Activityquest037": {
+      "QuestID": "Activityquest037",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest038": {
+      "QuestID": "Activityquest038",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest037",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest039": {
+      "QuestID": "Activityquest039",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest038",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest010": {
+      "QuestID": "Activityquest010",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld to search for cooking droids"
+    },
+    "Activityquest013": {
+      "QuestID": "Activityquest013",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest014": {
+      "QuestID": "Activityquest014",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest013",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest015": {
+      "QuestID": "Activityquest015",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest014",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest016": {
+      "QuestID": "Activityquest016",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest017": {
+      "QuestID": "Activityquest017",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "None",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest016",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_RECOMMEND",
+      "NotifyMessage": "Go to the Overworld"
+    },
+    "Activityquest007": {
+      "QuestID": "Activityquest007",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "teamclone_unlock",
+      "PathFindID": "",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "Participate in the vitality event"
+    },
+    "Activityquest008": {
+      "QuestID": "Activityquest008",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "teamclone_unlock",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest007",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "Participate in the vitality event"
+    },
+    "Activityquest009": {
+      "QuestID": "Activityquest009",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "teamclone_unlock",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest008",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "Participate in the vitality event"
+    },
+    "Activityquest018": {
+      "QuestID": "Activityquest018",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "teamclone_unlock",
+      "PathFindID": "Path=TeamCloneForm",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "None"
+    },
+    "Activityquest019": {
+      "QuestID": "Activityquest019",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "teamclone_unlock",
+      "PathFindID": "Path=TeamCloneForm",
+      "PreQuestID": "Activityquest018",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "None"
+    },
+    "Activityquest020": {
+      "QuestID": "Activityquest020",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "teamclone_unlock",
+      "PathFindID": "Path=TeamCloneForm",
+      "PreQuestID": "Activityquest019",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "None"
+    },
+    "Activityquest021": {
+      "QuestID": "Activityquest021",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "astralplane_unlock",
+      "PathFindID": "",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "Go to the Overworld to search for Star Gates"
+    },
+    "Activityquest022": {
+      "QuestID": "Activityquest022",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "astralplane_unlock",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest021",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "Go to the Overworld to search for Star Gates"
+    },
+    "Activityquest023": {
+      "QuestID": "Activityquest023",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "astralplane_unlock",
+      "PathFindID": "",
+      "PreQuestID": "Activityquest022",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "Go to the Overworld to search for Star Gates"
+    },
+    "Activityquest024": {
+      "QuestID": "Activityquest024",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "hookclone_unlock",
+      "PathFindID": "Path=HookCloneMain",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "None"
+    },
+    "Activityquest025": {
+      "QuestID": "Activityquest025",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "hookclone_unlock",
+      "PathFindID": "Path=HookCloneMain",
+      "PreQuestID": "Activityquest024",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "None"
+    },
+    "Activityquest026": {
+      "QuestID": "Activityquest026",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "hookclone_unlock",
+      "PathFindID": "Path=HookCloneMain",
+      "PreQuestID": "Activityquest025",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_SELECT",
+      "NotifyMessage": "None"
+    },
+    "Activityquest027": {
+      "QuestID": "Activityquest027",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "worldboss_unlock",
+      "PathFindID": "Path=WorldBossInfoForm",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_CHALLANGE",
+      "NotifyMessage": "None"
+    },
+    "Activityquest028": {
+      "QuestID": "Activityquest028",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "worldboss_unlock",
+      "PathFindID": "Path=WorldBossInfoForm",
+      "PreQuestID": "Activityquest027",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_CHALLANGE",
+      "NotifyMessage": "None"
+    },
+    "Activityquest029": {
+      "QuestID": "Activityquest029",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "voidclone_unlock",
+      "PathFindID": "Path=VoidCloneMain",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_CHALLANGE",
+      "NotifyMessage": "None"
+    },
+    "Activityquest030": {
+      "QuestID": "Activityquest030",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "voidclone_unlock",
+      "PathFindID": "Path=VoidCloneMain",
+      "PreQuestID": "Activityquest029",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_CHALLANGE",
+      "NotifyMessage": "None"
+    },
+    "Activityquest031": {
+      "QuestID": "Activityquest031",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "BigSecret_unlock",
+      "PathFindID": "Path=NetWait",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "BigSecret",
+      "QuestSourceType": "QS_SOURCE_TYPE_CHALLANGE",
+      "NotifyMessage": "None"
+    },
+    "Activityquest032": {
+      "QuestID": "Activityquest032",
+      "ActivityQuestType": "AQ_TYPE_WEEKLY",
+      "UnlockID": "Wormhole",
+      "PathFindID": "Path=WormholeMainUI",
+      "PreQuestID": "None",
+      "GotoAcitivityID": "None",
+      "QuestSourceType": "QS_SOURCE_TYPE_CHALLANGE",
+      "NotifyMessage": "None"
+    }
+  }
+  }
+]

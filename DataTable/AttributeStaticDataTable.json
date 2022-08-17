@@ -1,0 +1,3469 @@
+[
+  {
+    "Export": {
+      "Name": "AttributeStaticDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "FightPower": {
+      "Value": 1,
+      "AttributeText": "Combat Strength",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CommonAtkBase": {
+      "Value": 2,
+      "AttributeText": "Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CommonAtkAdded": {
+      "Value": 2,
+      "AttributeText": "Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 96,
+      "AttributeDescription": "Adaptive Attack",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CommonAtkMult": {
+      "Value": 0,
+      "AttributeText": "Attack",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkAdded": {
+      "Value": 1.5,
+      "AttributeText": "Physical Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 93,
+      "AttributeDescription": "Base Physical ATK",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkMult": {
+      "Value": 0,
+      "AttributeText": "Physical Attack",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "Physical ATK Boost Percentage",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkFixedAdded": {
+      "Value": 1.5,
+      "AttributeText": "Physical Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "Unaffected by DEF",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkExtraUpMult": {
+      "Value": 752,
+      "AttributeText": "Physical Damage Boost",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Physical ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkBeExtraUpMult": {
+      "Value": 0,
+      "AttributeText": "Physical ATK enhanced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkBeExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Physical ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyDefAdded": {
+      "Value": 0.48,
+      "AttributeText": "Physical Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def.icon_def",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 89,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyDefMult": {
+      "Value": 0,
+      "AttributeText": "Physical Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def.icon_def",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyDefFixedAdded": {
+      "Value": 0.48,
+      "AttributeText": "Physical Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def.icon_def",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyDefIgnoreMult": {
+      "Value": 0,
+      "AttributeText": "Ignore Physical Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyDefIgnore": {
+      "Value": 0.48,
+      "AttributeText": "Ignore Physical Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+wswf.+wswf",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-wswf.-wswf",
+        "SubPath": ""
+      },
+      "AttributePriority": 95,
+      "AttributeDescription": "When the Wanderer attacks a same-level opponent, ignore {0}% of the target's Physical Resistance.",
+      "AttributeDescFunction": "GetActualPhyDefIgnore",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkAdded": {
+      "Value": 1.5,
+      "AttributeText": "Frost Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_bing.icon_atk_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 91,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkMult": {
+      "Value": 0,
+      "AttributeText": "Frost Attack",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_bing.icon_atk_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkFixedAdded": {
+      "Value": 1.5,
+      "AttributeText": "Frost Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_bing.icon_atk_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkExtraUpMult": {
+      "Value": 752,
+      "AttributeText": "Frost Damage Boost",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_bing.icon_atk_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Frost ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkBeExtraUpMult": {
+      "Value": 0,
+      "AttributeText": "Frost ATK boosted",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkBeExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Frost ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceDefAdded": {
+      "Value": 0.48,
+      "AttributeText": "Frost Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_bing.icon_def_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 86,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceDefMult": {
+      "Value": 0,
+      "AttributeText": "Frost Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_bing.icon_def_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceDefFixedAdded": {
+      "Value": 0.48,
+      "AttributeText": "Frost Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_bing.icon_def_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceDefIgnoreMult": {
+      "Value": 0,
+      "AttributeText": "Ignore Frost Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_bing.icon_breach_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceDefIgnore": {
+      "Value": 0.48,
+      "AttributeText": "Ignore Frost Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_bing.icon_breach_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+wsbk.+wsbk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-wsbk.-wsbk",
+        "SubPath": ""
+      },
+      "AttributePriority": 89,
+      "AttributeDescription": "When the Wanderer attacks a same-level opponent, ignore {0}% of the target's frost resistance.",
+      "AttributeDescFunction": "GetActualIceDefIgnore",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkAdded": {
+      "Value": 1.5,
+      "AttributeText": "Flame Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_huo.icon_atk_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 92,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkMult": {
+      "Value": 0,
+      "AttributeText": "Flame Attack",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_huo.icon_atk_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkFixedAdded": {
+      "Value": 1.5,
+      "AttributeText": "Flame Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_huo.icon_atk_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkExtraUpMult": {
+      "Value": 752,
+      "AttributeText": "Flame damage Boost",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_huo.icon_atk_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Flame ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkBeExtraUpMult": {
+      "Value": 0,
+      "AttributeText": "Flame ATK boosted",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkBeExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Flame ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireDefAdded": {
+      "Value": 0.48,
+      "AttributeText": "Flame Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_huo.icon_def_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 87,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireDefMult": {
+      "Value": 0,
+      "AttributeText": "Flame Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_huo.icon_def_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireDefFixedAdded": {
+      "Value": 0.48,
+      "AttributeText": "Flame Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_huo.icon_def_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireDefIgnoreMult": {
+      "Value": 0,
+      "AttributeText": "Ignores Flame Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_huo.icon_breach_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireDefIgnore": {
+      "Value": 0.48,
+      "AttributeText": "Ignores Flame Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_huo.icon_breach_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+wshk.+wshk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-wshk.-wshk",
+        "SubPath": ""
+      },
+      "AttributePriority": 92,
+      "AttributeDescription": "When attacking a same-level opponent, ignore {0}% of the target's flame resistance.",
+      "AttributeDescFunction": "GetActualFireDefIgnore",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkAdded": {
+      "Value": 1.5,
+      "AttributeText": "Volt Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_dian.icon_atk_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 90,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkMult": {
+      "Value": 0,
+      "AttributeText": "Volt Attack",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_dian.icon_atk_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkFixedAdded": {
+      "Value": 1.5,
+      "AttributeText": "Volt Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_dian.icon_atk_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkExtraUpMult": {
+      "Value": 752,
+      "AttributeText": "Volt Damage Boost",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_dian.icon_atk_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Volt ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkBeExtraUpMult": {
+      "Value": 0,
+      "AttributeText": "Volt ATK boosted",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkBeExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Volt ATK reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderDefAdded": {
+      "Value": 0.48,
+      "AttributeText": "Volt Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_dian.icon_def_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 85,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderDefMult": {
+      "Value": 0,
+      "AttributeText": "Volt Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_dian.icon_def_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderDefFixedAdded": {
+      "Value": 0.48,
+      "AttributeText": "Volt Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_dian.icon_def_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderDefIgnoreMult": {
+      "Value": 0,
+      "AttributeText": "Ignore Volt Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_lei.icon_breach_lei",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderDefIgnore": {
+      "Value": 0.48,
+      "AttributeText": "Ignore Volt Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_lei.icon_breach_lei",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+wslk.+wslk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-wslk.-wslk",
+        "SubPath": ""
+      },
+      "AttributePriority": 86,
+      "AttributeDescription": "When the Wanderer attacks a same-level opponent, ignore {0}% of the target's Volt Resistance.",
+      "AttributeDescFunction": "GetActualThunderDefIgnore",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ElementDef": {
+      "Value": 1.6,
+      "AttributeText": "Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_resist_all.icon_resist_all",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ElementDefMult": {
+      "Value": 0,
+      "AttributeText": "Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_resist_all.icon_resist_all",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 88,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxHealth": {
+      "Value": 0.025,
+      "AttributeText": "HP",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_Item_max.icon_Item_max",
+        "SubPath": ""
+      }
+    },
+    "MaxHealthAdded": {
+      "Value": 0.025,
+      "AttributeText": "HP",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 96,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxHealthMult": {
+      "Value": 0,
+      "AttributeText": "HP",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Mana": {
+      "Value": 0,
+      "AttributeText": "Mana",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxManaAdded": {
+      "Value": 0,
+      "AttributeText": "Mana",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxManaMult": {
+      "Value": 0,
+      "AttributeText": "Mana",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Energy": {
+      "Value": 5,
+      "AttributeText": "Endurance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 92,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxEnergyAdded": {
+      "Value": 5,
+      "AttributeText": "Endurance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_energy.icon_energy",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+nl.+nl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-nl.-nl",
+        "SubPath": ""
+      },
+      "AttributePriority": 92,
+      "AttributeDescription": "Endurance consumed while climbing and swimming.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxEnergyMult": {
+      "Value": 0,
+      "AttributeText": "Endurance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Rage": {
+      "Value": 0,
+      "AttributeText": "Rage",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxRageAdded": {
+      "Value": 0,
+      "AttributeText": "Rage",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxRageMult": {
+      "Value": 0,
+      "AttributeText": "Rage",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CritAdded": {
+      "Value": 0.4,
+      "AttributeText": "Crit",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baoji.icon_baoji",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bj.+bj",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bj.-bj",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "+{0}% to Crit when attacking a same level opponent.",
+      "AttributeDescFunction": "GetActualCritMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CritMult": {
+      "Value": 0,
+      "AttributeText": "Crit",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "+{0}% to Crit when attacking a same level opponent.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CritDam": {
+      "Value": 0,
+      "AttributeText": "Crit Damage",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baoshang.icon_baoshang",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bjsh.+bjsh",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bjsh.-bjsh",
+        "SubPath": ""
+      },
+      "AttributePriority": 90,
+      "AttributeDescription": "Crit Damage Multiplier",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CritDefAdded": {
+      "Value": 0.4,
+      "AttributeText": "Crit Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baokang.icon_baokang",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+kbj.+kbj",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-kbj.-kbj",
+        "SubPath": ""
+      },
+      "AttributePriority": 87,
+      "AttributeDescription": "-{0}% to be critted when fighting a same level opponent.",
+      "AttributeDescFunction": "GetActualCritDefMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CritDefMult": {
+      "Value": 0,
+      "AttributeText": "Crit Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "-{0}% to be critted when fighting a same level opponent.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalDamageExtraUpMult": {
+      "Value": 0,
+      "AttributeText": "Damage",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalDamageExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Damage",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalDamageBeExtraUpMult": {
+      "Value": 0,
+      "AttributeText": "Damage",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalDamageBeExtraDownMult": {
+      "Value": 0,
+      "AttributeText": "Damage",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "EnergyRecoverMult": {
+      "Value": 5,
+      "AttributeText": "Endurance Regen",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_energy_huifu.icon_energy_huifu",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+nlhf.+nlhf",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-nlhf.-nlhf",
+        "SubPath": ""
+      },
+      "AttributePriority": 91,
+      "AttributeDescription": "Endurance Regen SPD",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "EnergyConsumeDownMult": {
+      "Value": 0,
+      "AttributeText": "Reduce endurance consumption.",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "SkillLevel": {
+      "Value": 0,
+      "AttributeText": "Skill Level",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FirePowerPro": {
+      "Value": 0,
+      "AttributeText": "Incendiary",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_acceptUp_huo.icon_acceptUp_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+dr.+dr",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-dr.-dr",
+        "SubPath": ""
+      },
+      "AttributePriority": 94,
+      "AttributeDescription": "Probability of triggering the incendiary effect.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IcePowerPro": {
+      "Value": 0,
+      "AttributeText": "Freeze",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_acceptUp_bing.icon_acceptUp_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bd.+bd",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bd.-bd",
+        "SubPath": ""
+      },
+      "AttributePriority": 91,
+      "AttributeDescription": "Probability of triggering the freeze effect.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderPowerPro": {
+      "Value": 0,
+      "AttributeText": "Electrify",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_acceptUp_lei.icon_acceptUp_lei",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+gd.+gd",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-gd.-gd",
+        "SubPath": ""
+      },
+      "AttributePriority": 88,
+      "AttributeDescription": "Probability of triggering electrify",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ElementPowerPro": {
+      "Value": 0,
+      "AttributeText": "Elemental Trigger",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_resist_all.icon_resist_all",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FirePowerDefPro": {
+      "Value": 0,
+      "AttributeText": "Incendiary Resist",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_resistUp_huo.icon_resistUp_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+drdk.+drdk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-drdk.-drdk",
+        "SubPath": ""
+      },
+      "AttributePriority": 93,
+      "AttributeDescription": "Reduce the probability of getting ignited.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IcePowerDefPro": {
+      "Value": 0,
+      "AttributeText": "Freeze Resist",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_resistUp_bing.icon_resistUp_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bddk.+bddk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bddk.-bddk",
+        "SubPath": ""
+      },
+      "AttributePriority": 90,
+      "AttributeDescription": "Reduce the probability of getting frozen.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderPowerDefPro": {
+      "Value": 0,
+      "AttributeText": "Electrify Resist",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_resistUp_lei.icon_resistUp_lei",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+gddk.+gddk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-gddk.-gddk",
+        "SubPath": ""
+      },
+      "AttributePriority": 87,
+      "AttributeDescription": "Reduce the probability of getting electrified.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ElementPowerDefPro": {
+      "Value": 0,
+      "AttributeText": "Elemental Resist",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_resist_all.icon_resist_all",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Tenacity": {
+      "Value": 0,
+      "AttributeText": "Toughness",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "HealUpMult": {
+      "Value": 19.87288,
+      "AttributeText": "Increased Healing",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_zhiliaoUP.icon_zhiliaoUP",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+zlts.+zlts",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-zlts.-zlts",
+        "SubPath": ""
+      },
+      "AttributePriority": 85,
+      "AttributeDescription": "Increase the healing effect of skills.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "HealDownMult": {
+      "Value": 19.87288,
+      "AttributeText": "Reduced Healing",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "HealedUpMult": {
+      "Value": 100,
+      "AttributeText": "Increase Healing Taken",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_beizhiliaoUP.icon_beizhiliaoUP",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bzlts.+bzlts",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bzlts.-bzlts",
+        "SubPath": ""
+      },
+      "AttributePriority": 82,
+      "AttributeDescription": "Increase the healing effect receives.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "HealedDownMult": {
+      "Value": 100,
+      "AttributeText": "Healing Reduced",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "HealCritAdded": {
+      "Value": 0.4,
+      "AttributeText": "Crit Heal",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_zhiliaobaoji.icon_zhiliaobaoji",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+zlbj.+zlbj",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-zlbj.-zlbj",
+        "SubPath": ""
+      },
+      "AttributePriority": 84,
+      "AttributeDescription": "Crit Heal Probability: {0}%",
+      "AttributeDescFunction": "GetHeadCrit",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "HealCritDam": {
+      "Value": 0,
+      "AttributeText": "Crit Heal Multiplier",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_zhiliaobaojibeilv.icon_zhiliaobaojibeilv",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+zlbjbl.+zlbjbl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-zlbjbl.-zlbjbl",
+        "SubPath": ""
+      },
+      "AttributePriority": 83,
+      "AttributeDescription": "Crit Heal Multiplier",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "AbnormalState": {
+      "Value": 0,
+      "AttributeText": "Debuff Enhanced",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/Icon_abnormalstate.Icon_abnormalstate",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+ycqh.+ycqh",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-ycqh.-ycqh",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "When the Wanderer attacks a same-level opponent, increase the probability of triggering a debuff by {0}%.",
+      "AttributeDescFunction": "GetActualAbnormalStateMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "AbnormalStateResistance": {
+      "Value": 0,
+      "AttributeText": "Debuff Resist",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/Icon_abnormalResistance.Icon_abnormalResistance",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+ycdk.+ycdk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-ycdk.-ycdk",
+        "SubPath": ""
+      },
+      "AttributePriority": 98,
+      "AttributeDescription": "When the Wanderer is attacked by a same-level opponent, increase the probability of debuff resist by {0}%.",
+      "AttributeDescFunction": "GetActualAbnormalStateResistanceMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Rigidity": {
+      "Value": 0,
+      "AttributeText": "Hitstun Enhancement",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_yingzhiatk.icon_yingzhiatk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+yzqh.+yzqh",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-yzqh.-yzqh",
+        "SubPath": ""
+      },
+      "AttributePriority": 97,
+      "AttributeDescription": "When the Wanderer attacks a same-level opponent, increase the probability of causing Hitstun by {0}%.",
+      "AttributeDescFunction": "GetActualRigidityMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "RigidityResistance": {
+      "Value": 0,
+      "AttributeText": "Hitstun Resist",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_renxing.icon_renxing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+yzdk.+yzdk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-yzdk.-yzdk",
+        "SubPath": ""
+      },
+      "AttributePriority": 96,
+      "AttributeDescription": "When the Wanderer is attacked by a same-level opponent, increase the probability of hitstun resist by {0}%.",
+      "AttributeDescFunction": "GetActualRigidityResistanceMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ElementDefIgnore": {
+      "Value": 1.6,
+      "AttributeText": "Ignore All Resistances",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/Icon_EleDefIgnore.Icon_EleDefIgnore",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+wsqk.+wsqk",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-wskx.-wskx",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalCrit": {
+      "Value": 752,
+      "AttributeText": "Crit Rate",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baoji.icon_baoji",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bjl.+bjl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bjl.-bjl",
+        "SubPath": ""
+      },
+      "AttributePriority": 98,
+      "AttributeDescription": "Increase the overall chance of triggering a crit.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalCritDef": {
+      "Value": 0,
+      "AttributeText": "Final Crit Resistance",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baokang.icon_baokang",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+kbl.+kbl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-kbl.-kbl",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "Reduce the overall chance of receiving a crit.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalAbnormalState": {
+      "Value": 0,
+      "AttributeText": "Final Debuff Enhancement",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/Icon_abnormalstateMul.Icon_abnormalstateMul",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+ycqhl.+ycqhl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-ycqhl.-ycqhl",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "Increase the overall chance of triggering a debuff.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalAbnormalStateResistance": {
+      "Value": 0,
+      "AttributeText": "Final Debuff Resist",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/Icon_abnormalstateResistanceMul.Icon_abnormalstateResistanceMul",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+ycdkl.+ycdkl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-ycdkl.-ycdkl",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "Increase the overall chance of resisting a debuff.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalRigidity": {
+      "Value": 0,
+      "AttributeText": "Final Hitstun Enhancement",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_yingzhiatk.icon_yingzhiatk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+yzqhl.+yzqhl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-yzqhl.-yzqhl",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "Increase the overall chance of triggering hitstun.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalRigidityResistance": {
+      "Value": 0,
+      "AttributeText": "Final Hitstun Resist",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_renxing.icon_renxing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+yzdkl.+yzdkl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-yzdkl.-yzdkl",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "Increase the overall chance of resisting hitstun.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Health": {
+      "Value": 0,
+      "AttributeText": "Current HP",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MoveSpeed": {
+      "Value": 0,
+      "AttributeText": "Speed",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_speed.icon_speed",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxHP": {
+      "Value": 0,
+      "AttributeText": "HP",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_hp.icon_hp",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+sm.+sm",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-sm.-sm",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "Max HP",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_Item_max.icon_Item_max",
+        "SubPath": ""
+      }
+    },
+    "MaxEnergy": {
+      "Value": 0,
+      "AttributeText": "Endurance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_energy.icon_energy",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+nl.+nl",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-nl.-nl",
+        "SubPath": ""
+      },
+      "AttributePriority": 92,
+      "AttributeDescription": "Endurance consumed while climbing and swimming.",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhysicalAttack": {
+      "Value": 0,
+      "AttributeText": "Physical Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk.icon_atk",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+wg.+wg",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-wg.-wg",
+        "SubPath": ""
+      },
+      "AttributePriority": 97,
+      "AttributeDescription": "Physical ATK: {0}",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhysicalDef": {
+      "Value": 0,
+      "AttributeText": "Physical Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def.icon_def",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+wf.+wf",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-wf.-wf",
+        "SubPath": ""
+      },
+      "AttributePriority": 89,
+      "AttributeDescription": "When the Wanderer is attacked by a same-level opponent, reduce physical damage by {0}%.",
+      "AttributeDescFunction": "GetActualDefDamReduction",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtk": {
+      "Value": 0,
+      "AttributeText": "Flame Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_huo.icon_atk_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+hg.+hg",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-hg.-hg",
+        "SubPath": ""
+      },
+      "AttributePriority": 96,
+      "AttributeDescription": "Flame ATK: {0} + {1}",
+      "AttributeDescFunction": "FireAtk",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireDefense": {
+      "Value": 0,
+      "AttributeText": "Flame Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_huo.icon_def_huo",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+hf.+hf",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-hf.-hf",
+        "SubPath": ""
+      },
+      "AttributePriority": 88,
+      "AttributeDescription": "When attacked by a same-level opponent, reduce the flame damage by {0}%.",
+      "AttributeDescFunction": "GetActualFireDefDamReduction",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtk": {
+      "Value": 0,
+      "AttributeText": "Frost Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_bing.icon_atk_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bg.+bg",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bg.-bg",
+        "SubPath": ""
+      },
+      "AttributePriority": 95,
+      "AttributeDescription": "Frost ATK: {0} + {1}",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceDefense": {
+      "Value": 0,
+      "AttributeText": "Frost Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_bing.icon_def_bing",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bf.+bf",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bf.-bf",
+        "SubPath": ""
+      },
+      "AttributePriority": 87,
+      "AttributeDescription": "When the Wanderer is attacked by a same-level opponent, reduce the frost damage by {0}%.",
+      "AttributeDescFunction": "GetActualIceDefDamReduction",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtk": {
+      "Value": 0,
+      "AttributeText": "Volt Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_atk_dian.icon_atk_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+lg.+lg",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-lg.-lg",
+        "SubPath": ""
+      },
+      "AttributePriority": 94,
+      "AttributeDescription": "Volt ATK: {0} + {1}",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderDefense": {
+      "Value": 0,
+      "AttributeText": "Volt Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_def_dian.icon_def_dian",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+lf.+lf",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-lf.-lf",
+        "SubPath": ""
+      },
+      "AttributePriority": 86,
+      "AttributeDescription": "When the Wanderer is attacked by a same-level opponent, reduce volt damage by {0}%.",
+      "AttributeDescFunction": "GetActualThunderDefDamReduction",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "VirusAtk": {
+      "Value": 0,
+      "AttributeText": "Poison Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "VirusDefense": {
+      "Value": 0,
+      "AttributeText": "Poison Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Crit": {
+      "Value": 0.4,
+      "AttributeText": "Crit",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baoji.icon_baoji",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+bj.+bj",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-bj.-bj",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "+{0}% to Crit when attacking a same level opponent.",
+      "AttributeDescFunction": "GetActualCritMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CritDef": {
+      "Value": 0.4,
+      "AttributeText": "Crit Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baokang.icon_baokang",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+kbj.+kbj",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-kbj.-kbj",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "-{0}% to be critted when fighting a same level opponent.",
+      "AttributeDescFunction": "GetActualCritDefMult",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "CritDamPercentage": {
+      "Value": 0,
+      "AttributeText": "Crit Damage",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_baoshang.icon_baoshang",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Treat": {
+      "Value": 0,
+      "AttributeText": "Healing",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_energy_huifu.icon_energy_huifu",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MoveSpeedMult": {
+      "Value": 0,
+      "AttributeText": "Speed",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_speed.icon_speed",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 95,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "TreatAdded": {
+      "Value": 0,
+      "AttributeText": "Healing",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 98,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "TreatMult": {
+      "Value": 0,
+      "AttributeText": "Healing",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 99,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "BreakDef": {
+      "Value": 0,
+      "AttributeText": "Shatter",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/+pf.+pf",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "/Game/Resources/UI/shuxingpiaozi/-pf.-pf",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+        "SubPath": ""
+      }
+    },
+    "BreakDefMult": {
+      "Value": 0,
+      "AttributeText": "Shatter Ratio",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/icon_breach_wuli.icon_breach_wuli",
+        "SubPath": ""
+      }
+    },
+    "ArmorBase": {
+      "Value": 0,
+      "AttributeText": "Armor",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ArmorAdded": {
+      "Value": 0,
+      "AttributeText": "Armor",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ArmorMult": {
+      "Value": 0,
+      "AttributeText": "Armor Ratio",
+      "bShowPercent": true,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "Satiety": {
+      "Value": 0,
+      "AttributeText": "Satiety",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "MaxSatiety": {
+      "Value": 0,
+      "AttributeText": "Max Satiety",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyAtkBase": {
+      "Value": 1.5,
+      "AttributeText": "Physical Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireAtkBase": {
+      "Value": 1.5,
+      "AttributeText": "Flame Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderAtkBase": {
+      "Value": 1.5,
+      "AttributeText": "Volt Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceAtkBase": {
+      "Value": 1.5,
+      "AttributeText": "Frost Attack",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "PhyDefBase": {
+      "Value": 0.48,
+      "AttributeText": "Physical Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FireDefBase": {
+      "Value": 0.48,
+      "AttributeText": "Flame Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "ThunderDefBase": {
+      "Value": 0.48,
+      "AttributeText": "Volt Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "IceDefBase": {
+      "Value": 0.48,
+      "AttributeText": "Frost Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalArtifactDamageExtraMult": {
+      "Value": 0,
+      "AttributeText": "Increase Relic damage.",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "FinalArtifactDamageBeExtraMult": {
+      "Value": 0,
+      "AttributeText": "Reduce damage taken from Relics.",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 94,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "SuperpowerDefense": {
+      "Value": 0,
+      "AttributeText": "Altered Resistance",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "/Game/Resources/UI/AttributeIcon/Icon_def_yineng.Icon_def_yineng",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 93,
+      "AttributeDescription": "When the Wanderer is attacked by a same-level opponent, reduce altered damage by {0}%.",
+      "AttributeDescFunction": "GetActualSuperpowerDefDamReduction",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    },
+    "JumpZVelocityMult": {
+      "Value": 0,
+      "AttributeText": "Jump",
+      "bShowPercent": false,
+      "AttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AddAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "DecAttributeNamePhoto": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "AttributePriority": 0,
+      "AttributeDescription": "None",
+      "AttributeDescFunction": "None",
+      "ItemAttributeIcon": {
+        "Path": "None",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

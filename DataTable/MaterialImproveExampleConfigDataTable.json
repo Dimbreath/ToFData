@@ -1,0 +1,61 @@
+[
+  {
+    "Export": {
+      "Name": "MaterialImproveExampleConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "Name": "Ruins",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/menu/menu_digong.menu_digong",
+        "SubPath": ""
+      },
+      "Description": "Complete the ruin to obtain material",
+      "RecommendValue": 5,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=CloneMain",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    },
+    "2": {
+      "Name": "Wormhole",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/menu/menu_chongdong.menu_chongdong",
+        "SubPath": ""
+      },
+      "Description": "Complete the Wormhole to obtain material",
+      "RecommendValue": 6,
+      "UnlockFunctionId": "chongdong",
+      "GotoFormPath": "Path=WormholeMainUI",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    },
+    "3": {
+      "Name": "Group Instances",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_zudui.advance_zudui",
+        "SubPath": ""
+      },
+      "Description": "Complete missions in a team to obtain material",
+      "RecommendValue": 6,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=TeamCloneForm",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    }
+  }
+  }
+]

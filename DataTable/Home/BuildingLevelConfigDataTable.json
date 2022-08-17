@@ -1,0 +1,2288 @@
+[
+  {
+    "Export": {
+      "Name": "BuildingLevelConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "pet_house_1": {
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 0
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_0.pet_house_1_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_2": {
+      "PetID": "home_pet_2",
+      "PetCount": 1,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 4
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 60,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 1,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 100
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_1_ready.pet_house_1_1_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_1.pet_house_1_1_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_3": {
+      "PetID": "home_pet_2",
+      "PetCount": 2,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 8
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 300,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 2,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 13
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 13
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_2_ready.pet_house_1_2_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_2.pet_house_1_2_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_4": {
+      "PetID": "home_pet_2",
+      "PetCount": 3,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 12
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 1800,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 3,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 15
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 15
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_3_ready.pet_house_1_3_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_3.pet_house_1_3_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_5": {
+      "PetID": "home_pet_2",
+      "PetCount": 4,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 15
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 3600,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 4,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 17
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 17
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_4_ready.pet_house_1_4_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_4.pet_house_1_4_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_6": {
+      "PetID": "home_pet_2",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 17
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 7200,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 5,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 20
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 20
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_5_ready.pet_house_1_5_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_5.pet_house_1_5_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_7": {
+      "PetID": "home_pet_2",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 19
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 6,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 25
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 25
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_6_ready.pet_house_1_6_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_6.pet_house_1_6_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_8": {
+      "PetID": "home_pet_2",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 21
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 7,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 30
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 30
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_7_ready.pet_house_1_7_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_7.pet_house_1_7_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_9": {
+      "PetID": "home_pet_2",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 23
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 8,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 35
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 35
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_8_ready.pet_house_1_8_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_8.pet_house_1_8_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_1_10": {
+      "PetID": "home_pet_2",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 25
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 9,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 40
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 40
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_9_ready.pet_house_1_9_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_1_9.pet_house_1_9_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2": {
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 0
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_0.pet_house_2_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_2": {
+      "PetID": "home_pet_3",
+      "PetCount": 1,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 4
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 60,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 1,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 100
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_1_ready.pet_house_2_1_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_1.pet_house_2_1_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_3": {
+      "PetID": "home_pet_3",
+      "PetCount": 2,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 8
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 300,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 2,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 13
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 13
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_2_ready.pet_house_2_2_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_2.pet_house_2_2_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_4": {
+      "PetID": "home_pet_3",
+      "PetCount": 3,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 12
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 1800,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 3,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 15
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 15
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_3_ready.pet_house_2_3_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_3.pet_house_2_3_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_5": {
+      "PetID": "home_pet_3",
+      "PetCount": 4,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 15
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 3600,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 4,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 17
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 17
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_4_ready.pet_house_2_4_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_4.pet_house_2_4_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_6": {
+      "PetID": "home_pet_3",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 17
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 7200,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 5,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 20
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 20
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_5_ready.pet_house_2_5_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_5.pet_house_2_5_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_7": {
+      "PetID": "home_pet_3",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 19
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 6,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 25
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 25
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_6_ready.pet_house_2_6_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_6.pet_house_2_6_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_8": {
+      "PetID": "home_pet_3",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 21
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 7,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 30
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 30
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_7_ready.pet_house_2_7_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_7.pet_house_2_7_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_9": {
+      "PetID": "home_pet_3",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 23
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 8,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 35
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 35
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_8_ready.pet_house_2_8_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_8.pet_house_2_8_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_2_10": {
+      "PetID": "home_pet_3",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 25
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 9,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomePumpkin",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 40
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 40
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_9_ready.pet_house_2_9_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_2_9.pet_house_2_9_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4": {
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 0
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_0.pet_house_4_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_2": {
+      "PetID": "home_pet_5",
+      "PetCount": 1,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 4
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 60,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 1,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 100
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_1_ready.pet_house_4_1_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_1.pet_house_4_1_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_3": {
+      "PetID": "home_pet_5",
+      "PetCount": 2,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 8
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 300,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 2,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 13
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 13
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_2_ready.pet_house_4_2_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_2.pet_house_4_2_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_4": {
+      "PetID": "home_pet_5",
+      "PetCount": 3,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 12
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 1800,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 3,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 15
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 15
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_3_ready.pet_house_4_3_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_3.pet_house_4_3_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_5": {
+      "PetID": "home_pet_5",
+      "PetCount": 4,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 15
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 3600,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 4,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 17
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 17
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_4_ready.pet_house_4_4_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_4.pet_house_4_4_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_6": {
+      "PetID": "home_pet_5",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 17
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 7200,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 5,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 20
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 20
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_5_ready.pet_house_4_5_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_5.pet_house_4_5_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_7": {
+      "PetID": "home_pet_5",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 19
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 6,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 25
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 25
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_6_ready.pet_house_4_6_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_6.pet_house_4_6_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_8": {
+      "PetID": "home_pet_5",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 21
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 7,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 30
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 30
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_7_ready.pet_house_4_7_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_7.pet_house_4_7_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_9": {
+      "PetID": "home_pet_5",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 23
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 8,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 35
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 35
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_8_ready.pet_house_4_8_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_8.pet_house_4_8_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_4_10": {
+      "PetID": "home_pet_5",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 25
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 9,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeRattan",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 40
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 40
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_9_ready.pet_house_4_9_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_4_9.pet_house_4_9_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5": {
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 0
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_0.pet_house_5_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_2": {
+      "PetID": "home_pet_6",
+      "PetCount": 1,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 4
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 60,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 1,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 100
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_1_ready.pet_house_5_1_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_1.pet_house_5_1_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_3": {
+      "PetID": "home_pet_6",
+      "PetCount": 2,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 8
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 300,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 2,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 13
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 13
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_2_ready.pet_house_5_2_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_2.pet_house_5_2_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_4": {
+      "PetID": "home_pet_6",
+      "PetCount": 3,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 12
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 1800,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 3,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 15
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 15
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_3_ready.pet_house_5_3_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_3.pet_house_5_3_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_5": {
+      "PetID": "home_pet_6",
+      "PetCount": 4,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 15
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 3600,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 4,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 17
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 17
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_4_ready.pet_house_5_4_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_4.pet_house_5_4_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_6": {
+      "PetID": "home_pet_6",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 17
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 7200,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 5,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 20
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 20
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_5_ready.pet_house_5_5_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_5.pet_house_5_5_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_7": {
+      "PetID": "home_pet_6",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 19
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 6,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 25
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 25
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_6_ready.pet_house_5_6_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_6.pet_house_5_6_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_8": {
+      "PetID": "home_pet_6",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 21
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 7,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 30
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 30
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_7_ready.pet_house_5_7_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_7.pet_house_5_7_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_9": {
+      "PetID": "home_pet_6",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 23
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 8,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 35
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 35
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_8_ready.pet_house_5_8_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_8.pet_house_5_8_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_5_10": {
+      "PetID": "home_pet_6",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 25
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 9,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeMeat",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 40
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 40
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_9_ready.pet_house_5_9_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_5_9.pet_house_5_9_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6": {
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 0
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "q102011H",
+      "InteractRequiredObjectiveID": "4",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 0,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_0.pet_house_6_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_2": {
+      "PetID": "home_pet_7",
+      "PetCount": 1,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 4
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 60,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 1,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 100
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 100
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_1_ready.pet_house_6_1_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_1.pet_house_6_1_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_3": {
+      "PetID": "home_pet_7",
+      "PetCount": 2,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 8
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 300,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 2,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 300
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 13
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 13
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_2_ready.pet_house_6_2_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_2.pet_house_6_2_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_4": {
+      "PetID": "home_pet_7",
+      "PetCount": 3,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 12
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 1800,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 3,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 15
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 15
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_3_ready.pet_house_6_3_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_3.pet_house_6_3_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_5": {
+      "PetID": "home_pet_7",
+      "PetCount": 4,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 15
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 3600,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 4,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 700
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 17
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 17
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_4_ready.pet_house_6_4_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_4.pet_house_6_4_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_6": {
+      "PetID": "home_pet_7",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 17
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 7200,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 5,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 1000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 20
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 20
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_5_ready.pet_house_6_5_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_5.pet_house_6_5_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_7": {
+      "PetID": "home_pet_7",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 19
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 6,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 1500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 25
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 25
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_6_ready.pet_house_6_6_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_6.pet_house_6_6_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_8": {
+      "PetID": "home_pet_7",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 21
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 7,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 2000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 30
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 30
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_7_ready.pet_house_6_7_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_7.pet_house_6_7_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_9": {
+      "PetID": "home_pet_7",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 23
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 8,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 2500
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 35
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 35
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_8_ready.pet_house_6_8_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_8.pet_house_6_8_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_6_10": {
+      "PetID": "home_pet_7",
+      "PetCount": 5,
+      "HarvestCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 25
+        }
+      ],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 14400,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 9,
+      "BuildCurrencyArray": [
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeTwigs",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeOre",
+          "Amount": 3000
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFish",
+          "Amount": 40
+        },
+        {
+          "CurrencyType": "EHottaCurrencyType::HomeFishBones",
+          "Amount": 40
+        }
+      ],
+      "BuildParticle": {
+        "Path": "/Game/Resources/Effect/Particles/FX_Props/FX_Interaction/P_SM_chuansongzhen_Open.P_SM_chuansongzhen_Open",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_9_ready.pet_house_6_9_ready_C",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_6_9.pet_house_6_9_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_7": {
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 1,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_7_0.pet_house_7_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    },
+    "pet_house_8": {
+      "PetID": "None",
+      "PetCount": 0,
+      "HarvestCurrencyArray": [],
+      "HarvestAwardDropID": "None",
+      "InteractRequiredQuestID": "None",
+      "InteractRequiredObjectiveID": "None",
+      "BuildDuration": 0,
+      "RequiredCharacterLevel": 0,
+      "RequiredHomeLevel": 1,
+      "BuildCurrencyArray": [],
+      "BuildParticle": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "BuildActorClass": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActorClass": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Home/house/pet_house_8_0.pet_house_8_0_C",
+        "SubPath": ""
+      },
+      "NewMonstertips": "None"
+    }
+  }
+  }
+]

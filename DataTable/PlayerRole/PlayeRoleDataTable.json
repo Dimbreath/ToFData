@@ -1,0 +1,1153 @@
+[
+  {
+    "Export": {
+      "Name": "PlayeRoleDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "CharacterType": "RCT_WOMAN",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 163,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 85,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 150,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 77.5,
+        "TeamRelativeHeight": -8,
+        "BagRelativeHeight": -6
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 177,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 94,
+        "TeamRelativeHeight": 8,
+        "BagRelativeHeight": 9
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "2": {
+      "CharacterType": "RCT_MAN",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 172,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90.5,
+        "TeamRelativeHeight": 3.2,
+        "BagRelativeHeight": 3.2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 160,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 85,
+        "TeamRelativeHeight": -5,
+        "BagRelativeHeight": -4
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 190,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 101,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "3": {
+      "CharacterType": "RCT_IMITATION_ONE",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83,
+        "TeamRelativeHeight": -4,
+        "BagRelativeHeight": -4
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "4": {
+      "CharacterType": "RCT_IMITATION_TWO",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 150,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 79.5,
+        "TeamRelativeHeight": -12,
+        "BagRelativeHeight": -12
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 150,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 79.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 150,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 79.5,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "5": {
+      "CharacterType": "RCT_IMITATION_THREE",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 8,
+        "BagRelativeHeight": 8
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "6": {
+      "CharacterType": "RCT_IMITATION_FOUR",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": -3,
+        "BagRelativeHeight": -3
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "7": {
+      "CharacterType": "RCT_IMITATION_FIVE",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 94,
+        "TeamRelativeHeight": 8.5,
+        "BagRelativeHeight": 8.5
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 94,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 94,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "8": {
+      "CharacterType": "RCT_IMITATION_SIX",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 88.5,
+        "TeamRelativeHeight": 3,
+        "BagRelativeHeight": 3
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 88.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 88.5,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "9": {
+      "CharacterType": "RCT_IMITATION_8",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 89.5,
+        "TeamRelativeHeight": 10,
+        "BagRelativeHeight": 10
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 89.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 89.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "10": {
+      "CharacterType": "RCT_IMITATION_9",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 87,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 87,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 87,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "11": {
+      "CharacterType": "RCT_IMITATION_10",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 192,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 99.5,
+        "TeamRelativeHeight": 17,
+        "BagRelativeHeight": 17
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 192,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 99.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 192,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 99.5,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "12": {
+      "CharacterType": "RCT_IMITATION_11",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 156,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 81,
+        "TeamRelativeHeight": -5,
+        "BagRelativeHeight": -5
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 156,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 81,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 156,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 81,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "13": {
+      "CharacterType": "RCT_IMITATION_12",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 146,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 76.5,
+        "TeamRelativeHeight": -12,
+        "BagRelativeHeight": -12
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 146,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 76.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 146,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 76.5,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "14": {
+      "CharacterType": "RCT_IMITATION_13",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 178,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 95,
+        "TeamRelativeHeight": 8,
+        "BagRelativeHeight": 8
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 178,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 95,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 178,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 95,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "15": {
+      "CharacterType": "RCT_IMITATION_14",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83.5,
+        "TeamRelativeHeight": -2,
+        "BagRelativeHeight": -2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "16": {
+      "CharacterType": "RCT_IMITATION_15",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 162,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 85,
+        "TeamRelativeHeight": -1,
+        "BagRelativeHeight": -1
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 162,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 85,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 162,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 85,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "17": {
+      "CharacterType": "RCT_IMITATION_16",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "18": {
+      "CharacterType": "RCT_IMITATION_17",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 8,
+        "BagRelativeHeight": 8
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 8,
+        "BagRelativeHeight": 8
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "19": {
+      "CharacterType": "RCT_IMITATION_18",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 8,
+        "BagRelativeHeight": 8
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 86,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "20": {
+      "CharacterType": "RCT_IMITATION_19",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 89.5,
+        "TeamRelativeHeight": 10,
+        "BagRelativeHeight": 10
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 89.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 10
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 89.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 10
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "21": {
+      "CharacterType": "RCT_IMITATION_20",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 178,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 93,
+        "TeamRelativeHeight": 8,
+        "BagRelativeHeight": 12
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 178,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 93,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 8
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 178,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 93,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 8
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "22": {
+      "CharacterType": "RCT_IMITATION_21",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 192,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 99.5,
+        "TeamRelativeHeight": 17,
+        "BagRelativeHeight": 17
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 192,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 99.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 17
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 192,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 99.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 17
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "23": {
+      "CharacterType": "RCT_IMITATION_22",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 156,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 81,
+        "TeamRelativeHeight": -5,
+        "BagRelativeHeight": -5
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 156,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 81,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": -5
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 156,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 81,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": -5
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "24": {
+      "CharacterType": "RCT_IMITATION_23",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 87,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 87,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 166,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 87,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "25": {
+      "CharacterType": "RCT_IMITATION_24",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 146,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 76.5,
+        "TeamRelativeHeight": -12,
+        "BagRelativeHeight": -12
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 146,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 76.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": -12
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 146,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 76.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": -12
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "26": {
+      "CharacterType": "RCT_IMITATION_25",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83,
+        "TeamRelativeHeight": -4,
+        "BagRelativeHeight": -4
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83,
+        "TeamRelativeHeight": 16,
+        "BagRelativeHeight": 16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "27": {
+      "CharacterType": "RCT_IMITATION_26",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 94,
+        "TeamRelativeHeight": 8.5,
+        "BagRelativeHeight": 8.5
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 94,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 8.5
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 94,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 8.5
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "28": {
+      "CharacterType": "RCT_IMITATION_27",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 88.5,
+        "TeamRelativeHeight": 3,
+        "BagRelativeHeight": 3
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 88.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 3
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 170,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 88.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 3
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "29": {
+      "CharacterType": "RCT_IMITATION_28",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 13,
+        "BagRelativeHeight": 11
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "31": {
+      "CharacterType": "RCT_IMITATION_30",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "32": {
+      "CharacterType": "RCT_IMITATION_31",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "35": {
+      "CharacterType": "RCT_IMITATION_34",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 194,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 100,
+        "TeamRelativeHeight": 20,
+        "BagRelativeHeight": 20
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 194,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 100,
+        "TeamRelativeHeight": 20,
+        "BagRelativeHeight": 20
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 194,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 100,
+        "TeamRelativeHeight": 20,
+        "BagRelativeHeight": 20
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "37": {
+      "CharacterType": "RCT_IMITATION_36",
+      "Sex": "ECharacterSex::CHARACTERSEX_MALE",
+      "ComHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83.5,
+        "TeamRelativeHeight": -2,
+        "BagRelativeHeight": -2
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 158,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 83.5,
+        "TeamRelativeHeight": 2,
+        "BagRelativeHeight": 2
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/man.man",
+        "SubPath": ""
+      }
+    },
+    "38": {
+      "CharacterType": "RCT_IMITATION_37",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 140,
+        "CapsuleRadius": 28,
+        "MeshRelativeHeight": 78,
+        "TeamRelativeHeight": -15,
+        "BagRelativeHeight": -16
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 140,
+        "CapsuleRadius": 28,
+        "MeshRelativeHeight": 78,
+        "TeamRelativeHeight": -15,
+        "BagRelativeHeight": -16
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 140,
+        "CapsuleRadius": 28,
+        "MeshRelativeHeight": 78,
+        "TeamRelativeHeight": -15,
+        "BagRelativeHeight": -16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "39": {
+      "CharacterType": "RCT_IMITATION_38",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 140,
+        "CapsuleRadius": 28,
+        "MeshRelativeHeight": 78,
+        "TeamRelativeHeight": -15,
+        "BagRelativeHeight": -16
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 140,
+        "CapsuleRadius": 28,
+        "MeshRelativeHeight": 78,
+        "TeamRelativeHeight": -15,
+        "BagRelativeHeight": -16
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 140,
+        "CapsuleRadius": 28,
+        "MeshRelativeHeight": 78,
+        "TeamRelativeHeight": -15,
+        "BagRelativeHeight": -16
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "30": {
+      "CharacterType": "RCT_IMITATION_29",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 13,
+        "BagRelativeHeight": 11
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 176,
+        "CapsuleRadius": 38,
+        "MeshRelativeHeight": 90,
+        "TeamRelativeHeight": 12,
+        "BagRelativeHeight": 7
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "52": {
+      "CharacterType": "RCT_IMITATION_51",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 186,
+        "CapsuleRadius": 32,
+        "MeshRelativeHeight": 94.3,
+        "TeamRelativeHeight": 18,
+        "BagRelativeHeight": 18
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 186,
+        "CapsuleRadius": 32,
+        "MeshRelativeHeight": 94.3,
+        "TeamRelativeHeight": 18,
+        "BagRelativeHeight": 18
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 186,
+        "CapsuleRadius": 32,
+        "MeshRelativeHeight": 94.3,
+        "TeamRelativeHeight": 18,
+        "BagRelativeHeight": 18
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    },
+    "53": {
+      "CharacterType": "RCT_IMITATION_52",
+      "Sex": "ECharacterSex::CHARACTERSEX_FEMALE",
+      "ComHeightData": {
+        "CapsuleHeight": 186,
+        "CapsuleRadius": 32,
+        "MeshRelativeHeight": 94.3,
+        "TeamRelativeHeight": 18,
+        "BagRelativeHeight": 18
+      },
+      "MinHeightData": {
+        "CapsuleHeight": 186,
+        "CapsuleRadius": 32,
+        "MeshRelativeHeight": 94.3,
+        "TeamRelativeHeight": 18,
+        "BagRelativeHeight": 18
+      },
+      "MaxHeightData": {
+        "CapsuleHeight": 186,
+        "CapsuleRadius": 32,
+        "MeshRelativeHeight": 94.3,
+        "TeamRelativeHeight": 18,
+        "BagRelativeHeight": 18
+      },
+      "PreviewHeightOffset": 0,
+      "SexTexture": {
+        "Path": "/Game/Resources/UI/renwuxinxi/woman.woman",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

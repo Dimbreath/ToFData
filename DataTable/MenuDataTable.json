@@ -1,0 +1,125 @@
+[
+  {
+    "Export": {
+      "Name": "MenuDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "test": {
+      "MenuLevelsData": [
+        {
+          "MenuItemClass": {
+            "Path": "/Game/SevenForest/Blueprint/UI/Common/UI_FirstMenuItem_BP.UI_FirstMenuItem_BP_C",
+            "SubPath": ""
+          },
+          "MenuItems": [
+            {
+              "MenuText": "1",
+              "MenuID": "111",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": 0,
+              "CanUnselect": false
+            },
+            {
+              "MenuText": "2",
+              "MenuID": "222",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": -1,
+              "CanUnselect": false
+            }
+          ],
+          "ShowSubItemsOneByOne": true,
+          "ShowSubItemsOneByOneTime": 0.1
+        },
+        {
+          "MenuItemClass": {
+            "Path": "/Game/SevenForest/Blueprint/UI/Common/UI_SecondMenuItem_BP.UI_SecondMenuItem_BP_C",
+            "SubPath": ""
+          },
+          "MenuItems": [
+            {
+              "MenuText": "I",
+              "MenuID": "333",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": -1,
+              "CanUnselect": false
+            },
+            {
+              "MenuText": "II",
+              "MenuID": "444",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": -1,
+              "CanUnselect": false
+            },
+            {
+              "MenuText": "III",
+              "MenuID": "",
+              "ParentIndex": 1,
+              "DefaultChooseSubMenuIndex": -1,
+              "CanUnselect": false
+            }
+          ],
+          "ShowSubItemsOneByOne": true,
+          "ShowSubItemsOneByOneTime": 0.1
+        }
+      ],
+      "DefaultChooseMenuIndex": -1
+    },
+    "GuildAuction": {
+      "MenuLevelsData": [
+        {
+          "MenuItemClass": {
+            "Path": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Auction_FirstMenuItem_BP.UI_Guild_Auction_FirstMenuItem_BP_C",
+            "SubPath": ""
+          },
+          "MenuItems": [
+            {
+              "MenuText": "My Auction",
+              "MenuID": "MyAuction",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": -1,
+              "CanUnselect": true
+            },
+            {
+              "MenuText": "Crew Auctions",
+              "MenuID": "GuildAuction",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": 0,
+              "CanUnselect": true
+            },
+            {
+              "MenuText": "World Auctions",
+              "MenuID": "WorldAuction",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": 0,
+              "CanUnselect": true
+            },
+            {
+              "MenuText": "Auction Commissions",
+              "MenuID": "AuctionBonus",
+              "ParentIndex": 0,
+              "DefaultChooseSubMenuIndex": -1,
+              "CanUnselect": true
+            }
+          ],
+          "ShowSubItemsOneByOne": true,
+          "ShowSubItemsOneByOneTime": 0.1
+        },
+        {
+          "MenuItemClass": {
+            "Path": "/Game/SevenForest/Blueprint/UI/Guild/UI_Guild_Auction_SecondMenuItem_BP.UI_Guild_Auction_SecondMenuItem_BP_C",
+            "SubPath": ""
+          },
+          "MenuItems": [],
+          "ShowSubItemsOneByOne": false,
+          "ShowSubItemsOneByOneTime": 0.1
+        }
+      ],
+      "DefaultChooseMenuIndex": -1
+    }
+  }
+  }
+]

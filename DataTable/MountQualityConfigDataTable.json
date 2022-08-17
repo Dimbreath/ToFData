@@ -1,0 +1,77 @@
+[
+  {
+    "Export": {
+      "Name": "MountQualityConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "QualityType": "ITEM_QUALITY_COMMON",
+      "Image": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_pingzhi_lv.zuoqi_pingzhi_lv",
+        "SubPath": ""
+      },
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.024158,
+          "G": 0.496933,
+          "B": 0.391573,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      }
+    },
+    "2": {
+      "QualityType": "ITEM_QUALITY_RARE",
+      "Image": {
+        "Path": "/Game/Resources/UI/Mount/zuoqi_pingzhi_lan.zuoqi_pingzhi_lan",
+        "SubPath": ""
+      },
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.045186,
+          "G": 0.226966,
+          "B": 0.456411,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      }
+    },
+    "3": {
+      "QualityType": "ITEM_QUALITY_EPIC",
+      "Image": {
+        "Path": "/Game/Resources/UI/Mount/tubiaodikuang/zhanshi-fengshang-tubdi1.zhanshi-fengshang-tubdi1",
+        "SubPath": ""
+      },
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.366253,
+          "G": 0.135633,
+          "B": 0.590619,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      }
+    },
+    "4": {
+      "QualityType": "ITEM_QUALITY_LEGENDRY",
+      "Image": {
+        "Path": "/Game/Resources/UI/Mount/tubiaodikuang/zhanshi-fengshang-tubdi2.zhanshi-fengshang-tubdi2",
+        "SubPath": ""
+      },
+      "Color": {
+        "SpecifiedColor": {
+          "R": 0.693872,
+          "G": 0.361307,
+          "B": 0.095307,
+          "A": 1
+        },
+        "ColorUseRule": "ESlateColorStylingMode::UseColor_Specified"
+      }
+    }
+  }
+  }
+]

@@ -1,0 +1,4163 @@
+[
+  {
+    "Export": {
+      "Name": "DT_LevelMapInfo",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "QRSL_P": {
+      "LevelName": "QRSL_P",
+      "NameText": "Aesperia",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_11.Map4096_64_12",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_12.Map4096_64_13",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_13.Map4096_64_14",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_14.Map4096_64_15",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_15.Map4096_64_16",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_16.Map4096_64_17",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_17.Map4096_64_18",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_18.Map4096_64_19",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_19.Map4096_64_20",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_20.Map4096_64_21",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_21.Map4096_64_22",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_22.Map4096_64_23",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_23.Map4096_64_24",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_24.Map4096_64_25",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_25.Map4096_64_26",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_26.Map4096_64_27",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_27.Map4096_64_28",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_28.Map4096_64_29",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_29.Map4096_64_30",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_30.Map4096_64_31",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_31.Map4096_64_32",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_32.Map4096_64_33",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_33.Map4096_64_34",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_34.Map4096_64_35",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_35.Map4096_64_36",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_36.Map4096_64_37",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_37.Map4096_64_38",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_38.Map4096_64_39",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_39.Map4096_64_40",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_40.Map4096_64_41",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_41.Map4096_64_42",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_42.Map4096_64_43",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_43.Map4096_64_44",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_44.Map4096_64_45",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_45.Map4096_64_46",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_46.Map4096_64_47",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_47.Map4096_64_48",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_48.Map4096_64_49",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_49.Map4096_64_50",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_50.Map4096_64_51",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_51.Map4096_64_52",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_52.Map4096_64_53",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_53.Map4096_64_54",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_54.Map4096_64_55",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_55.Map4096_64_56",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_56.Map4096_64_57",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_57.Map4096_64_58",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_58.Map4096_64_59",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_59.Map4096_64_60",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_60.Map4096_64_61",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_61.Map4096_64_62",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_62.Map4096_64_63",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_63.Map4096_64_64",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_64.Map4096_64_65",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_65.Map4096_64_66",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_66.Map4096_64_67",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_67.Map4096_64_68",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_68.Map4096_64_69",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_69.Map4096_64_70",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_70.Map4096_64_71",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_71.Map4096_64_72",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_72.Map4096_64_73",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_73.Map4096_64_74",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_74.Map4096_64_75",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": [
+          {
+            "MapAreaType": "EAreaType::AREA_WHALE_ISLE",
+            "RegionIndex": 2,
+            "ReplaceIndex": [
+              10,
+              11,
+              18
+            ],
+            "ReplaceTexture": [
+              {
+                "Path": "/Game/Resources/UI/MiniMap/Map64x512/WhaleIsle/Map4096_64_21.Map4096_64_22",
+                "SubPath": ""
+              },
+              {
+                "Path": "/Game/Resources/UI/MiniMap/Map64x512/WhaleIsle/Map4096_64_22.Map4096_64_23",
+                "SubPath": ""
+              },
+              {
+                "Path": "/Game/Resources/UI/MiniMap/Map64x512/WhaleIsle/Map4096_64_29.Map4096_64_30",
+                "SubPath": ""
+              }
+            ]
+          }
+        ]
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Exclusive",
+              "Value": 1.56
+            }
+          },
+          "RenderTargetSize": 1536,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_01.Map1536_9_01",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_02.Map1536_9_02",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_03.Map1536_9_03",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_04.Map1536_9_04",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_05.Map1536_9_05",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_06.Map1536_9_06",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_07.Map1536_9_07",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_08.Map1536_9_08",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map9x512/Map1536_9_09.Map1536_9_09",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        },
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.56
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Exclusive",
+              "Value": 3
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_0.Map25x512",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_1.Map25x512_2",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_2.Map25x512_3",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_3.Map25x512_4",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_4.Map25x512_5",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_5.Map25x512_6",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_6.Map25x512_7",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_7.Map25x512_8",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_8.Map25x512_9",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_9.Map25x512_10",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_10.Map25x512_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_11.Map25x512_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_12.Map25x512_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_13.Map25x512_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_14.Map25x512_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_15.Map25x512_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_16.Map25x512_17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_17.Map25x512_18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_18.Map25x512_19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_19.Map25x512_20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_20.Map25x512_21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_21.Map25x512_22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_22.Map25x512_23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_23.Map25x512_24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map25x512/Map25x512_24.Map25x512_25",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": [
+            {
+              "MapAreaType": "EAreaType::AREA_WHALE_ISLE",
+              "RegionIndex": 2,
+              "ReplaceIndex": [
+                1,
+                6
+              ],
+              "ReplaceTexture": [
+                {
+                  "Path": "/Game/Resources/UI/MiniMap/Map25x512/WhaleIsle/Map25x512_1.Map25x512_2",
+                  "SubPath": ""
+                },
+                {
+                  "Path": "/Game/Resources/UI/MiniMap/Map25x512/WhaleIsle/Map25x512_6.Map25x512_7",
+                  "SubPath": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 3
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 4
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_11.Map4096_64_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_12.Map4096_64_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_13.Map4096_64_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_14.Map4096_64_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_15.Map4096_64_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_16.Map4096_64_17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_17.Map4096_64_18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_18.Map4096_64_19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_19.Map4096_64_20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_20.Map4096_64_21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_21.Map4096_64_22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_22.Map4096_64_23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_23.Map4096_64_24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_24.Map4096_64_25",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_25.Map4096_64_26",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_26.Map4096_64_27",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_27.Map4096_64_28",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_28.Map4096_64_29",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_29.Map4096_64_30",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_30.Map4096_64_31",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_31.Map4096_64_32",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_32.Map4096_64_33",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_33.Map4096_64_34",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_34.Map4096_64_35",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_35.Map4096_64_36",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_36.Map4096_64_37",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_37.Map4096_64_38",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_38.Map4096_64_39",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_39.Map4096_64_40",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_40.Map4096_64_41",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_41.Map4096_64_42",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_42.Map4096_64_43",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_43.Map4096_64_44",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_44.Map4096_64_45",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_45.Map4096_64_46",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_46.Map4096_64_47",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_47.Map4096_64_48",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_48.Map4096_64_49",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_49.Map4096_64_50",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_50.Map4096_64_51",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_51.Map4096_64_52",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_52.Map4096_64_53",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_53.Map4096_64_54",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_54.Map4096_64_55",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_55.Map4096_64_56",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_56.Map4096_64_57",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_57.Map4096_64_58",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_58.Map4096_64_59",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_59.Map4096_64_60",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_60.Map4096_64_61",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_61.Map4096_64_62",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_62.Map4096_64_63",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_63.Map4096_64_64",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_64.Map4096_64_65",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_65.Map4096_64_66",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_66.Map4096_64_67",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_67.Map4096_64_68",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_68.Map4096_64_69",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_69.Map4096_64_70",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_70.Map4096_64_71",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_71.Map4096_64_72",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_72.Map4096_64_73",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_73.Map4096_64_74",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Map64x512/Map4096_64_74.Map4096_64_75",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": [
+            {
+              "MapAreaType": "EAreaType::AREA_WHALE_ISLE",
+              "RegionIndex": 2,
+              "ReplaceIndex": [
+                10,
+                11,
+                18
+              ],
+              "ReplaceTexture": [
+                {
+                  "Path": "/Game/Resources/UI/MiniMap/Map64x512/WhaleIsle/Map4096_64_21.Map4096_64_22",
+                  "SubPath": ""
+                },
+                {
+                  "Path": "/Game/Resources/UI/MiniMap/Map64x512/WhaleIsle/Map4096_64_22.Map4096_64_23",
+                  "SubPath": ""
+                },
+                {
+                  "Path": "/Game/Resources/UI/MiniMap/Map64x512/WhaleIsle/Map4096_64_29.Map4096_64_30",
+                  "SubPath": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 160000,
+        "Y": 160000
+      },
+      "MapCenterLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": true,
+      "bIsShowExploreItem": true,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": true,
+      "AllowAddIconLevelList": [
+        "City",
+        "Vera_P"
+      ]
+    },
+    "City": {
+      "LevelName": "City",
+      "NameText": "Hykros",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/city_forest_map.city_forest_map",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.5
+            }
+          },
+          "RenderTargetSize": 1024,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/city_forest_map.city_forest_map",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 12000,
+        "Y": 12000
+      },
+      "MapCenterLocation": {
+        "X": -100,
+        "Y": -24520,
+        "Z": 97940
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": true,
+      "bIsShowExploreItem": true,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": true,
+      "AllowAddIconLevelList": [
+        "QRSL_P",
+        "Vera_P"
+      ]
+    },
+    "void001_d": {
+      "LevelName": "void001_d",
+      "NameText": "None",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 2048,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_1.xukongliexi_4x512_2",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_2.xukongliexi_4x512_3",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_3.xukongliexi_4x512_4",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_4.xukongliexi_4x512_5",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_5.xukongliexi_4x512_6",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_6.xukongliexi_4x512_7",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_7.xukongliexi_4x512_8",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_8.xukongliexi_4x512_9",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_9.xukongliexi_4x512_10",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_10.xukongliexi_4x512_11",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_11.xukongliexi_4x512_12",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_12.xukongliexi_4x512_13",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_13.xukongliexi_4x512_14",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_14.xukongliexi_4x512_15",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_15.xukongliexi_4x512_16",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_16.xukongliexi_4x512_17",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.5
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_1.xukongliexi_4x512_2",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_2.xukongliexi_4x512_3",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_3.xukongliexi_4x512_4",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_4.xukongliexi_4x512_5",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_5.xukongliexi_4x512_6",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_6.xukongliexi_4x512_7",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_7.xukongliexi_4x512_8",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_8.xukongliexi_4x512_9",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_9.xukongliexi_4x512_10",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_10.xukongliexi_4x512_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_11.xukongliexi_4x512_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_12.xukongliexi_4x512_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_13.xukongliexi_4x512_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_14.xukongliexi_4x512_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_15.xukongliexi_4x512_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/xukongliexi_4x512_16.xukongliexi_4x512_17",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 13500,
+        "Y": 13500
+      },
+      "MapCenterLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": false,
+      "bIsShowIconCheckBox": false,
+      "bIsShowExploreItem": false,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": false,
+      "AllowAddIconLevelList": []
+    },
+    "void002_d": {
+      "LevelName": "void002_d",
+      "NameText": "None",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/void002.void002",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.5
+            }
+          },
+          "RenderTargetSize": 1024,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/void002.void002",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 14000,
+        "Y": 14000
+      },
+      "MapCenterLocation": {
+        "X": -800,
+        "Y": 0,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": false,
+      "bIsShowIconCheckBox": false,
+      "bIsShowExploreItem": false,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": false,
+      "AllowAddIconLevelList": []
+    },
+    "void003_d": {
+      "LevelName": "void003_d",
+      "NameText": "None",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/void/void003.void003",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.5
+            }
+          },
+          "RenderTargetSize": 1024,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/void/void003.void003",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 14000,
+        "Y": 14000
+      },
+      "MapCenterLocation": {
+        "X": -800,
+        "Y": 0,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": false,
+      "bIsShowIconCheckBox": false,
+      "bIsShowExploreItem": false,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": false,
+      "AllowAddIconLevelList": []
+    },
+    "Homeland": {
+      "LevelName": "Homeland",
+      "NameText": "None",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_0.Maphome_16x512",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_1.Maphome_16x512_2",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_2.Maphome_16x512_3",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_3.Maphome_16x512_4",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_4.Maphome_16x512_5",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_5.Maphome_16x512_6",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_6.Maphome_16x512_7",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_7.Maphome_16x512_8",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_8.Maphome_16x512_9",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_9.Maphome_16x512_10",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_10.Maphome_16x512_11",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_11.Maphome_16x512_12",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_12.Maphome_16x512_13",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_13.Maphome_16x512_14",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_14.Maphome_16x512_15",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_15.Maphome_16x512_16",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 2.5
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_0.Maphome_16x512",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_1.Maphome_16x512_2",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_2.Maphome_16x512_3",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_3.Maphome_16x512_4",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_4.Maphome_16x512_5",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_5.Maphome_16x512_6",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_6.Maphome_16x512_7",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_7.Maphome_16x512_8",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_8.Maphome_16x512_9",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_9.Maphome_16x512_10",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_10.Maphome_16x512_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_11.Maphome_16x512_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_12.Maphome_16x512_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_13.Maphome_16x512_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_14.Maphome_16x512_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/Homeland/Maphome_16x512_15.Maphome_16x512_16",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 54000,
+        "Y": 54000
+      },
+      "MapCenterLocation": {
+        "X": 10900,
+        "Y": -850,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": false,
+      "bIsShowExploreItem": false,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": false,
+      "AllowAddIconLevelList": [
+        "Homeland"
+      ]
+    },
+    "Map_chiji_D": {
+      "LevelName": "Map_chiji_D",
+      "NameText": "None",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map1.breakfate_map1",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map2.breakfate_map2",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map3.breakfate_map3",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map4.breakfate_map4",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map5.breakfate_map5",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map6.breakfate_map6",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map7.breakfate_map7",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map8.breakfate_map8",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map9.breakfate_map9",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map10.breakfate_map10",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map11.breakfate_map11",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map12.breakfate_map12",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map13.breakfate_map13",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map14.breakfate_map14",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map15.breakfate_map15",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map16.breakfate_map16",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map17.breakfate_map17",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map18.breakfate_map18",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map19.breakfate_map19",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map20.breakfate_map20",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map21.breakfate_map21",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map22.breakfate_map22",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map23.breakfate_map23",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map24.breakfate_map24",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map25.breakfate_map25",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 2.5
+            }
+          },
+          "RenderTargetSize": 2560,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map1.breakfate_map1",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map2.breakfate_map2",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map3.breakfate_map3",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map4.breakfate_map4",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map5.breakfate_map5",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map6.breakfate_map6",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map7.breakfate_map7",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map8.breakfate_map8",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map9.breakfate_map9",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map10.breakfate_map10",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map11.breakfate_map11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map12.breakfate_map12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map13.breakfate_map13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map14.breakfate_map14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map15.breakfate_map15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map16.breakfate_map16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map17.breakfate_map17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map18.breakfate_map18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map19.breakfate_map19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map20.breakfate_map20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map21.breakfate_map21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map22.breakfate_map22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map23.breakfate_map23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map24.breakfate_map24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map25.breakfate_map25",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 120000,
+        "Y": 120000
+      },
+      "MapCenterLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": false,
+      "bIsShowExploreItem": false,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": false,
+      "AllowAddIconLevelList": [
+        "Map_chiji_D"
+      ]
+    },
+    "Homeland_world": {
+      "LevelName": "Homeland_world",
+      "NameText": "Artificial Island",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_01.64xMaphome_01",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_02.64xMaphome_02",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_03.64xMaphome_03",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_04.64xMaphome_04",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_05.64xMaphome_05",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_06.64xMaphome_06",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_07.64xMaphome_07",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_08.64xMaphome_08",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_09.64xMaphome_09",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_10.64xMaphome_11",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_11.64xMaphome_12",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_12.64xMaphome_13",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_13.64xMaphome_14",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_14.64xMaphome_15",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_15.64xMaphome_16",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_16.64xMaphome_17",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_17.64xMaphome_18",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_18.64xMaphome_19",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_19.64xMaphome_20",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_20.64xMaphome_21",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_21.64xMaphome_22",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_22.64xMaphome_23",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_23.64xMaphome_24",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_24.64xMaphome_25",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_25.64xMaphome_26",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_26.64xMaphome_27",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_27.64xMaphome_28",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_28.64xMaphome_29",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_29.64xMaphome_30",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_30.64xMaphome_31",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_31.64xMaphome_32",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_32.64xMaphome_33",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_33.64xMaphome_34",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_34.64xMaphome_35",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_35.64xMaphome_36",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_36.64xMaphome_37",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_37.64xMaphome_38",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_38.64xMaphome_39",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_39.64xMaphome_40",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_40.64xMaphome_41",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_41.64xMaphome_42",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_42.64xMaphome_43",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_43.64xMaphome_44",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_44.64xMaphome_45",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_45.64xMaphome_46",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_46.64xMaphome_47",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_47.64xMaphome_48",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_48.64xMaphome_49",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_49.64xMaphome_50",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_50.64xMaphome_51",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_51.64xMaphome_52",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_52.64xMaphome_53",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_53.64xMaphome_54",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_54.64xMaphome_55",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_55.64xMaphome_56",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_56.64xMaphome_57",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_57.64xMaphome_58",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_58.64xMaphome_59",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_59.64xMaphome_60",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_60.64xMaphome_61",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_61.64xMaphome_62",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_62.64xMaphome_63",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_63.64xMaphome_64",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_64.64xMaphome_65",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.56
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 2.5
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_01.25xhomeland_01",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_02.25xhomeland_02",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_03.25xhomeland_03",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_04.25xhomeland_04",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_05.25xhomeland_05",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_06.25xhomeland_06",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_07.25xhomeland_07",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_08.25xhomeland_08",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_09.25xhomeland_09",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_10.25xhomeland_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_11.25xhomeland_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_12.25xhomeland_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_13.25xhomeland_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_14.25xhomeland_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_15.25xhomeland_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_16.25xhomeland_17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_17.25xhomeland_18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_18.25xhomeland_19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_19.25xhomeland_20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_20.25xhomeland_21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_21.25xhomeland_22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_22.25xhomeland_23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_23.25xhomeland_24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_24.25xhomeland_25",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/5x5/25xhomeland_25.25xhomeland_26",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        },
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 2.5
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 6
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_01.64xMaphome_01",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_02.64xMaphome_02",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_03.64xMaphome_03",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_04.64xMaphome_04",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_05.64xMaphome_05",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_06.64xMaphome_06",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_07.64xMaphome_07",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_08.64xMaphome_08",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_09.64xMaphome_09",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_10.64xMaphome_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_11.64xMaphome_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_12.64xMaphome_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_13.64xMaphome_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_14.64xMaphome_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_15.64xMaphome_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_16.64xMaphome_17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_17.64xMaphome_18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_18.64xMaphome_19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_19.64xMaphome_20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_20.64xMaphome_21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_21.64xMaphome_22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_22.64xMaphome_23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_23.64xMaphome_24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_24.64xMaphome_25",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_25.64xMaphome_26",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_26.64xMaphome_27",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_27.64xMaphome_28",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_28.64xMaphome_29",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_29.64xMaphome_30",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_30.64xMaphome_31",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_31.64xMaphome_32",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_32.64xMaphome_33",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_33.64xMaphome_34",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_34.64xMaphome_35",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_35.64xMaphome_36",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_36.64xMaphome_37",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_37.64xMaphome_38",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_38.64xMaphome_39",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_39.64xMaphome_40",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_40.64xMaphome_41",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_41.64xMaphome_42",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_42.64xMaphome_43",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_43.64xMaphome_44",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_44.64xMaphome_45",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_45.64xMaphome_46",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_46.64xMaphome_47",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_47.64xMaphome_48",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_48.64xMaphome_49",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_49.64xMaphome_50",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_50.64xMaphome_51",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_51.64xMaphome_52",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_52.64xMaphome_53",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_53.64xMaphome_54",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_54.64xMaphome_55",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_55.64xMaphome_56",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_56.64xMaphome_57",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_57.64xMaphome_58",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_58.64xMaphome_59",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_59.64xMaphome_60",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_60.64xMaphome_61",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_61.64xMaphome_62",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_62.64xMaphome_63",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_63.64xMaphome_64",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/HomeLand_World/8x8/64xMaphome_64.64xMaphome_65",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 200000,
+        "Y": 200000
+      },
+      "MapCenterLocation": {
+        "X": 24802,
+        "Y": -42513,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": true,
+      "bIsShowExploreItem": true,
+      "bIsAllowExploreKillList": true,
+      "bIsShowWorldMapBtn": true,
+      "AllowAddIconLevelList": [
+        "Homeland_world"
+      ]
+    },
+    "Vera_P": {
+      "LevelName": "Vera_P",
+      "NameText": "Plane of Vera",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_001.VeraMap_10X10_001",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_025.VeraMap_10X10_025",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_022.VeraMap_10X10_022",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_004.VeraMap_10X10_004",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_005.VeraMap_10X10_005",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_006.VeraMap_10X10_006",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_007.VeraMap_10X10_007",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_008.VeraMap_10X10_008",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_009.VeraMap_10X10_009",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_010.VeraMap_10X10_010",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_011.VeraMap_10X10_011",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_012.VeraMap_10X10_012",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_013.VeraMap_10X10_013",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_014.VeraMap_10X10_014",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_015.VeraMap_10X10_015",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_016.VeraMap_10X10_016",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_017.VeraMap_10X10_017",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_018.VeraMap_10X10_018",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_019.VeraMap_10X10_019",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_020.VeraMap_10X10_020",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_021.VeraMap_10X10_021",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_022.VeraMap_10X10_022",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_023.VeraMap_10X10_023",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_024.VeraMap_10X10_024",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_025.VeraMap_10X10_025",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_026.VeraMap_10X10_026",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_027.VeraMap_10X10_027",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_028.VeraMap_10X10_028",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_029.VeraMap_10X10_029",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_030.VeraMap_10X10_030",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_031.VeraMap_10X10_031",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_032.VeraMap_10X10_032",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_033.VeraMap_10X10_033",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_034.VeraMap_10X10_034",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_035.VeraMap_10X10_035",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_036.VeraMap_10X10_036",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_037.VeraMap_10X10_037",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_038.VeraMap_10X10_038",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_039.VeraMap_10X10_039",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_040.VeraMap_10X10_040",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_041.VeraMap_10X10_041",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_042.VeraMap_10X10_042",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_043.VeraMap_10X10_043",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_044.VeraMap_10X10_044",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_045.VeraMap_10X10_045",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_046.VeraMap_10X10_046",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_047.VeraMap_10X10_047",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_048.VeraMap_10X10_048",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_049.VeraMap_10X10_049",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_050.VeraMap_10X10_050",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_051.VeraMap_10X10_051",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_052.VeraMap_10X10_052",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_053.VeraMap_10X10_053",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_054.VeraMap_10X10_054",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_055.VeraMap_10X10_055",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_056.VeraMap_10X10_056",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_057.VeraMap_10X10_057",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_058.VeraMap_10X10_058",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_059.VeraMap_10X10_059",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_060.VeraMap_10X10_060",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_061.VeraMap_10X10_061",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_062.VeraMap_10X10_062",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_063.VeraMap_10X10_063",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_064.VeraMap_10X10_064",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_065.VeraMap_10X10_065",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_066.VeraMap_10X10_066",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_067.VeraMap_10X10_067",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_068.VeraMap_10X10_068",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_069.VeraMap_10X10_069",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_070.VeraMap_10X10_070",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_071.VeraMap_10X10_071",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_072.VeraMap_10X10_072",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_073.VeraMap_10X10_073",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_074.VeraMap_10X10_074",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_075.VeraMap_10X10_075",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_076.VeraMap_10X10_076",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_077.VeraMap_10X10_077",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_078.VeraMap_10X10_078",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_079.VeraMap_10X10_079",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_080.VeraMap_10X10_080",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_081.VeraMap_10X10_081",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_082.VeraMap_10X10_082",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_083.VeraMap_10X10_083",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_084.VeraMap_10X10_084",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_085.VeraMap_10X10_085",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_086.VeraMap_10X10_086",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_087.VeraMap_10X10_087",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_088.VeraMap_10X10_088",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_089.VeraMap_10X10_089",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_090.VeraMap_10X10_090",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_091.VeraMap_10X10_091",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_092.VeraMap_10X10_092",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_093.VeraMap_10X10_093",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_094.VeraMap_10X10_094",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_095.VeraMap_10X10_095",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_096.VeraMap_10X10_096",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_097.VeraMap_10X10_097",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_098.VeraMap_10X10_098",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_099.VeraMap_10X10_099",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_100.VeraMap_10X10_101",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Exclusive",
+              "Value": 1.56
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_01.VeraMap_4X4_01",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_02.VeraMap_4X4_02",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_03.VeraMap_4X4_03",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_04.VeraMap_4X4_04",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_05.VeraMap_4X4_05",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_06.VeraMap_4X4_06",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_07.VeraMap_4X4_07",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_08.VeraMap_4X4_08",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_09.VeraMap_4X4_09",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_10.VeraMap_4X4_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_11.VeraMap_4X4_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_12.VeraMap_4X4_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_13.VeraMap_4X4_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_14.VeraMap_4X4_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_15.VeraMap_4X4_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap16x512/VeraMap_4X4_16.VeraMap_4X4_17",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        },
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.56
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 3
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_01.VeraMap_6x6_01",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_02.VeraMap_6x6_02",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_03.VeraMap_6x6_03",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_04.VeraMap_6x6_04",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_05.VeraMap_6x6_05",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_06.VeraMap_6x6_06",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_07.VeraMap_6x6_07",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_08.VeraMap_6x6_08",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_09.VeraMap_6x6_09",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_10.VeraMap_6x6_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_11.VeraMap_6x6_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_12.VeraMap_6x6_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_13.VeraMap_6x6_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_14.VeraMap_6x6_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_15.VeraMap_6x6_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_16.VeraMap_6x6_17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_17.VeraMap_6x6_18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_18.VeraMap_6x6_19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_19.VeraMap_6x6_20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_20.VeraMap_6x6_21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_21.VeraMap_6x6_22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_22.VeraMap_6x6_23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_23.VeraMap_6x6_24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_24.VeraMap_6x6_25",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_25.VeraMap_6x6_26",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_26.VeraMap_6x6_27",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_27.VeraMap_6x6_28",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_28.VeraMap_6x6_29",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_29.VeraMap_6x6_30",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_30.VeraMap_6x6_31",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_31.VeraMap_6x6_32",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_32.VeraMap_6x6_33",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_33.VeraMap_6x6_34",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_34.VeraMap_6x6_35",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_35.VeraMap_6x6_36",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap36x512/VeraMap_6x6_36.VeraMap_6x6_37",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        },
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 3
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 4
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_001.VeraMap_10X10_001",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_002.VeraMap_10X10_002",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_003.VeraMap_10X10_003",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_004.VeraMap_10X10_004",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_005.VeraMap_10X10_005",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_006.VeraMap_10X10_006",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_007.VeraMap_10X10_007",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_008.VeraMap_10X10_008",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_009.VeraMap_10X10_009",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_010.VeraMap_10X10_010",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_011.VeraMap_10X10_011",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_012.VeraMap_10X10_012",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_013.VeraMap_10X10_013",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_014.VeraMap_10X10_014",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_015.VeraMap_10X10_015",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_016.VeraMap_10X10_016",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_017.VeraMap_10X10_017",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_018.VeraMap_10X10_018",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_019.VeraMap_10X10_019",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_020.VeraMap_10X10_020",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_021.VeraMap_10X10_021",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_022.VeraMap_10X10_022",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_023.VeraMap_10X10_023",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_024.VeraMap_10X10_024",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_025.VeraMap_10X10_025",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_026.VeraMap_10X10_026",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_027.VeraMap_10X10_027",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_028.VeraMap_10X10_028",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_029.VeraMap_10X10_029",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_030.VeraMap_10X10_030",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_031.VeraMap_10X10_031",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_032.VeraMap_10X10_032",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_033.VeraMap_10X10_033",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_034.VeraMap_10X10_034",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_035.VeraMap_10X10_035",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_036.VeraMap_10X10_036",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_037.VeraMap_10X10_037",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_038.VeraMap_10X10_038",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_039.VeraMap_10X10_039",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_040.VeraMap_10X10_040",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_041.VeraMap_10X10_041",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_042.VeraMap_10X10_042",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_043.VeraMap_10X10_043",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_044.VeraMap_10X10_044",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_045.VeraMap_10X10_045",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_046.VeraMap_10X10_046",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_047.VeraMap_10X10_047",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_048.VeraMap_10X10_048",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_049.VeraMap_10X10_049",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_050.VeraMap_10X10_050",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_051.VeraMap_10X10_051",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_052.VeraMap_10X10_052",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_053.VeraMap_10X10_053",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_054.VeraMap_10X10_054",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_055.VeraMap_10X10_055",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_056.VeraMap_10X10_056",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_057.VeraMap_10X10_057",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_058.VeraMap_10X10_058",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_059.VeraMap_10X10_059",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_060.VeraMap_10X10_060",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_061.VeraMap_10X10_061",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_062.VeraMap_10X10_062",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_063.VeraMap_10X10_063",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_064.VeraMap_10X10_064",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_065.VeraMap_10X10_065",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_066.VeraMap_10X10_066",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_067.VeraMap_10X10_067",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_068.VeraMap_10X10_068",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_069.VeraMap_10X10_069",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_070.VeraMap_10X10_070",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_071.VeraMap_10X10_071",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_072.VeraMap_10X10_072",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_073.VeraMap_10X10_073",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_074.VeraMap_10X10_074",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_075.VeraMap_10X10_075",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_076.VeraMap_10X10_076",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_077.VeraMap_10X10_077",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_078.VeraMap_10X10_078",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_079.VeraMap_10X10_079",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_080.VeraMap_10X10_080",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_081.VeraMap_10X10_081",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_082.VeraMap_10X10_082",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_083.VeraMap_10X10_083",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_084.VeraMap_10X10_084",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_085.VeraMap_10X10_085",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_086.VeraMap_10X10_086",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_087.VeraMap_10X10_087",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_088.VeraMap_10X10_088",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_089.VeraMap_10X10_089",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_090.VeraMap_10X10_090",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_091.VeraMap_10X10_091",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_092.VeraMap_10X10_092",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_093.VeraMap_10X10_093",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_094.VeraMap_10X10_094",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_095.VeraMap_10X10_095",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_096.VeraMap_10X10_096",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_097.VeraMap_10X10_097",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_098.VeraMap_10X10_098",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_099.VeraMap_10X10_099",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVera/VeraMap100x512/VeraMap_10X10_100.VeraMap_10X10_101",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 220000,
+        "Y": 220000
+      },
+      "MapCenterLocation": {
+        "X": -940,
+        "Y": 20000,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": true,
+      "bIsShowExploreItem": true,
+      "bIsAllowExploreKillList": true,
+      "bIsShowWorldMapBtn": true,
+      "AllowAddIconLevelList": [
+        "QRSL_P",
+        "City"
+      ]
+    },
+    "Vera_city": {
+      "LevelName": "Vera_city",
+      "NameText": "Mirroria",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_01.JingduMAP_6x6_01",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_02.JingduMAP_6x6_02",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_03.JingduMAP_6x6_03",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_04.JingduMAP_6x6_04",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_05.JingduMAP_6x6_05",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_06.JingduMAP_6x6_06",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_07.JingduMAP_6x6_07",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_08.JingduMAP_6x6_08",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_09.JingduMAP_6x6_09",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_10.JingduMAP_6x6_11",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_11.JingduMAP_6x6_12",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_12.JingduMAP_6x6_13",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_13.JingduMAP_6x6_14",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_14.JingduMAP_6x6_15",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_15.JingduMAP_6x6_16",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_16.JingduMAP_6x6_17",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_17.JingduMAP_6x6_18",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_18.JingduMAP_6x6_19",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_19.JingduMAP_6x6_20",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_20.JingduMAP_6x6_21",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_21.JingduMAP_6x6_22",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_22.JingduMAP_6x6_23",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_23.JingduMAP_6x6_24",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_24.JingduMAP_6x6_25",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_25.JingduMAP_6x6_26",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_26.JingduMAP_6x6_27",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_27.JingduMAP_6x6_28",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_28.JingduMAP_6x6_29",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_29.JingduMAP_6x6_30",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_30.JingduMAP_6x6_31",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_31.JingduMAP_6x6_32",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_32.JingduMAP_6x6_33",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_33.JingduMAP_6x6_34",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_34.JingduMAP_6x6_35",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_35.JingduMAP_6x6_36",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_36.JingduMAP_6x6_37",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Exclusive",
+              "Value": 1.56
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_01.JingduMap_4X4_01",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_02.JingduMap_4X4_02",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_03.JingduMap_4X4_03",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_04.JingduMap_4X4_04",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_05.JingduMap_4X4_05",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_06.JingduMap_4X4_06",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_07.JingduMap_4X4_07",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_08.JingduMap_4X4_08",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_09.JingduMap_4X4_09",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_10.JingduMap_4X4_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_11.JingduMap_4X4_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_12.JingduMap_4X4_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_13.JingduMap_4X4_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_14.JingduMap_4X4_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_15.JingduMap_4X4_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap4X4/JingduMap_4X4_16.JingduMap_4X4_17",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        },
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1.56
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 3
+            }
+          },
+          "RenderTargetSize": 2048,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_01.JingduMAP_6x6_01",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_02.JingduMAP_6x6_02",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_03.JingduMAP_6x6_03",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_04.JingduMAP_6x6_04",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_05.JingduMAP_6x6_05",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_06.JingduMAP_6x6_06",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_07.JingduMAP_6x6_07",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_08.JingduMAP_6x6_08",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_09.JingduMAP_6x6_09",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_10.JingduMAP_6x6_11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_11.JingduMAP_6x6_12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_12.JingduMAP_6x6_13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_13.JingduMAP_6x6_14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_14.JingduMAP_6x6_15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_15.JingduMAP_6x6_16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_16.JingduMAP_6x6_17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_17.JingduMAP_6x6_18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_18.JingduMAP_6x6_19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_19.JingduMAP_6x6_20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_20.JingduMAP_6x6_21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_21.JingduMAP_6x6_22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_22.JingduMAP_6x6_23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_23.JingduMAP_6x6_24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_24.JingduMAP_6x6_25",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_25.JingduMAP_6x6_26",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_26.JingduMAP_6x6_27",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_27.JingduMAP_6x6_28",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_28.JingduMAP_6x6_29",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_29.JingduMAP_6x6_30",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_30.JingduMAP_6x6_31",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_31.JingduMAP_6x6_32",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_32.JingduMAP_6x6_33",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_33.JingduMAP_6x6_34",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_34.JingduMAP_6x6_35",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_35.JingduMAP_6x6_36",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/MapVeraCity/JingduMap6X6/JingduMAP_6x6_36.JingduMAP_6x6_37",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 110000,
+        "Y": 110000
+      },
+      "MapCenterLocation": {
+        "X": -940,
+        "Y": 0,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": true,
+      "bIsShowExploreItem": true,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": true,
+      "AllowAddIconLevelList": [
+        "QRSL_P",
+        "City",
+        "vera_city"
+      ]
+    },
+    "Map_chiji_D_team": {
+      "LevelName": "Map_chiji_D_team",
+      "NameText": "None",
+      "MiniMapInfo": {
+        "ZoomRange": {
+          "LowerBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          },
+          "UpperBound": {
+            "Type": "ERangeBoundTypes::Open",
+            "Value": 0
+          }
+        },
+        "RenderTargetSize": 1024,
+        "RenderElementSize": 512,
+        "MapTexture": [
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map1.breakfate_map1",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map2.breakfate_map2",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map3.breakfate_map3",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map4.breakfate_map4",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map5.breakfate_map5",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map6.breakfate_map6",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map7.breakfate_map7",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map8.breakfate_map8",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map9.breakfate_map9",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map10.breakfate_map10",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map11.breakfate_map11",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map12.breakfate_map12",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map13.breakfate_map13",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map14.breakfate_map14",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map15.breakfate_map15",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map16.breakfate_map16",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map17.breakfate_map17",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map18.breakfate_map18",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map19.breakfate_map19",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map20.breakfate_map20",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map21.breakfate_map21",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map22.breakfate_map22",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map23.breakfate_map23",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map24.breakfate_map24",
+            "SubPath": ""
+          },
+          {
+            "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map25.breakfate_map25",
+            "SubPath": ""
+          }
+        ],
+        "MapAreaTextureInfo": []
+      },
+      "BigMapInfo": [
+        {
+          "ZoomRange": {
+            "LowerBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 1
+            },
+            "UpperBound": {
+              "Type": "ERangeBoundTypes::Inclusive",
+              "Value": 2.5
+            }
+          },
+          "RenderTargetSize": 2560,
+          "RenderElementSize": 512,
+          "MapTexture": [
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map1.breakfate_map1",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map2.breakfate_map2",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map3.breakfate_map3",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map4.breakfate_map4",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map5.breakfate_map5",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map6.breakfate_map6",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map7.breakfate_map7",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map8.breakfate_map8",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map9.breakfate_map9",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map10.breakfate_map10",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map11.breakfate_map11",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map12.breakfate_map12",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map13.breakfate_map13",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map14.breakfate_map14",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map15.breakfate_map15",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map16.breakfate_map16",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map17.breakfate_map17",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map18.breakfate_map18",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map19.breakfate_map19",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map20.breakfate_map20",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map21.breakfate_map21",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map22.breakfate_map22",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map23.breakfate_map23",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map24.breakfate_map24",
+              "SubPath": ""
+            },
+            {
+              "Path": "/Game/Resources/UI/MiniMap/BreakFate/breakfate_map25.breakfate_map25",
+              "SubPath": ""
+            }
+          ],
+          "MapAreaTextureInfo": []
+        }
+      ],
+      "BigMapBoxExtent": {
+        "X": 120000,
+        "Y": 120000
+      },
+      "MapCenterLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "BigMapInitialZoom": 0.5,
+      "MapTitleImage": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "bIsUseMapPointData": true,
+      "bIsShowIconCheckBox": false,
+      "bIsShowExploreItem": false,
+      "bIsAllowExploreKillList": false,
+      "bIsShowWorldMapBtn": false,
+      "AllowAddIconLevelList": [
+        "Map_chiji_D_team"
+      ]
+    }
+  }
+  }
+]

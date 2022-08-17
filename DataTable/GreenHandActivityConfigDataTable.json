@@ -1,0 +1,563 @@
+[
+  {
+    "Export": {
+      "Name": "GreenHandActivityConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "累计登录1天": {
+      "QuestIndex": 1,
+      "QuestAmount": 1,
+      "QuestIntegralCount": 15,
+      "QuestType": "EQuestGreenHandType::EQGH_LOGIN",
+      "Params": "None",
+      "QuestTitle": "Total Login Days: 1/7",
+      "QuestContent": "Complete the mission to obtain 15 points",
+      "PathFindID": "None"
+    },
+    "黑核订购1次": {
+      "QuestIndex": 2,
+      "QuestAmount": 1,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_002",
+      "QuestTitle": "Make a black nucleus order 1 time",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "path_gem_purple"
+    },
+    "金核订购1次": {
+      "QuestIndex": 3,
+      "QuestAmount": 1,
+      "QuestIntegralCount": 10,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_003",
+      "QuestTitle": "Spend 1 Gold Nucleus",
+      "QuestContent": "Complete the mission to obtain 10 points",
+      "PathFindID": "path_gem_orange"
+    },
+    "金核订购10次": {
+      "QuestIndex": 4,
+      "QuestAmount": 10,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_003",
+      "QuestTitle": "Spend 10 Gold Nucleus",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "path_gem_orange"
+    },
+    "消耗500金币": {
+      "QuestIndex": 5,
+      "QuestAmount": 500,
+      "QuestIntegralCount": 10,
+      "QuestType": "EQuestGreenHandType::EQGH_GOLD",
+      "Params": "None",
+      "QuestTitle": "Spend 500 gold",
+      "QuestContent": "Complete the mission to obtain 10 points",
+      "PathFindID": "Shop"
+    },
+    "消耗4个抗蚀薄膜Ⅰ型": {
+      "QuestIndex": 6,
+      "QuestAmount": 4,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_breakthrough_B1",
+      "QuestTitle": "Consume 4 Acidproof Glaze I",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "path_weapon"
+    },
+    "消耗4个纳米涂层Ⅰ型": {
+      "QuestIndex": 7,
+      "QuestAmount": 4,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_breakthrough_A1",
+      "QuestTitle": "Spend 4 Nano Coating I",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "path_weapon"
+    },
+    "开启密码箱1次": {
+      "QuestIndex": 8,
+      "QuestAmount": 1,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_CODECASE",
+      "Params": "None",
+      "QuestTitle": "Perfect decipher any password chest 1 time",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "进行1次采集": {
+      "QuestIndex": 9,
+      "QuestAmount": 1,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 1 time",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "消耗120点活力": {
+      "QuestIndex": 10,
+      "QuestAmount": 120,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_STAMINA",
+      "Params": "None",
+      "QuestTitle": "Spend 120 vitality",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计获得周活跃点数达到30": {
+      "QuestIndex": 11,
+      "QuestAmount": 30,
+      "QuestIntegralCount": 10,
+      "QuestType": "EQuestGreenHandType::EQGH_ACTIVITYPOINT",
+      "Params": "None",
+      "QuestTitle": "Obtain a total of 30 weekly activity points",
+      "QuestContent": "Complete the mission to obtain 10 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计获得周活跃点数达到120": {
+      "QuestIndex": 12,
+      "QuestAmount": 120,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_ACTIVITYPOINT",
+      "Params": "None",
+      "QuestTitle": "Obtain a total of 120 weekly activity points",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计登录2天": {
+      "QuestIndex": 13,
+      "QuestAmount": 2,
+      "QuestIntegralCount": 15,
+      "QuestType": "EQuestGreenHandType::EQGH_LOGIN",
+      "Params": "None",
+      "QuestTitle": "Total Login Days: 2/7",
+      "QuestContent": "Complete the mission to obtain 15 points",
+      "PathFindID": "None"
+    },
+    "黑核订购5次": {
+      "QuestIndex": 14,
+      "QuestAmount": 5,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_002",
+      "QuestTitle": "Make a black nucleus order 5 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "path_gem_purple"
+    },
+    "消耗1000金币": {
+      "QuestIndex": 15,
+      "QuestAmount": 1000,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_GOLD",
+      "Params": "None",
+      "QuestTitle": "Spend 1,000 gold",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Shop"
+    },
+    "开启密码箱3次": {
+      "QuestIndex": 16,
+      "QuestAmount": 3,
+      "QuestIntegralCount": 10,
+      "QuestType": "EQuestGreenHandType::EQGH_CODECASE",
+      "Params": "None",
+      "QuestTitle": "Perfect decipher any password chest 3 times",
+      "QuestContent": "Complete the mission to obtain 10 points",
+      "PathFindID": "Map"
+    },
+    "进行5次采集": {
+      "QuestIndex": 17,
+      "QuestAmount": 5,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 5 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "累计获得周活跃点数达到240": {
+      "QuestIndex": 18,
+      "QuestAmount": 240,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_ACTIVITYPOINT",
+      "Params": "None",
+      "QuestTitle": "Obtain a total of 240 weekly activity points",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计登录3天": {
+      "QuestIndex": 19,
+      "QuestAmount": 3,
+      "QuestIntegralCount": 15,
+      "QuestType": "EQuestGreenHandType::EQGH_LOGIN",
+      "Params": "None",
+      "QuestTitle": "Total Login Days: 3/7",
+      "QuestContent": "Complete the mission to obtain 15 points",
+      "PathFindID": "None"
+    },
+    "黑核订购10次": {
+      "QuestIndex": 20,
+      "QuestAmount": 10,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_002",
+      "QuestTitle": "Make a black nucleus order 10 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "path_gem_purple"
+    },
+    "消耗2000金币": {
+      "QuestIndex": 21,
+      "QuestAmount": 2000,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_GOLD",
+      "Params": "None",
+      "QuestTitle": "Spend 2,000 gold",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Shop"
+    },
+    "开启密码箱5次": {
+      "QuestIndex": 22,
+      "QuestAmount": 5,
+      "QuestIntegralCount": 10,
+      "QuestType": "EQuestGreenHandType::EQGH_CODECASE",
+      "Params": "None",
+      "QuestTitle": "Perfect decipher any password chest 5 times",
+      "QuestContent": "Complete the mission to obtain 10 points",
+      "PathFindID": "Map"
+    },
+    "进行10次采集": {
+      "QuestIndex": 23,
+      "QuestAmount": 10,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 10 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "消耗240点活力": {
+      "QuestIndex": 24,
+      "QuestAmount": 240,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_STAMINA",
+      "Params": "None",
+      "QuestTitle": "Spend 240 vitality",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计获得周活跃点数达到360": {
+      "QuestIndex": 25,
+      "QuestAmount": 360,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_ACTIVITYPOINT",
+      "Params": "None",
+      "QuestTitle": "Obtain a total of 360 weekly activity points",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计登录4天": {
+      "QuestIndex": 26,
+      "QuestAmount": 4,
+      "QuestIntegralCount": 15,
+      "QuestType": "EQuestGreenHandType::EQGH_LOGIN",
+      "Params": "None",
+      "QuestTitle": "Total Login Days: 4/7",
+      "QuestContent": "Complete the mission to obtain 15 points",
+      "PathFindID": "None"
+    },
+    "黑核订购20次": {
+      "QuestIndex": 27,
+      "QuestAmount": 20,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_002",
+      "QuestTitle": "Make a black nucleus order 20 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "path_gem_purple"
+    },
+    "消耗3000金币": {
+      "QuestIndex": 28,
+      "QuestAmount": 3000,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_GOLD",
+      "Params": "None",
+      "QuestTitle": "Spend 3,000 gold",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Shop"
+    },
+    "开启密码箱10次": {
+      "QuestIndex": 29,
+      "QuestAmount": 10,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_CODECASE",
+      "Params": "None",
+      "QuestTitle": "Perfect decipher any password chest 10 times",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Map"
+    },
+    "进行15次采集": {
+      "QuestIndex": 30,
+      "QuestAmount": 15,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 15 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "累计获得周活跃点数达到480": {
+      "QuestIndex": 31,
+      "QuestAmount": 480,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_ACTIVITYPOINT",
+      "Params": "None",
+      "QuestTitle": "Obtain a total of 480 weekly activity points",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计登录5天": {
+      "QuestIndex": 32,
+      "QuestAmount": 5,
+      "QuestIntegralCount": 15,
+      "QuestType": "EQuestGreenHandType::EQGH_LOGIN",
+      "Params": "None",
+      "QuestTitle": "Total Login Days: 5/7",
+      "QuestContent": "Complete the mission to obtain 15 points",
+      "PathFindID": "None"
+    },
+    "黑核订购30次": {
+      "QuestIndex": 33,
+      "QuestAmount": 30,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_002",
+      "QuestTitle": "Make a black nucleus order 30 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "path_gem_purple"
+    },
+    "消耗5000金币": {
+      "QuestIndex": 34,
+      "QuestAmount": 5000,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_GOLD",
+      "Params": "None",
+      "QuestTitle": "Spend 5000 gold",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Shop"
+    },
+    "开启密码箱20次": {
+      "QuestIndex": 35,
+      "QuestAmount": 20,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_CODECASE",
+      "Params": "None",
+      "QuestTitle": "Perfect decipher any password chest 20 times",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Map"
+    },
+    "进行20次采集": {
+      "QuestIndex": 36,
+      "QuestAmount": 20,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 20 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "消耗360点活力": {
+      "QuestIndex": 37,
+      "QuestAmount": 360,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_STAMINA",
+      "Params": "None",
+      "QuestTitle": "Spend 360 vitality",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计获得周活跃点数达到600": {
+      "QuestIndex": 38,
+      "QuestAmount": 600,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_ACTIVITYPOINT",
+      "Params": "None",
+      "QuestTitle": "Obtain a total of 600 weekly activity points",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计登录6天": {
+      "QuestIndex": 39,
+      "QuestAmount": 6,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_LOGIN",
+      "Params": "None",
+      "QuestTitle": "Total Login Days: 6/7",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "None"
+    },
+    "黑核订购40次": {
+      "QuestIndex": 40,
+      "QuestAmount": 40,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_002",
+      "QuestTitle": "Make a black nucleus order 40 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "path_gem_purple"
+    },
+    "消耗8000金币": {
+      "QuestIndex": 41,
+      "QuestAmount": 8000,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_GOLD",
+      "Params": "None",
+      "QuestTitle": "Spend 8,000 gold",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Shop"
+    },
+    "开启密码箱30次": {
+      "QuestIndex": 42,
+      "QuestAmount": 30,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_CODECASE",
+      "Params": "None",
+      "QuestTitle": "Perfect decipher any password chest 30 times",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Map"
+    },
+    "进行25次采集": {
+      "QuestIndex": 43,
+      "QuestAmount": 25,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 25 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "累计获得周活跃点数达到720": {
+      "QuestIndex": 44,
+      "QuestAmount": 720,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_ACTIVITYPOINT",
+      "Params": "None",
+      "QuestTitle": "Obtain a total of 720 weekly activity points",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "累计登录7天": {
+      "QuestIndex": 45,
+      "QuestAmount": 7,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_LOGIN",
+      "Params": "None",
+      "QuestTitle": "Total Login Days: 7/7",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "None"
+    },
+    "黑核订购50次": {
+      "QuestIndex": 46,
+      "QuestAmount": 50,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_ITEM",
+      "Params": "Item_Gem_002",
+      "QuestTitle": "Make a black nucleus order 50 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "path_gem_purple"
+    },
+    "消耗10000金币": {
+      "QuestIndex": 47,
+      "QuestAmount": 10000,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_GOLD",
+      "Params": "None",
+      "QuestTitle": "Spend 10,000 gold",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Shop"
+    },
+    "开启密码箱40次": {
+      "QuestIndex": 48,
+      "QuestAmount": 40,
+      "QuestIntegralCount": 20,
+      "QuestType": "EQuestGreenHandType::EQGH_CODECASE",
+      "Params": "None",
+      "QuestTitle": "Open 30 password chests",
+      "QuestContent": "Complete the mission to obtain 20 points",
+      "PathFindID": "Map"
+    },
+    "进行30次采集": {
+      "QuestIndex": 49,
+      "QuestAmount": 30,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 30 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "消耗480点活力": {
+      "QuestIndex": 50,
+      "QuestAmount": 480,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_STAMINA",
+      "Params": "None",
+      "QuestTitle": "Spend 480 vitality",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "进行40次采集": {
+      "QuestIndex": 51,
+      "QuestAmount": 40,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 40 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "消耗600点活力": {
+      "QuestIndex": 52,
+      "QuestAmount": 600,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_STAMINA",
+      "Params": "None",
+      "QuestTitle": "Spend 600 vitality",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "进行50次采集": {
+      "QuestIndex": 53,
+      "QuestAmount": 50,
+      "QuestIntegralCount": 5,
+      "QuestType": "EQuestGreenHandType::EQGH_COLLECT",
+      "Params": "None",
+      "QuestTitle": "Gather 50 times",
+      "QuestContent": "Complete the mission to obtain 5 points",
+      "PathFindID": "Map"
+    },
+    "消耗720点活力": {
+      "QuestIndex": 54,
+      "QuestAmount": 720,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_STAMINA",
+      "Params": "None",
+      "QuestTitle": "Spend 720 vitality",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    },
+    "消耗840点活力": {
+      "QuestIndex": 55,
+      "QuestAmount": 840,
+      "QuestIntegralCount": 25,
+      "QuestType": "EQuestGreenHandType::EQGH_STAMINA",
+      "Params": "None",
+      "QuestTitle": "Spend 840 vitality",
+      "QuestContent": "Complete the mission to obtain 25 points",
+      "PathFindID": "ActivityEntrance_Adventure"
+    }
+  }
+  }
+]

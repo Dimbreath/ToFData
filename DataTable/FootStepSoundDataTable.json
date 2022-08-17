@@ -1,0 +1,531 @@
+[
+  {
+    "Export": {
+      "Name": "FootStepSoundDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "h_sprint": {
+      "AnimSound": "Play_Sfx_Player_Fts_Run_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "run": {
+      "AnimSound": "Play_Sfx_Player_Fts_Normal_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "walk": {
+      "AnimSound": "Play_Sfx_Player_Fts_Squat_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 0,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_down": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbFt_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedleft_u1": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJump_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedleft_u2": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "walk_down": {
+      "AnimSound": "Play_Sfx_Player_Fts_Normal_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "jump_fall": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_into": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbFt_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_jump": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbFt_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_left": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbFt_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_over": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbFt_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_right": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbFt_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedright_u1": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJump_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedright_u2": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedup_l1": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJump_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedup_l2": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedupleft1": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJump_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedupleft2": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedupright1": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJump_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_speedupright2": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_stop": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbJumpEnd_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "climb_up": {
+      "AnimSound": "Play_Sfx_Player_Fts_ClimbFt_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "push": {
+      "AnimSound": "Play_Sfx_Player_Fts_Normal_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "step": {
+      "AnimSound": "Play_Sfx_Player_Fts_Normal_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_down": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_downlow": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_downlowrun": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_fall": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_fallsprint": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_roll": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_rollrun": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_rollsprint": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_situ": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "roll": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_loop": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    },
+    "char_h_jump_downcommon": {
+      "AnimSound": "Play_Sfx_Player_Fts_Jump_End_Switch",
+      "Noise": {
+        "NoiseLocation": {
+          "X": 3.4028234663852886E+38,
+          "Y": 3.4028234663852886E+38,
+          "Z": 3.4028234663852886E+38
+        },
+        "Loudness": 1,
+        "MaxRange": 0,
+        "Instigator": null,
+        "Tag": "None"
+      }
+    }
+  }
+  }
+]

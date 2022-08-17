@@ -1,0 +1,238 @@
+[
+  {
+    "Export": {
+      "Name": "Text_Equip02",
+      "Class": "DlgDialogue",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgDialogue",
+      "TemplateOwner": "/Script/DlgSystem"
+    },
+    "Name": "Text_Equip02",
+    "GUID": "e8e0f7e1-44b4-4141-b2b4-1ca38c7e8ec6",
+    "ParticipantsData": [
+      {
+        "Key": "Equip_001",
+        "Value": {
+          "Conditions": [],
+          "CustomConditions": [],
+          "Events": [
+            "ShowNpcShop:"
+          ],
+          "CustomEvents": [],
+          "CustomTextArguments": [],
+          "IntVariableNames": [],
+          "FloatVariableNames": [],
+          "BoolVariableNames": [],
+          "NameVariableNames": [],
+          "ClassIntVariableNames": [],
+          "ClassFloatVariableNames": [],
+          "ClassBoolVariableNames": [],
+          "ClassNameVariableNames": [],
+          "ClassTextVariableNames": []
+        }
+      }
+    ],
+    "StartNode": "DlgNode_Speech",
+    "Nodes": [
+      "DlgNode_Speech",
+      "DlgNode_End",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_Speech",
+      "DlgNode_End"
+    ],
+    "NodesGUIDToIndexMap": []
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "Text_Equip02.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Equip02",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Equip_001",
+    "BlackFade": true,
+    "NodeGUID": "1d4fef91-fe25-4bd3-b899-30cdc4c31396"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_End",
+      "Path": "Text_Equip02.DlgNode_End",
+      "Class": "DlgNode_End",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_End",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Equip02",
+      "OuterOwner": "None"
+    },
+    "OwnerName": "Equip_001",
+    "NodeGUID": "56465586-1390-41b8-a7dd-7be35b0ff4c5"
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Equip02.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Equip02",
+      "OuterOwner": "None"
+    },
+    "NodeGUID": "48a976e9-578c-49cc-8d22-9cd7a3ead512",
+    "Children": [
+      {
+        "TargetIndex": 0,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Next",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Equip02.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Equip02",
+      "OuterOwner": "None"
+    },
+    "Text": "Welcome. Wanna check out my goods?",
+    "OwnerName": "Equip_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "BlackFade": true,
+    "NodeGUID": "3ba05ee1-6ea6-4c5a-b16f-33123fc6d8cf",
+    "Children": [
+      {
+        "TargetIndex": 3,
+        "EdgeIndex": 2,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Browse the Store",
+        "TextArguments": []
+      },
+      {
+        "TargetIndex": 4,
+        "EdgeIndex": 1,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Nothing, thanks.",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Equip02.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Equip02",
+      "OuterOwner": "None"
+    },
+    "Text": "Have a good one!",
+    "OwnerName": "Equip_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "EnterEvents": [
+      {
+        "ParticipantName": "Equip_001",
+        "EventType": "EDlgEventType::Event",
+        "EventName": "ShowNpcShop:",
+        "IntValue": 0,
+        "FloatValue": 0,
+        "NameValue": "None",
+        "bDelta": false,
+        "bValue": false,
+        "CustomEvent": null
+      }
+    ],
+    "NodeGUID": "24d3adb6-0dc0-4c01-be2b-715accb06e64",
+    "Children": [
+      {
+        "TargetIndex": 5,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Equip02.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Equip02",
+      "OuterOwner": "None"
+    },
+    "Text": "I look forward to your next visit.",
+    "OwnerName": "Equip_001",
+    "bCanSkip": false,
+    "bCanAutoContinue": false,
+    "NodeGUID": "51f82f5b-fa7f-4c97-a705-bca575a8b1b5",
+    "Children": [
+      {
+        "TargetIndex": 5,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  },
+  {
+    "Export": {
+      "Name": "DlgNode_Speech",
+      "Path": "Text_Equip02.DlgNode_Speech",
+      "Class": "DlgNode_Speech",
+      "ClassOwner": "/Script/DlgSystem",
+      "Template": "Default__DlgNode_Speech",
+      "TemplateOwner": "/Script/DlgSystem",
+      "Outer": "Text_Equip02",
+      "OuterOwner": "None"
+    },
+    "Text": "Blame the economy. The store is out of business.",
+    "OwnerName": "Equip_001",
+    "NodeGUID": "302b459b-51ba-40ad-8960-403860660239",
+    "Children": [
+      {
+        "TargetIndex": 1,
+        "EdgeIndex": 0,
+        "Conditions": [],
+        "SpeakerState": "None",
+        "bIncludeInAllOptionListIfUnsatisfied": true,
+        "bForceShow": false,
+        "Text": "Finish",
+        "TextArguments": []
+      }
+    ]
+  }
+]

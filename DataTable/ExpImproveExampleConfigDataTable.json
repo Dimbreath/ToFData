@@ -1,0 +1,77 @@
+[
+  {
+    "Export": {
+      "Name": "ExpImproveExampleConfigDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "1": {
+      "Name": "Bounty Missions",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_xuanshang.advance_xuanshang",
+        "SubPath": ""
+      },
+      "Description": "Complete Bounty Missions to earn huge amounts of EXP!",
+      "RecommendValue": 3,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=ActivityEntrance&ClickButtons=AdventureRadioBox",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    },
+    "2": {
+      "Name": "Side Mission",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_zhipu.advance_zhipu",
+        "SubPath": ""
+      },
+      "Description": "Complete side missions to earn huge amounts of EXP!",
+      "RecommendValue": 4,
+      "UnlockFunctionId": "chongdong",
+      "GotoFormPath": "Path=ActivityEntrance",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    },
+    "3": {
+      "Name": "Group Instances",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_zudui.advance_zudui",
+        "SubPath": ""
+      },
+      "Description": "Clear Group Instances to earn huge amounts of EXP!",
+      "RecommendValue": 6,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=TeamCloneForm",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    },
+    "4": {
+      "Name": "Quiz",
+      "NameTexture": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "Icon": {
+        "Path": "/Game/Resources/UI/pingji/advance_dati.advance_dati",
+        "SubPath": ""
+      },
+      "Description": "Complete Quizzes to earn huge amounts of EXP!",
+      "RecommendValue": 4,
+      "UnlockFunctionId": "None",
+      "GotoFormPath": "Path=ActivityEntrance",
+      "ScoreModuleType": "EHottaScoreModuleType::Invalid"
+    }
+  }
+  }
+]

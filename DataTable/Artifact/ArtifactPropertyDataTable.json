@@ -1,0 +1,41 @@
+[
+  {
+    "Export": {
+      "Name": "ArtifactPropertyDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Assist": {
+      "PropertyName": "Support Type",
+      "PropertyIcon": {
+        "Path": "/Game/Resources/UI/Artifact/fuzhuxing.fuzhuxing",
+        "SubPath": ""
+      }
+    },
+    "Attack": {
+      "PropertyName": "Attack Type",
+      "PropertyIcon": {
+        "Path": "/Game/Resources/UI/Artifact/gongjixing.gongjixing",
+        "SubPath": ""
+      }
+    },
+    "Function": {
+      "PropertyName": "Misc. Type",
+      "PropertyIcon": {
+        "Path": "/Game/Resources/UI/Artifact/gongnengxing.gongnengxing",
+        "SubPath": ""
+      }
+    },
+    "Defense": {
+      "PropertyName": "Defense Type",
+      "PropertyIcon": {
+        "Path": "/Game/Resources/UI/Artifact/fangyuxing.fangyuxing",
+        "SubPath": ""
+      }
+    }
+  }
+  }
+]

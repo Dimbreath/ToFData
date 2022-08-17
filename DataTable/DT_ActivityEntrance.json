@@ -1,0 +1,2334 @@
+[
+  {
+    "Export": {
+      "Name": "DT_ActivityEntrance",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "GuildTask": {
+      "GameActivityType": "EGameActivityType::GAT_GUILD_TASK",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "guildtask_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+          "BeginWeekDay": "EWeekday::MONDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "00:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": 4,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+      "CountConfig": [
+        {
+          "bIsResetCount": true,
+          "ActivityCount": 4,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::MONDAY",
+            "MonthDay": 0,
+            "EventTime": "05:00:00",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "None",
+      "SubType": "None",
+      "ActivityName": "Crew Mission",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/huodongtu/card_yj.card_yj",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Complete daily missions to make your contribution to the Crew.",
+      "PreviewDropID": "None",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 12,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=GuildTaskPanel",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "Orienteering": {
+      "GameActivityType": "EGameActivityType::GAT_ORIENTEERING",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "None",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": true,
+      "bIsOnlyPublic": true,
+      "TimeText": "12:00–23:00",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "12:00:00",
+          "EndedTime": "12:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "13:00:00",
+          "EndedTime": "13:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "14:00:00",
+          "EndedTime": "14:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "15:00:00",
+          "EndedTime": "15:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "16:00:00",
+          "EndedTime": "16:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "17:00:00",
+          "EndedTime": "17:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "18:00:00",
+          "EndedTime": "18:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "19:00:00",
+          "EndedTime": "19:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "20:00:00",
+          "EndedTime": "20:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "21:00:00",
+          "EndedTime": "21:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "22:00:00",
+          "EndedTime": "22:20:00",
+          "TimeID": "None"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::WEDNESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "23:00:00",
+          "EndedTime": "23:20:00",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "12:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "12:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "13:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "13:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "14:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "14:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "15:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "15:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "16:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "16:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "17:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "17:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "18:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "18:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "19:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "19:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "20:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "20:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "21:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "21:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "22:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "22:09:57",
+          "EventID": "Ready"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "23:10:00",
+          "EventID": "StartGame"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::WEDNESDAY",
+          "MonthDay": 0,
+          "EventTime": "23:09:57",
+          "EventID": "Ready"
+        }
+      ],
+      "ActivityCount": 0,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [
+        {
+          "bIsResetCount": true,
+          "ActivityCount": 999,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "5:00:00",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": true,
+      "MainType": "None",
+      "SubType": "None",
+      "ActivityName": "Orienteering",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_dingxiangyueye.card_dingxiangyueye",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map04.wormhold_map04",
+        "SubPath": ""
+      },
+      "ActivityDesc": "A cross-country race hosted by Banges Tech originally to promote vehicular travels. After all these years, though, the Wanderers have developed tricks that don't necessarily need a vehicle...\r\n\r\nRace runs <green>12:00–23:00 daily</>, each starting at the top of each hour, for 12 races each day.\r\nPass through all <green>checkpoints</> to the finish line and complete the race.\r\nChoose your favorite <green>vehicle</> or use your <green>unique tricks</> to finish the course!",
+      "PreviewDropID": "preview_orienteering",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 16,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=OrienteeringEntry",
+      "DestinationLevel": "QRSL_P",
+      "DestinationLocation": {
+        "X": -11514,
+        "Y": 42068,
+        "Z": -13426
+      },
+      "DestinationInteractNPC": {
+        "Path": "/Game/Resources/City_forest/MiniGame/Orienteering/NPC_Minigame_Orienteering.NPC_Minigame_Orienteering_C",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_ACTIVITY_ORIENTEERING"
+    },
+    "xuanshang": {
+      "GameActivityType": "EGameActivityType::GAT_REWARD_QUEST",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "reward_quest_unlock",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": 0,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [
+        {
+          "bIsResetCount": true,
+          "ActivityCount": 4,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "5:00:00",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Must Do",
+      "SubType": "None",
+      "ActivityName": "Daily Bounty",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_xuanshangrengwu.card_xuanshangrengwu",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "The bounty order system has been around for a very long time. After the Cataclysm, Hykros started to manage and post all the bounty orders and issue area bounty coins as rewards.\r\nFor professional bounty hunters, bounty coins are not only a type of currency but also a symbol of glory.\r\n\r\nWanderers can accept up to <green>4</> Bounty Missions each day.\r\nTeam up to complete the Bounty Missions to obtain <green>Bounty EXP</> and increase your <green>Bounty level</>.\r\nThe higher the Bounty level, the greater your chance to get <green>high-difficulty missions</>.",
+      "PreviewDropID": "preview_rewardquest",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 4,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=RewardQuestMain",
+      "DestinationLevel": "QRSL_P",
+      "DestinationLocation": {
+        "X": -56458.44921875,
+        "Y": 63659.0859375,
+        "Z": -3020
+      },
+      "DestinationInteractNPC": {
+        "Path": "/Game/Resources/CoreBlueprints/Character/Npc/npc_shu_121/npc_shu_121_character.npc_shu_121_character_C",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "qiandao": {
+      "GameActivityType": "EGameActivityType::GAT_SIGN",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "fuli_qd",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": 0,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Must Do",
+      "SubType": "None",
+      "ActivityName": "Sign-in",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_qiandao.card_qiandao",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Welcome to Aida.\r\nDid you sign in today?\r\n\r\n·Sign in for a daily reward.",
+      "PreviewDropID": "preview_qiandao",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 6,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=ActivityMain&ClickButtons=RButton_Welfare",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "zuduifuben": {
+      "GameActivityType": "EGameActivityType::GAT_TEAM_CLONE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "teamclone_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_ZERO",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 90,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Select",
+      "SubType": "None",
+      "ActivityName": "Joint Operation",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_lianhezuozhan.card_lianhezuozhan",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "A high difficulty module of Hykros' training simulation. Comprising simulated battlefields that are more realistic, it aims to train warriors to fight against hostile forces with richer rewards for participants.\r\n\r\n·Wanderers can <green>start a challenge at any time</> with no limit on challenge attempts.\r\n·Each box costs 30 VIT to open.",
+      "PreviewDropID": "preview_teamclone",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 100,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=TeamCloneForm",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "Wormhole": {
+      "GameActivityType": "EGameActivityType::GAT_WORMHOLE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "Wormhole",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "00:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Challenge",
+      "SubType": "None",
+      "ActivityName": "Wormhole",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_chongdong.card_chongdong",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "The Wormhole is a system Hykros created based on its research on dimensional anomalies. It provides specialized training for fighters recruited to fix the anomalies.\r\nHow long can you last in the face of the possible threats in this abnormal space?\r\n\r\n·Wanderers can do the Wormhole challenge as many times as they want. Challenge progress resets <green>every 5 days</>.\r\n·You <green>won't be able to switch equipment or Relics</> in the Wormhole, so get prepared before starting the challenge.\r\n·Clear the current level and meet the Wanderer level requirement for the next level to unlock the next difficulty level.",
+      "PreviewDropID": "preview_wormhole",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 16,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=WormholeMainUI",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "xingjietansuo": {
+      "GameActivityType": "EGameActivityType::GAT_ASTRAL_PLANE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "astralplane_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "00:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [
+        {
+          "bIsResetCount": true,
+          "ActivityCount": 12,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "5:0:0",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 30,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Select",
+      "SubType": "None",
+      "ActivityName": "Interstellar Exploration",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_xingjietansuo.card_xingjietansuo",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "There are huge rifts that connect the distant cosmic planets in abnormal post-Cataclysm spaces. Through long-term observation, researchers found that these abnormal spaces are not as threatening as they seem.\r\nEven so, they still need to be dealt with.\r\n\r\n·<green>Every day,</> 6 <green>Star Gates</> appear somewhere in the world. Walk into a Star Gate to start a challenge in the Star Realm. \r\n·Defeat certain waves of enemies in the Star Realm to win rewards. <green>Starseeds</> may show up after the <green>final wave</> of enemies. Deconstruct them to summon a <green>hidden boss</>. Defeat the boss to obtain a bonus reward.",
+      "PreviewDropID": "preview_astral",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 19,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "None",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "TreasureMap": {
+      "GameActivityType": "EGameActivityType::GAT_TREASURE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "treasuremap_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::TUESDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "00:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 30,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Select",
+      "SubType": "None",
+      "ActivityName": "Omnium Beacon",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_yuannengxinbiao.card_yuannengxinbiao",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Omnium Beacon is an entertainment project developed by Crown Mines' Parliament in order to draw more business to the region. It uses beacons converted from ore detectors used in the mines.\r\nEach beacon buried marks the start of an exciting zero-sum game!\r\n \r\n· Claim Omnium collectors anytime at the cost of <green>30 VIT</> each time.\r\n· If an Omnium collector is not retrieved by other Wanderers within a certain amount of time <green>(Blue: 24h, Purple: 24h, Orange: 24h)</>, the Wanderer who buried it will then be rewarded.\r\n· Wanderers will also be rewarded if they use <green>Omnium signals</> to find and retrieve collectors placed by other Wanderers.",
+      "PreviewDropID": "preview_treasuremap",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 18,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=TreasureMapUI",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "SoloLeague": {
+      "GameActivityType": "EGameActivityType::GAT_SOLO_LEAGUE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "sololeague_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "12:00–24:00",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "12:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "1-4月21日"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Challenge",
+      "SubType": "None",
+      "ActivityName": "Apex League",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_dianfeng.card_dianfeng",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "After its reorganization, the Martial Federation from the pre-Cataclysm days started to hold new one-on-one tournaments. Although the current tournaments are not comparable to the old ones in terms of scale, many battle elites are still drawn in.\r\n\r\n· The league is a <green>balanced arena</> that allows Wanderers to compete at a similar level of basic stats to ensure fair play.\r\n· <green>The battlefield shrinks over time</>, so Wanderers need to watch their step while fighting their opponents.\r\n· The arena is available at 12:00–24:00 daily. By the end of each season, rewards will be granted according to Wanderers' <green>ranks</>. The higher the rank, the richer the reward. Become a legend on the battlefield!",
+      "PreviewDropID": "preview_solo",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 19,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=SoloLeagueMain",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "WorldBoss": {
+      "GameActivityType": "EGameActivityType::GAT_WORLD_BOSS",
+      "bIsAwardBinding": false,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "worldboss_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": true,
+      "bIsOnlyPublic": false,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::TUESDAY",
+          "EndedWeekDay": "EWeekday::WEDNESDAY",
+          "BeginTime": "0:0:0",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": 3,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+      "CountConfig": [
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::TUESDAY",
+            "MonthDay": 0,
+            "EventTime": "5:0:0",
+            "EventID": "None"
+          }
+        },
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::THURSDAY",
+            "MonthDay": 0,
+            "EventTime": "5:0:0",
+            "EventID": "None"
+          }
+        },
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::SATURDAY",
+            "MonthDay": 0,
+            "EventTime": "5:0:0",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": true,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Challenge",
+      "SubType": "None",
+      "ActivityName": "Frontier Clash",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_shenyuanruqing.card_shenyuanruqing",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/MiniMap/map_worldboss.map_worldboss",
+        "SubPath": ""
+      },
+      "ActivityDesc": "After the Cataclysm, Hykros was forced to cut off contact with other regions. Omnium twisted the minds of almost all creatures. The frontier has fallen.\r\nHowever, the transfer stations there have been under ever heavier assaults since then. Stop enemies from coming in before it grows into a greater crisis.\r\n\r\n<green>Wanderers obtain 1 more challenge attempt respectively every Tuesday, Thursday, and Saturday, up to 3 attempts in total. Each battle lasts 8 minutes.</>\r\n·Wanderers can get <green>buffs</> based on their <green>number of Crewmates</> in battle.",
+      "PreviewDropID": "preview_worldboss",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 18,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=WorldBossInfoForm",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_ACTIVITY_WORLDBOSS"
+    },
+    "digong": {
+      "GameActivityType": "EGameActivityType::GAT_SINGLE_CLONE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "digong_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Must Do",
+      "SubType": "None",
+      "ActivityName": "Ruins",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_yiji.card_yiji",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Ruins are facilities left by pre-Cataclysm residents, and you are definitely not the first to find them.\r\nBe careful! The traps by previous residents and the force controlling this place aren't on your side!\r\n\r\nMeet the <green>level requirement</> to enter the ruin.\r\nExplore every difficulty level of the ruin to obtain rewards.",
+      "PreviewDropID": "preview_digong",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 2,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=CloneMain",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "HookClone": {
+      "GameActivityType": "EGameActivityType::GAT_HOOK_CLONE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "hookclone_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": true,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "00:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::SUNDAY",
+          "MonthDay": 0,
+          "EventTime": "5:0:0",
+          "EventID": "GenerateClones"
+        }
+      ],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 30,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Select",
+      "SubType": "None",
+      "ActivityName": "Dimensional Trials",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_ciyuanlilian.card_ciyuanlilian",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Before the Cataclysm, Federation scientists developed a virtual training ground for military purposes. Now, Hykros has successfully recovered the technology and built a virtual training space for all frontiers.\r\nCome give it a go!\r\n\r\nWanderers can select from a variety of training. Maximum <green>4 people</> can match up/team up to take the challenge to win rewards.\r\nWanderers can unlock the training of a higher difficulty by reaching the required level.",
+      "PreviewDropID": "preview_hookclone",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 20,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=HookCloneMain",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "Feed": {
+      "GameActivityType": "EGameActivityType::GAT_FEED",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "feed_unlock",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE"
+      ],
+      "bIsNotifyState": true,
+      "bIsOnlyPublic": false,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "4:59:59",
+          "TimeID": "0"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "5:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "1"
+        }
+      ],
+      "EventConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::SUNDAY",
+          "MonthDay": 0,
+          "EventTime": "",
+          "EventID": "SettleStart"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::SUNDAY",
+          "MonthDay": 0,
+          "EventTime": "",
+          "EventID": "SettleEnd"
+        },
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::SUNDAY",
+          "MonthDay": 0,
+          "EventTime": "",
+          "EventID": "SettleClear"
+        }
+      ],
+      "ActivityCount": -1,
+      "MaxCountLimit": 3,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [
+        {
+          "bIsResetCount": true,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "05:00:00",
+            "EventID": "None"
+          }
+        },
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "12:00:00",
+            "EventID": "None"
+          }
+        },
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "18:00:00",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Must Do",
+      "SubType": "None",
+      "ActivityName": "Mia's Kitchen",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_touwei.card_touwei",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Tired of adventuring? Come and check out the dishes Mi-a has prepared for you!\r\n– Mi-a\r\n\r\nEvery day after <green>05:00, 12:00, and 18:00</>, Wanderers will receive a chance to taste the food Mi-a has cooked.\r\nGifts and powerful buffs await!",
+      "PreviewDropID": "preview_feed",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 5,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=Feed",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "RandomRuins": {
+      "GameActivityType": "EGameActivityType::GAT_RANDOM_RUINS",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "randomruins_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "00:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 30,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Select",
+      "SubType": "None",
+      "ActivityName": "Spacetime Domain",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_suijiyiji.card_suijiyiji",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Explore the ruin to uncover the traces of time.\r\n\r\n<green>Spacetime Domain</> only allows solo challenges.\r\nThe ruins you enter depend on the <green>Dimension level</>. The higher the Dimension level, the more categories of ruins you will be qualified to enter.",
+      "PreviewDropID": "preview_randomruins",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 17,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=RandomRuinsMainUI",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "VoidClone": {
+      "GameActivityType": "EGameActivityType::GAT_VOID_CLONE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "voidclone_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": 3,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+      "CountConfig": [
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::MONDAY",
+            "MonthDay": 0,
+            "EventTime": "05:00:00",
+            "EventID": "None"
+          }
+        },
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::WEDNESDAY",
+            "MonthDay": 0,
+            "EventTime": "05:00:00",
+            "EventID": "None"
+          }
+        },
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 1,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::FRIDAY",
+            "MonthDay": 0,
+            "EventTime": "05:00:00",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Challenge",
+      "SubType": "None",
+      "ActivityName": "Void Rift",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_xukongliexi.card_xukongliexi",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "One of the unusual dimensional phenomena found after the Cataclysm. Observations revealed that the interior is comprised of various unknown mechanisms and traps.\r\nEven without a large presence of dangerous hostiles, one still cannot be too careful.\r\n\r\nGet one extra <green>challenge chance every Monday, Wednesday, and Friday. Save up to 3 times per week.</>\r\nGather <green>3 keys</> before time runs out to unlock the mechanism and open the exit.",
+      "PreviewDropID": "preview_voidclone",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 17,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=VoidCloneMain",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "AstralPlanePassiveTimes": {
+      "GameActivityType": "EGameActivityType::GAT_INVALID",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "astralplane_unlock",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_ZERO",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 25,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "None",
+      "SubType": "None",
+      "ActivityName": "None",
+      "ActivityIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "None",
+      "PreviewDropID": "None",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 0,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "tansuo": {
+      "GameActivityType": "EGameActivityType::GAT_EXPLORE",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "None",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Must Do",
+      "SubType": "None",
+      "ActivityName": "World Exploration",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_shijietansuo.card_shijietansuo",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "Experience life on the land of Aesperia to enrich your adventure.\r\nExplore areas on Aida. You may find the secrets of the world in unexpected places.",
+      "PreviewDropID": "preview_tansuo",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 3,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=WarFogOverviewMap&SubPage=TowerEnergy",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "DreamClone": {
+      "GameActivityType": "EGameActivityType::GAT_DREAM_CLONE",
+      "bIsAwardBinding": false,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "dreamclone_unlock",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "None",
+      "TimeConfig": [],
+      "EventConfig": [],
+      "ActivityCount": 0,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [
+        {
+          "bIsResetCount": true,
+          "ActivityCount": 7,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+            "EventWeekDay": "EWeekday::MONDAY",
+            "MonthDay": 0,
+            "EventTime": "5:0:0",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Hide",
+      "SubType": "None",
+      "ActivityName": "None",
+      "ActivityIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "None",
+      "PreviewDropID": "None",
+      "ActivityPopulation": "None",
+      "OrderPriority": 0,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "GuildCampfire": {
+      "GameActivityType": "EGameActivityType::GAT_GUILD_CAMPFIRE",
+      "bIsAwardBinding": false,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "zuzhi",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "00:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": 20,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+      "CountConfig": [
+        {
+          "bIsResetCount": true,
+          "ActivityCount": 20,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::MONDAY",
+            "MonthDay": 0,
+            "EventTime": "5:0:0",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "None",
+      "SubType": "None",
+      "ActivityName": "Recharge suppressor",
+      "ActivityIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "None",
+      "PreviewDropID": "preview_campfire",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 0,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=GuildCampfireMain",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": true,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "GuildAnswer": {
+      "GameActivityType": "EGameActivityType::GAT_GUILD_ANSWER",
+      "bIsAwardBinding": false,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "zuzhi",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": true,
+      "bIsOnlyPublic": true,
+      "TimeText": "19:05–19:20",
+      "TimeConfig": [],
+      "EventConfig": [],
+      "ActivityCount": 10,
+      "MaxCountLimit": 10,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "None",
+      "SubType": "None",
+      "ActivityName": "Mega Brain Experiment",
+      "ActivityIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "None",
+      "PreviewDropID": "None",
+      "ActivityPopulation": "Multiplayer",
+      "OrderPriority": 0,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": true,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "BigSecret": {
+      "GameActivityType": "EGameActivityType::GAT_BIG_SECRET",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "BigSecret_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_TEAM_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_AP_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_SOLO_LEAGUE",
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": true,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_WEEKLY",
+          "EventWeekDay": "EWeekday::MONDAY",
+          "MonthDay": 0,
+          "EventTime": "05:10:00",
+          "EventID": "WeekDistributeGroup"
+        }
+      ],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_NEAREST",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Challenge",
+      "SubType": "None",
+      "ActivityName": "Bygone Phantasm",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_jiurihuanxiang.card_jiurihuanxiang",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "The newly-invented consciousness infiltration space by Hykros can extract the consciousness of an Executor and allow them to enter the consciousness of evil individuals such as the Hyenas and the Ravagers to break their aggressive consciousness and lower their overall aggression. However, it's highly risky, so please get prepared beforehand.",
+      "PreviewDropID": "preview_bigsecret",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 20,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=NetWait",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "minigame": {
+      "GameActivityType": "EGameActivityType::GAT_ABILITY_TRAINING",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "None",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "Open Around the Clock",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "0:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "None"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Challenge",
+      "SubType": "None",
+      "ActivityName": "Training",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_nenglixunlian.card_nenglixunlian",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "The mini games provided by the training facility are like nutritious meals in the canteens: there are always several dishes for you to choose from every day.\r\nThey might seem dull, but these activities can train every part of your body and boost your health in the long run.",
+      "PreviewDropID": "preview_minigame",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 21,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=MiniGameMain",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "StaminaPush": {
+      "GameActivityType": "EGameActivityType::GAT_INVALID",
+      "bIsAwardBinding": false,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "None",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "None",
+      "TimeConfig": [],
+      "EventConfig": [],
+      "ActivityCount": 0,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "None",
+      "SubType": "None",
+      "ActivityName": "Restore all endurance",
+      "ActivityIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "None",
+      "PreviewDropID": "None",
+      "ActivityPopulation": "None",
+      "OrderPriority": 0,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "EventWeekDay": "EWeekday::SUNDAY",
+          "MonthDay": 0,
+          "EventTime": "",
+          "EventID": "StaminaPush"
+        }
+      ],
+      "PushMsgTitle": "Tower of Fantasy",
+      "PushMsgBody": "Dear Wanderer, your vitality has reached the limit. Go on with your adventure!",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "2V2": {
+      "GameActivityType": "EGameActivityType::GAT_2V2",
+      "bIsAwardBinding": true,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "sololeague_unlock",
+      "bIsMutexActivity": true,
+      "ProhibitJoinScene": [
+        "ELevelSceneType::LEVEL_TYPE_SINGLE_CLONE",
+        "ELevelSceneType::LEVEL_TYPE_GUILD"
+      ],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": true,
+      "TimeText": "12:00–24:00",
+      "TimeConfig": [
+        {
+          "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+          "BeginWeekDay": "EWeekday::SUNDAY",
+          "EndedWeekDay": "EWeekday::SUNDAY",
+          "BeginTime": "12:00:00",
+          "EndedTime": "23:59:59",
+          "TimeID": "1-4月21日"
+        }
+      ],
+      "EventConfig": [],
+      "ActivityCount": -1,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "None",
+      "SubType": "None",
+      "ActivityName": "Apex League",
+      "ActivityIcon": {
+        "Path": "/Game/Resources/UI/Activity/maoxian/card_dianfeng.card_dianfeng",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "/Game/Resources/UI/Wormhole/wormhold_map02.wormhold_map02",
+        "SubPath": ""
+      },
+      "ActivityDesc": "After its reorganization, the Martial Federation from the pre-Cataclysm days started to hold new one-on-one tournaments. Although the current tournaments are not comparable to the old ones in terms of scale, many battle elites are still drawn in.\r\n\r\n· The league is a <green>balanced arena</> that allows Wanderers to compete at a similar level of basic stats to ensure fair play.\r\n· <green>The battlefield shrinks over time</>, so Wanderers need to watch their step while fighting their opponents.\r\n· The arena is available at 12:00–24:00 daily. By the end of each season, rewards will be granted according to Wanderers' <green>ranks</>. The higher the rank, the richer the reward. Become a legend on the battlefield!",
+      "PreviewDropID": "preview_solo",
+      "ActivityPopulation": "Solo",
+      "OrderPriority": 19,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "Path=2V2Main",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    },
+    "DangerousIntruder": {
+      "GameActivityType": "EGameActivityType::GAT_DANGEROUS_INTRUDER",
+      "bIsAwardBinding": false,
+      "bIsSupportMatch": false,
+      "bIsExpLimit": false,
+      "UnlockCondition": "None",
+      "bIsMutexActivity": false,
+      "ProhibitJoinScene": [],
+      "bIsNotifyState": false,
+      "bIsOnlyPublic": false,
+      "TimeText": "None",
+      "TimeConfig": [],
+      "EventConfig": [],
+      "ActivityCount": 0,
+      "MaxCountLimit": -1,
+      "ActivityCountInitType": "EActivityCountInitType::ACIVITY_COUNT_INIT_PERIOD",
+      "CountConfig": [
+        {
+          "bIsResetCount": false,
+          "ActivityCount": 5,
+          "TimeConfig": {
+            "TimeType": "EActivityTimeType::ACTIVITY_TIME_DAILY",
+            "EventWeekDay": "EWeekday::SUNDAY",
+            "MonthDay": 0,
+            "EventTime": "5:00:00",
+            "EventID": "None"
+          }
+        }
+      ],
+      "BuyCountInfo": [],
+      "SubActivityConfig": [],
+      "bCanOnlyParticipate": false,
+      "ParticipateCostStamina": 0,
+      "LivenessUpperLimit": 0,
+      "ParticipateLiveness": 0,
+      "bIsLimitTime": false,
+      "MainType": "Hide",
+      "SubType": "None",
+      "ActivityName": "None",
+      "ActivityIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityMiniIcon": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "ActivityDesc": "None",
+      "PreviewDropID": "None",
+      "ActivityPopulation": "None",
+      "OrderPriority": 0,
+      "bIsRecommend": false,
+      "PushTimeDesc": "None",
+      "PushCycleDesc": "None",
+      "PushTimeConfig": [],
+      "PushMsgTitle": "None",
+      "PushMsgBody": "None",
+      "PushMsgAction": "None",
+      "bIsAutoNavigate": false,
+      "GotoFormPath": "",
+      "DestinationLevel": "",
+      "DestinationLocation": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+      },
+      "DestinationInteractNPC": {
+        "Path": "None",
+        "SubPath": ""
+      },
+      "NPCInteractIndex": 0,
+      "bGotoGuildScene": false,
+      "bNeedTravelGuildScene": false,
+      "MsgType": "EMsgCollectType::MSG_COLLECT_INVALID"
+    }
+  }
+  }
+]

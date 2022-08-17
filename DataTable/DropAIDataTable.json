@@ -1,0 +1,85 @@
+[
+  {
+    "Export": {
+      "Name": "DropAIDataTable",
+      "Class": "DataTable",
+      "ClassOwner": "/Script/Engine",
+      "Template": "Default__DataTable",
+      "TemplateOwner": "/Script/Engine"
+    },
+    "Rows": {
+    "Test": {
+      "DropAIWeights": [
+        {
+          "DropAIEntries": [
+            {
+              "AITemplate": {
+                "Path": "/Game/Resources/CoreBlueprints/Character/animal/ani_rabit/ani_rabit_001.ani_rabit_001_C",
+                "SubPath": ""
+              },
+              "Count": 1,
+              "LevelOverride": 0
+            },
+            {
+              "AITemplate": {
+                "Path": "/Game/Resources/CoreBlueprints/Character/Monster/MonsterCharacterBP_Base.MonsterCharacterBP_Base_C",
+                "SubPath": ""
+              },
+              "Count": 1,
+              "LevelOverride": 0
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "DropAIEntries": [],
+          "Weight": 999
+        }
+      ]
+    },
+    "shrub": {
+      "DropAIWeights": [
+        {
+          "DropAIEntries": [
+            {
+              "AITemplate": {
+                "Path": "/Game/Resources/CoreBlueprints/Character/animal/ani_rabit/ani_rabit_001.ani_rabit_001_C",
+                "SubPath": ""
+              },
+              "Count": 1,
+              "LevelOverride": 0
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "DropAIEntries": [
+            {
+              "AITemplate": {
+                "Path": "/Game/Resources/CoreBlueprints/Character/animal/ani_scorpion/ani_scorpion.ani_scorpion_C",
+                "SubPath": ""
+              },
+              "Count": 1,
+              "LevelOverride": 0
+            }
+          ],
+          "Weight": 1
+        },
+        {
+          "DropAIEntries": [
+            {
+              "AITemplate": {
+                "Path": "None",
+                "SubPath": ""
+              },
+              "Count": 1,
+              "LevelOverride": 0
+            }
+          ],
+          "Weight": 998
+        }
+      ]
+    }
+  }
+  }
+]
